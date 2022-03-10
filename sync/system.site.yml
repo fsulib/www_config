@@ -4,7 +4,7 @@ langcode: en
 uuid: 2098cbe4-e0d3-451c-b993-74acca98165d
 name: 'Florida State University Libraries'
 mail: bjbrown@fsu.edu
-slogan: ''
+slogan: 'Drupal 9 Refresh'
 page:
   403: ''
   404: ''
