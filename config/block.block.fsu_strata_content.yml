@@ -1,0 +1,22 @@
+uuid: 504155ab-fe2b-4252-b0bc-1211c67fe309
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - fsu_strata
+_core:
+  default_config_hash: kigu8pTxXt1qGR2NJ5HHdC4G2G1wsDrIjLPKBT5wUBc
+id: fsu_strata_content
+theme: fsu_strata
+region: content
+weight: 0
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  label_display: '0'
+  provider: system
+visibility: {  }

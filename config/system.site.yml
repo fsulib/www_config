@@ -2,13 +2,13 @@ _core:
   default_config_hash: VDJxTZtQR21qB4lvOq8zszJZLvLKrSPQpdn2E3T71Ww
 langcode: en
 uuid: 2098cbe4-e0d3-451c-b993-74acca98165d
-name: 'Florida State University Libraries'
+name: 'University Libraries'
 mail: bjbrown@fsu.edu
-slogan: 'Drupal 9 Refresh'
+slogan: ''
 page:
   403: ''
   404: ''
-  front: /test-page
+  front: /node/1
 admin_compact_mode: false
 weight_select_max: 100
 default_langcode: en

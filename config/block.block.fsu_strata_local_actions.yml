@@ -1,0 +1,20 @@
+uuid: f2970656-16c6-47c8-a9ca-e777da46b31b
+langcode: en
+status: true
+dependencies:
+  theme:
+    - fsu_strata
+_core:
+  default_config_hash: XRdb8LpbArVA6CpuuEZxzi50JIdjsJaCCZ5o3fH0Blk
+id: fsu_strata_local_actions
+theme: fsu_strata
+region: content
+weight: -20
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  label_display: '0'
+  provider: core
+visibility: {  }
