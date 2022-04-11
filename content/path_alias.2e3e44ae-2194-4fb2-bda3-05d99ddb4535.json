@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "04af03a6-2921-49d9-9cb5-3cddc9d212c5"
+            "value": "2e3e44ae-2194-4fb2-bda3-05d99ddb4535"
         }
     ],
     "langcode": [
@@ -11,12 +11,12 @@
     ],
     "path": [
         {
-            "value": "\/node\/0e553bdd-d79d-4671-b72b-acad32428e0e"
+            "value": "\/node\/b7d08551-fc9b-4272-9560-8c0429927f60"
         }
     ],
     "alias": [
         {
-            "value": "\/home"
+            "value": "\/research-and-publish"
         }
     ],
     "status": [
