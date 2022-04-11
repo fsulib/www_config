@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "0e553bdd-d79d-4671-b72b-acad32428e0e"
+            "value": "5af3e25f-df99-4de9-bb36-b508c3b7103b"
         }
     ],
     "langcode": [
@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-04-11T18:12:44+00:00",
+            "value": "2022-04-11T17:40:12+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -42,18 +42,18 @@
     ],
     "title": [
         {
-            "value": "Home"
+            "value": "Teaching and Learning"
         }
     ],
     "created": [
         {
-            "value": "2022-03-13T05:20:01+00:00",
+            "value": "2022-04-11T17:36:10+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "changed": [
         {
-            "value": "2022-04-11T18:12:44+00:00",
+            "value": "2022-04-11T17:40:12+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,13 +79,13 @@
     ],
     "path": [
         {
-            "alias": "\/test-page",
+            "alias": "\/teaching-and-learning",
             "langcode": "en"
         }
     ],
     "body": [
         {
-            "value": "<p>This is a placeholder for the home page.<\/p>\r\n",
+            "value": "<p>This is a placeholder for the Teaching and Learning page.<\/p>\r\n",
             "format": "basic_html",
             "summary": ""
         }

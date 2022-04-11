@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "25865e7a-5c53-4441-9b39-cd543b0e5910"
+            "value": "def93237-a93d-483d-a392-94b2ece70faa"
         }
     ],
     "langcode": [
@@ -16,7 +16,7 @@
     ],
     "revision_created": [
         {
-            "value": "2022-04-11T14:49:29+00:00",
+            "value": "2022-04-11T17:47:21+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -29,12 +29,12 @@
     ],
     "title": [
         {
-            "value": "Find & Borrow"
+            "value": "Research & Publish"
         }
     ],
     "description": [
         {
-            "value": "Find and borrow library materials"
+            "value": "Browse our research support services"
         }
     ],
     "menu_name": [
@@ -44,7 +44,7 @@
     ],
     "link": [
         {
-            "uri": "internal:\/find-and-borrow",
+            "uri": "internal:\/research-and-publish",
             "title": "",
             "options": []
         }
@@ -61,7 +61,7 @@
     ],
     "weight": [
         {
-            "value": -50
+            "value": -49
         }
     ],
     "expanded": [
@@ -72,7 +72,7 @@
     "parent": [],
     "changed": [
         {
-            "value": "2022-04-11T18:01:18+00:00",
+            "value": "2022-04-11T18:10:47+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
