@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-04-11T17:40:42+00:00",
+            "value": "2022-04-12T15:13:34+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-04-11T17:40:42+00:00",
+            "value": "2022-04-12T15:13:34+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -85,8 +85,8 @@
     ],
     "body": [
         {
-            "value": "<p>This is the find and borrow landing page.<\/p>\r\n",
-            "format": "basic_html",
+            "value": "<div class=\"s3-p-10 text-center s3-n2w\">\r\n<div class=\"row\">\r\n<div class=\"col-xs-12 col-sm-6\">\r\n<h4><a href=\"https:\/\/fsu-flvc.primo.exlibrisgroup.com\/discovery\/account?vid=01FALSC_FSU:Home&amp;section=overview&amp;lang=en\">Your Library Account<\/a><\/h4>\r\n\r\n<p>Jumentum tation imputo vulputate capio luctus occuro. Secundum proprius praesent diam jugis tation. Melior utinam paratus velit nostrud velit genitus aliquip.<\/p>\r\n<\/div>\r\n\r\n<div class=\"col-xs-12 col-sm-6\">\r\n<h4><a href=\"https:\/\/www.lib.fsu.edu\/policies\">Borrowing Policies &amp; FAQ<\/a><\/h4>\r\n\r\n<p>Dolor nonummy nibh veniam causa quidem nulla autem quibus demoveo. Suscipit diam abbas dignissim immitto pecus singularis genitus antehabeo. Jumentum wisi cogo ullamcorper eros dolore.<\/p>\r\n<\/div>\r\n<\/div>\r\n<\/div>\r\n\r\n<h2>Need to Find Something? Start Here!<\/h2>\r\n\r\n<div class=\"s3-m-4\">\r\n<div class=\"row\">\r\n<div class=\"col-sm-4\">\r\n<div class=\"s3-p-10 s3-gd feature-fixed feature-fixed-1 text-center\">\r\n<p class=\"text-left\"><em><strong>Step 1<\/strong><\/em><\/p>\r\n\r\n<h4><a href=\"https:\/\/fsu-flvc.primo.exlibrisgroup.com\/discovery\/search?vid=01FALSC_FSU:Home\">OneSearch<\/a><\/h4>\r\n\r\n<p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation.<\/p>\r\n<\/div>\r\n<img alt=\"\" class=\"img-responsive\" src=\"\/_\/s3.3\/img\/point\/point-gd1c.png\" \/><\/div>\r\n\r\n<div class=\"col-sm-4\">\r\n<div class=\"s3-p-10 s3-gd1c feature-fixed feature-fixed-1 text-center\">\r\n<p class=\"text-left\"><em><strong>Step 2<\/strong><\/em><\/p>\r\n\r\n<h4><a href=\"\/uborrow\">UBorrow<\/a><\/h4>\r\n\r\n<p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation.<\/p>\r\n<\/div>\r\n<img alt=\"\" class=\"img-responsive\" src=\"\/_\/s3.3\/img\/point\/point-gd1c.png\" \/><\/div>\r\n\r\n<div class=\"col-sm-4\">\r\n<div class=\"s3-p-10 s3-gd2c feature-fixed feature-fixed-1 text-center\">\r\n<p class=\"text-left\"><em><strong>Step 3<\/strong><\/em><\/p>\r\n\r\n<h4><a href=\"\/expanded-search\">Expanded Search<\/a><\/h4>\r\n\r\n<p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation.<\/p>\r\n<\/div>\r\n<img alt=\"\" class=\"img-responsive\" src=\"\/_\/s3.3\/img\/point\/point-gd1c.png\" \/><\/div>\r\n<\/div>\r\n<\/div>\r\n\r\n<h2>Other Options<\/h2>\r\n\r\n<div class=\"s3-m-4\">\r\n<div class=\"row\">\r\n<div class=\"col-sm-4\">\r\n<div class=\"s3-p-10 s3-n2w feature-fixed feature-fixed-1 text-center\">\r\n<h4><a href=\"\/sca\">Special Collections<\/a><\/h4>\r\n\r\n<p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation.<\/p>\r\n<\/div>\r\n<img alt=\"\" class=\"img-responsive\" src=\"\/_\/s3.3\/img\/point\/point-gd1c.png\" \/><\/div>\r\n\r\n<div class=\"col-sm-4\">\r\n<div class=\"s3-p-10 s3-n2w feature-fixed feature-fixed-1 text-center\">\r\n<h4><a href=\"\/etextbook\">eTextbooks<\/a><\/h4>\r\n\r\n<p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation.<\/p>\r\n<\/div>\r\n<img alt=\"\" class=\"img-responsive\" src=\"\/_\/s3.3\/img\/point\/point-gd1c.png\" \/><\/div>\r\n\r\n<div class=\"col-sm-4\">\r\n<div class=\"s3-p-10 s3-n2w feature-fixed feature-fixed-1 text-center\">\r\n<h4><a href=\"https:\/\/diginole.lib.fsu.edu\/research-repository\">Thesis &amp; Dissertations<\/a><\/h4>\r\n\r\n<p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.<\/p>\r\n<\/div>\r\n<img alt=\"\" class=\"img-responsive\" src=\"\/_\/s3.3\/img\/point\/point-gd1c.png\" \/><\/div>\r\n<\/div>\r\n<\/div>\r\n\r\n<h3 class=\"text-center\"><a href=\"\/ask-a-librarian\"><strong>Still Lost? Ask a Librarian!<\/strong><\/a><\/h3>\r\n\r\n<hr \/>\r\n<h4><strong>Looking for Equipment or Software?<\/strong><\/h4>\r\n\r\n<div class=\"s3-p-10 text-center s3-w\">\r\n<div class=\"row\">\r\n<div class=\"col-xs-12 col-sm-6\">\r\n<h4><a href=\"\/equipment\">Equipment Search<\/a><\/h4>\r\n\r\n<p>Jumentum tation imputo vulputate capio luctus occuro. Secundum proprius praesent diam jugis tation. Melior utinam paratus velit nostrud velit genitus aliquip.<\/p>\r\n<\/div>\r\n\r\n<div class=\"col-xs-12 col-sm-6\">\r\n<h4><a href=\"\/software\">Software Locator<\/a><\/h4>\r\n\r\n<p>Dolor nonummy nibh veniam causa quidem nulla autem quibus demoveo. Suscipit diam abbas dignissim immitto pecus singularis genitus antehabeo. Jumentum wisi cogo ullamcorper eros dolore.<\/p>\r\n<\/div>\r\n<\/div>\r\n<\/div>\r\n",
+            "format": "full_html",
             "summary": ""
         }
     ]
