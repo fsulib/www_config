@@ -2361,12 +2361,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/fsulib/fsu_strata.git",
-                "reference": "90f494063404e75e58df426687b97a36ab1dc41f"
+                "reference": "81f8e3f1d450ddbe43433bab899d0e1f38b488e9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/fsulib/fsu_strata/zipball/90f494063404e75e58df426687b97a36ab1dc41f",
-                "reference": "90f494063404e75e58df426687b97a36ab1dc41f",
+                "url": "https://api.github.com/repos/fsulib/fsu_strata/zipball/81f8e3f1d450ddbe43433bab899d0e1f38b488e9",
+                "reference": "81f8e3f1d450ddbe43433bab899d0e1f38b488e9",
                 "shasum": ""
             },
             "type": "drupal-custom-theme",
@@ -2399,7 +2399,7 @@
                 "source": "https://github.com/fsulib/fsu_strata/tree/master",
                 "issues": "https://github.com/fsulib/fsu_strata/issues"
             },
-            "time": "2022-04-11T19:30:26+00:00"
+            "time": "2022-04-12T15:19:19+00:00"
         },
         {
             "name": "fsulib/fsu_twig_filter",
