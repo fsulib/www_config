@@ -47,15 +47,15 @@ table_responsive: '-1'
 region_wells:
   navigation: ''
   navigation_collapsible: ''
-  fullheader: ''
   header: ''
-  slideshow: ''
   highlighted: ''
   help: ''
   content: ''
   sidebar_first: ''
   sidebar_second: well
   footer: ''
+  fullheader: ''
+  slideshow: ''
   fullcontent: ''
   advancedcontent: ''
 cdn_theme: ''
@@ -70,3 +70,4 @@ logoselection: fsu-seal-black-160x160
 overrideaddress:
   value: ''
   format: full_html
+fluid_container: 1
