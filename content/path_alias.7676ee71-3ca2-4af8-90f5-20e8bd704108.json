@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "7676ee71-3ca2-4af8-90f5-20e8bd704108"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/5af3e25f-df99-4de9-bb36-b508c3b7103b"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/teaching-and-learning"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
