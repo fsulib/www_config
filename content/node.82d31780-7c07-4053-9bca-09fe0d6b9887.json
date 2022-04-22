@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-04-11T17:53:17+00:00",
+            "value": "2022-04-22T15:54:22+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -42,7 +42,7 @@
     ],
     "title": [
         {
-            "value": "About Us"
+            "value": "About the FSU Libraries"
         }
     ],
     "created": [
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-04-11T17:53:17+00:00",
+            "value": "2022-04-22T15:54:22+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -85,7 +85,7 @@
     ],
     "body": [
         {
-            "value": "<p>This is a placeholder for the About Us page.<\/p>\r\n",
+            "value": "<p>This is a placeholder for the About the FSU Libraries page.<\/p>\r\n",
             "format": "basic_html",
             "summary": ""
         }

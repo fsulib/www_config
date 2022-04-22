@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-04-11T17:40:12+00:00",
+            "value": "2022-04-22T15:48:44+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -42,7 +42,7 @@
     ],
     "title": [
         {
-            "value": "Teaching and Learning"
+            "value": "Visit and Study"
         }
     ],
     "created": [
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-04-11T17:40:12+00:00",
+            "value": "2022-04-22T15:48:44+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,13 +79,13 @@
     ],
     "path": [
         {
-            "alias": "\/teaching-and-learning",
+            "alias": "\/visit-and-study",
             "langcode": "en"
         }
     ],
     "body": [
         {
-            "value": "<p>This is a placeholder for the Teaching and Learning page.<\/p>\r\n",
+            "value": "<p>This is a placeholder for the Visit and Study page.<\/p>\r\n",
             "format": "basic_html",
             "summary": ""
         }

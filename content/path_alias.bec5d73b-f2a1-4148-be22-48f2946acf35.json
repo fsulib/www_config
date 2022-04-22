@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "c9ef93c6-e8cc-4700-952c-82bf350e5b2c"
+            "value": "bec5d73b-f2a1-4148-be22-48f2946acf35"
         }
     ],
     "langcode": [
@@ -11,12 +11,12 @@
     ],
     "path": [
         {
-            "value": "\/node\/5af3e25f-df99-4de9-bb36-b508c3b7103b"
+            "value": "\/node\/731c789c-c036-4fcb-b6ae-d98d1eb29d6a"
         }
     ],
     "alias": [
         {
-            "value": "\/visit-and-study"
+            "value": "\/find-and-borrow"
         }
     ],
     "status": [

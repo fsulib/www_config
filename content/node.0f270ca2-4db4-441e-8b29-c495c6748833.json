@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-04-11T17:53:39+00:00",
+            "value": "2022-04-22T15:54:57+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -42,7 +42,7 @@
     ],
     "title": [
         {
-            "value": "Visit The Florida State University Libraries"
+            "value": "Explore Collections"
         }
     ],
     "created": [
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-04-11T17:53:39+00:00",
+            "value": "2022-04-22T15:54:57+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,13 +79,13 @@
     ],
     "path": [
         {
-            "alias": "\/visit",
+            "alias": "\/collections",
             "langcode": "en"
         }
     ],
     "body": [
         {
-            "value": "<p>This is a placeholder for the visit page.<\/p>\r\n",
+            "value": "<p>This is a placeholder for the Explore Collections page.<\/p>\r\n",
             "format": "basic_html",
             "summary": ""
         }
