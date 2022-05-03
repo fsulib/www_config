@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "121efae3-6b97-4738-9691-4936312353a5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/c9710661-bb23-4f81-93de-0a74c85840db"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/find-and-borrow\/leds"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

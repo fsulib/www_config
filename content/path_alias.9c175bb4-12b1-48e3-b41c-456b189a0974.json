@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "9c175bb4-12b1-48e3-b41c-456b189a0974"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/d206da4c-85a0-42bc-a0f0-6e37ea7d2833"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/sca\/heritage-and-archives"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

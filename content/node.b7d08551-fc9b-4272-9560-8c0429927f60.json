@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-04-11T17:46:22+00:00",
+            "value": "2022-04-25T17:15:51+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-04-11T17:46:22+00:00",
+            "value": "2022-04-25T17:15:51+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -85,8 +85,8 @@
     ],
     "body": [
         {
-            "value": "<p>This is a placeholder for the Research and Publish page.<\/p>\r\n",
-            "format": "basic_html",
+            "value": "<div class=\"s3-p-10 text-left s3-w\">\r\n<div class=\"row\">\r\n<div class=\"col-xs-12 col-sm-6\">\r\n<h4><a href=\"https:\/\/fsu-flvc.primo.exlibrisgroup.com\/discovery\/account?vid=01FALSC_FSU:Home&amp;section=overview&amp;lang=en\">Service 1<\/a><\/h4>\r\n\r\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>\r\n<\/div>\r\n\r\n<div class=\"col-xs-12 col-sm-6\">\r\n<h4><a href=\"https:\/\/www.lib.fsu.edu\/policies\">Service 2<\/a><\/h4>\r\n\r\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>\r\n<\/div>\r\n<\/div>\r\n<\/div>\r\n\r\n\r\n\r\n<h2>Section Header (more sections can be added)<\/h2>\r\n\r\n<div class=\"s3-m-4\">\r\n<div class=\"row\">\r\n<div class=\"col-sm-4\">\r\n<div class=\"s3-p-10 s3-n2w feature-fixed feature-fixed-1 text-center\" style=\"min-height: 240px;\">\r\n<h4><a href=\"https:\/\/www.lib.fsu.edu\/specialcollections\/index.html\">Section Service 1 <\/a><\/h4>\r\n\r\n<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<\/p>\r\n<\/div>\r\n<img alt=\"\" class=\"img-responsive\" src=\"\/_\/s3\/img\/point\/point-gd1c.png\" \/><\/div>\r\n\r\n<div class=\"col-sm-4\">\r\n<div class=\"s3-p-10 s3-n2w feature-fixed feature-fixed-1 text-center\" style=\"min-height: 240px;\">\r\n<h4><a href=\"https:\/\/www.lib.fsu.edu\/etextbook\">Section Service 2<\/a><\/h4>\r\n\r\n<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<\/p>\r\n<\/div>\r\n<img alt=\"\" class=\"img-responsive\" src=\"\/_\/s3\/img\/point\/point-gd1c.png\" \/><\/div>\r\n\r\n<div class=\"col-sm-4\">\r\n<div class=\"s3-p-10 s3-n2w feature-fixed feature-fixed-1 text-center\" style=\"min-height: 240px;\">\r\n<h4><a href=\"https:\/\/diginole.lib.fsu.edu\/research-repository\">Section Service 3<\/a><\/h4>\r\n\r\n<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<\/p>\r\n<\/div>\r\n<img alt=\"\" class=\"img-responsive\" src=\"\/_\/s3.3\/img\/point\/point-gd1c.png\" \/><\/div>\r\n<\/div>\r\n<\/div>\r\n\r\n\r\n<h4><strong>Wrapup and Failsafe Services <\/strong><\/h4>\r\n\r\n<div class=\"s3-p-10 text-left s3-w\">\r\n<div class=\"row\">\r\n<div class=\"col-xs-12 col-sm-6\">\r\n<h4><a href=\"https:\/\/www.lib.fsu.edu\/tech-center\/equipment\">Service 1<\/a><\/h4>\r\n\r\n<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>\r\n<\/div>\r\n\r\n<div class=\"col-xs-12 col-sm-6\">\r\n<h4><a href=\"https:\/\/www.lib.fsu.edu\/software-locations\">Service 2<\/a><\/h4>\r\n\r\n<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>\r\n<\/div>\r\n<\/div>\r\n<\/div>\r\n\r\n",
+            "format": "full_html",
             "summary": ""
         }
     ]

@@ -1,0 +1,87 @@
+{
+    "uuid": [
+        {
+            "value": "f7e5ec65-0780-47c5-91bb-a74c9e2a93f1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "a12db886-d412-46b5-9932-855c32fb27dd"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-04-29T14:44:08+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Special Collections"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-04-29T14:43:57+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-04-29T14:44:08+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/sca",
+            "langcode": "en"
+        }
+    ],
+    "body": []
+}

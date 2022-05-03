@@ -1,0 +1,18 @@
+uuid: df61b061-fafe-4b2e-a562-227659d40634
+langcode: en
+status: false
+dependencies:
+  module:
+    - system
+id: mason_main_pages_adjustments
+label: 'Mason - Main pages adjustments'
+code: '.s3-n2w {border-style:solid;border-width:2px;border-color:#707070}'
+media: all
+preprocess: true
+conditions:
+  request_path:
+    id: request_path
+    negate: false
+    pages: /visit-and-study
+contexts: {  }
+conditions_require_all: true

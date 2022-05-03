@@ -1,0 +1,93 @@
+{
+    "uuid": [
+        {
+            "value": "b80fa7c6-bbbd-410a-bc4e-871d63d9dc56"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "a12db886-d412-46b5-9932-855c32fb27dd"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-04-27T11:41:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Our Organization"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-04-27T11:33:33+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-04-27T11:41:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/about\/organization",
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<div class=\"s3-p-10 s3-gd2c\">\r\n\t<div class=\"row\">\r\n\t\t<div class=\"col-xs-12 col-md-6\">\r\n\t\t\t<h2 class=\"s3-mt-0\">Commoveo te a <br class=\"visible-lg\">neque amet paratus.<\/h2>\r\n\t\t\t<p class=\"h5\">Commoveo te a neque amet paratus.<\/p>\r\n\t\t\t<p class=\"lead\">The mission of the University Libraries is to support and enhance the learning, teaching, research, and service activities of the Florida State University by providing organized access to quality information in all formats, promoting information literacy, preserving information and engaging in collaborative partnerships to disseminate ideas to advance intellectual discovery.<\/p>\r\n\t\t<\/div>\r\n\t\t<div class=\"col-xs-12 col-md-6 text-center\">\r\n\t\t\t<img src=\"https:\/\/webstyle.unicomm.fsu.edu\/3.3\/img\/placeholders\/ratio-pref-5-4.png\" alt=\"\" class=\"img-responsive s3-bs\" \/>\r\n\t\t<\/div>\r\n\t<\/div>\r\n<\/div>\r\n\r\n<div><h2>Mission, vision, and values<\/h2>\r\n\r\n<p><strong>Mission<\/strong>: Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>\r\n\r\n<p><strong>Vision<\/strong>: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p><\/div>\r\n\r\n<div><h2>Facts and Figures<\/h2>",
+            "format": "full_html",
+            "summary": ""
+        }
+    ]
+}

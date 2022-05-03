@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "d991bab3-bd0d-4290-80dc-14d2c33eb057"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/0f270ca2-4db4-441e-8b29-c495c6748833"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/collections"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
