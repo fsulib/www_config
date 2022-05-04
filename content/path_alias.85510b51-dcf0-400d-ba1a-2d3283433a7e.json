@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "85510b51-dcf0-400d-ba1a-2d3283433a7e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/731c789c-c036-4fcb-b6ae-d98d1eb29d6a"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/find-and-borrow"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

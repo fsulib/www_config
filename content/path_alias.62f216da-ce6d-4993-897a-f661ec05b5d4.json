@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "62f216da-ce6d-4993-897a-f661ec05b5d4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/826b42e0-051f-4df1-9d27-e58b2aa9f71c"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/sca\/catalogs-and-databases"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
