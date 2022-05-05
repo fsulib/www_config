@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "74a63f1d-467a-422e-a083-bf8561388cb6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/183f336b-008c-48f1-ae36-1d90972ee03f"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/sca\/collections"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

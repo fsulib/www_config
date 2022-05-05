@@ -1,0 +1,29 @@
+uuid: 357228e9-a6c2-409f-a19c-87e5fafcbb5e
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.about
+  module:
+    - system
+  theme:
+    - fsu_strata
+id: about
+theme: fsu_strata
+region: sidebar_first
+weight: 0
+provider: null
+plugin: 'system_menu_block:about'
+settings:
+  id: 'system_menu_block:about'
+  label: About
+  label_display: '0'
+  provider: system
+  level: 1
+  depth: 0
+  expand_all_items: false
+visibility:
+  request_path:
+    id: request_path
+    negate: false
+    pages: /about/giving

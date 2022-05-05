@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "dcfa007d-e7be-4269-b652-54c4c1978ba4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/f02dc491-321e-4e61-8bcc-e01fa3c7702c"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/visit\/hours"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

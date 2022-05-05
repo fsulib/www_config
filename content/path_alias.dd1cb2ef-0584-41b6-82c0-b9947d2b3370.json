@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "dd1cb2ef-0584-41b6-82c0-b9947d2b3370"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/efec5ffb-0c74-4d4a-b69b-0cda9c5cd34c"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/about\/assessment"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

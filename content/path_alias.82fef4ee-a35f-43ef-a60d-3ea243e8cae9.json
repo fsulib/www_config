@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "82fef4ee-a35f-43ef-a60d-3ea243e8cae9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/f7e5ec65-0780-47c5-91bb-a74c9e2a93f1"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/sca"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

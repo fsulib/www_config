@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "0f987bd4-012e-4367-9f00-0419c479d2e2"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/5b7c53dc-abd0-4d5e-a1e6-655dde48d40f"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/sca\/claude-pepper"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
