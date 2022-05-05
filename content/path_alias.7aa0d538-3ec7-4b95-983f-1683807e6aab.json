@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "7aa0d538-3ec7-4b95-983f-1683807e6aab"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/fc0aab26-f706-41c8-bec5-63831fa55865"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/sca\/research"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

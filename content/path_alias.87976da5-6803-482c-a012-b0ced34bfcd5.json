@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "87976da5-6803-482c-a012-b0ced34bfcd5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/7d7d4762-959d-4d72-91d9-d2707506d616"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/visit\/equipment"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

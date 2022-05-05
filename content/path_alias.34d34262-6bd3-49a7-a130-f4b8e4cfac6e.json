@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "34d34262-6bd3-49a7-a130-f4b8e4cfac6e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/803e5a81-2c50-4679-9fbc-ee4672ba6b4c"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/sca\/digital-library-center"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

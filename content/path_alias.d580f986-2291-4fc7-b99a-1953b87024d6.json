@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "d580f986-2291-4fc7-b99a-1953b87024d6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/d64a444b-e1c8-46ec-bc8c-aa43dace40f6"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/visit\/rooms"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
