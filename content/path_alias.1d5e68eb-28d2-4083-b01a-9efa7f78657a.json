@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "1d5e68eb-28d2-4083-b01a-9efa7f78657a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/3eaa9638-d437-4840-9236-2888cdb5b8c8"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/about\/locations"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

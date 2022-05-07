@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-04-29T14:48:42+00:00",
+            "value": "2022-05-06T19:28:06+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-04-29T14:48:42+00:00",
+            "value": "2022-05-06T19:28:06+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -72,14 +72,10 @@
             "value": true
         }
     ],
-    "revision_translation_affected": [
-        {
-            "value": true
-        }
-    ],
+    "revision_translation_affected": [],
     "path": [
         {
-            "alias": "\/sca\/digital-library-center",
+            "alias": "\/special-collections\/digital-library-center",
             "langcode": "en"
         }
     ],
