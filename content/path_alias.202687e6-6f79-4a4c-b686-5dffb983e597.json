@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "202687e6-6f79-4a4c-b686-5dffb983e597"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/803e5a81-2c50-4679-9fbc-ee4672ba6b4c"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/special-collections\/digital-library-center"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

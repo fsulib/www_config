@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "3e4c31ef-a3b3-4857-9a47-647fe90208da"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/46c6ac02-c58d-4e47-80ee-4bc2aafc860c"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/help\/subject-librarians"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
