@@ -30,6 +30,7 @@
         "composer/installers": "^1.9",
         "cweagans/composer-patches": "^1.7",
         "drupal/asset_injector": "^2.10",
+        "drupal/better_exposed_filters": "^5.0",
         "drupal/bootstrap": "^3.23",
         "drupal/cas": "^1.7",
         "drupal/core-composer-scaffold": "^9.1",
