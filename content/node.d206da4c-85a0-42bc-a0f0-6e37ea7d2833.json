@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-05-06T19:28:16+00:00",
+            "value": "2022-05-10T13:19:46+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -42,7 +42,7 @@
     ],
     "title": [
         {
-            "value": "Special Collections: Heritage and Archives"
+            "value": "Special Collections: Archives"
         }
     ],
     "created": [
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-05-06T19:28:16+00:00",
+            "value": "2022-05-10T13:19:46+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -72,10 +72,14 @@
             "value": true
         }
     ],
-    "revision_translation_affected": [],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
     "path": [
         {
-            "alias": "\/special-collections\/heritage-and-archives",
+            "alias": "\/special-collections\/archives",
             "langcode": "en"
         }
     ],
