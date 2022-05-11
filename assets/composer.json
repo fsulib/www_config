@@ -23,6 +23,11 @@
             "name": "fsulib/fsu_twig_filter",
             "type": "vcs",
             "url": "git@github.com:fsulib/fsu_twig_filter.git"
+        },
+        {
+            "name": "fsulib/jquery-ui-touch-punch",
+            "type": "vcs",
+            "url": "git@github.com:fsulib/jquery-ui-touch-punch.git"
         }
     ],
     "require": {
@@ -30,6 +35,7 @@
         "composer/installers": "^1.9",
         "cweagans/composer-patches": "^1.7",
         "drupal/asset_injector": "^2.10",
+        "drupal/better_exposed_filters": "^5.0",
         "drupal/bootstrap": "^3.23",
         "drupal/cas": "^1.7",
         "drupal/core-composer-scaffold": "^9.1",
@@ -41,6 +47,7 @@
         "drush/drush": "^10.3",
         "fsulib/fsu_strata": "dev-master",
         "fsulib/fsu_twig_filter": "dev-master",
+        "fsulib/jquery-ui-touch-punch": "dev-master",
         "vlucas/phpdotenv": "^5.1",
         "webflo/drupal-finder": "^1.2"
     },
