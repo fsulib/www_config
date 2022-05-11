@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "931b2eff-2063-4efd-b370-99be8372c1a1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/5af3e25f-df99-4de9-bb36-b508c3b7103b"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/visit-and-study"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

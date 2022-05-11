@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "e129ca5d-3745-4a28-939d-f06e9f076eb4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/b92ac5ef-b966-45ef-a387-1f53e3552a32"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/visit\/software"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
