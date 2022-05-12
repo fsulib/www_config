@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "d6561fc5-8e24-4b85-ae5e-d2258ae814bb"
+            "value": "fe2c79b5-f74b-49c9-80f4-5e31710e5221"
         }
     ],
     "langcode": [
@@ -11,12 +11,12 @@
     ],
     "path": [
         {
-            "value": "\/node\/efec5ffb-0c74-4d4a-b69b-0cda9c5cd34c"
+            "value": "\/node\/7d7d4762-959d-4d72-91d9-d2707506d616"
         }
     ],
     "alias": [
         {
-            "value": "\/about\/facts-and-figures"
+            "value": "\/visit\/equipment"
         }
     ],
     "status": [

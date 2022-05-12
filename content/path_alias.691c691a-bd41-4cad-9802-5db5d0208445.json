@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "d6561fc5-8e24-4b85-ae5e-d2258ae814bb"
+            "value": "691c691a-bd41-4cad-9802-5db5d0208445"
         }
     ],
     "langcode": [
@@ -11,12 +11,12 @@
     ],
     "path": [
         {
-            "value": "\/node\/efec5ffb-0c74-4d4a-b69b-0cda9c5cd34c"
+            "value": "\/node\/29e78fec-ebb2-41b8-a2a1-6e1980b10428"
         }
     ],
     "alias": [
         {
-            "value": "\/about\/facts-and-figures"
+            "value": "\/teaching-and-learning\/course-materials\/etextbook-information"
         }
     ],
     "status": [

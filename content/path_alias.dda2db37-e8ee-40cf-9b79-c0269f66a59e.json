@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "d6561fc5-8e24-4b85-ae5e-d2258ae814bb"
+            "value": "dda2db37-e8ee-40cf-9b79-c0269f66a59e"
         }
     ],
     "langcode": [
@@ -11,12 +11,12 @@
     ],
     "path": [
         {
-            "value": "\/node\/efec5ffb-0c74-4d4a-b69b-0cda9c5cd34c"
+            "value": "\/node\/5b7c53dc-abd0-4d5e-a1e6-655dde48d40f"
         }
     ],
     "alias": [
         {
-            "value": "\/about\/facts-and-figures"
+            "value": "\/special-collections\/claude-pepper"
         }
     ],
     "status": [
