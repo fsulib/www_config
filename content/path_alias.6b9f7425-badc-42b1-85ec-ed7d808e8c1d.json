@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "d6561fc5-8e24-4b85-ae5e-d2258ae814bb"
+            "value": "6b9f7425-badc-42b1-85ec-ed7d808e8c1d"
         }
     ],
     "langcode": [
@@ -11,12 +11,12 @@
     ],
     "path": [
         {
-            "value": "\/node\/efec5ffb-0c74-4d4a-b69b-0cda9c5cd34c"
+            "value": "\/node\/fc0aab26-f706-41c8-bec5-63831fa55865"
         }
     ],
     "alias": [
         {
-            "value": "\/about\/facts-and-figures"
+            "value": "\/special-collections\/research"
         }
     ],
     "status": [

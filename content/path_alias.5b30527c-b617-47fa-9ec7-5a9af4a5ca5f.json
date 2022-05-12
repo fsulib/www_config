@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "d6561fc5-8e24-4b85-ae5e-d2258ae814bb"
+            "value": "5b30527c-b617-47fa-9ec7-5a9af4a5ca5f"
         }
     ],
     "langcode": [
@@ -11,12 +11,12 @@
     ],
     "path": [
         {
-            "value": "\/node\/efec5ffb-0c74-4d4a-b69b-0cda9c5cd34c"
+            "value": "\/node\/9acfaba1-22d8-40e4-b5d5-186040f65fc5"
         }
     ],
     "alias": [
         {
-            "value": "\/about\/facts-and-figures"
+            "value": "\/about\/collection-strategy"
         }
     ],
     "status": [
