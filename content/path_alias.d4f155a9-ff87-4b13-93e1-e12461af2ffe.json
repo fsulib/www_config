@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "d4f155a9-ff87-4b13-93e1-e12461af2ffe"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/5d186a37-2808-444d-a935-8fc5b240b214"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/special-collections\/visit"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

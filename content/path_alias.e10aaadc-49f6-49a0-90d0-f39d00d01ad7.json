@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "e10aaadc-49f6-49a0-90d0-f39d00d01ad7"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/b80fa7c6-bbbd-410a-bc4e-871d63d9dc56"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/about\/organization"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
