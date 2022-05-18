@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "09ebfc2e-f8f0-4aa4-8bc3-02b1d84499ab"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/2928ae6c-3775-4e82-8edd-c7e1f3bd21e3"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/about\/organization\/strategic-initiatives"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "160538f8-38a3-4d24-929f-fde4a326f29f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/07ebbca2-fdb4-40f5-a159-7cf30741ec71"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/research-and-publish\/oa-publishing-fund"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
