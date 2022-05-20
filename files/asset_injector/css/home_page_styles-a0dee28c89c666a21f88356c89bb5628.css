@@ -1,0 +1,22 @@
+div#home-page-icon-section {
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+div#home-page-icon-section .col-md-2 {
+  padding: 0 40px;
+}
+
+div#home-page-icon-section .col-md-2:hover {
+  background-color: #f3ede1;
+}
+
+div#home-page-icon-section .s3-m-8 {
+  margin-bottom: 0;
+}
+
+div#home-page-icon-section .col-md-2 p {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}

@@ -3,6 +3,6 @@ langcode: en
 status: true
 dependencies: {  }
 id: about
-label: About
-description: 'About side menu'
+label: 'About 1'
+description: 'About menu: Links Related to Administration'
 locked: false

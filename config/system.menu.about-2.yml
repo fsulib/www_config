@@ -1,0 +1,8 @@
+uuid: 134fc207-cc4a-43a4-8ab1-1e7e181e0453
+langcode: en
+status: true
+dependencies: {  }
+id: about-2
+label: 'About 2'
+description: 'About menu: Meta-Library links'
+locked: false

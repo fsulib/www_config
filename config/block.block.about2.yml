@@ -1,0 +1,29 @@
+uuid: 9842fad9-ea83-48f8-8291-0f82a92d44e5
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.about-2
+  module:
+    - system
+  theme:
+    - fsu_strata
+id: about2
+theme: fsu_strata
+region: sidebar_first
+weight: 0
+provider: null
+plugin: 'system_menu_block:about-2'
+settings:
+  id: 'system_menu_block:about-2'
+  label: 'About 2'
+  label_display: '0'
+  provider: system
+  level: 1
+  depth: 0
+  expand_all_items: false
+visibility:
+  request_path:
+    id: request_path
+    negate: false
+    pages: "/about/collection-strategies\r\n/about/diversity-inclusion"
