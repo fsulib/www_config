@@ -1,0 +1,25 @@
+uuid: 5682c89f-43db-424a-b5da-24083b1a206f
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: jess_secondary_pages_boxes
+label: 'Jess- Secondary pages boxes'
+code: |-
+  div#secondarypages {
+  min-height: 200px;
+  box-shadow: inset 0px 0px 0px 2px #ceb888;
+  }
+media: all
+preprocess: true
+conditions:
+  node_type:
+    id: node_type
+    negate: false
+    context_mapping:
+      node: '@node.node_route_context:node'
+    bundles:
+      page: page
+contexts: {  }
+conditions_require_all: true

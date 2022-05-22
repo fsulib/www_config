@@ -1,0 +1,97 @@
+{
+    "uuid": [
+        {
+            "value": "fdffe927-7da8-4cfe-b3f2-62ad7e954d39"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "b17d1dd2-b562-4656-b080-3f9bec3625f6"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-05-20T22:52:52+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "name": [
+        {
+            "value": "noun-accessibility-975768.png"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "person insde circle",
+            "title": null,
+            "width": 100,
+            "height": 100,
+            "target_type": "file",
+            "target_uuid": "42f5b5a2-47ca-4767-a71a-879021ece1c3"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-05-20T22:52:38+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-05-20T22:52:52+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "person insde circle",
+            "title": "",
+            "width": 100,
+            "height": 100,
+            "target_type": "file",
+            "target_uuid": "42f5b5a2-47ca-4767-a71a-879021ece1c3"
+        }
+    ]
+}

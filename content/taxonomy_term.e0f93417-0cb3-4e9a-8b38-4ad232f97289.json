@@ -1,0 +1,76 @@
+{
+    "uuid": [
+        {
+            "value": "e0f93417-0cb3-4e9a-8b38-4ad232f97289"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "equipment_type",
+            "target_type": "taxonomy_vocabulary",
+            "target_uuid": "bc8dc581-c8a1-49a3-b011-e6414860c968"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-05-20T15:08:18+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "name": [
+        {
+            "value": "Audio and visual"
+        }
+    ],
+    "description": [
+        {
+            "value": null,
+            "format": null
+        }
+    ],
+    "weight": [
+        {
+            "value": 0
+        }
+    ],
+    "parent": [
+        {
+            "target_id": null
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-05-20T15:10:57+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ]
+}

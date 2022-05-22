@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "ee99d1dd-a5cd-4bbe-8985-1011e6790b1a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/contact"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/form\/contact"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

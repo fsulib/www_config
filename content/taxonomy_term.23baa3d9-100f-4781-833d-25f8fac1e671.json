@@ -1,0 +1,76 @@
+{
+    "uuid": [
+        {
+            "value": "23baa3d9-100f-4781-833d-25f8fac1e671"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "equipment_type",
+            "target_type": "taxonomy_vocabulary",
+            "target_uuid": "bc8dc581-c8a1-49a3-b011-e6414860c968"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-05-20T15:08:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "name": [
+        {
+            "value": "Cords and Chargers"
+        }
+    ],
+    "description": [
+        {
+            "value": null,
+            "format": null
+        }
+    ],
+    "weight": [
+        {
+            "value": 0
+        }
+    ],
+    "parent": [
+        {
+            "target_id": null
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-05-20T15:09:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ]
+}
