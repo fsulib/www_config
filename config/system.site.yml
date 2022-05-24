@@ -7,8 +7,8 @@ mail: bjbrown@fsu.edu
 slogan: ''
 page:
   403: ''
-  404: /node/46
-  front: /node/41
+  404: /404
+  front: /home
 admin_compact_mode: false
 weight_select_max: 100
 default_langcode: en
