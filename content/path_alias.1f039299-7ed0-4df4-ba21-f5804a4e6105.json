@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "1f039299-7ed0-4df4-ba21-f5804a4e6105"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/bradley_reading_room_access\/drafts"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/form\/bradley-reading-room-access\/drafts"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "ac375705-04ec-4872-b149-d8b5240d1923"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/open_access_fund_proposal\/confirmation"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/form\/open-access-fund-proposal\/confirmation"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

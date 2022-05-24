@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f24e7333-c4c4-4264-a552-c19e47309cdc"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/open_access_fund_proposal\/submissions"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/form\/open-access-fund-proposal\/submissions"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
