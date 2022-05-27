@@ -8,7 +8,7 @@ slogan: ''
 page:
   403: ''
   404: /node/34
-  front: /node/49
+  front: /node/48
 admin_compact_mode: false
 weight_select_max: 100
 default_langcode: en
