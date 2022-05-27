@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "d5d3f4bc-3044-4fc9-9a4d-c0fefab53a04"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/fc0aab26-f706-41c8-bec5-63831fa55865"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/special-collections\/research"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

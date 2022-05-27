@@ -3234,15 +3234,14 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/fsulib/fsu_strata.git",
-                "reference": "7558876ab2391f1b5f0b051b35bb4f796e1f1887"
+                "reference": "82fa643f0b61e91b3e569d4271a5319915530cf2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/fsulib/fsu_strata/zipball/7558876ab2391f1b5f0b051b35bb4f796e1f1887",
-                "reference": "7558876ab2391f1b5f0b051b35bb4f796e1f1887",
+                "url": "https://api.github.com/repos/fsulib/fsu_strata/zipball/82fa643f0b61e91b3e569d4271a5319915530cf2",
+                "reference": "82fa643f0b61e91b3e569d4271a5319915530cf2",
                 "shasum": ""
             },
-            "default-branch": true,
             "type": "drupal-custom-theme",
             "license": [
                 "GPL-2.0+"
@@ -3273,7 +3272,7 @@
                 "source": "https://github.com/fsulib/fsu_strata/tree/master",
                 "issues": "https://github.com/fsulib/fsu_strata/issues"
             },
-            "time": "2022-05-23T18:36:55+00:00"
+            "time": "2022-05-27T20:23:01+00:00"
         },
         {
             "name": "fsulib/fsu_twig_filter",
@@ -11798,5 +11797,5 @@
         "php": ">=7.3"
     },
     "platform-dev": [],
-    "plugin-api-version": "2.1.0"
+    "plugin-api-version": "1.1.0"
 }

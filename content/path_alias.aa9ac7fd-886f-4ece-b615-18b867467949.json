@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "aa9ac7fd-886f-4ece-b615-18b867467949"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/9acfaba1-22d8-40e4-b5d5-186040f65fc5"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/about\/collection-strategies"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
