@@ -137,7 +137,7 @@ settings:
   confirmation_type: page
   confirmation_url: ''
   confirmation_title: ''
-  confirmation_message: ''
+  confirmation_message: 'Thanks for your feedback or problem report, we&#39;ll respond to your issue shortly if you&#39;ve provided your email address.'
   confirmation_attributes: {  }
   confirmation_back: true
   confirmation_back_label: ''

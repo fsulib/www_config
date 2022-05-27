@@ -13,7 +13,7 @@ smtp_from: Lib-WebDev@fsu.edu
 smtp_fromname: 'Florida State University Libraries'
 smtp_client_hostname: ''
 smtp_client_helo: ''
-smtp_allowhtml: '0'
+smtp_allowhtml: '1'
 smtp_test_address: ''
 smtp_debugging: false
 prev_mail_system: php_mail

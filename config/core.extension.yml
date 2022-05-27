@@ -12,6 +12,7 @@ module:
   breakpoint: 0
   captcha: 0
   cas: 0
+  cas_attributes: 0
   ckeditor: 0
   color: 0
   comment: 0
@@ -53,6 +54,7 @@ module:
   system: 0
   taxonomy: 0
   text: 0
+  token: 0
   tome: 0
   tome_base: 0
   tome_static: 0

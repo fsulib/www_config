@@ -13,16 +13,10 @@ title: 'Bradley Reading Room Access'
 description: 'This form is submitted by individuals requesting access to the Bradley Reading Room.'
 category: ''
 elements: |-
-  first_name:
+  your_name:
     '#type': textfield
-    '#title': 'First Name'
+    '#title': 'Your Name'
     '#required': true
-    '#required_error': 'Please enter your first name'
-  last_name:
-    '#type': textfield
-    '#title': 'Last Name'
-    '#required': true
-    '#required_error': 'Please enter your last name'
   email_address:
     '#type': textfield
     '#title': 'Email Address'
@@ -31,7 +25,6 @@ elements: |-
   phone_number:
     '#type': tel
     '#title': 'Phone Number'
-    '#description': (optional)
     '#description_display': before
   status:
     '#type': radios
