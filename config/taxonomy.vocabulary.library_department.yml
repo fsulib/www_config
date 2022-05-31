@@ -1,0 +1,8 @@
+uuid: b211db7c-90a8-4583-b0ba-1b89340403e5
+langcode: en
+status: true
+dependencies: {  }
+name: 'Library Departments'
+vid: library_department
+description: 'Departments internal to the FSU Libraries organization'
+weight: 0

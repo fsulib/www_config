@@ -8,7 +8,7 @@ id: jess_secondary_pages_boxes
 label: 'Jess- Secondary pages boxes'
 code: |-
   div#secondarypages {
-  min-height: 200px;
+  min-height: 300px;
   box-shadow: inset 0px 0px 0px 2px #ceb888;
   }
 media: all

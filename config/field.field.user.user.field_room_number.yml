@@ -1,0 +1,20 @@
+uuid: 3b2214c5-a20d-482c-b755-dd2accfcc62f
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.user.field_room_number
+  module:
+    - user
+id: user.user.field_room_number
+field_name: field_room_number
+entity_type: user
+bundle: user
+label: 'Room Number'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

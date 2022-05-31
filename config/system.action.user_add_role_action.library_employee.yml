@@ -1,0 +1,14 @@
+uuid: 088fba37-3211-405b-93bd-6494c75d3ded
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.library_employee
+  module:
+    - user
+id: user_add_role_action.library_employee
+label: 'Add the Library Employee role to the selected user(s)'
+type: user
+plugin: user_add_role_action
+configuration:
+  rid: library_employee

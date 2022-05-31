@@ -1,0 +1,102 @@
+{
+    "uid": [
+        {
+            "value": 4
+        }
+    ],
+    "uuid": [
+        {
+            "value": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_admin_langcode": [],
+    "name": [
+        {
+            "value": "jbarmon"
+        }
+    ],
+    "mail": [
+        {
+            "value": "jbarmon@fsu.edu"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "America\/New_York"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-05-31T18:25:01+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-05-31T19:08:55+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "roles": [
+        {
+            "target_id": "library_employee",
+            "target_type": "user_role",
+            "target_uuid": "0e6f68b5-df8e-4ff0-b2b0-5d2b750774ac"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "field_building": [
+        {
+            "value": "Strozier"
+        }
+    ],
+    "field_first_name": [
+        {
+            "value": "Jessica"
+        }
+    ],
+    "field_fsu_department": [],
+    "field_last_name": [
+        {
+            "value": "Barmon"
+        }
+    ],
+    "field_liaison_fsu_department": [],
+    "field_library_department": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "1ddda550-1908-4d9a-9d2b-33ede7224536"
+        }
+    ],
+    "field_phone_number": [],
+    "field_position_title": [
+        {
+            "value": "Web Services Librarian"
+        }
+    ],
+    "field_room_number": [
+        {
+            "value": "23C"
+        }
+    ],
+    "user_picture": []
+}

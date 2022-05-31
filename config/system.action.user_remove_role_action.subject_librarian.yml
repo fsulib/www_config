@@ -1,0 +1,14 @@
+uuid: 6c08b9b3-08e5-4996-a1bd-748a86bc9178
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.subject_librarian
+  module:
+    - user
+id: user_remove_role_action.subject_librarian
+label: 'Remove the Subject Librarian role from the selected user(s)'
+type: user
+plugin: user_remove_role_action
+configuration:
+  rid: subject_librarian

@@ -1,0 +1,9 @@
+uuid: 2bf752af-830d-42d1-b048-2adc9b5489f3
+langcode: en
+status: true
+dependencies: {  }
+id: subject_librarian
+label: 'Subject Librarian'
+weight: 5
+is_admin: null
+permissions: {  }

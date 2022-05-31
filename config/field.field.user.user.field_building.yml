@@ -1,0 +1,20 @@
+uuid: 6eef063a-0bc1-4ad3-8c14-ecbb606b51df
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.user.field_building
+  module:
+    - user
+id: user.user.field_building
+field_name: field_building
+entity_type: user
+bundle: user
+label: Building
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

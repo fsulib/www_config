@@ -54,5 +54,14 @@
             "value": true
         }
     ],
+    "field_building": [],
+    "field_first_name": [],
+    "field_fsu_department": [],
+    "field_last_name": [],
+    "field_liaison_fsu_department": [],
+    "field_library_department": [],
+    "field_phone_number": [],
+    "field_position_title": [],
+    "field_room_number": [],
     "user_picture": []
 }

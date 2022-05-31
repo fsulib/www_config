@@ -1,0 +1,30 @@
+uuid: 28a8f8de-e60b-4142-b8f4-c5f24fec08ba
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.user.field_library_department
+    - taxonomy.vocabulary.library_department
+  module:
+    - user
+id: user.user.field_library_department
+field_name: field_library_department
+entity_type: user
+bundle: user
+label: 'Library Department'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      library_department: library_department
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

@@ -25,10 +25,10 @@ forced_login:
     pages: ''
 user_accounts:
   prevent_normal_login: true
-  auto_register: false
+  auto_register: true
   email_assignment_strategy: 0
-  email_hostname: ''
-  email_attribute: ''
+  email_hostname: fsu.edu
+  email_attribute: 'cas:fsuEduPreferredEmail'
   auto_assigned_roles: {  }
   restrict_password_management: true
   restrict_email_management: true

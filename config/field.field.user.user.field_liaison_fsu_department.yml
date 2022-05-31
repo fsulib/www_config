@@ -1,0 +1,30 @@
+uuid: 020e8897-8227-455d-a713-3b1b7291a865
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.user.field_liaison_fsu_department
+    - taxonomy.vocabulary.fsu_departments
+  module:
+    - user
+id: user.user.field_liaison_fsu_department
+field_name: field_liaison_fsu_department
+entity_type: user
+bundle: user
+label: 'Liaison-FSU Department'
+description: 'Subject Specialization'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      fsu_departments: fsu_departments
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

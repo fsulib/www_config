@@ -1,0 +1,28 @@
+uuid: a5223d6d-bb1d-44d8-ba1a-1244d9942584
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.library_employee_directory
+  module:
+    - system
+    - views
+  theme:
+    - fsu_strata
+id: exposedformlibrary_employee_directorypage_1
+theme: fsu_strata
+region: content
+weight: 0
+provider: null
+plugin: 'views_exposed_filter_block:library_employee_directory-page_1'
+settings:
+  id: 'views_exposed_filter_block:library_employee_directory-page_1'
+  label: ''
+  label_display: '0'
+  provider: views
+  views_label: ''
+visibility:
+  request_path:
+    id: request_path
+    negate: false
+    pages: /library-employee-directory

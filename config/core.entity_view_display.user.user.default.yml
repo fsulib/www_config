@@ -3,6 +3,15 @@ langcode: en
 status: true
 dependencies:
   config:
+    - field.field.user.user.field_building
+    - field.field.user.user.field_first_name
+    - field.field.user.user.field_fsu_department
+    - field.field.user.user.field_last_name
+    - field.field.user.user.field_liaison_fsu_department
+    - field.field.user.user.field_library_department
+    - field.field.user.user.field_phone_number
+    - field.field.user.user.field_position_title
+    - field.field.user.user.field_room_number
     - field.field.user.user.user_picture
     - image.style.thumbnail
   module:
@@ -15,6 +24,78 @@ targetEntityType: user
 bundle: user
 mode: default
 content:
+  field_building:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 55
+    region: content
+  field_first_name:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 51
+    region: content
+  field_fsu_department:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 58
+    region: content
+  field_last_name:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 52
+    region: content
+  field_liaison_fsu_department:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 59
+    region: content
+  field_library_department:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 57
+    region: content
+  field_phone_number:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 54
+    region: content
+  field_position_title:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 53
+    region: content
+  field_room_number:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 56
+    region: content
   masquerade:
     settings: {  }
     third_party_settings: {  }

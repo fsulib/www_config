@@ -4,6 +4,15 @@ status: true
 dependencies:
   config:
     - core.entity_view_mode.user.compact
+    - field.field.user.user.field_building
+    - field.field.user.user.field_first_name
+    - field.field.user.user.field_fsu_department
+    - field.field.user.user.field_last_name
+    - field.field.user.user.field_liaison_fsu_department
+    - field.field.user.user.field_library_department
+    - field.field.user.user.field_phone_number
+    - field.field.user.user.field_position_title
+    - field.field.user.user.field_room_number
     - field.field.user.user.user_picture
     - image.style.thumbnail
   module:
@@ -31,4 +40,13 @@ content:
     weight: 0
     region: content
 hidden:
+  field_building: true
+  field_first_name: true
+  field_fsu_department: true
+  field_last_name: true
+  field_liaison_fsu_department: true
+  field_library_department: true
+  field_phone_number: true
+  field_position_title: true
+  field_room_number: true
   member_for: true

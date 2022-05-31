@@ -1,0 +1,8 @@
+uuid: bc89d3ca-255c-45b2-a53b-96f25d10b73b
+langcode: en
+status: true
+dependencies: {  }
+name: 'FSU Departments'
+vid: fsu_departments
+description: 'List of Departments at Florida State University'
+weight: 0

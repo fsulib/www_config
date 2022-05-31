@@ -1,0 +1,14 @@
+uuid: 7eb15361-879e-45a1-bff6-27453969b306
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.subject_librarian
+  module:
+    - user
+id: user_add_role_action.subject_librarian
+label: 'Add the Subject Librarian role to the selected user(s)'
+type: user
+plugin: user_add_role_action
+configuration:
+  rid: subject_librarian

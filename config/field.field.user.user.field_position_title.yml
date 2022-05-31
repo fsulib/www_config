@@ -1,0 +1,20 @@
+uuid: 07192580-089b-4bf3-8534-0d87b55959a0
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.user.field_position_title
+  module:
+    - user
+id: user.user.field_position_title
+field_name: field_position_title
+entity_type: user
+bundle: user
+label: 'Position Title'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

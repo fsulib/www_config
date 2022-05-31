@@ -1,0 +1,76 @@
+{
+    "uuid": [
+        {
+            "value": "f3dd941b-0575-44e3-99ef-6d18a4c79f78"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "library_department",
+            "target_type": "taxonomy_vocabulary",
+            "target_uuid": "b211db7c-90a8-4583-b0ba-1b89340403e5"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-05-31T18:51:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "name": [
+        {
+            "value": "FAMU-FSU Engineering Library"
+        }
+    ],
+    "description": [
+        {
+            "value": null,
+            "format": null
+        }
+    ],
+    "weight": [
+        {
+            "value": 0
+        }
+    ],
+    "parent": [
+        {
+            "target_id": null
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-05-31T18:51:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ]
+}
