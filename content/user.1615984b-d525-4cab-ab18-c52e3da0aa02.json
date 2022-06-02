@@ -86,18 +86,9 @@
         }
     ],
     "field_liaison_fsu_department": [
-        {
-            "target_type": "taxonomy_term",
-            "target_uuid": "6be39669-d7bd-4a1b-88c6-842e5104df16"
-        },
-        {
-            "target_type": "taxonomy_term",
-            "target_uuid": "f140b145-86a5-4eb8-a5ef-a5a3389c9a95"
-        },
-        {
-            "target_type": "taxonomy_term",
-            "target_uuid": "f4503acf-d165-4543-867e-0a25c80e358c"
-        }
+        [],
+        [],
+        []
     ],
     "field_library_department": [
         {

@@ -876,6 +876,7 @@ display:
     display_plugin: page
     position: 1
     display_options:
+      title: 'Library Employee Directory'
       sorts:
         field_last_name_value:
           id: field_last_name_value
@@ -1060,9 +1061,12 @@ display:
         groups:
           1: AND
       defaults:
+        title: false
+        css_class: false
         sorts: false
         filters: false
         filter_groups: false
+      css_class: library-employee-directory
       display_description: ''
       exposed_block: true
       display_extenders: {  }
@@ -1725,6 +1729,7 @@ display:
           multi_type: separator
           separator: ', '
           field_api_classes: false
+      sorts: {  }
       filters:
         status:
           id: status
@@ -1884,6 +1889,7 @@ display:
           1: AND
       defaults:
         fields: false
+        sorts: false
         filters: false
         filter_groups: false
       display_description: ''

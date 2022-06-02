@@ -48,11 +48,16 @@
     ],
     "changed": [
         {
-            "value": "2022-05-31T19:09:02+00:00",
+            "value": "2022-06-01T13:35:01+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "roles": [
+        {
+            "target_id": "administrator",
+            "target_type": "user_role",
+            "target_uuid": "31ae329f-6e59-4810-84e1-e48f8ac46cb3"
+        },
         {
             "target_id": "library_employee",
             "target_type": "user_role",
