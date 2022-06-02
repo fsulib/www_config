@@ -7,9 +7,24 @@ dependencies:
 id: jess_secondary_pages_boxes
 label: 'Jess- Secondary pages boxes'
 code: |-
-  div#secondarypages {
-  min-height: 300px;
-  box-shadow: inset 0px 0px 0px 2px #ceb888;
+  div.blue-boxes {
+  min-height: 100px;
+  box-shadow: inset 0px 0px 0px 2px #2c6784;
+  background-color: rgb(44, 103, 132, 0.2);
+  color: black
+  }
+
+
+  div.blue-boxes a:hover {
+    color:black;
+  }
+
+  div.hr-double-line {
+  width:50%; 
+  height:5px; 
+  border-top:1px solid black; 
+  border-bottom:1px solid black;
+  margin: 0 25% 0 25%;
   }
 media: all
 preprocess: true
