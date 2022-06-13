@@ -1,0 +1,145 @@
+{
+    "uid": [
+        {
+            "value": 74
+        }
+    ],
+    "uuid": [
+        {
+            "value": "a74bf8eb-751e-47cd-8829-28c38dc8a893"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_admin_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "name": [
+        {
+            "value": "lrs06c"
+        }
+    ],
+    "mail": [
+        {
+            "value": "lrsherman@fsu.edu"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "America\/New_York"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-03T21:32:52+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-04T05:15:55+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "roles": [
+        {
+            "target_id": "library_employee",
+            "target_type": "user_role",
+            "target_uuid": "0e6f68b5-df8e-4ff0-b2b0-5d2b750774ac"
+        },
+        {
+            "target_id": "subject_librarian",
+            "target_type": "user_role",
+            "target_uuid": "2bf752af-830d-42d1-b048-2adc9b5489f3"
+        },
+        {
+            "target_id": "employee",
+            "target_type": "user_role",
+            "target_uuid": "92eff045-2f26-4ca9-a3b3-7bde2011e1ab"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "field_building": [
+        {
+            "value": "Strozier Library"
+        }
+    ],
+    "field_first_name": [
+        {
+            "value": "Leah"
+        }
+    ],
+    "field_fsu_department": [],
+    "field_last_name": [
+        {
+            "value": "Sherman"
+        }
+    ],
+    "field_liaison_fsu_department": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4a9391c0-f4db-453f-94fd-1dbe085bc0c2"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "22beef3d-5b55-4d84-aeb2-35bb9b71e2ad"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "b31c0dc8-65c2-4d57-8fd0-eddd39bb10c0"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "7d38a7df-1036-4cb5-bdc6-1a13db24168c"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "7cba670e-7a15-4aca-a4b7-c6b2e85a60fc"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "07f9bddf-ec5d-40e8-a3de-4b7ea40acc93"
+        }
+    ],
+    "field_library_department": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "1b36d6d7-197c-419f-a4b2-82f41aeb77f1"
+        }
+    ],
+    "field_phone_number": [
+        {
+            "value": "(850) 644-1573"
+        }
+    ],
+    "field_position_title": [
+        {
+            "value": "Visual & Performing Arts Librarian"
+        }
+    ],
+    "field_room_number": [
+        {
+            "value": "027H"
+        }
+    ],
+    "user_picture": []
+}

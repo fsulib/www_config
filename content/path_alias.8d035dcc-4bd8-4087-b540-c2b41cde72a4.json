@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "8d035dcc-4bd8-4087-b540-c2b41cde72a4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/pay_for_lost_materials"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/form\/pay-for-lost-materials"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

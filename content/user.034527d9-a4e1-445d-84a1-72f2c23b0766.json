@@ -1,0 +1,115 @@
+{
+    "uid": [
+        {
+            "value": 69
+        }
+    ],
+    "uuid": [
+        {
+            "value": "034527d9-a4e1-445d-84a1-72f2c23b0766"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_admin_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "name": [
+        {
+            "value": "egrodriguez"
+        }
+    ],
+    "mail": [
+        {
+            "value": "egrodriguez@fsu.edu"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "America\/New_York"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-03T21:23:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-04T05:25:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "roles": [
+        {
+            "target_id": "library_employee",
+            "target_type": "user_role",
+            "target_uuid": "0e6f68b5-df8e-4ff0-b2b0-5d2b750774ac"
+        },
+        {
+            "target_id": "employee",
+            "target_type": "user_role",
+            "target_uuid": "92eff045-2f26-4ca9-a3b3-7bde2011e1ab"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "field_building": [
+        {
+            "value": "Strozier Library"
+        }
+    ],
+    "field_first_name": [
+        {
+            "value": "Elizabeth"
+        }
+    ],
+    "field_fsu_department": [],
+    "field_last_name": [
+        {
+            "value": "Rodriguez"
+        }
+    ],
+    "field_liaison_fsu_department": [],
+    "field_library_department": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "6fe15cf8-f49e-45de-be07-122ceaed693d"
+        }
+    ],
+    "field_phone_number": [
+        {
+            "value": "(850) 644-1437"
+        }
+    ],
+    "field_position_title": [
+        {
+            "value": "Executive Support Assistant"
+        }
+    ],
+    "field_room_number": [
+        {
+            "value": "314A"
+        }
+    ],
+    "user_picture": []
+}

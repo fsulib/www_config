@@ -1,0 +1,14 @@
+uuid: eeea8f28-cefb-4131-91d8-8c8698128a09
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.graduate_student
+  module:
+    - user
+id: user_add_role_action.graduate_student
+label: 'Add the Graduate Student role to the selected user(s)'
+type: user
+plugin: user_add_role_action
+configuration:
+  rid: graduate_student

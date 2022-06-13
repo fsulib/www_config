@@ -1,0 +1,20 @@
+uuid: 6521b240-fa6f-45f1-9ad9-bed660c007a8
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+    - taxonomy
+id: node.field_study_space_capacity
+field_name: field_study_space_capacity
+entity_type: node
+type: entity_reference
+settings:
+  target_type: taxonomy_term
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

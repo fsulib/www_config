@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "c0370268-9e15-4d52-8c58-2269565a7846"
+            "value": "2443aa34-031a-47ba-bb3b-544504730cc1"
         }
     ],
     "langcode": [
@@ -11,14 +11,14 @@
     ],
     "vid": [
         {
-            "target_id": "library_department",
+            "target_id": "study_space_capacity",
             "target_type": "taxonomy_vocabulary",
-            "target_uuid": "b211db7c-90a8-4583-b0ba-1b89340403e5"
+            "target_uuid": "75fe1547-7e8a-43d0-ad2d-eb9d4cda7bb9"
         }
     ],
     "revision_created": [
         {
-            "value": "2022-05-31T20:46:59+00:00",
+            "value": "2022-06-10T16:49:01+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -31,7 +31,7 @@
     ],
     "name": [
         {
-            "value": "Business Administration"
+            "value": "1 person"
         }
     ],
     "description": [
@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-05-31T20:46:59+00:00",
+            "value": "2022-06-10T16:50:30+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],

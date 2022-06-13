@@ -1,0 +1,115 @@
+{
+    "uid": [
+        {
+            "value": 6
+        }
+    ],
+    "uuid": [
+        {
+            "value": "ef9c0ce5-c1a9-4e7f-928e-1f275b751919"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_admin_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "name": [
+        {
+            "value": "kh22p"
+        }
+    ],
+    "mail": [
+        {
+            "value": "kh22p@fsu.edu"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "America\/New_York"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-03T17:14:47+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-03T20:35:56+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "roles": [
+        {
+            "target_id": "library_employee",
+            "target_type": "user_role",
+            "target_uuid": "0e6f68b5-df8e-4ff0-b2b0-5d2b750774ac"
+        },
+        {
+            "target_id": "employee",
+            "target_type": "user_role",
+            "target_uuid": "92eff045-2f26-4ca9-a3b3-7bde2011e1ab"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "field_building": [
+        {
+            "value": "Dirac Science Library"
+        }
+    ],
+    "field_first_name": [
+        {
+            "value": "Kassidy"
+        }
+    ],
+    "field_fsu_department": [],
+    "field_last_name": [
+        {
+            "value": "Hof-Mahoney"
+        }
+    ],
+    "field_liaison_fsu_department": [],
+    "field_library_department": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "6c5f3e69-f4ee-40d3-bdad-d156e0c7d8e4"
+        }
+    ],
+    "field_phone_number": [
+        {
+            "value": "(850) 644-3079"
+        }
+    ],
+    "field_position_title": [
+        {
+            "value": "STEM Research and Learning Librarian"
+        }
+    ],
+    "field_room_number": [
+        {
+            "value": "202A"
+        }
+    ],
+    "user_picture": []
+}

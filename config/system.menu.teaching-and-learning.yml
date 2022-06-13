@@ -1,0 +1,8 @@
+uuid: 24fb8b00-736b-4d8c-bead-7c971374a24c
+langcode: en
+status: true
+dependencies: {  }
+id: teaching-and-learning
+label: 'Teaching and Learning'
+description: ''
+locked: false

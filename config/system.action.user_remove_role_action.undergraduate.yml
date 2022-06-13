@@ -1,0 +1,14 @@
+uuid: 5b6dfe20-5d99-4af7-9e0f-d79574b99ae6
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.undergraduate
+  module:
+    - user
+id: user_remove_role_action.undergraduate
+label: 'Remove the Undergraduate role from the selected user(s)'
+type: user
+plugin: user_remove_role_action
+configuration:
+  rid: undergraduate

@@ -1,0 +1,98 @@
+{
+    "uid": [
+        {
+            "value": 22
+        }
+    ],
+    "uuid": [
+        {
+            "value": "51b35962-9d7d-4b2e-81e3-065a20769407"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_admin_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "name": [
+        {
+            "value": "sredda"
+        }
+    ],
+    "mail": [
+        {
+            "value": "sredda@fsu.edu"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "America\/New_York"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-03T19:35:45+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-03T19:35:45+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "roles": [
+        {
+            "target_id": "library_employee",
+            "target_type": "user_role",
+            "target_uuid": "0e6f68b5-df8e-4ff0-b2b0-5d2b750774ac"
+        },
+        {
+            "target_id": "employee",
+            "target_type": "user_role",
+            "target_uuid": "92eff045-2f26-4ca9-a3b3-7bde2011e1ab"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "field_building": [],
+    "field_first_name": [
+        {
+            "value": "Samhel"
+        }
+    ],
+    "field_fsu_department": [],
+    "field_last_name": [
+        {
+            "value": "Redda"
+        }
+    ],
+    "field_liaison_fsu_department": [],
+    "field_library_department": [],
+    "field_phone_number": [],
+    "field_position_title": [
+        {
+            "value": "Academic Health Data Librarian"
+        }
+    ],
+    "field_room_number": [],
+    "user_picture": []
+}

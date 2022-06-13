@@ -1,0 +1,72 @@
+uuid: 145ec1e8-2b8c-4059-bc79-a6d17d2c7e1e
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.study_space.body
+    - field.field.node.study_space.field_booking_widget
+    - field.field.node.study_space.field_catalog_url
+    - field.field.node.study_space.field_content_image
+    - field.field.node.study_space.field_study_space_capacity
+    - field.field.node.study_space.field_study_space_location
+    - field.field.node.study_space.field_study_space_type
+    - field.field.node.study_space.field_thumbnail
+    - node.type.study_space
+  module:
+    - text
+    - user
+id: node.study_space.default
+targetEntityType: node
+bundle: study_space
+mode: default
+content:
+  body:
+    type: text_default
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 0
+    region: content
+  field_booking_widget:
+    type: text_default
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 4
+    region: content
+  field_catalog_url:
+    type: basic_string
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 2
+    region: content
+  field_content_image:
+    type: entity_reference_entity_view
+    label: hidden
+    settings:
+      view_mode: default
+      link: false
+    third_party_settings: {  }
+    weight: 1
+    region: content
+  field_study_space_capacity:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 3
+    region: content
+  field_study_space_location:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 5
+    region: content
+hidden:
+  field_study_space_type: true
+  field_thumbnail: true
+  links: true

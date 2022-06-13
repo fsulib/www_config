@@ -1,0 +1,23 @@
+uuid: 9c3f67de-6a1e-4034-a0d2-5219051a1f1e
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.body
+    - node.type.study_space
+  module:
+    - text
+id: node.study_space.body
+field_name: body
+entity_type: node
+bundle: study_space
+label: Description
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  display_summary: true
+  required_summary: false
+field_type: text_with_summary

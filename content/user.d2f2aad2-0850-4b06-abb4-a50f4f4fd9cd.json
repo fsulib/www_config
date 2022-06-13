@@ -1,0 +1,115 @@
+{
+    "uid": [
+        {
+            "value": 53
+        }
+    ],
+    "uuid": [
+        {
+            "value": "d2f2aad2-0850-4b06-abb4-a50f4f4fd9cd"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_admin_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "name": [
+        {
+            "value": "kwickham"
+        }
+    ],
+    "mail": [
+        {
+            "value": "kwickham@fsu.edu"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "America\/New_York"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-03T21:01:50+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-03T22:12:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "roles": [
+        {
+            "target_id": "library_employee",
+            "target_type": "user_role",
+            "target_uuid": "0e6f68b5-df8e-4ff0-b2b0-5d2b750774ac"
+        },
+        {
+            "target_id": "employee",
+            "target_type": "user_role",
+            "target_uuid": "92eff045-2f26-4ca9-a3b3-7bde2011e1ab"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "field_building": [
+        {
+            "value": "Technical Services"
+        }
+    ],
+    "field_first_name": [
+        {
+            "value": "Kathy "
+        }
+    ],
+    "field_fsu_department": [],
+    "field_last_name": [
+        {
+            "value": "Wickham"
+        }
+    ],
+    "field_liaison_fsu_department": [],
+    "field_library_department": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "f76918bb-cb1c-462b-a0dc-805d05c2ec08"
+        }
+    ],
+    "field_phone_number": [
+        {
+            "value": "(850) 644-5232"
+        }
+    ],
+    "field_position_title": [
+        {
+            "value": "Original and Adaptive Cataloging Specialist"
+        }
+    ],
+    "field_room_number": [
+        {
+            "value": "120"
+        }
+    ],
+    "user_picture": []
+}

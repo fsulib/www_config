@@ -1,0 +1,14 @@
+uuid: 55b91c24-717c-4aee-932b-9155280ab9ae
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.undergraduate
+  module:
+    - user
+id: user_add_role_action.undergraduate
+label: 'Add the Undergraduate role to the selected user(s)'
+type: user
+plugin: user_add_role_action
+configuration:
+  rid: undergraduate

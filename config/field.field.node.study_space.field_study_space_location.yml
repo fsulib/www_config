@@ -1,0 +1,29 @@
+uuid: 3eb7ea28-7b61-4d53-8404-6673f602ff4a
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_study_space_location
+    - node.type.study_space
+    - taxonomy.vocabulary.library_location
+id: node.study_space.field_study_space_location
+field_name: field_study_space_location
+entity_type: node
+bundle: study_space
+label: 'Study Space Location'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      library_location: library_location
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

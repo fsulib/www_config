@@ -1,0 +1,14 @@
+uuid: 908d1d9a-c127-4d52-907f-6e23edf624c0
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.ir_manager
+  module:
+    - user
+id: user_add_role_action.ir_manager
+label: 'Add the IR Manager role to the selected user(s)'
+type: user
+plugin: user_add_role_action
+configuration:
+  rid: ir_manager

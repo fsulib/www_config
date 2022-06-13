@@ -1,0 +1,30 @@
+uuid: 34c7840a-5e42-46a1-81f2-c8b37c5f1b78
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:178e3a03-8d99-4e7a-a38b-aa138d6daac3'
+  module:
+    - block_content
+    - system
+  theme:
+    - fsu_strata
+id: libraryevents
+theme: fsu_strata
+region: content
+weight: 0
+provider: null
+plugin: 'block_content:178e3a03-8d99-4e7a-a38b-aa138d6daac3'
+settings:
+  id: 'block_content:178e3a03-8d99-4e7a-a38b-aa138d6daac3'
+  label: 'News & Events'
+  label_display: visible
+  provider: block_content
+  status: true
+  info: ''
+  view_mode: full
+visibility:
+  request_path:
+    id: request_path
+    negate: false
+    pages: "<front>\r\n/about"

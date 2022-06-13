@@ -1,0 +1,115 @@
+{
+    "uid": [
+        {
+            "value": 31
+        }
+    ],
+    "uuid": [
+        {
+            "value": "bc3093de-93e7-4b0c-8c81-a2d6b2d16ac5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_admin_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "name": [
+        {
+            "value": "sschmucker"
+        }
+    ],
+    "mail": [
+        {
+            "value": "sschmucker@fu.edu"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "America\/New_York"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-03T19:51:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-03T20:39:01+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "roles": [
+        {
+            "target_id": "library_employee",
+            "target_type": "user_role",
+            "target_uuid": "0e6f68b5-df8e-4ff0-b2b0-5d2b750774ac"
+        },
+        {
+            "target_id": "employee",
+            "target_type": "user_role",
+            "target_uuid": "92eff045-2f26-4ca9-a3b3-7bde2011e1ab"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "field_building": [
+        {
+            "value": "Technical Services"
+        }
+    ],
+    "field_first_name": [
+        {
+            "value": "Scott "
+        }
+    ],
+    "field_fsu_department": [],
+    "field_last_name": [
+        {
+            "value": "Schmucker "
+        }
+    ],
+    "field_liaison_fsu_department": [],
+    "field_library_department": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "3e0fc63e-8ce9-4b17-b182-42ccdd7b2532"
+        }
+    ],
+    "field_phone_number": [
+        {
+            "value": "(850) 645-8180"
+        }
+    ],
+    "field_position_title": [
+        {
+            "value": "Electronic Resources Librarian"
+        }
+    ],
+    "field_room_number": [
+        {
+            "value": "120 D"
+        }
+    ],
+    "user_picture": []
+}

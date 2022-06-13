@@ -1,0 +1,28 @@
+uuid: f111ae9c-ae1a-42ff-8cb0-03b775af2378
+langcode: en
+status: true
+dependencies: {  }
+id: jess_staff_directory
+label: 'Jess- Staff Directory'
+code: |-
+  .library-employee-directory .views-row{
+    padding:20px;
+  }
+
+  /* Styling for filters*/
+  /*.library-employee-directory {
+    display:block;.
+    padding-bottom:20px;
+  }*/
+
+  .library-employee-directory .view-content {
+    padding:4px 8px;
+    border: 1px solid #CCC;
+    border-left: 1px solid #CCC;
+    border-right: 1px solid #CCC;
+  }
+media: all
+preprocess: true
+conditions: {  }
+contexts: {  }
+conditions_require_all: true

@@ -1,0 +1,8 @@
+uuid: 75fe1547-7e8a-43d0-ad2d-eb9d4cda7bb9
+langcode: en
+status: true
+dependencies: {  }
+name: 'Study Space Capacity'
+vid: study_space_capacity
+description: 'A taxonomy list for study space capacity'
+weight: 0

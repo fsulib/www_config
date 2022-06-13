@@ -1,0 +1,8 @@
+uuid: b9a64e96-d06a-4e95-a8a9-5960f56fbee2
+langcode: en
+status: true
+dependencies: {  }
+name: 'Study Space Type'
+vid: study_space_type
+description: 'Taxonomy list for study space categories'
+weight: 0

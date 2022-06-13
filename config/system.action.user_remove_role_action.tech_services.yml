@@ -1,0 +1,14 @@
+uuid: 90cc55a4-5928-4b7a-af71-94a6f8c6758d
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.tech_services
+  module:
+    - user
+id: user_remove_role_action.tech_services
+label: 'Remove the Tech Services role from the selected user(s)'
+type: user
+plugin: user_remove_role_action
+configuration:
+  rid: tech_services

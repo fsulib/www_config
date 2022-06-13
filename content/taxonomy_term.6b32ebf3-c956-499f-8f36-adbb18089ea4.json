@@ -31,7 +31,7 @@
     ],
     "name": [
         {
-            "value": "Medicine and College of Medicine"
+            "value": "Medicine"
         }
     ],
     "description": [
@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-01T16:15:09+00:00",
+            "value": "2022-06-03T16:34:09+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],

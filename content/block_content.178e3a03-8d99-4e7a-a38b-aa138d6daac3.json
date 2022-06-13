@@ -1,0 +1,65 @@
+{
+    "uuid": [
+        {
+            "value": "178e3a03-8d99-4e7a-a38b-aa138d6daac3"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "basic",
+            "target_type": "block_content_type",
+            "target_uuid": "bd93dd8d-71b1-4c0e-99e8-a4004533c089"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-06-07T19:43:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "info": [
+        {
+            "value": "News & Events"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-08T05:32:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "reusable": [
+        {
+            "value": true
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "body": [
+        {
+            "value": "   <div class=\"container s3-m-6 s3\" style=\"padding-right: 65px;\">\r\n        <div class=\"row\" style=\"padding-right:65px; background-color:#dacaa6;\">\r\n            <div class=\"col-xs-10 col-xs-offset-1 col-sm-12 col-sm-offset-0\">\r\n                \r\n            <!----News Section--->            \r\n                    <div class=\"col-sm-6 col-md-2\" style=\"width:25%; margin-left:-40px\">\r\n                            <div class=\"col-md-12\">\r\n                                <div class=\"homepage-news-events-section\">\r\n                                     <a href=\"https:\/\/fsulib.com\/fsu-libraries-call-for-art-exhibition-proposals\/\">\r\n                                    <img src=\"sites\/default\/files\/2022-06\/placeholder.png\" alt=\"\" class=\"img-responsive img-expand\">\r\n                                    <h4>FSU Libraries Call for Art Exhibition Proposals <\/h4><p>Art in the Library is launching its first-ever call for Art Exhibition Proposals.<\/p>\r\n                                     <\/a>\r\n                                 <\/div>\r\n                         <\/div>       \r\n                    <\/div>       \r\n            \r\n\r\n                    <div class=\"col-sm-6 col-md-2\" style=\"width:25%; margin-left:-40px\">\r\n                             <div class=\"col-md-12\">\r\n                                <div class=\"homepage-news-events-section\">\r\n                                <a href=\"https:\/\/fsuspecialcollections.wordpress.com\/\">\r\n                                      <img src=\"sites\/default\/files\/2022-06\/placeholder.png\" alt=\"\" class=\"img-responsive img-expand\">\r\n                                    <h4>Pride Month in SCA<\/h4><p>Happy Pride Month! Pride Month is currently celebrated each year in the month of June to honor the 1969 Stonewall Uprising in Manhattan. <\/p>\r\n                                <\/a>\r\n                            <\/div>\r\n                        <\/div>\r\n                    <\/div>\r\n                   <div class=\"col-sm-6 col-md-2\" style=\"width:25%; margin-left:-40px\">\r\n                        \r\n                           <div class=\"col-md-12\">\r\n                                <div class=\"homepage-news-events-section\">\r\n                                 <a href=\"https:\/\/fsuspecialcollections.wordpress.com\/\">\r\n                                      <img src=\"sites\/default\/files\/2022-06\/placeholder.png\" alt=\"\" class=\"img-responsive img-expand\">\r\n                                    <h4>University News<\/h4><p>Morbi vitae nulla vel nibh sodales hendrerit sit amet in nisl<\/p>\r\n                                <\/a>\r\n                            <\/div>\r\n                            <\/div>\r\n                        <\/div>\r\n  <!----Events Section--->                 \r\n             <div class=\"col-sm-6 col-md-2\" style=\"width:35%;\">\r\n                  \r\n                      \r\n                              <div class=\"s3-m-10\" style=\"margin-bottom:0;\">\r\n                                       <div class=\"col-xs-12 col-md-8\" style=\"width:100%;\">\r\n                                               <div id=\"localist-widget-37032751\" class=\"localist-widget\"><\/div>\r\n                                                              <script defer=\"defer\" type=\"text\/javascript\" src=\"https:\/\/calendar.fsu.edu\/widget\/view?schools=fsu&amp;types=89300&amp;days=90&amp;num=4&amp;container=localist-widget-37032751&amp;template=legacy-its\"><\/script>\r\n                                                              <div class=\"clearfix\"><span class=\"hidden\"> <\/span><\/div>\r\n                                                              <p class=\"small\"><a href=\"\/news-events\/calendar-events\" class=\"btn btn-md s3-gt\">View Full Calendar<\/a><\/p>\r\n                                       <\/div>\r\n                               <\/div>\r\n                    \r\n             <\/div>\r\n\r\n\r\n                    <\/div>\r\n\r\n                <\/div>\r\n             <\/div>\r\n  \r\n\r\n           \r\n\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ]
+}

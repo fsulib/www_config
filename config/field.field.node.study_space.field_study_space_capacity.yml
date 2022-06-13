@@ -1,0 +1,29 @@
+uuid: ea925953-64d5-413b-a87c-cd2b2498a6f3
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_study_space_capacity
+    - node.type.study_space
+    - taxonomy.vocabulary.study_space_capacity
+id: node.study_space.field_study_space_capacity
+field_name: field_study_space_capacity
+entity_type: node
+bundle: study_space
+label: 'Study Space Capacity'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      study_space_capacity: study_space_capacity
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

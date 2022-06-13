@@ -1,0 +1,8 @@
+uuid: a2f608e3-cd3b-4032-9ef7-7c58286d8ccb
+langcode: en
+status: true
+dependencies: {  }
+name: 'Study Space Location'
+vid: library_location
+description: 'A taxonomy list for study space locations'
+weight: 0

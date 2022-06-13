@@ -1,0 +1,30 @@
+uuid: da91192b-542a-40d0-9c11-ca226103d055
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:0b0136d1-306a-4036-b3cc-880d1684c1e0'
+  module:
+    - block_content
+    - system
+  theme:
+    - fsu_strata
+id: featuredcollections
+theme: fsu_strata
+region: content
+weight: 1
+provider: null
+plugin: 'block_content:0b0136d1-306a-4036-b3cc-880d1684c1e0'
+settings:
+  id: 'block_content:0b0136d1-306a-4036-b3cc-880d1684c1e0'
+  label: 'Featured Collections'
+  label_display: visible
+  provider: block_content
+  status: true
+  info: ''
+  view_mode: full
+visibility:
+  request_path:
+    id: request_path
+    negate: false
+    pages: '<front>'

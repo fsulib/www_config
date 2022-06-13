@@ -1,0 +1,97 @@
+{
+    "uuid": [
+        {
+            "value": "f226f8c3-c704-4605-9af4-1cebc6276419"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "b17d1dd2-b562-4656-b080-3f9bec3625f6"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-06-07T17:27:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "name": [
+        {
+            "value": "Law-politics-radical-studies.png"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "Gavel",
+            "title": null,
+            "width": 350,
+            "height": 262,
+            "target_type": "file",
+            "target_uuid": "04af1d15-fdcb-49a5-a09a-afc64a13130e"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-07T17:26:57+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-07T17:27:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "Gavel",
+            "title": "",
+            "width": 350,
+            "height": 262,
+            "target_type": "file",
+            "target_uuid": "04af1d15-fdcb-49a5-a09a-afc64a13130e"
+        }
+    ]
+}

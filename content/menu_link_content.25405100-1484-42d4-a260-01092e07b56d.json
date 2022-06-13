@@ -1,0 +1,89 @@
+{
+    "uuid": [
+        {
+            "value": "25405100-1484-42d4-a260-01092e07b56d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "value": "menu_link_content"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-06-09T16:46:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "enabled": [
+        {
+            "value": true
+        }
+    ],
+    "title": [
+        {
+            "value": "LEDS Registration"
+        }
+    ],
+    "description": [],
+    "menu_name": [
+        {
+            "value": "find-and-borrow"
+        }
+    ],
+    "link": [
+        {
+            "uri": "internal:\/form\/led-library-express-delivery-reg",
+            "title": "",
+            "options": []
+        }
+    ],
+    "external": [
+        {
+            "value": false
+        }
+    ],
+    "rediscover": [
+        {
+            "value": true
+        }
+    ],
+    "weight": [
+        {
+            "value": -50
+        }
+    ],
+    "expanded": [
+        {
+            "value": false
+        }
+    ],
+    "parent": [
+        {
+            "value": "menu_link_content:ad06a461-9642-4c7f-a366-43d39154a2a5"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-10T19:26:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ]
+}

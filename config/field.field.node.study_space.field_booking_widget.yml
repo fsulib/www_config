@@ -1,0 +1,21 @@
+uuid: 6d9dd724-2f93-4a16-b1a9-6b782874b2dc
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_booking_widget
+    - node.type.study_space
+  module:
+    - text
+id: node.study_space.field_booking_widget
+field_name: field_booking_widget
+entity_type: node
+bundle: study_space
+label: 'Booking Widget'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text

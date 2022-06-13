@@ -1,0 +1,9 @@
+uuid: 6d69e860-531b-4ec3-9b07-a41c555aaba5
+langcode: en
+status: true
+dependencies: {  }
+id: ir_manager
+label: 'IR Manager'
+weight: 9
+is_admin: null
+permissions: {  }

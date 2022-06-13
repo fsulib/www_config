@@ -1,0 +1,115 @@
+{
+    "uid": [
+        {
+            "value": 48
+        }
+    ],
+    "uuid": [
+        {
+            "value": "2db3e020-2984-471e-9b40-4dc7de43b438"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_admin_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "name": [
+        {
+            "value": "shcohen"
+        }
+    ],
+    "mail": [
+        {
+            "value": "shess@fsu.edu"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "America\/New_York"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-03T20:55:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-03T22:10:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "roles": [
+        {
+            "target_id": "library_employee",
+            "target_type": "user_role",
+            "target_uuid": "0e6f68b5-df8e-4ff0-b2b0-5d2b750774ac"
+        },
+        {
+            "target_id": "employee",
+            "target_type": "user_role",
+            "target_uuid": "92eff045-2f26-4ca9-a3b3-7bde2011e1ab"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "field_building": [
+        {
+            "value": "HMU"
+        }
+    ],
+    "field_first_name": [
+        {
+            "value": "Sarah"
+        }
+    ],
+    "field_fsu_department": [],
+    "field_last_name": [
+        {
+            "value": "Hess Cohen"
+        }
+    ],
+    "field_liaison_fsu_department": [],
+    "field_library_department": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "e82efc3e-b412-4607-affa-73a89a61381c"
+        }
+    ],
+    "field_phone_number": [
+        {
+            "value": "(850) 644-4137"
+        }
+    ],
+    "field_position_title": [
+        {
+            "value": "University Librarian, Head of Music Library Technical Services & Cataloging"
+        }
+    ],
+    "field_room_number": [
+        {
+            "value": "090"
+        }
+    ],
+    "user_picture": []
+}

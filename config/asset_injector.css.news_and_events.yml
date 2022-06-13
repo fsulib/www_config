@@ -1,0 +1,24 @@
+uuid: b7cb6961-3d20-416a-9733-20c8294d861f
+langcode: en
+status: true
+dependencies: {  }
+id: news_and_events
+label: 'News and Events'
+code: |-
+  div.homepage-news-events-section, .row, .cold-md-12{
+   padding: 10px;
+  }
+
+  div.homepage-news-events-section:hover {
+    background:#e7dcc4;
+    box-shadow:0 0 10px rgba(0,0,0,.1)
+  }
+
+  div#block-libraryevents {
+    margin-top: -40px
+  }
+media: all
+preprocess: true
+conditions: {  }
+contexts: {  }
+conditions_require_all: true

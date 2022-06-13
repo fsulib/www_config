@@ -1,0 +1,126 @@
+{
+    "uid": [
+        {
+            "value": 42
+        }
+    ],
+    "uuid": [
+        {
+            "value": "06210ddd-2e05-4280-ac06-07b5c71823eb"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_admin_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "name": [
+        {
+            "value": "dwr16"
+        }
+    ],
+    "mail": [
+        {
+            "value": "dwrodriguez@fsu.edu"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "America\/New_York"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-03T20:23:27+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-03T20:32:35+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "roles": [
+        {
+            "target_id": "administrator",
+            "target_type": "user_role",
+            "target_uuid": "31ae329f-6e59-4810-84e1-e48f8ac46cb3"
+        },
+        {
+            "target_id": "library_employee",
+            "target_type": "user_role",
+            "target_uuid": "0e6f68b5-df8e-4ff0-b2b0-5d2b750774ac"
+        },
+        {
+            "target_id": "faculty",
+            "target_type": "user_role",
+            "target_uuid": "c54abc61-2c04-4496-a5c5-39afca0c13ae"
+        },
+        {
+            "target_id": "employee",
+            "target_type": "user_role",
+            "target_uuid": "92eff045-2f26-4ca9-a3b3-7bde2011e1ab"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "field_building": [
+        {
+            "value": "Strozier"
+        }
+    ],
+    "field_first_name": [
+        {
+            "value": "David"
+        }
+    ],
+    "field_fsu_department": [],
+    "field_last_name": [
+        {
+            "value": "Rodriguez"
+        }
+    ],
+    "field_liaison_fsu_department": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "9cb8c48e-78f1-4ada-ace5-897ef816d573"
+        }
+    ],
+    "field_library_department": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "1ddda550-1908-4d9a-9d2b-33ede7224536"
+        }
+    ],
+    "field_phone_number": [],
+    "field_position_title": [
+        {
+            "value": "Digital Services Librarian"
+        }
+    ],
+    "field_room_number": [
+        {
+            "value": "0023"
+        }
+    ],
+    "user_picture": []
+}

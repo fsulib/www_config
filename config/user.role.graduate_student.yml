@@ -1,0 +1,9 @@
+uuid: 0a4b4f76-6912-430f-8f1b-3cb83a87fbfa
+langcode: en
+status: true
+dependencies: {  }
+id: graduate_student
+label: 'Graduate Student'
+weight: 6
+is_admin: null
+permissions: {  }

@@ -1,0 +1,29 @@
+uuid: e9faec36-dda3-4801-b81d-0906a784b923
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.find-and-borrow
+  module:
+    - system
+  theme:
+    - fsu_strata
+id: findandborrow
+theme: fsu_strata
+region: sidebar_first
+weight: 0
+provider: null
+plugin: 'system_menu_block:find-and-borrow'
+settings:
+  id: 'system_menu_block:find-and-borrow'
+  label: 'Find and Borrow'
+  label_display: '0'
+  provider: system
+  level: 1
+  depth: 0
+  expand_all_items: false
+visibility:
+  request_path:
+    id: request_path
+    negate: false
+    pages: "/find-and-borrow/materials\r\n/find-and-borrow/leds\r\n/find-and-borrow/interlibrary-loan\r\n/form/led-library-express-delivery-reg\r\n/form/pay-for-lost-materials\r\n/find-and-borrow/leds/locations\r\n/form/led-library-express-delivery-mat"

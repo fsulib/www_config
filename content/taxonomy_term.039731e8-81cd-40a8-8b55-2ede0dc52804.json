@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "c8590aa7-f2f4-4d3a-984b-9ae56d01f518"
+            "value": "039731e8-81cd-40a8-8b55-2ede0dc52804"
         }
     ],
     "langcode": [
@@ -18,7 +18,7 @@
     ],
     "revision_created": [
         {
-            "value": "2022-05-31T20:18:35+00:00",
+            "value": "2022-06-03T16:35:00+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -31,7 +31,7 @@
     ],
     "name": [
         {
-            "value": "Sports Management"
+            "value": "Middle Eastern Studies"
         }
     ],
     "description": [
@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-01T16:15:09+00:00",
+            "value": "2022-06-03T16:35:00+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],

@@ -1,0 +1,9 @@
+uuid: 4858ca82-0a96-4488-b067-6f9dac599928
+langcode: en
+status: true
+dependencies: {  }
+id: tech_services
+label: 'Tech Services'
+weight: 8
+is_admin: null
+permissions: {  }

@@ -1,0 +1,110 @@
+{
+    "uid": [
+        {
+            "value": 92
+        }
+    ],
+    "uuid": [
+        {
+            "value": "3403ab46-b92b-4e36-b4b9-bfe7189822bd"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_admin_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "name": [
+        {
+            "value": "lbrown"
+        }
+    ],
+    "mail": [
+        {
+            "value": "lbrown@fsu.edu"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "America\/New_York"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-04T05:37:28+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-04T05:37:28+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "roles": [
+        {
+            "target_id": "library_employee",
+            "target_type": "user_role",
+            "target_uuid": "0e6f68b5-df8e-4ff0-b2b0-5d2b750774ac"
+        },
+        {
+            "target_id": "employee",
+            "target_type": "user_role",
+            "target_uuid": "92eff045-2f26-4ca9-a3b3-7bde2011e1ab"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "field_building": [
+        {
+            "value": "Technical Services"
+        }
+    ],
+    "field_first_name": [
+        {
+            "value": "Linda"
+        }
+    ],
+    "field_fsu_department": [],
+    "field_last_name": [
+        {
+            "value": "Brown"
+        }
+    ],
+    "field_liaison_fsu_department": [],
+    "field_library_department": [],
+    "field_phone_number": [
+        {
+            "value": "(850) 644-6872"
+        }
+    ],
+    "field_position_title": [
+        {
+            "value": "Library Associate"
+        }
+    ],
+    "field_room_number": [
+        {
+            "value": "120"
+        }
+    ],
+    "user_picture": []
+}

@@ -48,24 +48,52 @@
     ],
     "changed": [
         {
-            "value": "2022-05-31T12:49:19+00:00",
+            "value": "2022-06-04T06:14:08+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
-    "roles": [],
+    "roles": [
+        {
+            "target_id": "library_employee",
+            "target_type": "user_role",
+            "target_uuid": "0e6f68b5-df8e-4ff0-b2b0-5d2b750774ac"
+        },
+        {
+            "target_id": "employee",
+            "target_type": "user_role",
+            "target_uuid": "92eff045-2f26-4ca9-a3b3-7bde2011e1ab"
+        }
+    ],
     "default_langcode": [
         {
             "value": true
         }
     ],
     "field_building": [],
-    "field_first_name": [],
+    "field_first_name": [
+        {
+            "value": "Bryan"
+        }
+    ],
     "field_fsu_department": [],
-    "field_last_name": [],
+    "field_last_name": [
+        {
+            "value": "Brown"
+        }
+    ],
     "field_liaison_fsu_department": [],
-    "field_library_department": [],
+    "field_library_department": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "1ddda550-1908-4d9a-9d2b-33ede7224536"
+        }
+    ],
     "field_phone_number": [],
-    "field_position_title": [],
+    "field_position_title": [
+        {
+            "value": "Developer"
+        }
+    ],
     "field_room_number": [],
     "user_picture": []
 }

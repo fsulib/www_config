@@ -1,0 +1,14 @@
+uuid: 7eef6b89-2292-4630-9477-8e3d7852b6e5
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.tech_services
+  module:
+    - user
+id: user_add_role_action.tech_services
+label: 'Add the Tech Services role to the selected user(s)'
+type: user
+plugin: user_add_role_action
+configuration:
+  rid: tech_services

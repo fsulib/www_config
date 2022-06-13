@@ -1,0 +1,30 @@
+uuid: 0b581c84-2036-404f-98ce-49625714dc47
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:7dfca6f7-f007-403c-827d-86e521167d9c'
+  module:
+    - block_content
+    - system
+  theme:
+    - fsu_strata
+id: ablockthatcontainsspecialcollectionshourwidgets
+theme: fsu_strata
+region: content
+weight: 0
+provider: null
+plugin: 'block_content:7dfca6f7-f007-403c-827d-86e521167d9c'
+settings:
+  id: 'block_content:7dfca6f7-f007-403c-827d-86e521167d9c'
+  label: 'Today''s Hours'
+  label_display: visible
+  provider: block_content
+  status: true
+  info: ''
+  view_mode: full
+visibility:
+  request_path:
+    id: request_path
+    negate: false
+    pages: /special-collections-archives

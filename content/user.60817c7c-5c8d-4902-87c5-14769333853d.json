@@ -48,7 +48,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-01T15:21:43+00:00",
+            "value": "2022-06-04T05:17:14+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -71,7 +71,7 @@
     ],
     "field_building": [
         {
-            "value": "Strozier"
+            "value": "Strozier Library"
         }
     ],
     "field_first_name": [
@@ -92,7 +92,11 @@
             "target_uuid": "1ddda550-1908-4d9a-9d2b-33ede7224536"
         }
     ],
-    "field_phone_number": [],
+    "field_phone_number": [
+        {
+            "value": "(850) 645-0829"
+        }
+    ],
     "field_position_title": [
         {
             "value": "Web Services Librarian"
