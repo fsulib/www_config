@@ -26,15 +26,17 @@ elements: |-
     '#title': 'Email Address'
     '#description': 'Please use your FSU email address.'
     '#required': true
-  library_card_number:
-    '#type': number
-    '#title': 'Library Card Number'
-    '#placeholder': '206100'
-    '#required': true
+    '#default_value': '[current-user:mail]'
+  fsu_library_card_number:
+    '#type': textfield
+    '#title': 'FSU Library Card Number'
+    '#default_value': '206'
   department:
     '#type': webform_entity_select
     '#title': Department
     '#description': 'If you are a Panama City customer, please choose Panama City, FL Campus.'
+    '#empty_option': 'Other (My department isn''t listed.'
+    '#empty_value': Other
     '#target_type': taxonomy_term
     '#selection_handler': 'default:taxonomy_term'
     '#selection_settings':

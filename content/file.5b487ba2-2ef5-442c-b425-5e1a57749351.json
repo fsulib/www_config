@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "5b487ba2-2ef5-442c-b425-5e1a57749351"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "filename": [
+        {
+            "value": "noun-florida-725503-782F40.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2022-05\/noun-florida-725503-782F40.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 12170
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-05-20T21:09:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-05-20T21:09:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "uuid": [
+        {
+            "value": "de3e1176-d2f8-4e57-af73-87f8a321bacd"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "a12db886-d412-46b5-9932-855c32fb27dd"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-05-10T11:07:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Giving to the Libraries"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-04-26T18:46:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-05-10T11:07:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/about\/giving",
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<div class=\"s3-m-4 s3-p-0 s3-bg-cover\" style=\"background-image: url(https:\/\/webstyle.unicomm.fsu.edu\/3.3\/img\/placeholders\/ratio-16-9-r-unconquered.jpg);\">\r\n\t<div class=\"row\">\r\n\t\t<div class=\"col-sm-5 col-md-4\">\r\n\t\t\t<div class=\"s3-p-10 s3-gt feature-fixed\">\r\n\t\t\t\t<h2>Lorem Ipsum Dolor Sit Amet<\/h2>\r\n\t\t\t\t<p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation.<\/p>\r\n\t\t\t\t\r\n\t\t\t<\/div>\r\n\t\t<\/div>\r\n\t<\/div>\r\n<\/div>\r\n<blockquote><\/p>\"Nobody graduates from a library, but nobody graduates without one.\"<\/p>\r\n  <p style=\"text-align: right;\"> - Anonymous<\/p><\/blockquote>\r\n\r\n<p>Nearly every Florida State University student utilizes the state-of-the-art, expert services of the Florida State University Libraries. With your support, we can continue to expand our world-class offerings, purchase additional books and journals and make more technological resources available to everyone in the FSU community.\r\n\r\n<p>Your gift strengthens the vital center of scholarly life at the University.\r\n\r\n<p>University Libraries impact every University constituent, whether undergraduate or graduate student, faculty or visiting scholar. We support and enhance intellectual discovery. \r\n<h3>Giving Opportunities<\/h3>\r\n\r\n<p><strong>Libraries are for everyone<\/strong>: University Libraries is focused on the success of all its constituents, from students to faculty and staff, scholars and guests.&nbsp; With a gift to the general fund, you can help provide technology, collections, staffing, special events, and all the activities that enhance learning and make FSU a leader in scholarship and student success.<a href=\"https:\/\/one.fsu.edu\/foundation\/donate\/give-online?fid=%2Fdv6r6svsKQ%3D&amp;fdesc=cBcKdmssl3OMxnbWAS68npbpQymEexes4TJnBzgKJu0%3D\">Library Development Fund: F06478<\/a><\/p>\r\n<p><strong>The Heritage Museum:&nbsp;<\/strong>The Heritage Museum, located in the Werkmeister Room of Dodd Hall, is the public face for FSU&rsquo;s rich history. It is where students, alumni, families, and community members can go to be immersed in FSU&rsquo;s story.&nbsp;Additional funding will allow the Museum to be open expanded hours, maintain updated exhibits, upgrade lighting, and more display cases. A gift to the Heritage Museum Fund is a gift to preserve and protect FSU&#39;s history.&nbsp;<a href=\"https:\/\/one.fsu.edu\/foundation\/donate\/give-online?fid=wq4wNrr7AU8%3D&amp;fdesc=cBH2h5R7XkZUzfISOyHjCZiRPWCWDuCniiJoqRfhWw0%3D\">The Heritage Fund FO8319S<\/a><\/p>\r\n<p><strong>Undergraduates Rule in &ldquo;The Learning District&rdquo;:&nbsp;<\/strong>The Learning District in Strozier library offers tutoring with a focus on challenging classes, especially in STEM (science, technology, engineering and math) disciplines. Tutoring is offered late at night when student demand is greatest.&nbsp;<a href=\"https:\/\/one.fsu.edu\/foundation\/donate\/give-online?fid=wmTuzxkKwyM%3D&amp;fdesc=P31dE5cglq6MBFlD0%2F4U8XX33IMVyv7M\">Late Night Library Fund: F08314<\/a><\/p>\r\n<p><strong>FSU Libraries Textbook Fund:&nbsp;<\/strong>The FSU Libraries Textbook fund aims to alleviate the costs of course materials for students who demonstrate financial need.&nbsp;<a href=\"https:\/\/one.fsu.edu\/foundation\/donate\/give-online?fid=MTnScX3Ekb4%3D&amp;fdesc=yt%2B%2FIdZEs%2B7yUtPqB8OsB6m5JBZ2ZwjYcpHmCqkfLqA%3D\">FSU Libraries Textbook Fund F08272<\/a><\/p>\r\n<p><strong>Florida Book Awards:&nbsp;<\/strong>The most comprehensive state book awards program in the nation.&nbsp; The Florida Book Awards recognizes and celebrates the best books written by and about the Sunshine State.&nbsp;<a href=\"https:\/\/one.fsu.edu\/foundation\/donate\/give-online?fid=Tm%2BHc968JW8%3D&amp;fdesc=gCoT9r%2Fpx45ONJyl1mW5lKROOJhuS%2Bxc\">Florida Book Awards F08116<\/a><\/p>\r\n<p><strong>Special Collections:&nbsp;<\/strong>FSU Special Collections is home to world-class collections including the papers of Nobel Laureate Paul Dirac, John M. Shaw Childhood in Poetry Collection, and the Napoleon and the French Revolution Collection. Endowed funds support visiting scholars and digitization projects.&nbsp;<a href=\"https:\/\/one.fsu.edu\/foundation\/donate\/give-online?fid=NP0eFvICABs%3D&amp;fdesc=iCE70agiH%2By1Bv8hvrO0ePmQxHEwbb8BkuWkWCjhF7WvtGAMpmI0HA%3D%3D\">Libraries Special Collections Fund F07711<\/a><\/p>\r\n<p><strong>Start a New Fund:&nbsp;<\/strong>University Libraries are a great place to invest in academics at FSU.&nbsp; Here you can support staff excellence, world-class collections, round-the-clock access to research material, safe spaces for study and intellectual pursuits.&nbsp; Contact us to create your own investment in FSU with University Libraries.&nbsp;<\/p>\r\n<h3>How to Give<\/h3>\r\n<p>There are many ways to support the Florida State University Libraries. For more information please contact: Jenni McKnight, Interim Director of Development, University Libraries, at 850-644-5211 or <a href=\"mailto:jlmcknight@fsu.edu\">jlmcknight@fsu.edu<\/a>.<\/p>\r\n<h3><a href=\"https:\/\/one.fsu.edu\/foundation\/donate\/unit\/libraries\/university-libraries\/donation-form\" target=\"_blank\">Give Now<\/a><\/h3>",
+            "format": "full_html",
+            "summary": ""
+        }
+    ]
+}

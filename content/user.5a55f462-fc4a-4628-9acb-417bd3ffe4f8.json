@@ -1,0 +1,120 @@
+{
+    "uid": [
+        {
+            "value": 75
+        }
+    ],
+    "uuid": [
+        {
+            "value": "5a55f462-fc4a-4628-9acb-417bd3ffe4f8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_admin_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "name": [
+        {
+            "value": "aberry"
+        }
+    ],
+    "mail": [
+        {
+            "value": "aberry@admin.fsu.edu"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "America\/New_York"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-03T21:34:13+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-04T05:17:48+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "roles": [
+        {
+            "target_id": "library_employee",
+            "target_type": "user_role",
+            "target_uuid": "0e6f68b5-df8e-4ff0-b2b0-5d2b750774ac"
+        },
+        {
+            "target_id": "faculty",
+            "target_type": "user_role",
+            "target_uuid": "c54abc61-2c04-4496-a5c5-39afca0c13ae"
+        },
+        {
+            "target_id": "employee",
+            "target_type": "user_role",
+            "target_uuid": "92eff045-2f26-4ca9-a3b3-7bde2011e1ab"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "field_building": [
+        {
+            "value": "HMU"
+        }
+    ],
+    "field_first_name": [
+        {
+            "value": "Avis"
+        }
+    ],
+    "field_fsu_department": [],
+    "field_last_name": [
+        {
+            "value": "Berry"
+        }
+    ],
+    "field_liaison_fsu_department": [],
+    "field_library_department": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "e82efc3e-b412-4607-affa-73a89a61381c"
+        }
+    ],
+    "field_phone_number": [
+        {
+            "value": "(850) 644-0417"
+        }
+    ],
+    "field_position_title": [
+        {
+            "value": "Student Supervisor"
+        }
+    ],
+    "field_room_number": [
+        {
+            "value": "090"
+        }
+    ],
+    "user_picture": []
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f78a2fa5-b252-4785-8543-fdf66975ebc2"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/ef52917e-7138-4c02-a2b6-2ee5fc9fb3ac"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/research-and-publish\/copyright"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

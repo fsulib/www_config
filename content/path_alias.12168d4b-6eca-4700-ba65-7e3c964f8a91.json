@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "12168d4b-6eca-4700-ba65-7e3c964f8a91"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/96370e3f-e34c-4a66-8dd3-e5e6f13d1627"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/about\/events"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

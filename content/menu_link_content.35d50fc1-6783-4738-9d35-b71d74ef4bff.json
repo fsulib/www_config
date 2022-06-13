@@ -1,0 +1,89 @@
+{
+    "uuid": [
+        {
+            "value": "35d50fc1-6783-4738-9d35-b71d74ef4bff"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "value": "menu_link_content"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-06-09T16:12:15+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "enabled": [
+        {
+            "value": true
+        }
+    ],
+    "title": [
+        {
+            "value": "Etextbooks"
+        }
+    ],
+    "description": [],
+    "menu_name": [
+        {
+            "value": "teaching-and-learning"
+        }
+    ],
+    "link": [
+        {
+            "uri": "internal:\/teaching-and-learning\/course-materials\/etextboks",
+            "title": "",
+            "options": []
+        }
+    ],
+    "external": [
+        {
+            "value": false
+        }
+    ],
+    "rediscover": [
+        {
+            "value": true
+        }
+    ],
+    "weight": [
+        {
+            "value": 0
+        }
+    ],
+    "expanded": [
+        {
+            "value": false
+        }
+    ],
+    "parent": [
+        {
+            "value": "menu_link_content:f2965749-e0d2-44a4-82e7-04762da2675c"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-09T16:12:15+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ]
+}

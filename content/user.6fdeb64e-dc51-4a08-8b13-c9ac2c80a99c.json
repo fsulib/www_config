@@ -1,0 +1,115 @@
+{
+    "uid": [
+        {
+            "value": 9
+        }
+    ],
+    "uuid": [
+        {
+            "value": "6fdeb64e-dc51-4a08-8b13-c9ac2c80a99c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_admin_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "name": [
+        {
+            "value": "mbouquette"
+        }
+    ],
+    "mail": [
+        {
+            "value": "mbouquette@fsu.edu"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "America\/New_York"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-03T17:57:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-03T20:36:43+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "roles": [
+        {
+            "target_id": "library_employee",
+            "target_type": "user_role",
+            "target_uuid": "0e6f68b5-df8e-4ff0-b2b0-5d2b750774ac"
+        },
+        {
+            "target_id": "employee",
+            "target_type": "user_role",
+            "target_uuid": "92eff045-2f26-4ca9-a3b3-7bde2011e1ab"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "field_building": [
+        {
+            "value": "Strozier Library"
+        }
+    ],
+    "field_first_name": [
+        {
+            "value": "Marvin"
+        }
+    ],
+    "field_fsu_department": [],
+    "field_last_name": [
+        {
+            "value": "Bouquette"
+        }
+    ],
+    "field_liaison_fsu_department": [],
+    "field_library_department": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "17ba6f3d-ed54-440a-ab51-157d37dd376b"
+        }
+    ],
+    "field_phone_number": [
+        {
+            "value": "(850) 644-1486"
+        }
+    ],
+    "field_position_title": [
+        {
+            "value": "Circulating Technology Supervisor"
+        }
+    ],
+    "field_room_number": [
+        {
+            "value": "112 "
+        }
+    ],
+    "user_picture": []
+}

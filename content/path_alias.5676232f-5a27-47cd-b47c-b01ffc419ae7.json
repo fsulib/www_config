@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "5676232f-5a27-47cd-b47c-b01ffc419ae7"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/aa5444a4-1077-41b8-8b0a-23c13cfe41b6"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/about\/faculty-assembly"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

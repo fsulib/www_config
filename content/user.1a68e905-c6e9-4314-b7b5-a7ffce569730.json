@@ -1,0 +1,129 @@
+{
+    "uid": [
+        {
+            "value": 64
+        }
+    ],
+    "uuid": [
+        {
+            "value": "1a68e905-c6e9-4314-b7b5-a7ffce569730"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_admin_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "name": [
+        {
+            "value": "kegrove"
+        }
+    ],
+    "mail": [
+        {
+            "value": "kegrove@fsu.edu"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "America\/New_York"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-03T21:19:15+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-03T22:07:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "roles": [
+        {
+            "target_id": "library_employee",
+            "target_type": "user_role",
+            "target_uuid": "0e6f68b5-df8e-4ff0-b2b0-5d2b750774ac"
+        },
+        {
+            "target_id": "subject_librarian",
+            "target_type": "user_role",
+            "target_uuid": "2bf752af-830d-42d1-b048-2adc9b5489f3"
+        },
+        {
+            "target_id": "employee",
+            "target_type": "user_role",
+            "target_uuid": "92eff045-2f26-4ca9-a3b3-7bde2011e1ab"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "field_building": [
+        {
+            "value": "Dirac Science Library"
+        }
+    ],
+    "field_first_name": [
+        {
+            "value": "Kelly"
+        }
+    ],
+    "field_fsu_department": [],
+    "field_last_name": [
+        {
+            "value": "Grove"
+        }
+    ],
+    "field_liaison_fsu_department": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "428af063-d818-4a26-b6f9-c870b5ec5589"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "5d2842fc-cf23-47fb-849d-ea30914650ae"
+        }
+    ],
+    "field_library_department": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "6c5f3e69-f4ee-40d3-bdad-d156e0c7d8e4"
+        }
+    ],
+    "field_phone_number": [
+        {
+            "value": "(850) 644-0023"
+        }
+    ],
+    "field_position_title": [
+        {
+            "value": "GIS and Earth Sciences Librarian"
+        }
+    ],
+    "field_room_number": [
+        {
+            "value": "202A"
+        }
+    ],
+    "user_picture": []
+}

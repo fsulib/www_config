@@ -1,0 +1,115 @@
+{
+    "uid": [
+        {
+            "value": 45
+        }
+    ],
+    "uuid": [
+        {
+            "value": "bfe72b12-ffad-44f6-a752-4da83cb125d0"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_admin_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "name": [
+        {
+            "value": "jms18t"
+        }
+    ],
+    "mail": [
+        {
+            "value": "jmschoonover@fsu.edu"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "America\/New_York"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-03T20:50:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-04T05:16:38+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "roles": [
+        {
+            "target_id": "library_employee",
+            "target_type": "user_role",
+            "target_uuid": "0e6f68b5-df8e-4ff0-b2b0-5d2b750774ac"
+        },
+        {
+            "target_id": "employee",
+            "target_type": "user_role",
+            "target_uuid": "92eff045-2f26-4ca9-a3b3-7bde2011e1ab"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "field_building": [
+        {
+            "value": "Strozier Library"
+        }
+    ],
+    "field_first_name": [
+        {
+            "value": "Calvin"
+        }
+    ],
+    "field_fsu_department": [],
+    "field_last_name": [
+        {
+            "value": "Schoonover"
+        }
+    ],
+    "field_liaison_fsu_department": [],
+    "field_library_department": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "17ba6f3d-ed54-440a-ab51-157d37dd376b"
+        }
+    ],
+    "field_phone_number": [
+        {
+            "value": "(850) 644-3084"
+        }
+    ],
+    "field_position_title": [
+        {
+            "value": "Strozier Technology Desk Hiring Supervisor "
+        }
+    ],
+    "field_room_number": [
+        {
+            "value": "112"
+        }
+    ],
+    "user_picture": []
+}

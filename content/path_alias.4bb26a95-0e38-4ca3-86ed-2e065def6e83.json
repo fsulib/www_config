@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "4bb26a95-0e38-4ca3-86ed-2e065def6e83"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/29aa0ff9-fb6c-4c73-b113-e5dbf2a79da3"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/find-and-borrow\/interlibrary-loan"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

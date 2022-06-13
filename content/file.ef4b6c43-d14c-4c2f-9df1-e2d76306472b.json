@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "ef4b6c43-d14c-4c2f-9df1-e2d76306472b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "filename": [
+        {
+            "value": "noun-consultation-3012380-A4B7DB.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2022-06\/noun-consultation-3012380-A4B7DB.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 5438
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-02T19:07:54+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-02T19:08:03+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

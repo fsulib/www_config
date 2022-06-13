@@ -1,0 +1,115 @@
+{
+    "uid": [
+        {
+            "value": 39
+        }
+    ],
+    "uuid": [
+        {
+            "value": "41e35bf4-ab68-4b70-8055-0ad64e9235ce"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_admin_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "name": [
+        {
+            "value": "mbonnell"
+        }
+    ],
+    "mail": [
+        {
+            "value": "mbonnell@fsu.edu"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "America\/New_York"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-03T20:19:14+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-03T20:34:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "roles": [
+        {
+            "target_id": "library_employee",
+            "target_type": "user_role",
+            "target_uuid": "0e6f68b5-df8e-4ff0-b2b0-5d2b750774ac"
+        },
+        {
+            "target_id": "employee",
+            "target_type": "user_role",
+            "target_uuid": "92eff045-2f26-4ca9-a3b3-7bde2011e1ab"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "field_building": [
+        {
+            "value": "Strozier Library"
+        }
+    ],
+    "field_first_name": [
+        {
+            "value": "Meagan"
+        }
+    ],
+    "field_fsu_department": [],
+    "field_last_name": [
+        {
+            "value": "Bonnell"
+        }
+    ],
+    "field_liaison_fsu_department": [],
+    "field_library_department": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "602fc71c-955b-4e33-a0b9-da2baa4577a0"
+        }
+    ],
+    "field_phone_number": [
+        {
+            "value": "(850) 645-8925"
+        }
+    ],
+    "field_position_title": [
+        {
+            "value": "Assistant Director of Marketing and Communications"
+        }
+    ],
+    "field_room_number": [
+        {
+            "value": "313D"
+        }
+    ],
+    "user_picture": []
+}

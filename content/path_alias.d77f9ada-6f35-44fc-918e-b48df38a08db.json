@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "d77f9ada-6f35-44fc-918e-b48df38a08db"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/29d51d17-d5ed-43b4-a74e-fce2da0f3d66"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/about\/diversity-inclusion"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

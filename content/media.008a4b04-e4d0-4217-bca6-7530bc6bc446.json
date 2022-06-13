@@ -1,0 +1,97 @@
+{
+    "uuid": [
+        {
+            "value": "008a4b04-e4d0-4217-bca6-7530bc6bc446"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "b17d1dd2-b562-4656-b080-3f9bec3625f6"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-05-31T12:49:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "name": [
+        {
+            "value": "FDLP-logo.png"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "FDLP Logo",
+            "title": null,
+            "width": 216,
+            "height": 216,
+            "target_type": "file",
+            "target_uuid": "5a73d3f9-7edd-44cc-8054-daeeff9e409d"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-05-13T20:17:35+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-05-13T20:17:50+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "FDLP Logo",
+            "title": "",
+            "width": 216,
+            "height": 216,
+            "target_type": "file",
+            "target_uuid": "5a73d3f9-7edd-44cc-8054-daeeff9e409d"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "3b11af00-5ddf-4dfb-b4cc-b0f9b8ade316"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/de3e1176-d2f8-4e57-af73-87f8a321bacd"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/about\/giving"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

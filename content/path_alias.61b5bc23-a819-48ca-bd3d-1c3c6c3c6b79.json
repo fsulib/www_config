@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "61b5bc23-a819-48ca-bd3d-1c3c6c3c6b79"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/claimed_returned\/drafts"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/form\/claim-returned\/drafts"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

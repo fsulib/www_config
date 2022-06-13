@@ -1,0 +1,115 @@
+{
+    "uid": [
+        {
+            "value": 52
+        }
+    ],
+    "uuid": [
+        {
+            "value": "5f360fa7-ed17-4fef-8d0f-890a34f3c0ce"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_admin_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "name": [
+        {
+            "value": "nruhs"
+        }
+    ],
+    "mail": [
+        {
+            "value": "nruhs@fsu.edu"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "America\/New_York"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-03T21:01:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-04T05:26:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "roles": [
+        {
+            "target_id": "library_employee",
+            "target_type": "user_role",
+            "target_uuid": "0e6f68b5-df8e-4ff0-b2b0-5d2b750774ac"
+        },
+        {
+            "target_id": "employee",
+            "target_type": "user_role",
+            "target_uuid": "92eff045-2f26-4ca9-a3b3-7bde2011e1ab"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "field_building": [
+        {
+            "value": "Dirac Science Library"
+        }
+    ],
+    "field_first_name": [
+        {
+            "value": "Nicholas"
+        }
+    ],
+    "field_fsu_department": [],
+    "field_last_name": [
+        {
+            "value": "Ruhs"
+        }
+    ],
+    "field_liaison_fsu_department": [],
+    "field_library_department": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "6c5f3e69-f4ee-40d3-bdad-d156e0c7d8e4"
+        }
+    ],
+    "field_phone_number": [
+        {
+            "value": "(850) 645-9597"
+        }
+    ],
+    "field_position_title": [
+        {
+            "value": "Research Data Management Librarian"
+        }
+    ],
+    "field_room_number": [
+        {
+            "value": "202A"
+        }
+    ],
+    "user_picture": []
+}

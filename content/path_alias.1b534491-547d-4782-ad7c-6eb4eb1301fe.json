@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "1b534491-547d-4782-ad7c-6eb4eb1301fe"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/b7d08551-fc9b-4272-9560-8c0429927f60"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/research-and-publish"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

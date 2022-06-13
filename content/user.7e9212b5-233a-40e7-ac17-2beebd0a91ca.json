@@ -1,0 +1,120 @@
+{
+    "uid": [
+        {
+            "value": 128
+        }
+    ],
+    "uuid": [
+        {
+            "value": "7e9212b5-233a-40e7-ac17-2beebd0a91ca"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_admin_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "name": [
+        {
+            "value": "mpw11c"
+        }
+    ],
+    "mail": [
+        {
+            "value": "mrawls@fsu.edu"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "America\/New_York"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-04T06:40:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-04T06:40:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "roles": [
+        {
+            "target_id": "library_employee",
+            "target_type": "user_role",
+            "target_uuid": "0e6f68b5-df8e-4ff0-b2b0-5d2b750774ac"
+        },
+        {
+            "target_id": "subject_librarian",
+            "target_type": "user_role",
+            "target_uuid": "2bf752af-830d-42d1-b048-2adc9b5489f3"
+        },
+        {
+            "target_id": "employee",
+            "target_type": "user_role",
+            "target_uuid": "92eff045-2f26-4ca9-a3b3-7bde2011e1ab"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "field_building": [
+        {
+            "value": "Strozier Library"
+        }
+    ],
+    "field_first_name": [
+        {
+            "value": "Mallary"
+        }
+    ],
+    "field_fsu_department": [],
+    "field_last_name": [
+        {
+            "value": "Rawls"
+        }
+    ],
+    "field_liaison_fsu_department": [],
+    "field_library_department": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "1b36d6d7-197c-419f-a4b2-82f41aeb77f1"
+        }
+    ],
+    "field_phone_number": [
+        {
+            "value": "(850) 645-8044"
+        }
+    ],
+    "field_position_title": [
+        {
+            "value": "Humanities Librarian"
+        }
+    ],
+    "field_room_number": [
+        {
+            "value": "027N"
+        }
+    ],
+    "user_picture": []
+}

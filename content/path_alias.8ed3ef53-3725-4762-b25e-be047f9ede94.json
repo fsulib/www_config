@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "8ed3ef53-3725-4762-b25e-be047f9ede94"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/150eb5ab-09d5-44e9-95f0-6586c86fb87e"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/find-and-borrow\/materials"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

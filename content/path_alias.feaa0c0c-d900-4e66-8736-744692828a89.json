@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "feaa0c0c-d900-4e66-8736-744692828a89"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/3e50514c-c5f5-4efe-bee9-28c14cbf8170"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/find-and-borrow\/policies-faq"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "968e1217-5e49-476c-89fd-fbad8e3d2832"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/claimed_returned"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/form\/claim-returned"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

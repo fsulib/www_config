@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "33197bb2-f258-4747-bda9-7c12128d4bdb"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/f7cf6985-878f-42cc-84bf-1b65bfd1e16b"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/research-and-publish\/research\/digital-humanities"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

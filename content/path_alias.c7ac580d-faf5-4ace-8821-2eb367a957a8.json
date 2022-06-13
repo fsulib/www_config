@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "c7ac580d-faf5-4ace-8821-2eb367a957a8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/72cf5b41-6880-4c3f-ad37-891f5a04f671"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/collections\/government-docs"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

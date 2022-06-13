@@ -1,0 +1,19 @@
+uuid: d6f819a1-1a2d-4da8-a969-c103dbac3f47
+langcode: en
+status: true
+dependencies: {  }
+id: select_from_drop_down_list
+label: 'Select from drop down list'
+code: |-
+  .form-control {
+    height:40px;
+  }
+
+  .label {
+    display: block;
+  }
+media: all
+preprocess: true
+conditions: {  }
+contexts: {  }
+conditions_require_all: true

@@ -1,0 +1,115 @@
+{
+    "uid": [
+        {
+            "value": 103
+        }
+    ],
+    "uuid": [
+        {
+            "value": "923c82ee-ae23-4ba4-be06-6066eaecee31"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_admin_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "name": [
+        {
+            "value": "deg02c"
+        }
+    ],
+    "mail": [
+        {
+            "value": "dgerlock@fsu.edu"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "America\/New_York"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-04T05:53:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-04T05:53:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "roles": [
+        {
+            "target_id": "library_employee",
+            "target_type": "user_role",
+            "target_uuid": "0e6f68b5-df8e-4ff0-b2b0-5d2b750774ac"
+        },
+        {
+            "target_id": "employee",
+            "target_type": "user_role",
+            "target_uuid": "92eff045-2f26-4ca9-a3b3-7bde2011e1ab"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "field_building": [
+        {
+            "value": "Strozier Library"
+        }
+    ],
+    "field_first_name": [
+        {
+            "value": "Emory "
+        }
+    ],
+    "field_fsu_department": [],
+    "field_last_name": [
+        {
+            "value": "Gerlock"
+        }
+    ],
+    "field_liaison_fsu_department": [],
+    "field_library_department": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "f8e42e53-c860-40d3-8f43-a923b1da76b2"
+        }
+    ],
+    "field_phone_number": [
+        {
+            "value": "(850) 296-9001"
+        }
+    ],
+    "field_position_title": [
+        {
+            "value": " Facilities Manager"
+        }
+    ],
+    "field_room_number": [
+        {
+            "value": "209D"
+        }
+    ],
+    "user_picture": []
+}

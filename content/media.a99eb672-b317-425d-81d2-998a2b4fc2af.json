@@ -1,0 +1,97 @@
+{
+    "uuid": [
+        {
+            "value": "a99eb672-b317-425d-81d2-998a2b4fc2af"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "b17d1dd2-b562-4656-b080-3f9bec3625f6"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-05-31T12:49:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "name": [
+        {
+            "value": "chuttersnap-m3ewYVannII-unsplash.jpg"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "book shelf full of books",
+            "title": null,
+            "width": 3264,
+            "height": 2448,
+            "target_type": "file",
+            "target_uuid": "3e868aff-f483-45b3-b71e-a612db43e7b3"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-05-17T15:55:25+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-05-17T15:55:54+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "book shelf full of books",
+            "title": "",
+            "width": 3264,
+            "height": 2448,
+            "target_type": "file",
+            "target_uuid": "3e868aff-f483-45b3-b71e-a612db43e7b3"
+        }
+    ]
+}

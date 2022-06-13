@@ -1,0 +1,107 @@
+{
+    "uid": [
+        {
+            "value": 11
+        }
+    ],
+    "uuid": [
+        {
+            "value": "8fb4e142-f369-4527-8ee2-b3f53feb2883"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_admin_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "name": [
+        {
+            "value": "ra15g"
+        }
+    ],
+    "mail": [
+        {
+            "value": "raleman2@fsu.edu"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "America\/New_York"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-03T17:59:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-03T20:36:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "roles": [
+        {
+            "target_id": "library_employee",
+            "target_type": "user_role",
+            "target_uuid": "0e6f68b5-df8e-4ff0-b2b0-5d2b750774ac"
+        },
+        {
+            "target_id": "employee",
+            "target_type": "user_role",
+            "target_uuid": "92eff045-2f26-4ca9-a3b3-7bde2011e1ab"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "field_building": [
+        {
+            "value": "Dirac Science Library"
+        }
+    ],
+    "field_first_name": [
+        {
+            "value": "Ruben"
+        }
+    ],
+    "field_fsu_department": [],
+    "field_last_name": [
+        {
+            "value": "Aleman"
+        }
+    ],
+    "field_liaison_fsu_department": [],
+    "field_library_department": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "e9d0825f-bd91-4232-9179-e51e2d1960d8"
+        }
+    ],
+    "field_phone_number": [],
+    "field_position_title": [
+        {
+            "value": "Digital Media and Accessibility Specialist"
+        }
+    ],
+    "field_room_number": [],
+    "user_picture": []
+}

@@ -1,0 +1,103 @@
+{
+    "uid": [
+        {
+            "value": 5
+        }
+    ],
+    "uuid": [
+        {
+            "value": "1615984b-d525-4cab-ab18-c52e3da0aa02"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_admin_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "name": [
+        {
+            "value": "lnw05c"
+        }
+    ],
+    "mail": [
+        {
+            "value": "lwharton@fsu.edu"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "America\/New_York"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-05-31T19:59:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-03T20:35:41+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "roles": [
+        {
+            "target_id": "library_employee",
+            "target_type": "user_role",
+            "target_uuid": "0e6f68b5-df8e-4ff0-b2b0-5d2b750774ac"
+        },
+        {
+            "target_id": "subject_librarian",
+            "target_type": "user_role",
+            "target_uuid": "2bf752af-830d-42d1-b048-2adc9b5489f3"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "field_building": [],
+    "field_first_name": [
+        {
+            "value": "Lindsey"
+        }
+    ],
+    "field_fsu_department": [],
+    "field_last_name": [
+        {
+            "value": "Wharton"
+        }
+    ],
+    "field_liaison_fsu_department": [],
+    "field_library_department": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4fdfb4b2-b7c0-4c83-a32c-208392bd8c0e"
+        }
+    ],
+    "field_phone_number": [],
+    "field_position_title": [
+        {
+            "value": "Extended Campus and Distance Services Librarian"
+        }
+    ],
+    "field_room_number": [],
+    "user_picture": []
+}

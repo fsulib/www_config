@@ -26,4 +26,4 @@ visibility:
   request_path:
     id: request_path
     negate: false
-    pages: "/find-and-borrow/materials\r\n/find-and-borrow/leds\r\n/find-and-borrow/interlibrary-loan\r\n/form/led-library-express-delivery-reg\r\n/form/pay-for-lost-materials\r\n/find-and-borrow/leds/locations\r\n/form/led-library-express-delivery-mat"
+    pages: "/find-and-borrow/materials\r\n/find-and-borrow/leds\r\n/find-and-borrow/interlibrary-loan\r\n/form/led-library-express-delivery-reg\r\n/form/pay-for-lost-materials\r\n/find-and-borrow/leds/locations\r\n/form/led-library-express-delivery-mat\r\n/form/claim-returned"

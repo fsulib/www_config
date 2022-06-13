@@ -1,0 +1,97 @@
+{
+    "uuid": [
+        {
+            "value": "54f2cde0-20e3-40d3-b2b5-04ff34c0967f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "b17d1dd2-b562-4656-b080-3f9bec3625f6"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-05-31T12:49:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "name": [
+        {
+            "value": "lina-trochez-ktPKyUs3Qjs-unsplash.jpg"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "someone holding a flower",
+            "title": null,
+            "width": 6016,
+            "height": 4016,
+            "target_type": "file",
+            "target_uuid": "f49bf96e-caab-478c-a6a1-03dd3ec00ac9"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-05-17T15:49:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-05-17T15:49:36+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "someone holding a flower",
+            "title": "",
+            "width": 6016,
+            "height": 4016,
+            "target_type": "file",
+            "target_uuid": "f49bf96e-caab-478c-a6a1-03dd3ec00ac9"
+        }
+    ]
+}
