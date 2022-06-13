@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "930afdf9-cb10-44da-8b3b-2ce558465fd6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/course_reserve_request_form\/confirmation"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/form\/course-reserve-request-form\/confirmation"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

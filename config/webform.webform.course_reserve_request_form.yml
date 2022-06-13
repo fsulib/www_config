@@ -1,4 +1,4 @@
-uuid: 246c7e79-386c-4194-adaf-9e59719f8a97
+uuid: 2567fd4e-af92-4595-85a1-6be8d08ee8f1
 langcode: en
 status: open
 dependencies: {  }
@@ -8,20 +8,20 @@ close: null
 uid: 1
 template: false
 archive: false
-id: led_library_express_delivery_reg
-title: 'Library Express Delivery Registration'
-description: "<p>Complete and send this form before requesting delivery services. Upon completion of the form you do not need to submit another unless your information changes.</p>\r\n\r\n<p><strong>By filling out and sending this form, I am authorizing the FSU Libraries to check books and other materials I request through this service to my FSU Libraries account. I acknowledge that I am responsible for returning the materials to the Libraries.</strong></p>"
+id: course_reserve_request_form
+title: 'Course Reserve Request Form'
+description: ''
 category: ''
 elements: |-
+  first_name:
+    '#type': textfield
+    '#title': 'First Name'
+    '#default_value': '[current-user:field_last_name]'
+    '#required': true
   last_name:
     '#type': textfield
     '#title': 'Last Name'
     '#default_value': '[current-user:field_last_name]'
-    '#required': true
-  first_name:
-    '#type': textfield
-    '#title': 'First Name'
-    '#default_value': '[current-user:field_first_name]'
     '#required': true
   email_address:
     '#type': email
@@ -29,46 +29,47 @@ elements: |-
     '#description': 'Please use your FSU email address.'
     '#required': true
     '#default_value': '[current-user:mail]'
-  fsu_library_card_number:
+  phone_number:
     '#type': textfield
-    '#title': 'FSU Library Card Number'
-    '#default_value': '206'
-  department:
+    '#title': 'Phone Number'
+  reserves_location:
+    '#type': select
+    '#title': 'Reserves Location'
+    '#description': 'Let us know which library you would like this textbook located.'
+    '#options':
+      'Strozier Library': 'Strozier Library'
+      'Dirac Science Library': 'Dirac Science Library'
+      'FAMU-FSU Engineering Library': 'FAMU-FSU Engineering Library'
+      'Electronic Course Reserve (Placed in Canvas)': 'Electronic Course Reserve (Placed in Canvas)'
+      'Allen Music Library': 'Allen Music Library'
+    '#required': true
+  course_title:
+    '#type': textfield
+    '#title': 'Course Title'
+    '#description': '<div class="description">(e.g., General Psychology, PSY 2010)</div>'
+  course_section_course_reserves_only_:
+    '#type': textfield
+    '#title': 'Course Section (Course Reserves Only) '
+  fsu_department:
     '#type': webform_entity_select
-    '#title': Department
-    '#description': 'If you are a Panama City customer, please choose Panama City, FL Campus.'
-    '#empty_option': 'Other (My department isn''t listed.'
-    '#empty_value': Other
+    '#title': 'FSU Department'
     '#target_type': taxonomy_term
     '#selection_handler': 'default:taxonomy_term'
     '#selection_settings':
       target_bundles:
         fsu_departments: fsu_departments
-      sort:
-        field: name
-        direction: ASC
-  phone_number:
-    '#type': tel
-    '#title': 'Phone Number'
-  fsu_status:
+    '#required': true
+  semester:
     '#type': select
-    '#title': 'FSU Status'
+    '#title': Semester
     '#options':
-      Faculty: Faculty
-      Staff: Staff
-      'Graduate Assistant': 'Graduate Assistant'
-      'Teaching Assistant': 'Teaching Assistant'
-      'Panama City, Fl Student or Faculty': 'Panama City, Fl Student or Faculty'
-  ill_interlibrary_loan_account_confirmation_:
-    '#type': radios
-    '#title': 'ILL (Interlibrary Loan Account Confirmation) '
-    '#description': |-
-      <div class="form-item webform-component webform-component-radios webform-component--ill-confirm">
-      <div class="description">This verifies that you have an Interlibrary Loan account. With an ILL account we can immediately begin an ILL request if the requested item is not immediately available. This will help us get your item to you faster.</div>
-      </div>
-    '#options':
-      'Yes': 'Yes'
-      'No': 'No'
+      Fall: Fall
+      Spring: Spring
+      'Summer (13 week)': 'Summer (13 week)'
+      'Summer (8 week)': 'Summer (8 week)'
+      'Summer (6 week, 1st term)': 'Summer (6 week, 1st term)'
+      'Summer (6 week, 2nd term)': 'Summer (6 week, 2nd term)'
+    '#required': true
 css: ''
 javascript: ''
 settings:
@@ -250,79 +251,5 @@ access:
     roles: {  }
     users: {  }
     permissions: {  }
-handlers:
-  value_of_email_address_:
-    id: email
-    handler_id: value_of_email_address_
-    label: 'Value of "Email Address"'
-    notes: ''
-    status: true
-    conditions: {  }
-    weight: 0
-    settings:
-      states:
-        - completed
-      to_mail: '[webform_submission:values:email_address:raw]'
-      to_options: {  }
-      bcc_mail: ''
-      bcc_options: {  }
-      cc_mail: ''
-      cc_options: {  }
-      from_mail: _default
-      from_options: {  }
-      from_name: _default
-      reply_to: ''
-      return_path: ''
-      sender_mail: ''
-      sender_name: ''
-      subject: _default
-      body: _default
-      excluded_elements: {  }
-      ignore_access: false
-      exclude_empty: true
-      exclude_empty_checkbox: false
-      exclude_attachments: false
-      html: true
-      attachments: false
-      twig: false
-      theme_name: ''
-      parameters: {  }
-      debug: false
-  lib_delivery_fsu_edu:
-    id: email
-    handler_id: lib_delivery_fsu_edu
-    label: lib-delivery@fsu.edu
-    notes: ''
-    status: true
-    conditions: {  }
-    weight: 0
-    settings:
-      states:
-        - completed
-      to_mail: lib-delivery@fsu.edu
-      to_options: {  }
-      bcc_mail: ''
-      bcc_options: {  }
-      cc_mail: ''
-      cc_options: {  }
-      from_mail: _default
-      from_options: {  }
-      from_name: _default
-      reply_to: ''
-      return_path: ''
-      sender_mail: ''
-      sender_name: ''
-      subject: _default
-      body: _default
-      excluded_elements: {  }
-      ignore_access: false
-      exclude_empty: true
-      exclude_empty_checkbox: false
-      exclude_attachments: false
-      html: true
-      attachments: false
-      twig: false
-      theme_name: ''
-      parameters: {  }
-      debug: false
+handlers: {  }
 variants: {  }

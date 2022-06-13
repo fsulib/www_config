@@ -1,12 +1,12 @@
 {
     "uid": [
         {
-            "value": 1
+            "value": 130
         }
     ],
     "uuid": [
         {
-            "value": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+            "value": "8d8add94-e738-49d3-ad92-d6055b8a81d3"
         }
     ],
     "langcode": [
@@ -22,12 +22,12 @@
     "preferred_admin_langcode": [],
     "name": [
         {
-            "value": "admin"
+            "value": "bjbrown"
         }
     ],
     "mail": [
         {
-            "value": "bryjbrown@gmail.com"
+            "value": "bjbrown@fsu.edu"
         }
     ],
     "timezone": [
@@ -42,21 +42,41 @@
     ],
     "created": [
         {
-            "value": "2022-03-12T19:31:04+00:00",
+            "value": "2022-06-13T20:00:06+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "changed": [
         {
-            "value": "2022-06-13T19:59:38+00:00",
+            "value": "2022-06-13T20:00:06+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "roles": [
         {
+            "target_id": "content_editor",
+            "target_type": "user_role",
+            "target_uuid": "1f7df2ac-c171-409b-97c3-57a91b3af73e"
+        },
+        {
             "target_id": "administrator",
             "target_type": "user_role",
             "target_uuid": "31ae329f-6e59-4810-84e1-e48f8ac46cb3"
+        },
+        {
+            "target_id": "library_employee",
+            "target_type": "user_role",
+            "target_uuid": "0e6f68b5-df8e-4ff0-b2b0-5d2b750774ac"
+        },
+        {
+            "target_id": "faculty",
+            "target_type": "user_role",
+            "target_uuid": "c54abc61-2c04-4496-a5c5-39afca0c13ae"
+        },
+        {
+            "target_id": "employee",
+            "target_type": "user_role",
+            "target_uuid": "92eff045-2f26-4ca9-a3b3-7bde2011e1ab"
         }
     ],
     "default_langcode": [
