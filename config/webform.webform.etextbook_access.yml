@@ -1,4 +1,4 @@
-uuid: 2567fd4e-af92-4595-85a1-6be8d08ee8f1
+uuid: fd34e9e9-c994-4320-9998-124aa70bf0d4
 langcode: en
 status: open
 dependencies: {  }
@@ -8,106 +8,44 @@ close: null
 uid: 1
 template: false
 archive: false
-id: course_reserve_request_form
-title: 'Course Reserve Request Form'
+id: etextbook_access
+title: 'eTextbook Access'
 description: ''
 category: ''
 elements: |-
-  first_name:
-    '#type': textfield
-    '#title': 'First Name'
-    '#default_value': '[current-user:field_last_name]'
-    '#required': true
+  processed_text:
+    '#type': processed_text
+    '#text': |
+      <p><em>Please use this form to submit comments, questions, or problems related to the <a href="/etextbook">eTextbook pages and search</a></em></p>
+    '#format': basic_html
   last_name:
     '#type': textfield
     '#title': 'Last Name'
     '#default_value': '[current-user:field_last_name]'
     '#required': true
+  first_name:
+    '#type': textfield
+    '#title': 'First Name'
+    '#default_value': '[current-user:field_first_name]'
+    '#required': true
   email_address:
     '#type': email
     '#title': 'Email Address'
-    '#description': 'Please use your FSU email address.'
-    '#required': true
     '#default_value': '[current-user:mail]'
-  phone_number:
-    '#type': textfield
-    '#title': 'Phone Number'
-  reserves_location:
-    '#type': select
-    '#title': 'Reserves Location'
-    '#description': 'Let us know which library you would like this textbook located.'
-    '#options':
-      'Strozier Library': 'Strozier Library'
-      'Dirac Science Library': 'Dirac Science Library'
-      'FAMU-FSU Engineering Library': 'FAMU-FSU Engineering Library'
-      'Electronic Course Reserve (Placed in Canvas)': 'Electronic Course Reserve (Placed in Canvas)'
-      'Allen Music Library': 'Allen Music Library'
     '#required': true
-  course_title:
+  course_code:
     '#type': textfield
-    '#title': 'Course Title'
-    '#description': '<div class="description">(e.g., General Psychology, PSY 2010)</div>'
-  course_section_course_reserves_only_:
-    '#type': textfield
-    '#title': 'Course Section (Course Reserves Only) '
-  fsu_department:
-    '#type': webform_entity_select
-    '#title': 'FSU Department'
-    '#target_type': taxonomy_term
-    '#selection_handler': 'default:taxonomy_term'
-    '#selection_settings':
-      target_bundles:
-        fsu_departments: fsu_departments
-    '#required': true
+    '#title': 'Course Code'
   semester:
-    '#type': select
+    '#type': textfield
     '#title': Semester
-    '#options':
-      Fall: Fall
-      Spring: Spring
-      'Summer (13 week)': 'Summer (13 week)'
-      'Summer (8 week)': 'Summer (8 week)'
-      'Summer (6 week, 1st term)': 'Summer (6 week, 1st term)'
-      'Summer (6 week, 2nd term)': 'Summer (6 week, 2nd term)'
+  etextbook_title:
+    '#type': textfield
+    '#title': 'eTextbook Title'
+  issue_description:
+    '#type': textarea
+    '#title': 'Issue Description'
     '#required': true
-  processed_text:
-    '#type': processed_text
-    '#text': |
-      <p>Item(s) Requested</p>
-    '#format': basic_html
-  item_:
-    '#type': webform_custom_composite
-    '#title': 'Item(s) Requested'
-    '#element':
-      type:
-        '#type': select
-        '#options':
-          book: Book
-          book_chapter: 'Book Chapter'
-          ebook: ebook
-          dvd: DVD
-          streaming_video: 'Streaming Video'
-          journal: Journal
-          database: Database
-        '#title': 'Item Type'
-      title:
-        '#type': textfield
-        '#title': Title
-      author:
-        '#type': textfield
-        '#title': Author
-      publisher:
-        '#type': textfield
-        '#title': Publisher
-      year:
-        '#type': textfield
-        '#title': Year
-      issn_isbn:
-        '#type': textfield
-        '#title': ISSN/ISBN
-      page_numbers:
-        '#type': textfield
-        '#title': 'Page Numbers'
 css: ''
 javascript: ''
 settings:
@@ -117,7 +55,7 @@ settings:
   ajax_effect: ''
   ajax_speed: null
   page: true
-  page_submit_path: ''
+  page_submit_path: /teaching-and-learning/course-materials/etextbook-access
   page_confirm_path: ''
   page_theme_name: ''
   form_title: both
@@ -289,5 +227,79 @@ access:
     roles: {  }
     users: {  }
     permissions: {  }
-handlers: {  }
+handlers:
+  email_to_lib_etextbooks_fsu_edu:
+    id: email
+    handler_id: email_to_lib_etextbooks_fsu_edu
+    label: 'Email to: lib-etextbooks@fsu.edu'
+    notes: ''
+    status: true
+    conditions: {  }
+    weight: 0
+    settings:
+      states:
+        - completed
+      to_mail: lib-etextbooks@fsu.edu
+      to_options: {  }
+      bcc_mail: ''
+      bcc_options: {  }
+      cc_mail: ''
+      cc_options: {  }
+      from_mail: _default
+      from_options: {  }
+      from_name: _default
+      reply_to: ''
+      return_path: ''
+      sender_mail: ''
+      sender_name: ''
+      subject: _default
+      body: _default
+      excluded_elements: {  }
+      ignore_access: false
+      exclude_empty: true
+      exclude_empty_checkbox: false
+      exclude_attachments: false
+      html: true
+      attachments: false
+      twig: false
+      theme_name: ''
+      parameters: {  }
+      debug: false
+  email_to_user:
+    id: email
+    handler_id: email_to_user
+    label: 'Email to user'
+    notes: ''
+    status: true
+    conditions: {  }
+    weight: 0
+    settings:
+      states:
+        - completed
+      to_mail: _default
+      to_options: {  }
+      bcc_mail: ''
+      bcc_options: {  }
+      cc_mail: ''
+      cc_options: {  }
+      from_mail: _default
+      from_options: {  }
+      from_name: _default
+      reply_to: ''
+      return_path: ''
+      sender_mail: ''
+      sender_name: ''
+      subject: _default
+      body: _default
+      excluded_elements: {  }
+      ignore_access: false
+      exclude_empty: true
+      exclude_empty_checkbox: false
+      exclude_attachments: false
+      html: true
+      attachments: false
+      twig: false
+      theme_name: ''
+      parameters: {  }
+      debug: false
 variants: {  }

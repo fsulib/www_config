@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "60502383-60ff-4011-b9f0-24da20c74b07"
+            "value": "23cfef50-b27d-4d1c-b67c-d8283024acdc"
         }
     ],
     "langcode": [
@@ -11,12 +11,12 @@
     ],
     "path": [
         {
-            "value": "\/webform\/ask_us_a_tutoring_question\/confirmation"
+            "value": "\/webform\/etextbook_access\/submissions"
         }
     ],
     "alias": [
         {
-            "value": "\/teaching-and-learning\/tutoring\/question\/submitted"
+            "value": "\/teaching-and-learning\/course-materials\/etextbook-access\/submissions"
         }
     ],
     "status": [

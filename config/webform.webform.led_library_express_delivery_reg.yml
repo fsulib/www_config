@@ -37,8 +37,6 @@ elements: |-
     '#type': webform_entity_select
     '#title': Department
     '#description': 'If you are a Panama City customer, please choose Panama City, FL Campus.'
-    '#empty_option': 'Other (My department isn''t listed.'
-    '#empty_value': Other
     '#target_type': taxonomy_term
     '#selection_handler': 'default:taxonomy_term'
     '#selection_settings':
@@ -47,6 +45,14 @@ elements: |-
       sort:
         field: name
         direction: ASC
+  other_department:
+    '#type': textfield
+    '#title': 'Other Department'
+    '#states':
+      visible:
+        ':input[name="department"]':
+          value:
+            pattern: Other
   phone_number:
     '#type': tel
     '#title': 'Phone Number'
@@ -69,6 +75,9 @@ elements: |-
     '#options':
       'Yes': 'Yes'
       'No': 'No'
+  item_:
+    '#type': label
+    '#title': 'Item '
 css: ''
 javascript: ''
 settings:

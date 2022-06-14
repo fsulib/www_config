@@ -48,7 +48,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-13T20:00:06+00:00",
+            "value": "2022-06-13T20:57:31+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -85,13 +85,25 @@
         }
     ],
     "field_building": [],
-    "field_first_name": [],
+    "field_first_name": [
+        {
+            "value": "Bryan"
+        }
+    ],
     "field_fsu_department": [],
-    "field_last_name": [],
+    "field_last_name": [
+        {
+            "value": "Brown"
+        }
+    ],
     "field_liaison_fsu_department": [],
     "field_library_department": [],
     "field_phone_number": [],
-    "field_position_title": [],
+    "field_position_title": [
+        {
+            "value": "Repository Developer"
+        }
+    ],
     "field_room_number": [],
     "user_picture": []
 }

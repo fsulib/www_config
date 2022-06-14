@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "99519015-717e-4368-8ed2-c415e74d7bfe"
+            "value": "707c79fd-4183-4335-bebf-d0b56a19baf4"
         }
     ],
     "langcode": [
@@ -16,7 +16,7 @@
     ],
     "revision_created": [
         {
-            "value": "2022-06-09T16:13:58+00:00",
+            "value": "2022-06-14T04:58:03+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -29,7 +29,7 @@
     ],
     "title": [
         {
-            "value": "Become a Tutor"
+            "value": "Academic Support at FSU"
         }
     ],
     "description": [],
@@ -40,7 +40,7 @@
     ],
     "link": [
         {
-            "uri": "internal:\/teaching-and-learning\/tutoring\/become-tutor",
+            "uri": "https:\/\/tutoring.fsu.edu\/",
             "title": "",
             "options": []
         }
@@ -52,12 +52,12 @@
     ],
     "rediscover": [
         {
-            "value": true
+            "value": false
         }
     ],
     "weight": [
         {
-            "value": 0
+            "value": -49
         }
     ],
     "expanded": [
@@ -72,7 +72,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-09T16:13:58+00:00",
+            "value": "2022-06-14T04:58:12+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],

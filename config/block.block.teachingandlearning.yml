@@ -26,4 +26,4 @@ visibility:
   request_path:
     id: request_path
     negate: false
-    pages: "/teaching-and-learning\r\n/teaching-and-learning/tutoring"
+    pages: "/form/course-reserve-request-form\r\n/teaching-and-learning/course-materials\r\n/teaching-and-learning/course-materials/etextbook-access\r\n/teaching-and-learning\r\n/teaching-and-learning/tutoring\r\n/teaching-and-learning/tutoring/question\r\n/teaching-and-learning/tutoring/become-a-tutor"

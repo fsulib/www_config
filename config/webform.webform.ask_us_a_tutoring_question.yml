@@ -13,6 +13,11 @@ title: 'Ask us a Tutoring Question'
 description: ''
 category: ''
 elements: |-
+  text:
+    '#type': processed_text
+    '#text': |
+      <p>Completing this form will connect you to library tutors and program coordinators who can answer your tutoring-related questions. Choose the appropriate subject from the dropdown menu below, and your question will be directed to the staff member who can best answer. For academic questions requiring tutor assistance, please try to be as specific and clear as possible so the tutor can quickly figure out the best way to help. Responses should generally take less than 24 hours Monday through Friday.</p>
+    '#format': basic_html
   name:
     '#type': textfield
     '#title': Name
@@ -24,6 +29,9 @@ elements: |-
   question:
     '#type': textarea
     '#title': Question
+  attachments:
+    '#type': webform_document_file
+    '#title': Attachments
 css: ''
 javascript: ''
 settings:
@@ -33,8 +41,8 @@ settings:
   ajax_effect: ''
   ajax_speed: null
   page: true
-  page_submit_path: ''
-  page_confirm_path: ''
+  page_submit_path: /teaching-and-learning/tutoring/question
+  page_confirm_path: /teaching-and-learning/tutoring/question/submitted
   page_theme_name: fsu_strata
   form_title: both
   form_submit_once: false
@@ -205,5 +213,79 @@ access:
     roles: {  }
     users: {  }
     permissions: {  }
-handlers: {  }
+handlers:
+  tutoring_question_from_webform:
+    id: email
+    handler_id: tutoring_question_from_webform
+    label: 'Tutoring question from Webform'
+    notes: ''
+    status: true
+    conditions: {  }
+    weight: 0
+    settings:
+      states:
+        - completed
+      to_mail: lib-tutoring@fsu.edu
+      to_options: {  }
+      bcc_mail: ''
+      bcc_options: {  }
+      cc_mail: ''
+      cc_options: {  }
+      from_mail: _default
+      from_options: {  }
+      from_name: _default
+      reply_to: ''
+      return_path: ''
+      sender_mail: ''
+      sender_name: ''
+      subject: _default
+      body: _default
+      excluded_elements: {  }
+      ignore_access: false
+      exclude_empty: true
+      exclude_empty_checkbox: false
+      exclude_attachments: false
+      html: true
+      attachments: false
+      twig: false
+      theme_name: ''
+      parameters: {  }
+      debug: false
+  confirmation_email_to_sender:
+    id: email
+    handler_id: confirmation_email_to_sender
+    label: 'Confirmation email to sender'
+    notes: ''
+    status: true
+    conditions: {  }
+    weight: 0
+    settings:
+      states:
+        - completed
+      to_mail: _default
+      to_options: {  }
+      bcc_mail: ''
+      bcc_options: {  }
+      cc_mail: ''
+      cc_options: {  }
+      from_mail: _default
+      from_options: {  }
+      from_name: _default
+      reply_to: ''
+      return_path: ''
+      sender_mail: ''
+      sender_name: ''
+      subject: _default
+      body: _default
+      excluded_elements: {  }
+      ignore_access: false
+      exclude_empty: true
+      exclude_empty_checkbox: false
+      exclude_attachments: false
+      html: true
+      attachments: false
+      twig: false
+      theme_name: ''
+      parameters: {  }
+      debug: false
 variants: {  }
