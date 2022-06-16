@@ -96,6 +96,7 @@
             "target_uuid": "16f8b683-3038-4daf-adc2-44c2e48542ee"
         }
     ],
+    "field_personal_pronouns": [],
     "field_phone_number": [
         {
             "value": "(850) 770-2144"
@@ -106,6 +107,8 @@
             "value": "Library Specialist"
         }
     ],
+    "field_preferred_email_address": [],
+    "field_preferred_name": [],
     "field_room_number": [
         {
             "value": "A110 "

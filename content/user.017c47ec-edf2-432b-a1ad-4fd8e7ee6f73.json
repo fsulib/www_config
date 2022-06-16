@@ -96,6 +96,7 @@
             "target_uuid": "e9d0825f-bd91-4232-9179-e51e2d1960d8"
         }
     ],
+    "field_personal_pronouns": [],
     "field_phone_number": [
         {
             "value": "(850) 644-4602"
@@ -106,6 +107,8 @@
             "value": "Instruction and Reference Librarian"
         }
     ],
+    "field_preferred_email_address": [],
+    "field_preferred_name": [],
     "field_room_number": [
         {
             "value": "112D"

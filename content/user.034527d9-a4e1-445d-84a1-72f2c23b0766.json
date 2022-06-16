@@ -96,6 +96,7 @@
             "target_uuid": "6fe15cf8-f49e-45de-be07-122ceaed693d"
         }
     ],
+    "field_personal_pronouns": [],
     "field_phone_number": [
         {
             "value": "(850) 644-1437"
@@ -106,6 +107,8 @@
             "value": "Executive Support Assistant"
         }
     ],
+    "field_preferred_email_address": [],
+    "field_preferred_name": [],
     "field_room_number": [
         {
             "value": "314A"

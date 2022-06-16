@@ -96,6 +96,7 @@
             "target_uuid": "08f9f324-8cfa-463b-bdb3-10add0301b63"
         }
     ],
+    "field_personal_pronouns": [],
     "field_phone_number": [
         {
             "value": "(850) 491-5457"
@@ -106,6 +107,8 @@
             "value": "Security Supervisor"
         }
     ],
+    "field_preferred_email_address": [],
+    "field_preferred_name": [],
     "field_room_number": [
         {
             "value": "106D"

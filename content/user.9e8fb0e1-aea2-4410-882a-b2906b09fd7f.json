@@ -106,6 +106,7 @@
         }
     ],
     "field_library_department": [],
+    "field_personal_pronouns": [],
     "field_phone_number": [
         {
             "value": "(850) 645-8418"
@@ -116,6 +117,8 @@
             "value": "University Librarian"
         }
     ],
+    "field_preferred_email_address": [],
+    "field_preferred_name": [],
     "field_room_number": [
         {
             "value": "2023"

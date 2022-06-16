@@ -1,0 +1,93 @@
+{
+    "uuid": [
+        {
+            "value": "54f5cee9-af31-43e0-92b7-dd438af6b06e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "a12db886-d412-46b5-9932-855c32fb27dd"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-06-16T16:51:49+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Special Collections: Frequently Asked Questions"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-16T16:51:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-16T16:51:49+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/special-collections\/faq",
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<script src=\"\/\/api2.libanswers.com\/1.0\/widgets\/6598\"><\/script>\r\n<div id=\"s-la-widget-6598\">&nbsp;<\/div>\r\n<script src=\"http:\/\/cdn.inspectlet.com\/inspectifr\/915447253.js\" type=\"text\/javascript\">\r\n<\/script><script src=\"http:\/\/cdn.inspectlet.com\/inspectifr\/915447253.js\" type=\"text\/javascript\">\r\n<\/script><script src=\"http:\/\/cdn.inspectlet.com\/inspectifr\/915447253.js\" type=\"text\/javascript\">\r\n<\/script><script src=\"\/\/api2.libanswers.com\/1.0\/widgets\/6600\"><\/script>\r\n<h4><strong>Don&rsquo;t see what you&rsquo;re looking for? &nbsp;<a href=\"http:\/\/fsu.libanswers.com\/search\/?t=0&amp;g=804&amp;topics=Special%20Collections%20%26amp%3B%20Archives&amp;adv=1\">Browse all our FAQ<\/a><\/strong><\/h4>\r\n<div id=\"s-la-widget-6600\">&nbsp;<\/div>\r\n<script src=\"http:\/\/cdn.inspectlet.com\/inspectifr\/915447253.js\" type=\"text\/javascript\">\r\n<\/script><script src=\"http:\/\/cdn.inspectlet.com\/inspectifr\/915447253.js\" type=\"text\/javascript\">\r\n<\/script><script src=\"http:\/\/cdn.inspectlet.com\/inspectifr\/915447253.js\" type=\"text\/javascript\">\r\n<\/script>\r\n<script src=\"http:\/\/cdn.inspectlet.com\/inspectifr\/915447253.js\" type=\"text\/javascript\">\r\n<\/script>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ]
+}

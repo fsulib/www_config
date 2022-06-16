@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "7f848e8d-7177-48f4-9953-5d0dad0413c5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/f0008363-2fc5-4726-8958-121763dc6cc1"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/special-collections\/visit\/exhibits-and-events"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

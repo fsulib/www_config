@@ -92,6 +92,7 @@
             "target_uuid": "1ddda550-1908-4d9a-9d2b-33ede7224536"
         }
     ],
+    "field_personal_pronouns": [],
     "field_phone_number": [
         {
             "value": "850.644.3053"
@@ -102,6 +103,8 @@
             "value": "Director of Software Development"
         }
     ],
+    "field_preferred_email_address": [],
+    "field_preferred_name": [],
     "field_room_number": [
         {
             "value": "23A"

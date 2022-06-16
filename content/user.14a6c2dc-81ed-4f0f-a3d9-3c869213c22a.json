@@ -96,12 +96,15 @@
             "target_uuid": "2d058f34-947a-4b30-a301-16cfb3f179cb"
         }
     ],
+    "field_personal_pronouns": [],
     "field_phone_number": [],
     "field_position_title": [
         {
             "value": "Library Associate"
         }
     ],
+    "field_preferred_email_address": [],
+    "field_preferred_name": [],
     "field_room_number": [],
     "user_picture": []
 }

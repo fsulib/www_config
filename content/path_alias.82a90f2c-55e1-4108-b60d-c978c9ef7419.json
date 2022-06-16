@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "82a90f2c-55e1-4108-b60d-c978c9ef7419"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/fa71078b-62ab-4163-adf6-c24aa3294d4a"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/special-collections\/copies"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

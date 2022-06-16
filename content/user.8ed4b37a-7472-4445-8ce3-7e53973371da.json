@@ -48,7 +48,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-13T19:59:38+00:00",
+            "value": "2022-06-15T06:38:23+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -70,8 +70,11 @@
     "field_last_name": [],
     "field_liaison_fsu_department": [],
     "field_library_department": [],
+    "field_personal_pronouns": [],
     "field_phone_number": [],
     "field_position_title": [],
+    "field_preferred_email_address": [],
+    "field_preferred_name": [],
     "field_room_number": [],
     "user_picture": []
 }

@@ -1,0 +1,93 @@
+{
+    "uuid": [
+        {
+            "value": "209b9d36-34fe-4bf8-92ea-874340c3f6a9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "a12db886-d412-46b5-9932-855c32fb27dd"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-06-16T16:03:13+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "FSU Heritage Museum"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-16T13:37:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-16T16:03:13+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/special-collections\/heritage-and-university-archives\/heritage-museum",
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<div style=\"text-align: center;\"><img alt=\"\" src=\"\/sites\/default\/files\/2022-06\/heritagemuseumuniversity-communications_resized_0.jpg\" style=\"width: 571px; height: 400px;\" \/><br \/>\r\n\t<em>Photograph by Bill Lax, FSU Photography Services, 2012.<\/em><\/div>\r\n<div style=\"text-align: center;\">&nbsp;<\/div>\r\n<p>The Heritage Museum will be open 10am - 3pm, Monday through Thursday beginning October 20th. <span style=\"line-height:1.5;\">Hours may vary during academic breaks, and the museum may be closed for an event. Please confirm the hours on <a href=\"\/visit\/hours\">the Library&#39;s Hours page<\/a> or on the menu to the left.<\/span><\/p>\r\n<p style=\"text-align: center;\"><img alt=\"Dodd Hall and students, Florida State University Mounted Photographs, undated.\" src=\"\/sites\/default\/files\/2022-06\/hmpage_dodd_hall.jpg\" style=\"width: 233px; height: 300px; float: left; margin-left: 10px; margin-right: 10px;\" \/><\/p>\r\n<p><br \/>\r\n\tLocated in the Werkmeister Reading Room in Dodd Hall, the Heritage Museum displays photographs, ephemera, and artifacts that document the history of FSU. Students, alumni, and the general public are encouraged to visit this beautiful space and learn more about the history of Florida State University.<\/p>\r\n<p>Dodd Hall was built in 1923 and served as the library for the Florida State College for Women, and then for FSU until Strozier Library was built in 1956. It was named for William George Dodd, who joined the FSCW faculty in 1910. After the library moved into Strozier, WFSU housed its studio there. In 1985, the Claude and Mildred Pepper Library opened in Dodd Hall and remained there until the library moved to the newly built Pepper Center in 1998.<\/p>\r\n<p><i>Photo on left:&nbsp;<a href=\"http:\/\/purl.flvc.org\/fsu\/fd\/FSUspcn829\">Dodd Hall and students<\/a>, Florida State University Mounted Photographs, undated.<\/i><\/p>\r\n<p><img alt=\"Students Reading in the Library, Heritage Protocol Photograph Collection, undated.\" src=\"\/sites\/default\/files\/2022-06\/students_reading.jpg\" style=\"width: 250px; height: 205px; float: right; margin-left: 10px; margin-right: 10px;\" \/>Renovations began to improve the former library space in 1991. Named for Professor William H. &amp; Dr. Lucyle T. Werkmeister, the Werkmeister Humanities Reading Room opened as a quiet space for students to study. In 1997, the Werkmeister Window, the crown jewel of an already-gorgeous space, was installed. The stained glass window was designed by Professor Emeritus Ivan Johnson and crafted by Bob and Jo Ann Bischoff. The window took over 10 years to build and contains over 10,000 individual pieces. The FSU Master Craftsman Studio continues to create and install leaded glass Commemorative Windows in the Werkmeister Reading Room.<\/span><\/p>\r\n<p><i>Photo on right:&nbsp;<a href=\"http:\/\/purl.flvc.org\/fcla\/dt\/2795699\">Students Reading in the Library<\/a>, Heritage Protocol Photograph Collection, undated.<\/i><\/p>\r\n<h2>Visiting the Heritage Museum<\/h4>\r\n<p><strong>For more information or to schedule a tour outside of visiting hours, please contact <a href=\"mailto:svarry@fsu.edu\">Sandra Varry<\/a> at (850) 645-7988.<\/strong><\/p>\r\n<p>To make a donation to the Heritage Fund or request information about the Werkmeister Commemorative Windows, please contact <a href=\"mailto:jlmcknight@fsu.edu?subject=Heritage%20Museum%20\">Jenni McKnight<\/a>&nbsp;at (850) 645-7828.&nbsp;<span>To schedule an event at the Heritage Museum, please contact <a href=\"mailto:jcole@fsu.edu?subject=Event%20Scheduling%20for%20Heritage%20Museum\">Jimmy Cole<\/a>&nbsp;in<\/span><span>&nbsp;University Relations at (850) 645-1173. The museum is located at 641 University Way.<\/span><\/p>\r\n<p style=\"text-align: center;\">&nbsp;<\/p>\r\n<p style=\"text-align: center;\">&nbsp;<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ]
+}

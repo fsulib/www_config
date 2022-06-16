@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "99d2e6bf-8cf3-4f37-b077-d43b4c3555aa"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/f84283ec-86dd-4138-b101-16a2a5fb7df4"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/teaching-and-learning\/course-materials"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

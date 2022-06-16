@@ -96,8 +96,11 @@
             "target_uuid": "f3dd941b-0575-44e3-99ef-6d18a4c79f78"
         }
     ],
+    "field_personal_pronouns": [],
     "field_phone_number": [],
     "field_position_title": [],
+    "field_preferred_email_address": [],
+    "field_preferred_name": [],
     "field_room_number": [],
     "user_picture": []
 }

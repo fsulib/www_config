@@ -101,6 +101,7 @@
             "target_uuid": "e82efc3e-b412-4607-affa-73a89a61381c"
         }
     ],
+    "field_personal_pronouns": [],
     "field_phone_number": [
         {
             "value": "(850) 644-0417"
@@ -111,6 +112,8 @@
             "value": "Student Supervisor"
         }
     ],
+    "field_preferred_email_address": [],
+    "field_preferred_name": [],
     "field_room_number": [
         {
             "value": "090"

@@ -96,6 +96,7 @@
             "target_uuid": "6c5f3e69-f4ee-40d3-bdad-d156e0c7d8e4"
         }
     ],
+    "field_personal_pronouns": [],
     "field_phone_number": [
         {
             "value": "(850) 644-3079"
@@ -106,6 +107,8 @@
             "value": "STEM Research and Learning Librarian"
         }
     ],
+    "field_preferred_email_address": [],
+    "field_preferred_name": [],
     "field_room_number": [
         {
             "value": "202A"

@@ -96,6 +96,7 @@
             "target_uuid": "924007a8-ecd9-41fe-8dd5-cab8864fe565"
         }
     ],
+    "field_personal_pronouns": [],
     "field_phone_number": [
         {
             "value": "(850) 645-2163"
@@ -106,6 +107,8 @@
             "value": "Scholarly Communications Librarian"
         }
     ],
+    "field_preferred_email_address": [],
+    "field_preferred_name": [],
     "field_room_number": [
         {
             "value": "015"

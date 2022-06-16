@@ -91,12 +91,15 @@
             "target_uuid": "4fdfb4b2-b7c0-4c83-a32c-208392bd8c0e"
         }
     ],
+    "field_personal_pronouns": [],
     "field_phone_number": [],
     "field_position_title": [
         {
             "value": "Distance Library Services Assistant"
         }
     ],
+    "field_preferred_email_address": [],
+    "field_preferred_name": [],
     "field_room_number": [
         {
             "value": "120"

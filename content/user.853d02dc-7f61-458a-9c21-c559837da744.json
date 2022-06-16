@@ -101,6 +101,7 @@
             "target_uuid": "a7e50a65-cef3-4994-a139-d99719b18aaf"
         }
     ],
+    "field_personal_pronouns": [],
     "field_phone_number": [
         {
             "value": "(850) 645-9347"
@@ -111,6 +112,8 @@
             "value": "Assessment Librarian"
         }
     ],
+    "field_preferred_email_address": [],
+    "field_preferred_name": [],
     "field_room_number": [
         {
             "value": "313B"

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "7c1bd225-6c2d-4e39-8058-b28ec183c4e5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/e6f68522-bf6a-47c7-b62a-a4616f7946f9"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/research-and-publish\/research\/grant-programs"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

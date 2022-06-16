@@ -96,6 +96,7 @@
             "target_uuid": "a80e045b-1f77-414b-a0b9-0b1fd18743ff"
         }
     ],
+    "field_personal_pronouns": [],
     "field_phone_number": [
         {
             "value": "(850) 644-5232"
@@ -106,6 +107,8 @@
             "value": "Cataloging Associate"
         }
     ],
+    "field_preferred_email_address": [],
+    "field_preferred_name": [],
     "field_room_number": [
         {
             "value": "711 "

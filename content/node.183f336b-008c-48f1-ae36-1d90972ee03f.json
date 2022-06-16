@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-05-06T19:28:57+00:00",
+            "value": "2022-06-16T13:34:20+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-05-06T19:28:57+00:00",
+            "value": "2022-06-16T13:34:20+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -83,5 +83,11 @@
             "langcode": "en"
         }
     ],
-    "body": []
+    "body": [
+        {
+            "value": "<p>The Special Collections &amp; Archives division collections comprise more than half a million items, ranging from ostraka, cuneiform tablets, papyri, illuminated manuscripts, and incunabula to modern artist books, literary manuscripts, and business records.<\/p>\r\n<p>The primary areas of collection strengths include Napoleon and the French Revolution, poetry, Florida political collections, Southern business history, literary manuscripts, local and regional history, and the history of Florida State University.<\/p>\r\n<div class=\"three-column-table\">\r\n\t<div class=\"left-column\" style=\"text-align:center;\">\r\n\t\t<p><a href=\"\/sca\/collection-highlights\" target=\"_self\"><img alt=\"Collection Highlights Icon\" src=\"\/sites\/default\/files\/sites\/default\/files\/upload\/sca\/CollectionsPage\/ColHigh_ArafatUddin_Shelved_NP_garnet.jpg\" style=\"width: 150px; height: 116px;\" \/><\/a><\/p>\r\n\t\t<h3 style=\"text-align: center;\"><a href=\"\/sca\/visit\" style=\"text-decoration:none;\" target=\"_self\">Collection Highlights<\/a><\/h3>\r\n\t<\/div>\r\n\t<div class=\"middle-column\">\r\n\t\t<center>\r\n\t\t\t<p><a href=\"https:\/\/fsu-flvc.primo.exlibrisgroup.com\/discovery\/search?vid=01FALSC_FSU:Home\" target=\"_self\"><img alt=\"policies icon\" src=\"\/sites\/default\/files\/sites\/default\/files\/upload\/sca\/CollectionsPage\/Search2_noun_894546_cc_garnet.jpg\" style=\"width: 150px; height: 117px;\" \/><\/a><\/p>\r\n\t\t\t<h3><a href=\"https:\/\/fsu-flvc.primo.exlibrisgroup.com\/discovery\/search?vid=01FALSC_FSU:Home\" style=\"text-decoration:none;\" target=\"_self\">Search Collections<\/a><\/h3>\r\n\t\t<\/center>\r\n\t<\/div>\r\n\t<div class=\"right-column\">\r\n\t\t<center>\r\n\t\t\t<p><a href=\"\/sca\/research\" target=\"_self\"><img alt=\"Use Collections Icon\" src=\"\/sites\/default\/files\/sites\/default\/files\/upload\/sca\/CollectionsPage\/Use_CreativeStall_usinglaptop_NP_garnet.jpg\" style=\"width: 150px; height: 126px;\" \/><\/a><\/p>\r\n\t\t\t<h3 style=\"text-align: center;\"><a href=\"\/sca\/research\" style=\"text-decoration:none;\" target=\"_self\">Use Collections<\/a><\/h3>\r\n\t\t<\/center>\r\n\t<\/div>\r\n<\/div>\r\n<div class=\"two-column-table\">\r\n\t<div class=\"left-column\">\r\n\t\t<center>\r\n\t\t\t<p><a href=\"\/sca\/donate\" target=\"_self\"><img alt=\"Donate Icon\" src=\"\/sites\/default\/files\/sites\/default\/files\/upload\/sca\/CollectionsPage\/Donate_ArthurShlain_Gift_NP_garnet.jpg\" style=\"width: 150px; height: 129px;\" \/><\/a><\/p>\r\n\t\t\t<h3 style=\"text-align: center;\"><a href=\"\/sca\/donate\" style=\"text-decoration:none;\" target=\"_self\">Donate<\/a><\/h3>\r\n\t\t<\/center>\r\n\t<\/div>\r\n\t<div class=\"right-column\">\r\n\t\t<center>\r\n\t\t\t<p><a href=\"\/form\/sca\/special-collections-archives-reproduction-form\" target=\"_self\"><img alt=\"Use Collections Icon\" src=\"\/sites\/default\/files\/sites\/default\/files\/upload\/sca\/CollectionsPage\/Copies_andriwidodo_copy_NP_garnet.jpg\" style=\"width: 150px; height: 127px;\" \/><\/a><\/p>\r\n\t\t\t<h3 style=\"text-align: center;\"><a href=\"\/form\/sca\/special-collections-archives-reproduction-form\" style=\"text-decoration:none;\" target=\"_self\">Request Copies<\/a><\/h3>\r\n\t\t<\/center>\r\n\t<\/div>\r\n<\/div>\r\n<p>&nbsp;<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ]
 }

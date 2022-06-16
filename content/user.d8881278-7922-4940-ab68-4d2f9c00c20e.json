@@ -96,6 +96,7 @@
             "target_uuid": "00f29468-532d-4f51-bc8c-17ac924d1226"
         }
     ],
+    "field_personal_pronouns": [],
     "field_phone_number": [
         {
             "value": "(850) 645-6903"
@@ -106,6 +107,8 @@
             "value": "Accounting Specialist"
         }
     ],
+    "field_preferred_email_address": [],
+    "field_preferred_name": [],
     "field_room_number": [
         {
             "value": "306C"

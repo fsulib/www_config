@@ -92,6 +92,7 @@
             "target_uuid": "3e0fc63e-8ce9-4b17-b182-42ccdd7b2532"
         }
     ],
+    "field_personal_pronouns": [],
     "field_phone_number": [
         {
             "value": "(850) 645-7914"
@@ -102,6 +103,8 @@
             "value": "Acquisitions and Resource Sharing Librarian"
         }
     ],
+    "field_preferred_email_address": [],
+    "field_preferred_name": [],
     "field_room_number": [
         {
             "value": "120"

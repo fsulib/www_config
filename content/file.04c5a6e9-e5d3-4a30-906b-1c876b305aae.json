@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "04c5a6e9-e5d3-4a30-906b-1c876b305aae"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "filename": [
+        {
+            "value": "readingroompoliciespage_webedit2.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2022-06\/readingroompoliciespage_webedit2.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 26292
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-16T16:58:34+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-16T16:58:49+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

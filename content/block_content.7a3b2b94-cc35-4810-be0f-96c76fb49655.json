@@ -1,0 +1,65 @@
+{
+    "uuid": [
+        {
+            "value": "7a3b2b94-cc35-4810-be0f-96c76fb49655"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "basic",
+            "target_type": "block_content_type",
+            "target_uuid": "bd93dd8d-71b1-4c0e-99e8-a4004533c089"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-06-16T01:04:49+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "info": [
+        {
+            "value": "A block with the  Ask a Librarian Popup"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-16T01:04:49+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "reusable": [
+        {
+            "value": true
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "body": [
+        {
+            "value": "<div id=\"libchat_8dc4db4d87bea74f03769d6a5b7e86eb\"><\/div><script type=\"text\/javascript\" src=\"\/\/v2.libanswers.com\/load_chat.php?hash=8dc4db4d87bea74f03769d6a5b7e86eb\"><\/script>",
+            "format": "full_html",
+            "summary": ""
+        }
+    ]
+}

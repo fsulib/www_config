@@ -10,8 +10,11 @@ dependencies:
     - field.field.user.user.field_last_name
     - field.field.user.user.field_liaison_fsu_department
     - field.field.user.user.field_library_department
+    - field.field.user.user.field_personal_pronouns
     - field.field.user.user.field_phone_number
     - field.field.user.user.field_position_title
+    - field.field.user.user.field_preferred_email_address
+    - field.field.user.user.field_preferred_name
     - field.field.user.user.field_room_number
     - field.field.user.user.user_picture
     - image.style.thumbnail
@@ -46,7 +49,10 @@ hidden:
   field_last_name: true
   field_liaison_fsu_department: true
   field_library_department: true
+  field_personal_pronouns: true
   field_phone_number: true
   field_position_title: true
+  field_preferred_email_address: true
+  field_preferred_name: true
   field_room_number: true
   member_for: true

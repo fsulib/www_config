@@ -1,0 +1,93 @@
+{
+    "uuid": [
+        {
+            "value": "f0008363-2fc5-4726-8958-121763dc6cc1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "a12db886-d412-46b5-9932-855c32fb27dd"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-06-16T15:46:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Special Collections: Exhibits & Events"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-16T15:40:36+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-16T15:46:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/special-collections\/visit\/exhibits-and-events",
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><img alt=\"\" src=\"\/sites\/default\/files\/2022-06\/ExhibitsEventsImage_web.jpg\" style=\"width: 850px; height: 314px;\" \/><\/p>\r\n<p>Special Collections &amp; Archives hosts several exhibits and events in our spaces every year. Exhibits are designed to engage students, faculty and our wider community with our collections. We also work often with classes to create exhibits as part of their course work.<\/p>\r\n<p>Exhibits are held in the Special Collections Exhibit Room on the 1st Floor of Strozier Library, The Norwood Reading Room on the 2nd Floor of Strozier Library, the Claude Pepper Reading Room at the Claude Pepper Library and the Heritage Museum in Dodd Hall. For information on visiting these spaces, see the <a href=\"\/special-collections\/visit\">Libraries&rsquo; Visitor page<\/a>.<\/p>\r\n<p>All exhibits and events are free and open to the general public unless otherwise noted.<\/p>\r\n \r\n<script type=\"text\/javascript\"\r\nsrc=\"https:\/\/calendar.fsu.edu\/widget\/view?schools=fsu&types=89132%2C89300&days=120&num=10&tags=exhibits%2CSpecial+Collections+%26+Archives%2CHeritage+Protocol+%26+University+Archives%2CUCFeatured&groups=All_Audiences&template=modern\"><\/script><div id=\"lclst_widget_footer\"><a rel=\"nofollow\" style=\"margin-left:auto;margin-right:auto;display:block;width:81px;margin-top:10px;\" title=\"Widget powered by Localist Online Calendar Software\" href=\"https:\/\/www.localist.com?utm_source=widget&utm_campaign=widget_footer&utm_medium=branded%20link\"><img src=\"https:\/\/d3e1o4bcbhmj8g.cloudfront.net\/assets\/platforms\/default\/about\/widget_footer.png\" alt=\"Localist Online Calendar Software\" style=\"vertical-align: middle;\" width=\"81\" height=\"23\"><\/a><\/div>\r\n\r\n<a href=\"\/special-collections\/exhibits-and-events\/past-exhibits\">Past Exhibits &amp; Events<\/a>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ]
+}

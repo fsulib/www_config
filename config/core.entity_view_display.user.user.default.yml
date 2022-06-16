@@ -9,8 +9,11 @@ dependencies:
     - field.field.user.user.field_last_name
     - field.field.user.user.field_liaison_fsu_department
     - field.field.user.user.field_library_department
+    - field.field.user.user.field_personal_pronouns
     - field.field.user.user.field_phone_number
     - field.field.user.user.field_position_title
+    - field.field.user.user.field_preferred_email_address
+    - field.field.user.user.field_preferred_name
     - field.field.user.user.field_room_number
     - field.field.user.user.user_picture
     - image.style.thumbnail
@@ -72,6 +75,14 @@ content:
     third_party_settings: {  }
     weight: 9
     region: content
+  field_personal_pronouns:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 14
+    region: content
   field_phone_number:
     type: string
     label: above
@@ -87,6 +98,22 @@ content:
       link_to_entity: false
     third_party_settings: {  }
     weight: 5
+    region: content
+  field_preferred_email_address:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 13
+    region: content
+  field_preferred_name:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 12
     region: content
   field_room_number:
     type: string

@@ -96,12 +96,15 @@
             "target_uuid": "08f9f324-8cfa-463b-bdb3-10add0301b63"
         }
     ],
+    "field_personal_pronouns": [],
     "field_phone_number": [],
     "field_position_title": [
         {
             "value": "Night Time Security Supervisor"
         }
     ],
+    "field_preferred_email_address": [],
+    "field_preferred_name": [],
     "field_room_number": [
         {
             "value": "106D"

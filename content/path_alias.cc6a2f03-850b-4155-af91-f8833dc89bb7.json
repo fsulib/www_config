@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "cc6a2f03-850b-4155-af91-f8833dc89bb7"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/d206da4c-85a0-42bc-a0f0-6e37ea7d2833"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/special-collections\/archives"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

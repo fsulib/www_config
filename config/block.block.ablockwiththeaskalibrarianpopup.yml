@@ -1,0 +1,25 @@
+uuid: a40e29cf-43d9-40ac-8a79-91fb9a025cfc
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:7a3b2b94-cc35-4810-be0f-96c76fb49655'
+  module:
+    - block_content
+  theme:
+    - fsu_strata
+id: ablockwiththeaskalibrarianpopup
+theme: fsu_strata
+region: footer
+weight: 0
+provider: null
+plugin: 'block_content:7a3b2b94-cc35-4810-be0f-96c76fb49655'
+settings:
+  id: 'block_content:7a3b2b94-cc35-4810-be0f-96c76fb49655'
+  label: 'A block with the  Ask a Librarian Popup'
+  label_display: '0'
+  provider: block_content
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }

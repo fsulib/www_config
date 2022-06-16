@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "2d9b246b-9efc-4ee9-8ffd-7aa2c514bcb1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/29466b1e-8eea-484a-b4f6-f7f5dabb159a"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/special-collections\/services-during-covid"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -92,6 +92,7 @@
             "target_uuid": "07a55af4-5989-4639-bf58-64e3a8955b60"
         }
     ],
+    "field_personal_pronouns": [],
     "field_phone_number": [
         {
             "value": "001 (507) 317-0374"
@@ -102,6 +103,8 @@
             "value": "Librarian, Republic of Panama Library"
         }
     ],
+    "field_preferred_email_address": [],
+    "field_preferred_name": [],
     "field_room_number": [],
     "user_picture": []
 }

@@ -96,6 +96,7 @@
             "target_uuid": "602fc71c-955b-4e33-a0b9-da2baa4577a0"
         }
     ],
+    "field_personal_pronouns": [],
     "field_phone_number": [
         {
             "value": " (850) 645-6670"
@@ -106,6 +107,8 @@
             "value": " Events and Marketing Manager"
         }
     ],
+    "field_preferred_email_address": [],
+    "field_preferred_name": [],
     "field_room_number": [
         {
             "value": "313C"

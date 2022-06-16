@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "695649e6-e0ed-408a-a0d5-7d97bb8c2aa4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/2a971d41-837d-404e-af12-912e4169af6d"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/special-collections\/heritage-and-university-archives\/university-records\/norwood-reading-room"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

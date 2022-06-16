@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "aa1b011b-6eb4-475c-9e35-4953666f05d3"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/a8b4d4d1-dd01-4420-87e0-c10279d51eaf"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/teaching-and-learning\/tutoring"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

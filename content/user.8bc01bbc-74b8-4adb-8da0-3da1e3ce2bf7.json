@@ -91,12 +91,15 @@
     ],
     "field_liaison_fsu_department": [],
     "field_library_department": [],
+    "field_personal_pronouns": [],
     "field_phone_number": [],
     "field_position_title": [
         {
             "value": "Systems Librarian"
         }
     ],
+    "field_preferred_email_address": [],
+    "field_preferred_name": [],
     "field_room_number": [
         {
             "value": "120C"

@@ -91,6 +91,7 @@
             "target_uuid": "17ba6f3d-ed54-440a-ab51-157d37dd376b"
         }
     ],
+    "field_personal_pronouns": [],
     "field_phone_number": [
         {
             "value": "(850) 644-4839"
@@ -101,6 +102,8 @@
             "value": "Documents Library Operations Supervisor"
         }
     ],
+    "field_preferred_email_address": [],
+    "field_preferred_name": [],
     "field_room_number": [
         {
             "value": "316"

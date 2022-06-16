@@ -96,6 +96,7 @@
             "target_uuid": "527d02b3-05ae-4c5e-b0af-853e8a81182c"
         }
     ],
+    "field_personal_pronouns": [],
     "field_phone_number": [
         {
             "value": "(850) 645-0240"
@@ -106,6 +107,8 @@
             "value": "Sunshine State Digital Network Coordinator"
         }
     ],
+    "field_preferred_email_address": [],
+    "field_preferred_name": [],
     "field_room_number": [
         {
             "value": "209B"

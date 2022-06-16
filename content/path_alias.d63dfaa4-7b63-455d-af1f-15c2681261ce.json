@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "d63dfaa4-7b63-455d-af1f-15c2681261ce"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/209b9d36-34fe-4bf8-92ea-874340c3f6a9"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/special-collections\/heritage-and-university-archives\/heritage-museum"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

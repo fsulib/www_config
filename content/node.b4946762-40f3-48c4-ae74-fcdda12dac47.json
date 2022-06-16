@@ -1,0 +1,93 @@
+{
+    "uuid": [
+        {
+            "value": "b4946762-40f3-48c4-ae74-fcdda12dac47"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "a12db886-d412-46b5-9932-855c32fb27dd"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-06-16T15:38:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Special Collections: Collection Highlights"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-16T15:36:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-16T15:38:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/special-collections\/collections\/collection-highlights",
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<div>\r\n\t<h2>Manuscript Collections<\/h2>\r\n\t<div>\r\n\t\t<p>The manuscript collections of FSU Special Collections &amp; Archives include professional papers, personal correspondence, diaries, photographs, maps, artwork, and sound recordings documenting an extensive range of subject areas including regional and global history, the American civil rights movement, prominent authors and artists, and the work of FSU faculty. <a href=\"https:\/\/archives.lib.fsu.edu\/\">See all manuscript collections in ArchivesSpace<\/a>.<\/p>\r\n\t\t<h3><a href=\"http:\/\/purl.fcla.edu\/fsu\/MSS_1989-009\">Paul A.M. Dirac Papers<\/a><\/h3>\r\n\t\t<p><a href=\"http:\/\/purl.fcla.edu\/fsu\/MSS_1989-009\" target=\"_blank\"><img alt=\"\" src=\"\/sites\/default\/files\/sites\/default\/files\/upload\/sca\/diraccolhighthumb.png\" style=\"width: 125px; height: 100px; float: left; margin-left: 10px; margin-right: 10px;\" \/><\/a> Personal and professional papers of Paul Dirac (1902-1984), documenting his personal life and academic career as a student, prominent theoretical physicist, Nobel Prize winner, Lucasian Professor of Mathematics chair at Cambridge University (1932-1969), and Professor at Florida State University (1972-1984). Select materials from this collection are digitized and available in <a href=\"https:\/\/www.diginole.lib.fsu.edu\/islandora\/object\/fsu:diraccol\"> DigiNole: FSU\u2019s Digital Repository<\/a>.<\/p>\r\n\t\t<p>&nbsp;<\/p>\r\n\t\t<h3><a href=\"http:\/\/guides.lib.fsu.edu\/Till\">Emmett Till Archives<\/a><\/h3>\r\n\t\t<p><a href=\"http:\/\/guides.lib.fsu.edu\/Till\" target=\"_blank\"><img alt=\"\" src=\"\/sites\/default\/files\/sites\/default\/files\/upload\/sca\/tillarchivecolhighthumb.png\" style=\"width: 125px; height: 100px; float: left; margin-left: 10px; margin-right: 10px;\" \/><\/a> Newspapers, magazines, oral histories, photographs, government records, scholarly literature, creative works, and other materials documenting the murder of Emmett Till and its commemoration, memorialization, and discussion in scholarship and popular culture. Select materials from the Archives are digitized and available in <a href=\"https:\/\/www.diginole.lib.fsu.edu\/islandora\/object\/fsu:emmetttillarchivesmain\">DigiNole: FSU\u2019s Digital Repository<\/a><\/p>\r\n\t\t<p>&nbsp;<\/p>\r\n\t\t<h3><a href=\"http:\/\/purl.fcla.edu\/fsu\/MSS_87-14\">Lois Lenski Papers<\/a><\/h3>\r\n\t\t<p><a href=\"http:\/\/purl.fcla.edu\/fsu\/MSS_87-14\" target=\"_blank\"><img alt=\"\" src=\"\/sites\/default\/files\/sites\/default\/files\/upload\/sca\/lenskicolhighthumb.jpg\" style=\"width: 125px; height: 104px; float: left; margin-left: 10px; margin-right: 10px;\" \/><\/a> Manuscripts, original illustrations, correspondence, speeches, interviews, recordings, and memorabilia of Lois Lenski (1893-1974), author and illustrator of children&#39;s literature.<\/p>\r\n\t\t<p>&nbsp;<\/p><br \/><br \/>\r\n\t\t<h3><a href=\"http:\/\/purl.fcla.edu\/fsu\/MSS_1990-001\">Tallahassee Civil Rights Oral History Collection<\/a><\/h3>\r\n\t\t<p><a href=\"http:\/\/purl.fcla.edu\/fsu\/MSS_1990-001\" target=\"_blank\"><img alt=\"\" src=\"\/sites\/default\/files\/sites\/default\/files\/upload\/sca\/tallycivilrightsoralhcolhighthumb.jpg\" style=\"width: 125px; height: 88px; float: left; margin-left: 10px; margin-right: 10px;\" \/><\/a> Sound recordings and transcripts of oral history interviews regarding events related to the civil rights movement in Tallahassee during the late 1950s and early 1960s.<\/p>\r\n\t\t<p>&nbsp;<\/p>\r\n\t<\/div>\r\n\t<h2>Political Collections<\/h2>\r\n\t<div>\r\n\t\t<p>The political collections of FSU Special Collections &amp; Archives include professional papers, personal correspondence, diaries, photographs, maps, artwork, and sound recordings documenting an extensive range of subject areas including regional and global politics, the American civil rights movement, prominent local civic action groups, and the gubernatorial papers of four Florida governors.<\/p>\r\n\t\t<h3><a href=\"http:\/\/purl.fcla.edu\/fsu\/MSS_1979-01\">Claude Pepper Papers<\/a><\/h3>\r\n\t\t<p><a href=\"https:\/\/purl.fcla.edu\/fsu\/MSS_1979-01\" target=\"_blank\"><img alt=\"\" src=\"\/sites\/default\/files\/sites\/default\/files\/upload\/sca\/peppercolhighthumb.jpg\" style=\"width: 125px; height: 89px; float: left; margin-left: 10px; margin-right: 10px;\" \/><\/a> Personal and professional papers of Claude Denson Pepper (1900-1989), documenting his personal life and political career as a U.S. Senator (1936-1950) and U.S. Representative (1963-1989). Select materials from the Pepper Papers are digitized and available in <a href=\"https:\/\/www.diginole.lib.fsu.edu\/islandora\/object\/fsu:claudepeppermaincollection\">DigiNole: FSU\u2019s Digital Repository<\/a><\/p>\r\n\t\t<p><br \/>\r\n\t\t\t&nbsp;<\/p>\r\n\t\t<h3><a href=\"http:\/\/purl.fcla.edu\/fsu\/MSS_2008-033\">National Organization for Women, Tallahassee Chapter records<\/a><\/h3>\r\n\t\t<p><a href=\"http:\/\/purl.fcla.edu\/fsu\/MSS_2008-033\" target=\"_blank\"><img alt=\"\" src=\"\/sites\/default\/files\/sites\/default\/files\/upload\/sca\/nownewslettercolhighthumb.jpg\" style=\"width: 115px; float: left; margin-left: 10px; margin-right: 10px; height: 123px;\" \/><\/a> The Records of the Tallahassee Chapter of the Florida National Organization for Women include official NOW correspondence, meeting minutes and agendas, reports, budgets, newsletters, and other records which chronicle the development and activities of Tallahassee NOW from its founding in 1971 until 1997. Select materials from this collection are digitized and available in <a href=\"https:\/\/www.diginole.lib.fsu.edu\/islandora\/object\/fsu:NOWtallahasseecollection\">DigiNole: FSU\u2019s Digital Repository<\/a><\/p>\r\n\t\t<p><br \/>\r\n\t\t\t&nbsp;<\/p>\r\n\t\t<h3><a href=\"https:\/\/archives.lib.fsu.edu\/repositories\/10\/resources\/1406\">Reubin Askew Papers<\/a><\/h3>\r\n\t\t<p><a href=\"https:\/\/archives.lib.fsu.edu\/repositories\/10\/resources\/1406\"><img alt=\"\" src=\"\/sites\/default\/files\/sites\/default\/files\/upload\/sca\/askewcolhighthumb.jpg\" style=\"width: 115px; height: 148px; float: left; margin-left: 10px; margin-right: 10px;\" \/><\/a> Personal and professional papers of Reubin O&rsquo;Donovan Askew (1928-2014), documenting his personal life and political career as Florida&rsquo;s 33rd Governor (1971-1979) and 7th U.S. Trade Representative (1979-1980) and Florida State University professor of Public Policy (1999-2014).<\/p>\r\n\t\t<p>&nbsp;<\/p>\r\n\t<\/div>\r\n\t<h2>Heritage &amp; University Archives<\/h2>\r\n\t<div>\r\n\t\t<p>The mission of Heritage &amp; University Archives is to locate, identify, record, assist in the preservation of, and promote knowledge about the history of Florida State University and its predecessor institutions. Students, faculty, staff, administrators, alumni, and friends have expressed this heritage through published, unpublished, audio and visual materials, memorabilia, ceremonial objects, and official university records.<\/p>\r\n\t\t<h3><a href=\"http:\/\/fsu.digital.flvc.org\/islandora\/object\/fsu:huaphotographcollection\">University Photograph Collection<\/a><\/h3>\r\n\t\t<p><a href=\"http:\/\/fsu.digital.flvc.org\/islandora\/object\/fsu:huaphotographcollection\" target=\"_blank\"><img alt=\"\" src=\"\/sites\/default\/files\/sites\/default\/files\/upload\/sca\/univphotoscolhighthumb.png\" style=\"width: 125px; height: 100px; float: left; margin-left: 10px; margin-right: 10px;\" \/><\/a> The university holds over 500,000 images in various formats dating from the late 1800&rsquo;s to the present that captures the campus, student life, events, and university programs. University historical photographs from many collections are digitized and available in <a href=\"https:\/\/www.diginole.lib.fsu.edu\/islandora\/object\/fsu:huaphotographcollection\"> DigiNole: FSU\u2019s Digital Repository<\/a><\/p>\r\n\t\t<p><br \/>\r\n\t\t\t&nbsp;<\/p>\r\n\t\t<h3><a href=\"https:\/\/archives.lib.fsu.edu\/repositories\/10\/resources\/612\">Pride Student Union<\/a><\/h3>\r\n\t\t<p><a href=\"https:\/\/archives.lib.fsu.edu\/repositories\/10\/resources\/612\" target=\"_blank\"><img alt=\"\" src=\"\/sites\/default\/files\/sites\/default\/files\/upload\/sca\/pridecolhighthumb.jpg\" style=\"width: 125px; float: left; margin-left: 10px; margin-right: 10px; height: 161px;\" \/><\/a> The Florida State University Pride Student Union Records document the founding and development of Pride including its predecessor and auxiliary organizations. The collection contains administrative records, promotional materials, artwork, banners, newspapers, and journal and magazine clippings produced and collected by the organization since the late 1960s. Selections from this collection are digitized and available in <a href=\"https:\/\/www.diginole.lib.fsu.edu\/islandora\/object\/fsu:huapridestudentunion\"> DigiNole: FSU\u2019s Digital Repository<\/a><\/p>\r\n\t\t<p>&nbsp;<\/p>\r\n\t\t<p><br \/>\r\n\t\t\t&nbsp;<\/p>\r\n\t\t<h3><a href=\"https:\/\/archives.lib.fsu.edu\/repositories\/10\/resources\/1170\">College of Nursing<\/a><\/h3>\r\n\t\t<p><a href=\"https:\/\/archives.lib.fsu.edu\/repositories\/10\/resources\/1170\" target=\"_blank\"><img alt=\"\" src=\"\/sites\/default\/files\/sites\/default\/files\/upload\/sca\/nursingcolhighthumb.jpg\" style=\"width: 125px; height: 102px; float: left; margin-left: 10px; margin-right: 10px;\" \/><\/a> This collection consists of papers, ephemera, and photographs that document the history and activities of Florida State University&rsquo;s College of Nursing from its development in 1948 through 2014. The collection includes records from the deans, the graduate nursing program, various faculty committees, student organizations, and the Legacy Project, as well as materials created for special events such as pinning and graduation ceremonies, homecoming events, conferences, and presentations. <a href=\"https:\/\/www.diginole.lib.fsu.edu\/islandora\/search\/college%20of%20nursing?type=dismax\">Digitized selections can be seen in the FSU Digital Library<\/a>.<\/p>\r\n\t<\/div>\r\n\t<h2>Rare Book Collections<\/h2>\r\n\t<div>\r\n\t\t<p>The rare books collections at FSU Special Collections &amp; Archives comprise over 90,000 volumes of printed materials ranging in date from the fifteenth to the twenty-first centuries. These books represent significant examples from the history of text technology, as well as areas of particular historical, geographical, and sociological importance.<\/p>\r\n\t\t<h3>John MacKay Shaw Collection of Childhood in Poetry<\/h3>\r\n\t\t<p><img alt=\"\" src=\"\/sites\/default\/files\/sites\/default\/files\/upload\/sca\/shawcolhighthumb.jpg\" style=\"width: 117px; height: 154px; float: left; margin-left: 10px; margin-right: 10px;\" \/> John MacKay Shaw (1897-1984) was a Scottish-born American businessman and philanthropist who collected works of British and American poetry related to the theme of childhood. His collection of over 5,000 first and rare editions of major poets, Victorian gift books, children&rsquo;s periodicals, and reference works was donated to FSU Libraries and 1959 and has continued to grow, now encompassing over 25,000 volumes.<\/p>\r\n\t\t<p>&nbsp;<\/p>\r\n\t\t<h3>Napoleon and the French Revolution<\/h3>\r\n\t\t<p><img alt=\"\" src=\"\/sites\/default\/files\/sites\/default\/files\/upload\/sca\/napoleoncolhighthumb.jpg\" style=\"width: 117px; height: 103px; float: left; margin-left: 10px; margin-right: 10px;\" \/> FSU Special Collections &amp; Archives houses one of the largest research collections in the world on Napoleonic studies and the French Revolution. Letters, journals, memoirs, newspapers, pamphlets and over 10,000 published books provide insight into the social, political, and military history of the times.<\/p>\r\n\t\t<p>&nbsp;<\/p>\r\n\t\t<h3>Marsha Gontarski Children&rsquo;s Literature Collection<\/h3>\r\n\t\t<p><img alt=\"\" src=\"\/sites\/default\/files\/sites\/default\/files\/upload\/sca\/gontarskicolhighthumb.jpg\" style=\"width: 117px; height: 84px; float: left; margin-left: 10px; margin-right: 10px;\" \/> This collection of 20th and 21st century children&rsquo;s literature contains over 1,500 titles, ranging from classic fairy-tales to contemporary pieces featuring modern art, all with a focus on visual literacy.<\/p>\r\n\t<\/div>\r\n<\/div>\r\n<p>&nbsp;<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ]
+}

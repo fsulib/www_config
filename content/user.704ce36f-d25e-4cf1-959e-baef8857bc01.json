@@ -96,6 +96,7 @@
             "target_uuid": "e550093a-7bf1-4463-94a8-c73d604cd609"
         }
     ],
+    "field_personal_pronouns": [],
     "field_phone_number": [
         {
             "value": "(850) 644-1570"
@@ -106,6 +107,8 @@
             "value": "Research & Scholarly Communications Librarian"
         }
     ],
+    "field_preferred_email_address": [],
+    "field_preferred_name": [],
     "field_room_number": [
         {
             "value": "L205B"

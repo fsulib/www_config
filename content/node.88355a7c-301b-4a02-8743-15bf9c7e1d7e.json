@@ -1,0 +1,94 @@
+{
+    "uuid": [
+        {
+            "value": "88355a7c-301b-4a02-8743-15bf9c7e1d7e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "a12db886-d412-46b5-9932-855c32fb27dd"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-06-16T16:49:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Special Collections: Donating"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-16T16:44:45+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-16T16:49:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<h2>Do you have books, personal or family papers, photos, or other media to donate to our collections?<\/h2>\r\n<p>The holdings of FSU Special Collections & Archives are immensely strengthened through the generous contributions of alumni, faculty, and friends. To discuss donating materials to Special Collections & Archives - whether it\u2019s a single item or a large collection - please reach out to us at <a href=\"mailto:lib-specialcollections@fsu.edu\">lib-specialcollections@fsu.edu<\/a>. We will forward your inquiry to the appropriate contact. We request that you do not bring materials to the library without having first communicated with us.<\/p>\r\n<h2>Do you want to support the work of FSU Special Collections & Archives?<\/h2>\r\n<p>The curation, preservation, digitization, and description of materials in SCA are made possible, in part, through financial support from donors. Learn more here about supporting our work and giving to the Libraries.<\/p>\r\n<h2>Are you seeking appraisal of items in your personal collection?<\/h2>\r\n<p>While we are excited to discuss the materials in your personal holdings, we do not provide appraisal services to our patrons. To find a certified appraiser, please consult the Antiquarian Booksellers\u2019 Association of America website, where you can view appraisers by region.<\/p>\r\n<h2>Additional Resources<\/h2>\r\n<p><a href=\"https:\/\/www2.archivists.org\/publications\/brochures\/donating-familyrecs\">Donating Your Personal Papers or Family Records to a Repository<\/a><\/p>\r\n<p><a href=\"http:\/\/rbms.info\/yob\/\">Your Old Books<\/a><\/p>\r\n<p><a href=\"https:\/\/www.vialibri.net\/\">viaLibri<\/a><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ]
+}

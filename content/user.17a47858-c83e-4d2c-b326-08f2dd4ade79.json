@@ -96,12 +96,15 @@
             "target_uuid": "527d02b3-05ae-4c5e-b0af-853e8a81182c"
         }
     ],
+    "field_personal_pronouns": [],
     "field_phone_number": [],
     "field_position_title": [
         {
             "value": "Director of Manuscripts Collections"
         }
     ],
+    "field_preferred_email_address": [],
+    "field_preferred_name": [],
     "field_room_number": [
         {
             "value": "110"

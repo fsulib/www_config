@@ -1,0 +1,97 @@
+{
+    "uuid": [
+        {
+            "value": "4f00a31e-ed64-4bc0-8a58-f93e2acb480c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "b17d1dd2-b562-4656-b080-3f9bec3625f6"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-06-16T14:49:47+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "name": [
+        {
+            "value": "norwoodrr_webedit.jpg"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "A picture of the Norwood reading room with a meeting in progress",
+            "title": null,
+            "width": 500,
+            "height": 333,
+            "target_type": "file",
+            "target_uuid": "d9b28ac0-2756-413c-af12-f355a229d6db"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-16T14:49:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-16T14:49:47+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "A picture of the Norwood reading room with a meeting in progress",
+            "title": "",
+            "width": 500,
+            "height": 333,
+            "target_type": "file",
+            "target_uuid": "d9b28ac0-2756-413c-af12-f355a229d6db"
+        }
+    ]
+}

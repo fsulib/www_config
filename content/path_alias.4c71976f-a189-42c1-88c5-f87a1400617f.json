@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "4c71976f-a189-42c1-88c5-f87a1400617f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/f287508c-a129-48ef-bddc-53d17398a35a"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/research-and-publish\/research\/pen-and-inc"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

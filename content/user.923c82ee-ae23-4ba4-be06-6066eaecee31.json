@@ -96,6 +96,7 @@
             "target_uuid": "f8e42e53-c860-40d3-8f43-a923b1da76b2"
         }
     ],
+    "field_personal_pronouns": [],
     "field_phone_number": [
         {
             "value": "(850) 296-9001"
@@ -106,6 +107,8 @@
             "value": " Facilities Manager"
         }
     ],
+    "field_preferred_email_address": [],
+    "field_preferred_name": [],
     "field_room_number": [
         {
             "value": "209D"

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "9f6faf3b-1b1c-4de5-80a2-c07728be0e60"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/c6d6eb80-a10e-416c-a399-03e06bad0f0f"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/about\/job-opportunties"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

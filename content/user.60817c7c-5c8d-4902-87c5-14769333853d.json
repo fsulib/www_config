@@ -48,7 +48,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-04T05:17:14+00:00",
+            "value": "2022-06-16T14:10:05+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -92,6 +92,11 @@
             "target_uuid": "1ddda550-1908-4d9a-9d2b-33ede7224536"
         }
     ],
+    "field_personal_pronouns": [
+        {
+            "value": "she\/her\/hers"
+        }
+    ],
     "field_phone_number": [
         {
             "value": "(850) 645-0829"
@@ -100,6 +105,12 @@
     "field_position_title": [
         {
             "value": "Web Services Librarian"
+        }
+    ],
+    "field_preferred_email_address": [],
+    "field_preferred_name": [
+        {
+            "value": "Jess"
         }
     ],
     "field_room_number": [

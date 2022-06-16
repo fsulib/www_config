@@ -1,0 +1,89 @@
+{
+    "uuid": [
+        {
+            "value": "29466b1e-8eea-484a-b4f6-f7f5dabb159a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "a12db886-d412-46b5-9932-855c32fb27dd"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-06-16T16:00:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Special Collections: Services During COVID"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-16T15:52:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-16T16:00:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [],
+    "path": [
+        {
+            "alias": "\/special-collections\/services-during-covid",
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The FSU Libraries Special Collections &amp; Archives Research Center, Claude Pepper Library and Museum, and the Norwood Reading Room in Strozier are open for walk-ins and appointments at this time. To make an appointment, please <a href=\"https:\/\/www.lib.fsu.edu\/sca\/visit#book-an-appointment\">fill out this form<\/a> and a staff member will be in touch shortly to schedule your visit.<\/p>\r\n<p>Along with in-person research appointments, we are also available to help you remotely with your research and online instruction needs.<\/span><\/p>\r\n<h2>Research &amp; Reference Services&nbsp;<\/h2>\r\n<p>Researchers may continue to use <a href=\"mailto:lib-specialcollections@fsu.edu\">lib-specialcollections@fsu.edu<\/a> to communicate research and reference questions to Special Collections &amp; Archives. Digitized and born-digital resources remain accessible from any web browser in the <a href=\"https:\/\/diginole.lib.fsu.edu\/islandora\/object\/fsu:digital_library\">FSU Digital Library<\/a>. Guidelines for discovering and using special collections resources at FSU and beyond are included on our <a href=\"\/special-collections\/catalogs-and-databases\">Catalogs &amp; Databases<\/a> page. <\/span><\/p>\r\n<h2>Class Visits &amp; Instruction Services<\/h2>\r\n<p>Special Collections &amp; Archives can facilitate in-person visits, depending upon availability of staff and instruction space. Online class visits and resources for asynchronous coursework are also available to support your course objectives. To request a class visit, or a consultation about class visits, please complete the <a href=\"#\">Class Visit Request Form<\/a> two weeks or more in advance of the session. Please contact Special Collections &amp; Archives at <a href=\"mailto:lib-specialcollections@fsu.edu\">lib-specialcollections@fsu.edu<\/a> if you have further questions about support for online instruction.<\/p>\r\n<h2>Copy Services<\/h2>\r\n<p>The Digital Library Center continues to provide digital copies of Special Collections &amp; Archives materials, although delivery times may be longer than normal. Use the <a href=\"#\">Special Collections &amp; Archives Reproduction Form<\/a> to place a request for copies from the collections.<\/span><\/p>\r\n<h2>Donations and Collection Development<\/h2>\r\n<p>Special Collections &amp; Archives continues to review donations and develop our unique collections. We are not currently able to make onsite visits with donors but we would be happy to discuss <a href=\"\/special-collections\/donate\">potential donations<\/a> with you.<\/p>\r\n<p>Heritage &amp; University Archives continues to collect materials related to the history of Florida State University. During this unprecedented time, our <a href=\"\/special-collections\/covid-19-fsu-community-experience-project\">Covid-19 Community Experience Project,<\/a> seeks to collect the experiences of FSU student, faculty, staff, and alumni during the coronavirus outbreak.<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ]
+}

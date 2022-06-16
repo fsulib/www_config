@@ -96,6 +96,7 @@
             "target_uuid": "33b124f2-a857-4f2e-b2fc-246502edf3b4"
         }
     ],
+    "field_personal_pronouns": [],
     "field_phone_number": [
         {
             "value": "(850) 644-5685"
@@ -106,6 +107,8 @@
             "value": "Systems Administrator"
         }
     ],
+    "field_preferred_email_address": [],
+    "field_preferred_name": [],
     "field_room_number": [
         {
             "value": "217"

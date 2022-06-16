@@ -96,6 +96,7 @@
             "target_uuid": "9da1f3d3-aa98-4d9f-8c51-fa5c82b7feeb"
         }
     ],
+    "field_personal_pronouns": [],
     "field_phone_number": [
         {
             "value": "(850) 645-7828"
@@ -106,6 +107,8 @@
             "value": " Director of Development"
         }
     ],
+    "field_preferred_email_address": [],
+    "field_preferred_name": [],
     "field_room_number": [
         {
             "value": "314F"

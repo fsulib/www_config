@@ -96,6 +96,7 @@
             "target_uuid": "f76918bb-cb1c-462b-a0dc-805d05c2ec08"
         }
     ],
+    "field_personal_pronouns": [],
     "field_phone_number": [
         {
             "value": "(850) 644-5232"
@@ -106,6 +107,8 @@
             "value": "Discovery Data Services"
         }
     ],
+    "field_preferred_email_address": [],
+    "field_preferred_name": [],
     "field_room_number": [
         {
             "value": "120"

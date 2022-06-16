@@ -92,6 +92,7 @@
             "target_uuid": "ca9567f5-c1b4-4c9c-a0f7-f75cbd8fd1a0"
         }
     ],
+    "field_personal_pronouns": [],
     "field_phone_number": [
         {
             "value": "(850) 644-6683"
@@ -102,6 +103,8 @@
             "value": " Systems Librarian"
         }
     ],
+    "field_preferred_email_address": [],
+    "field_preferred_name": [],
     "field_room_number": [],
     "user_picture": []
 }

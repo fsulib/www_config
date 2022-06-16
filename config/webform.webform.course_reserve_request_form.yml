@@ -78,6 +78,11 @@ elements: |-
   item_:
     '#type': webform_custom_composite
     '#title': 'Item(s) Requested'
+    '#multiple__header': false
+    '#multiple__sorting': false
+    '#multiple__operations': false
+    '#multiple__add_more_input': false
+    '#multiple__add_more_button_label': 'Add Another Item'
     '#element':
       type:
         '#type': select

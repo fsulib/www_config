@@ -96,6 +96,7 @@
             "target_uuid": "20dd0e00-219a-4fd5-b999-6739c97bf8d3"
         }
     ],
+    "field_personal_pronouns": [],
     "field_phone_number": [
         {
             "value": "(850) 644-4171"
@@ -106,6 +107,8 @@
             "value": "Library Specialist"
         }
     ],
+    "field_preferred_email_address": [],
+    "field_preferred_name": [],
     "field_room_number": [
         {
             "value": "026"

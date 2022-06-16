@@ -1,0 +1,93 @@
+{
+    "uuid": [
+        {
+            "value": "a9c6f987-8462-4157-8405-7f43d4c33858"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "a12db886-d412-46b5-9932-855c32fb27dd"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-06-16T17:06:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Special Collections: Class Visits"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-16T17:01:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-16T17:06:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/special-collections\/visit\/class-visits",
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<img alt=\"\" src=\"\/sites\/default\/files\/2022-06\/instruction_sca_2_edit.jpg\" style=\"width: 850px; height: 441px;\" \/>\r\n<p>We invite instructors teaching at all levels in all departments to consider a class visit to Special Collections &amp; Archives during your course. Visits to SCA locations can include any of the following content, directed by you and\/or SCA staff:<\/p>\r\n<ul>\r\n\t<li>Active learning with objects from Special Collections &amp; Archives<\/li>\r\n\t<li>Orientation to FSU Libraries Special Collections &amp; Archives<\/li>\r\n\t<li>Introduction to archival and\/or primary source research<\/li>\r\n\t<li>Custom sessions built around your course goals and objectives<\/li>\r\n<\/ul>\r\n<p>To place a request for a class visit to the Special Collections Research Center or Claude Pepper Library, <a href=\"https:\/\/www.lib.fsu.edu\/form\/sca\/class-visit-request\">please use our online form.<\/a><\/p>\r\n<p>To further discuss the possibilities of a Special Collections &amp; Archives class visit, <a href=\"https:\/\/www.lib.fsu.edu\/form\/sca\/consultation\">place a request for a consultation here.<\/a><\/p>\r\n<h2>Class Visit Guidelines<\/h2>\r\n<ul>\r\n\t<li>No food, drink, bags, or pens may be brought near Special Collections materials. Usually, these items can come to our classroom but not to the tables. Cameras, laptops, pencils, and paper are okay to use during your visit. We&rsquo;ll have pencils for loan but maybe not enough for everyone. Options for plugging in laptops will be limited.<\/li>\r\n\t<li>For items that have pages, pages may be turned carefully with clean dry hands.<\/li>\r\n\t<li>All items must stay on tables or in book cradles while in use. Use magnifying glasses rather than pick up items for closer examination.<\/li>\r\n\t<li>Don&rsquo;t open bound items farther than feels safe.<\/li>\r\n\t<li>Don&rsquo;t use fingers to trace text or hold books open. Use acid-free bookmarks or book weights to help keep your place.<\/li>\r\n\t<li>There are no dumb questions regarding safe handling. If you are unsure about your actions or the materials, please ask us!<\/li>\r\n<\/ul>\r\n<h2>Assignments Incorporating Special Collections &amp; Archives <\/h2>\r\n<p>Research in Special Collections &amp; Archives (SCA) and interaction with collections materials can greatly enrich your students&rsquo; classroom experience and reinforce key course concepts. We&rsquo;re happy to collaborate with you to design a course assignment around research in SCA collections that fulfills your course goals and objectives.<\/p>\r\n<p>To meet with SCA staff about an upcoming course assignment, <a href=\"https:\/\/www.lib.fsu.edu\/form\/sca\/consultation\">place a request for a consultation here.<\/a><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ]
+}

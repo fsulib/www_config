@@ -96,6 +96,7 @@
             "target_uuid": "e550093a-7bf1-4463-94a8-c73d604cd609"
         }
     ],
+    "field_personal_pronouns": [],
     "field_phone_number": [
         {
             "value": "(850) 644-7288"
@@ -106,6 +107,8 @@
             "value": "Assistant Director for Research"
         }
     ],
+    "field_preferred_email_address": [],
+    "field_preferred_name": [],
     "field_room_number": [
         {
             "value": "L204A"

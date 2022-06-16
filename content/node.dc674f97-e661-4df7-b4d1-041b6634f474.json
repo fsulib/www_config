@@ -1,0 +1,93 @@
+{
+    "uuid": [
+        {
+            "value": "dc674f97-e661-4df7-b4d1-041b6634f474"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "a12db886-d412-46b5-9932-855c32fb27dd"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-06-16T17:01:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Special Collections: Reading Room Policies"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-16T16:53:54+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-16T17:01:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/special-collections\/visit\/reading-room-policies",
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><img alt=\"\" src=\"\/sites\/default\/files\/2022-06\/readingroompoliciespage_webedit2.jpg\" style=\"width: 850px; height: 361px;\" \/><\/p>\r\n<div>\r\n\t<h2>Rules for Researchers<\/h2>\r\n\t<div>\r\n\t\t<p>Special Collections &amp; Archives welcomes the use of its material by patrons and researchers in our&nbsp;two reading rooms, Special Collections Research Center Reading Room and the Claude Pepper Library Reading Room. In order to ensure the longevity of these resources, we ask that patrons and researchers abide by the following rules:<\/p>\r\n\t\t<ul>\r\n\t\t\t<li>No items may be checked out of the Reading Room.<\/li>\r\n\t\t\t<li>No food or drinks are allowed in the Reading Room.<\/li>\r\n\t\t\t<li>All bags, briefcases, computer cases, and camera cases must be placed in lockers or provided in the Reading Room.<\/li>\r\n\t\t\t<li>Use pencils for taking notes; pens, markers, highlighters are not allowed.<\/li>\r\n\t\t\t<li>Cell phones are allowed but should be placed on silent.<\/li>\r\n\t\t\t<li>See staff for requests to photograph, copy, or scan materials; personal scanners are not allowed. If digitization of materials needs to be done by Special Collections &amp; Archives staff please use the <a href=\"https:\/\/www.lib.fsu.edu\/form\/sca\/special-collections-archives-reproduction-form\">Reproduction Form<\/a> to submit your request.<\/li>\r\n\t\t<\/ul>\r\n\t<\/div>\r\n\t<h2>Camera Use Policy<\/h2>\r\n\t<div>\r\n\t\t<p>Photographs of collections may be taken in all the Reading Rooms under the supervision of Special Collections &amp; Archives staff, as long as researchers abide by the following rules:<\/p>\r\n\t\t<ul>\r\n\t\t\t<li>Researchers must fill out the <a href=\"\/sites\/default\/files\/sites\/default\/files\/upload\/sca\/fsu_sca_camera_use_reproduction_form.pdf\">Reading Room Camera Use &amp; Reproduction Form<\/a> before taking any images. See staff in the Reading Room for the form.<\/li>\r\n\t\t\t<li>No more than 30% of a book, journal, manuscript collection, or other work may be reproduced.<\/li>\r\n\t\t\t<li>If researchers do not have a personal camera available, Special Collections &amp; Archives owns a digital camera that it will allow researchers to use. To prevent excessive wear and tear on our equipment, and to prolong battery life, researchers using the camera are limited to taking no more than 30 images per day. Staff will gladly assist researchers with photography needs. Researchers needing more than 30 images per day should bring a personal camera or discuss with staff other options.<\/li>\r\n\t\t\t<li>No portable scanners, tripods, or external lighting are allowed. Flash and sound must be turned off before taking images.<\/li>\r\n\t\t\t<li>Collections should be handled carefully during photography. Researchers should not press down on materials when photographing them. Book supports are available and should be used to avoid damage.<\/li>\r\n\t\t\t<li>Researchers needing higher quality images, images of fragile items, or large volumes of digital images should submit a <a href=\"https:\/\/www.lib.fsu.edu\/form\/sca\/special-collections-archives-reproduction-form\">Reproduction Form<\/a>.<\/li>\r\n\t\t\t<li>Special Collections &amp; Archives reserves the right to deny permission to photograph any item or portion of any item due to the fragile condition of the item, the availability of a reproduction or facsimile elsewhere, donor restriction, or copyright law.<\/li>\r\n\t\t\t<li>All images taken may be used for educational or personal research use only. It is the responsibility of the researcher to obtain copyright permission to publish images from the collection when applicable.<\/li>\r\n\t\t\t<li>Researchers may not donate or sell images to another repository, individual, or organization.<\/li>\r\n\t\t\t<li>For information on how to properly cite or credit images captured, see our <a href=\"\/special-collections\/citations-and-copyright\">Citations &amp; Copyright page<\/a>.<\/li>\r\n\t\t<\/ul>\r\n\t<\/div>\r\n\t<h2>Reuse and Copyright of Materials<\/h2>\r\n\t<div>\r\n\t\t<p>When re-using materials from Special Collections &amp; Archives, please cite or credit the materials appropriately. See our <a href=\"\/special-collections\/citations-and-copyright\">Citations &amp; Copyright page<\/a> for more information.<\/p>\r\n\t\t<p>Copies made for or by users of Special Collections &amp; Archives are presumed to be for private study, scholarship, or research only. Users who would like to reuse materials for publication, distribution, performance, display, or broadcast should be aware of any copyright restrictions on the content. Information on determining the copyright status of a work can be found at the <a href=\"http:\/\/guides.lib.fsu.edu\/c.php?g=352560&amp;p=2380930\">FSU Libraries Copyright Resources Research Guide<\/a>.<\/p>\r\n\t<\/div>\r\n\t<h2>Forms<\/h2>\r\n\t<div>\r\n\t\t<ul>\r\n\t\t\t<li><a href=\"https:\/\/www.lib.fsu.edu\/form\/special-collections-appointment-request-form\">Patron Registration and Appointment Request Form<\/a><\/li>\r\n\t\t\t<li>Reading Room Camera Use and Reproduction Form [<a href=\"\/sites\/default\/files\/sites\/default\/files\/upload\/sca\/fsu_sca_camera_use_reproduction_form.pdf\">PDF<\/a>]<\/li>\r\n\t\t\t<li><a href=\"https:\/\/www.lib.fsu.edu\/form\/sca\/special-collections-archives-reproduction-form\">Reproduction Request Form<\/a><\/li>\r\n\t\t<\/ul>\r\n\t<\/div>\r\n<\/div>\r\n<p>&nbsp;<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ]
+}

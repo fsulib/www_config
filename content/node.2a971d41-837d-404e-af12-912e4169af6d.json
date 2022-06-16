@@ -1,0 +1,93 @@
+{
+    "uuid": [
+        {
+            "value": "2a971d41-837d-404e-af12-912e4169af6d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "a12db886-d412-46b5-9932-855c32fb27dd"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-06-16T16:43:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Special Collections: Norwood Reading Room"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-16T16:38:13+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-16T16:43:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/special-collections\/heritage-and-university-archives\/university-records\/norwood-reading-room",
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The Dr. Mary Lou Norwood Reading Room is a space dedicated to the founder of the Heritage Protocol Program, now part of the Heritage &amp; University Archives. The Norwood Reading Room is located on the second floor of Strozier Library.<\/p>\r\n<p><img alt=\"\" src=\"\/sites\/default\/files\/2022-06\/norwoodreadingroom.jpg\" style=\"width: 500px; height: 383px;\" \/><\/p>\r\n\r\n<p>This space is located on the second floor of Strozier Library and is open Monday-Thursday 9am-6pm and Friday 9am-5pm. The room can be requested by faculty and staff for events or meetings. The room may NOT be reserved by students. Please use this link to make a request:&nbsp;<a href=\"https:\/\/www.lib.fsu.edu\/form\/norwood-reading-room\">Norwood Request Form<\/a><\/p>\r\n<h2>Mary Lou Norwood (1925-2007)<\/h2>\r\n<p><img alt=\"\" src=\"\/sites\/default\/files\/2022-06\/norwoodgradpic.jpeg\" style=\"height: 237px; float: left; margin-left: 6px; margin-right: 6px; width: 176px;\" \/>Norwood&#39;s personal history with the Florida State College for Women (FSCW) dates back to when she was a child. Born in Tallahassee on July 9, 1925, she grew up within a block of the FSCW campus, where she often played. She attended kindergarten, grammar, and middle school at the FSCW Demonstration School and high school at the FSCW Florida High School. She went on to attend FSCW, where she received a Bachelor of Arts degree in English and minored in technical theater. She graduated in the transitional class of 1947 when FSCW became the coeducational Florida State University.<\/p>\r\n<p>For decades, Norwood was consistently involved with numerous FSU projects and activities and dedicated her time, energy and vast institutional knowledge to FSU. She was the co-founder and co-chair of the executive committee for the Heritage Protocol, a university-wide effort to locate, record, and preserve historic items and promote knowledge about the heritage of FSU. That program is now Heritage &amp; University Archives. Norwood&#39;s work with the FSCW and FSU synchronized swimming team, The Tarpon Club, includes being its lighting director for its home show from 1958 to 1<span>992 and making two films about the club, &quot;A Dip in Dixie&quot; and &quot;Tarpon Traditions.&quot;&nbsp;<\/span><\/p>\r\n<p><img alt=\"\" src=\"\/sites\/default\/files\/2022-06\/norwoodportrait.jpg\" style=\"width: 175px; height: 237px; float: right; margin-left: 6px; margin-right: 6px;\" \/><span>Norwood was the Class of 1947 chairwoman for planning, fundraising and dedication of the Heritage Tower, built in 1998, as well as the Class of 1947 chairwoman for editing and publishing history and is credited with being a driving force in the production of the book &quot;Femina Perfecta&quot; by Robin Sellers. In addition, Norwood was the writer and compiler of the book, &quot;A Century of Women&#39;s Sports 1905-2005,&quot; published by the Seminole Boosters, and is currentl<\/span><span>y working as co-writer and co-editor of a publication about the history of the former President&#39;s House at FSU, as recounted by the First Ladies of FSU who lived there.<\/span><\/p>\r\n<p>The university conferred upon Mary Lou Norwood an Honorary Doctorate of Humane Letters at a ceremony held in conjunction with the 60th anniversary of her graduating class of 1947.<\/p>\r\n<p><i>Biography excerpted from an article by Bayard Stern, FSU News, 2007<\/i><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "4a3505f6-4b8d-4913-b516-4a4b8bf1803b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/20d13866-92a9-4fb9-b5b6-74d17f7e49e9"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/research-and-publish\/publishing\/open-access-support"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

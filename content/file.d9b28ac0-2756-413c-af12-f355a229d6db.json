@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "d9b28ac0-2756-413c-af12-f355a229d6db"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "filename": [
+        {
+            "value": "norwoodrr_webedit.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2022-06\/norwoodrr_webedit.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 16518
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-16T14:49:28+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-16T14:49:47+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}
