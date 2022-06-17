@@ -1,0 +1,50 @@
+uuid: 62094d12-3b90-451e-8e08-e9932a7ef9ec
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.special-collections
+  module:
+    - system
+    - term_condition
+label: 'A Context for the Special Collections Menu'
+name: a_context_for_the_special_collections_menu
+group: menu
+description: 'Creates the relationship between the menu and the taxonomy term'
+requireAllConditions: false
+disabled: false
+conditions:
+  term:
+    id: term
+    tid:
+      -
+        target_id: '132'
+    negate: 0
+    uuid: add101f2-0d2e-450e-96c3-38c3fa188a69
+    context_mapping: {  }
+reactions:
+  blocks:
+    id: blocks
+    uuid: 356359d4-2f97-48fd-b380-1f37fd77566c
+    blocks:
+      8bfa0b60-8281-415c-861f-bd5ce7c800a1:
+        uuid: 8bfa0b60-8281-415c-861f-bd5ce7c800a1
+        id: 'system_menu_block:special-collections'
+        label: 'Special Collections'
+        provider: system
+        label_display: '0'
+        region: sidebar_first
+        weight: '0'
+        custom_id: system_menu_block_special_collections
+        theme: fsu_strata
+        css_class: ''
+        unique: 0
+        context_id: a_context_for_the_special_collections_menu
+        context_mapping: {  }
+        level: '1'
+        depth: '0'
+        expand_all_items: 0
+        third_party_settings: {  }
+    include_default_blocks: 0
+    saved: false
+weight: 0

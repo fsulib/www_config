@@ -1028,7 +1028,7 @@ display:
           exclude: false
           alter:
             alter_text: true
-            text: '<a href="/user/{{uid}}">{{field_first_name}} {{field_last_name}}</a>'
+            text: "<a href=\"/user/{{uid}}\">{{ field_preferred_name is not empty ? field_preferred_name : field_first_name }} {{ field_last_name }} </a>\r\n\r\n"
             make_link: false
             path: ''
             absolute: false

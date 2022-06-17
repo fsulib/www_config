@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-06-16T15:49:15+00:00",
+            "value": "2022-06-17T17:21:42+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -42,7 +42,7 @@
     ],
     "title": [
         {
-            "value": "Special Collections: Past Exhibits"
+            "value": "Special Collections & Archives: Past Exhibits"
         }
     ],
     "created": [
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-16T15:49:15+00:00",
+            "value": "2022-06-17T17:21:42+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -72,7 +72,11 @@
             "value": true
         }
     ],
-    "revision_translation_affected": [],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
     "path": [
         {
             "alias": "\/special-collections\/exhibits-and-events\/past-exhibits",
@@ -85,5 +89,6 @@
             "format": "full_html",
             "summary": ""
         }
-    ]
+    ],
+    "field_related_menu": []
 }

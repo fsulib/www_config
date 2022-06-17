@@ -1,0 +1,8 @@
+uuid: ebeaf0d4-07c9-448d-85bf-d928f613232f
+langcode: en
+status: true
+dependencies: {  }
+id: special-collections
+label: 'Special Collections'
+description: 'A menu for the Special Collections section of the website'
+locked: false

@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "f794993a-8039-4e85-b42c-7ce312720439"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "filename": [
+        {
+            "value": "peppermuseum_pepperpage.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2022-06\/peppermuseum_pepperpage.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 40353
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-17T17:59:54+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-17T18:00:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

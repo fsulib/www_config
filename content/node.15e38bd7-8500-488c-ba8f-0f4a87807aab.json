@@ -1,0 +1,94 @@
+{
+    "uuid": [
+        {
+            "value": "15e38bd7-8500-488c-ba8f-0f4a87807aab"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "a12db886-d412-46b5-9932-855c32fb27dd"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-06-17T17:45:50+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Special Collections & Archives: Dodd Hall Heritage Museum Stained Glass Windows"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-17T17:42:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-17T17:45:50+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/special-collections\/heritage-and-university-archives\/dodd-hall-windows",
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Stained glass windows in the Heritage Museum highlight events and entities that are important and meaningful to the history of Florida State University. Proposals for new windows are vetted by representatives of the FSU Administration, University Libraries, the FSU Foundation, Master Craftsman Studio, and the Heritage Museum Advisory Board. New stained-glass windows in the Heritage Museum begin with an application process managed by University Libraries and the Heritage Museum Advisory Board.<\/p>\r\n<div style=\"text-align: center;\"><img alt=\"\" src=\"\/sites\/default\/files\/2022-06\/heritagemuseumuniversity-communications_resized_0.jpg\" \/><br \/>\r\n\t<em>Photograph by Bill Lax, FSU Photography Services, 2012.<\/em><\/div>\r\n<div style=\"background-color;padding:20px;\">\r\n\t<h2>Application Process for New Windows<\/h2>\r\n\t<ul>\r\n\t\t<li>\r\n\t\t\t<p>Persons or groups wishing to initiate consideration of a new window in the Heritage Museum will submit a nomination form. To request nomination form contact FSU Libraries Director of Development, <a href=\"mailto:jmcknight@foundation.fsu.edu\">Jenni McKnight<\/a>.<\/p>\r\n\t\t<\/li>\r\n\t\t<li>\r\n\t\t\t<p>Before submission, applicants should (1) verify that the subject of their nomination fits current criteria, (2) be willing to comply with the design process guidelines, and (3) have a plan for funding the window.<\/p>\r\n\t\t<\/li>\r\n\t\t<li>\r\n\t\t\t<p>Applicants must provide information on the historical significance of the subject of the window and identify other areas on campus, if any, where the subject is represented (names of buildings, statues, etc.), as well as providing other requested information.<\/p>\r\n\t\t<\/li>\r\n\t<\/ul>\r\n<\/div>\r\n<div style=\"background-color:#f3ede1;padding:20px;\">\r\n\t<h2>Pricing Policy<\/h2>\r\n\t<ul>\r\n\t\t<li>\r\n\t\t\t<p>The Heritage Museum Advisory Board, in conjunction with the FSU Foundation, University Libraries, Master Craftsman Studio and FSU Administration, has established a price of $50,000 for each new stained-glass window in the Dodd Hall Heritage Museum, effective August 2021.<\/p>\r\n\t\t<\/li>\r\n\t\t<li>\r\n\t\t\t<p>A minimum, nonrefundable payment of $10,000 is required to begin the design process. The balance is due prior to installation.<\/p>\r\n\t\t<\/li>\r\n\t\t<li>\r\n\t\t\t<p>Master Craftsman Studio designs, fabricates, and installs each window. MCS oversees maintenance of windows and consults on long-term preservation. $15,000 of the $50,000 is allocated for these services. An additional contingency charge of up to 33% may be paid to MCS if extraordinary expenses are incurred in production of the window. These extra costs will be absorbed by the Heritage Fund and are not the responsibility of the donor. However, the donor will be informed of any potential extra costs during the design phase.<\/p>\r\n\t\t<\/li>\r\n\t\t<li>\r\n\t\t\t<p>After Master Craftsman Studio is paid, remaining funds are deposited into one of the Heritage Museum foundation accounts, as determined by the Dean of University Libraries, to be used for long-term enhancement and preservation of the Museum.<\/p>\r\n\t\t<\/li>\r\n\t<\/ul>\r\n<\/div>\r\n<div style=\"background-color;padding:20px;\">\r\n\t<h2>Criteria for Windows Subject Matter<\/h2>\r\n\t<p>The limited number of window spaces remaining in Dodd Hall has required re-evaluation and narrowing of criteria for the subjects granted a window.<\/p>\r\n\t<ol>\r\n\t\t<li>\r\n\t\t\t<p>The window subject must represent a significant aspect of Florida State University heritage and have enduring historical significance to FSU.<\/p>\r\n\t\t<\/li>\r\n\t\t<li>\r\n\t\t\t<p>The window subject&rsquo;s contribution to Florida State University must be verifiable and established through documentation.<\/p>\r\n\t\t<\/li>\r\n\t\t<li>\r\n\t\t\t<p>Nominations of subjects which are controversial or of potential embarrassment to FSU are discouraged.<\/p>\r\n\t\t<\/li>\r\n\t\t<li>\r\n\t\t\t<p>Windows are not to be used for donor recognition.<\/p>\r\n\t\t<\/li>\r\n\t\t<li>\r\n\t\t\t<p>Preference will be given to representation of collective entities (groups, clubs, colleges, historical events, etc.). Representation of individuals is discouraged and will be given lower priority.<\/p>\r\n\t\t<\/li>\r\n\t\t<li>\r\n\t\t\t<p>Subjects honored elsewhere on campus by statues, named buildings, etc., may be given lower priority than subjects already so recognized.<\/p>\r\n\t\t<\/li>\r\n\t<\/ol>\r\n<\/div>\r\n<div style=\"background-color:#f3ede1;padding:20px;\">\r\n\t<h2>Window Production Process<\/h2>\r\n\t<p>When a window concept is approved and the initial $10,000 deposit is received, Master Craftsman Studio will begin design and construction of the window. This process occurs in three phases: Consultation, Design, and Fabrication. In most cases Consultation and Design occur in tandem. Fabrication begins following approval of a final design and concludes in installation.<\/p>\r\n\t<p>The Director of Master Craftsman Studio (and\/or designee) will conduct the design process with the donor in collaboration with the Dean of University Libraries (and\/or designee.)<\/p>\r\n\t<h3>Consultation Phase<\/h3>\r\n\t<ul>\r\n\t\t<li>\r\n\t\t\t<p>Window design is a collaborative process that includes the client\/donor(s), staff members from Master Craftsman Studio, and representatives of University Libraries.<\/p>\r\n\t\t<\/li>\r\n\t\t<li>\r\n\t\t\t<p>This process is most efficient when no more than 2-3 individuals represent the client\/donor.<\/p>\r\n\t\t<\/li>\r\n\t\t<li>\r\n\t\t\t<p>In general, two or three face-to-face meetings are necessary. In the initial meeting, ideas for visual representation of the subject will be developed.<\/p>\r\n\t\t<\/li>\r\n\t\t<li>\r\n\t\t\t<p>Another face-to-face meeting is held for the purpose of glass selection.<\/p>\r\n\t\t<\/li>\r\n\t<\/ul>\r\n\t<h3>Design Phase<\/h3>\r\n\t<ul>\r\n\t\t<li>\r\n\t\t\t<p>Master Craftsman artists will develop the concept through a succession of design sketches which will be shared with the client, often via email, for feedback and discussion. Prospective designs are critiqued and refined until a final design is agreed upon by all parties.<\/p>\r\n\t\t<\/li>\r\n\t\t<li>\r\n\t\t\t<p>MCS staff time is billed by the hour. Therefore clarity, efficiency and the expression of honest opinions are highly desirable throughout the process.<\/p>\r\n\t\t<\/li>\r\n\t\t<li>\r\n\t\t\t<p>The Dean of University Libraries and the Director of Master Craftsman Studio have ultimate approval over the final design and may dictate changes to the design, as needed, throughout the process.<\/p>\r\n\t\t<\/li>\r\n\t<\/ul>\r\n\t<h3>Fabrication Phase<\/h3>\r\n\t<ul>\r\n\t\t<li>\r\n\t\t\t<p>During the fabrication phase, the window is built and, when completed, installed in the Heritage Museum.<\/p>\r\n\t\t<\/li>\r\n\t\t<li>\r\n\t\t\t<p>Master Craftsman Studio is responsible for fabrication, installation, and maintenance.<\/p>\r\n\t\t<\/li>\r\n\t<\/ul>\r\n\t<h3>Technical Specifications<\/h3>\r\n\t<ul>\r\n\t\t<li>\r\n\t\t\t<p>A wide variety of techniques and materials are used in the creation of windows, selected during the design and fabrication phases. Each design stands on its own and adheres to the highest standards of craftsmanship and artistic merit.<\/p>\r\n\t\t<\/li>\r\n\t\t<li>\r\n\t\t\t<p>Banners are placed above all shield-shaped windows. Banners consist of text which identifies the entity represented in the window<\/p>\r\n\t\t<\/li>\r\n\t\t<li>\r\n\t\t\t<p>Banner font size should be 65 point or higher so that text can be read easily by persons viewing the window.<\/p>\r\n\t\t<\/li>\r\n\t\t<li>\r\n\t\t\t<p>Banners are fabricated from Kokomo 1 glass for uniformity.<\/p>\r\n\t\t<\/li>\r\n\t\t<li>\r\n\t\t\t<p>Recognition plaques identify the donor or honoree and are mounted near each section of windows.<\/p>\r\n\t\t<\/li>\r\n\t\t<li>\r\n\t\t\t<p>Each plaque is 23&rdquo; by 14&rdquo;, divided into 8&rdquo; by 5&frac34; blocks.<\/p>\r\n\t\t<\/li>\r\n\t\t<li>\r\n\t\t\t<p>Each block holds information on one of the stained glass windows in that section, and allows for a maximum of 130 characters.<\/p>\r\n\t\t<\/li>\r\n\t<\/ul>\r\n<\/div>\r\n<div style=\"background-color;padding:20px;\">\r\n\t<h2>Other Considerations<\/h2>\r\n\t<ul>\r\n\t\t<li>\r\n\t\t\t<p>The administration of the Heritage Museum&rsquo;s stained-glass windows program shall be done in concert with all appropriate University policies and procedures, including but not limited to, Florida State University Policy 8-2, naming buildings.<\/p>\r\n\t\t<\/li>\r\n\t\t<li>\r\n\t\t\t<p>When necessary and appropriate, consultations with other University committees or departments may be initiated to assist in the evaluation of window subjects, topics or themes.<\/p>\r\n\t\t<\/li>\r\n\t\t<li>\r\n\t\t\t<p>If assistance with funding is needed, the Dean of University Libraries, the Libraries&rsquo; Director of Development, and the Heritage Museum Advisory Board will work with the donor(s) to identify potential funding sources. The Dean of University Libraries and the Director of Development will also manage coordination with the FSU Foundation and appropriate Foundation staff.<\/p>\r\n\t\t<\/li>\r\n\t\t<li>\r\n\t\t\t<p>These criteria will be reviewed annually and adjusted as needed.<\/p>\r\n\t\t<\/li>\r\n\t<\/ul>\r\n\t<p>&nbsp;<\/p>\r\n\t<hr \/>\r\n\t<div>These guidelines apply only to the Heritage Museum and align with the purpose of the Museum, which is to present an overview of significant events and entities in Florida State University history. These guidelines do not apply to stained glass or art in other media created by Master Craftsman Studio for other facilities, on or off campus. The Studio may contract with colleges, departments, or others to create and install artworks elsewhere, which may represent a wider range of subjects or perspectives, as desired by the client. Pricing will be determined by the Studio in consultation with the client.<\/div>\r\n<\/div>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_related_menu": []
+}

@@ -1,0 +1,94 @@
+{
+    "uuid": [
+        {
+            "value": "8d66b3cb-e14f-433f-9d16-8b812f53b7a1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "a12db886-d412-46b5-9932-855c32fb27dd"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-06-17T17:12:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Special Collections & Archives: Claude Pepper Teacher Resources"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-17T16:54:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-17T17:12:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/special-collections\/claude-pepper\/teacher-resources",
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<h2>Guides (All in PDF format)<\/h2>\r\n<ul>\r\n\t<li><a href=\"\/sites\/default\/files\/upload\/documents\/finding_aids-congressional_materials.pdf\">Congressional Materials Relevant to Researchers Using the Claude Pepper Collection<\/a><\/li>\r\n\t<li><span><a href=\"\/sites\/default\/files\/upload\/documents\/finding_aids-civil_rights.pdf\">Claude Pepper&#39;s Record on Civil Rights<\/a><\/span><\/li>\r\n\t<li><a href=\"\/sites\/default\/files\/upload\/documents\/finding_aids-crime_prevention.pdf\"><span>Claude Pepper and Crime Prevention<\/span><\/a><\/li>\r\n\t<li><a href=\"\/sites\/default\/files\/upload\/documents\/finding_aids-cross-florida-barge-canal.pdf\"><span>Cross-Florida Barge Canal<\/span><\/a><\/li>\r\n\t<li><a href=\"\/sites\/default\/files\/upload\/documents\/finding_aids-elderly.pdf\"><span>Claude Pepper and the Elderly<\/span><\/a><\/li>\r\n\t<li><a href=\"\/sites\/default\/files\/upload\/documents\/finding_aids-labor.pdf\"><span>Claude Pepper and Labor<\/span><\/a><\/li>\r\n\t<li><a href=\"\/sites\/default\/files\/upload\/documents\/finding_aids-peppercommittees.pdf\"><span>Florida Legislative and U.S. Congressional Committees on Which Claude Pepper Served<\/span><\/a><\/li>\r\n\t<li><a href=\"\/sites\/default\/files\/upload\/documents\/finding_aids-health_care.pdf\"><span>Claude Pepper and Universal Health Care<\/span><\/a><\/li>\r\n\t<li><a href=\"\/sites\/default\/files\/upload\/documents\/finding_aids-fdr.pdf\"><span>Claude Pepper and Franklin D. Roosevelt<\/span><\/a><\/li>\r\n\t<li><a href=\"\/sites\/default\/files\/upload\/documents\/finding_aids-ww2.pdf\"><span>Claude Pepper and World War II<\/span><\/a><\/li>\r\n<\/ul>\r\n<h2>Lesson Plans (All in PDF format)<\/h2>\r\n<ul>\r\n\t<li><a href=\"\/sites\/default\/files\/upload\/documents\/claude_pepper-biographical_sketch.pdf\"><span>Claude Pepper - Biographical Sketch<\/span><\/a><\/li>\r\n\t<li><a href=\"\/sites\/default\/files\/upload\/documents\/claude_pepper-biographical_reading_excercise.pdf\">Biographical Sketch - Reading Comprehension Exercise<\/a><\/li>\r\n\t<li>Reading Comprehension Test (requires verification, <a href=\"mailto:rlr02e@fsu.edu?subject=Lesson%20Plan%20Question\">contact library<\/a>)<\/li>\r\n\t<li>Reading Comprehension Test Answer Key (requires verification, <a href=\"mailto:rlr02e@fsu.edu?subject=Lesson%20Plan%20Question\">contact library<\/a>)<\/li>\r\n<\/ul>\r\n<ul>\r\n\t<li><a href=\"\/sites\/default\/files\/upload\/documents\/lesson_plan-citizenship.pdf\">Lesson Plan 1 - Citizenship<\/a><\/li>\r\n\t<li><a href=\"\/sites\/default\/files\/upload\/documents\/lesson_plan-citizenship-group_activities.pdf\">Lesson Plan 1 - Citizenship (Group Activity)<\/a><\/li>\r\n<\/ul>\r\n<ul>\r\n\t<li><a href=\"\/sites\/default\/files\/upload\/documents\/lesson_plan-political_campaigns.pdf\">Lesson Plan 2 - Political Campaigns<\/a><\/li>\r\n\t<li><a href=\"\/sites\/default\/files\/upload\/documents\/lesson_plan-political_campaigns-class_activities.pdf\">Lesson Plan 2 - Political Campaigns (Group Activity)<\/a><\/li>\r\n<\/ul>\r\n<ul>\r\n\t<li><a href=\"\/sites\/default\/files\/upload\/documents\/lesson_plan-political_campaigns_0.pdf\">Lesson Plan 3 - Political Cartoons<\/a><\/li>\r\n\t<li><a href=\"\/sites\/default\/files\/upload\/documents\/lesson_plan-political_cartoons-group_activities.pdf\">Lesson Plan 3 - Political Cartoons (Group Activity)<\/a><\/li>\r\n<\/ul>\r\n<ul>\r\n\t<li><a href=\"\/sites\/default\/files\/upload\/documents\/lesson_plan-minimum_wage.pdf\">Lesson Plan 4 - Minimum Wage<\/a><\/li>\r\n\t<li><a href=\"\/sites\/default\/files\/upload\/documents\/lesson_plan-minimum_wage-group_activities.pdf\">Lesson Plan 4 - Minimum Wage (Individual &amp; Group Activity)<\/a><\/li>\r\n<\/ul>\r\n<ul>\r\n\t<li><a href=\"\/sites\/default\/files\/upload\/documents\/lesson_plan-diplomacy-cuba.pdf\">Lesson Plan 5 - Diplomacy - Cuba<\/a><\/li>\r\n<\/ul>\r\n<ul>\r\n\t<li><a href=\"\/sites\/default\/files\/upload\/documents\/lesson_plan-understanding_islam.pdf\">Lesson Plan 6 - Understanding Islam<\/a><\/li>\r\n<\/ul>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_related_menu": []
+}

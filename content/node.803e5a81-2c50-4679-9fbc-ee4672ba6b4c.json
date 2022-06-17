@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-05-06T19:28:06+00:00",
+            "value": "2022-06-17T17:15:57+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -42,7 +42,7 @@
     ],
     "title": [
         {
-            "value": "Special Collections: Digital Library Center"
+            "value": "Special Collections & Archives: Digital Library Center"
         }
     ],
     "created": [
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-05-06T19:28:06+00:00",
+            "value": "2022-06-17T17:15:57+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -83,5 +83,12 @@
             "langcode": "en"
         }
     ],
-    "body": []
+    "body": [
+        {
+            "value": "<p>The Digital Library Center (DLC) supports the creation and longevity of Florida State University digital projects. It provides community members with expertise in the digitization of materials, digital project management, metadata creation, and digital preservation. Services include digitizing&nbsp;<a href=\"\/special-collections\">Special Collections &amp; Archives<\/a>&nbsp;materials as well as providing consultation for the university&rsquo;s digital projects. Additionally, the DLC manages and maintains the&nbsp;<a href=\"https:\/\/diginole.lib.fsu.edu\/islandora\/object\/fsu:digital_library\">Florida State University Digital Library<\/span>.<\/p>\r\n<center>\r\n\t<p><a href=\"https:\/\/diginole.lib.fsu.edu\/islandora\/object\/fsu:digital_library\">Visit the FSU Digital Library<\/a><\/p>\r\n\t<p><a href=\"https:\/\/diginole.lib.fsu.edu\/islandora\/object\/fsu:digital_library\" target=\"_blank\"><img src=\"\/sites\/default\/files\/2022-06\/DLCPagebanner1.jpg\"\/><\/a><\/p>\r\n<\/center>\r\n<p>For information about our work or to request a consultation, email <a href=\"mailto:lib-specialcollections@fsu.edu\">lib-specialcollections@fsu.edu<\/a>&nbsp;and note in the subject line the area of work you want to discuss. If you want to put in a reproduction request with the DLC, <a href=\"https:\/\/www.lib.fsu.edu\/form\/sca\/special-collections-archives-reproduction-form\">use this form<\/a> and a member of our team will be in contact within 2 business days.<\/p>\r\n<h2>Areas of Work<\/h2>\r\n<h3>Digital Production Services<\/h3>\r\n<ul>\r\n\t<li>Management of digital production studio staff and equipment<\/li>\r\n\t<li>Advanced digital imaging of Special Collections &amp; Archives material<\/li>\r\n\t<li>Consultation on digital imaging and best practices (<a href=\"\/sites\/default\/files\/2022-06\/fsudlc_digitization_standards-2019ed.pdf\">FSUDL Imaging Guidelines<\/a>)<\/li>\r\n<\/ul>\r\n<h3>Digital Projects<\/h3>\r\n<ul>\r\n\t<li>Project planning<\/li>\r\n\t<li>Project management<\/li>\r\n\t<li>Management and maintenance of the FSU Digital Library<\/li>\r\n\t<li>Project publicity<\/li>\r\n\t<li>Management of born-digital collections<\/li>\r\n\t<li>Consultation on digital projects outside of FSU Libraries<\/li>\r\n<\/ul>\r\n<h3>Metadata<\/h3>\r\n<ul>\r\n\t<li>Transformation of existing description<\/li>\r\n\t<li>Selection and application of standards for individual projects (<a href=\"\/sites\/default\/files\/sites\/default\/files\/upload\/diginoleguidelines.pdf\">DigiNole&nbsp;Metadata Guidelines<\/a>)<\/li>\r\n\t<li>Metadata creation<\/li>\r\n\t<li>Consultation and instruction in metadata and data structure standards for FSU community members<\/li>\r\n\t<li>Guidance for metadata harvesting (<a href=\"\/sites\/default\/files\/2022-06\/diginoleharvestpolicy.v1-1.pdf\">DigiNole Harvesting Policy)<\/a><\/li>\r\n<\/ul>\r\n<h3>Digital Preservation <\/h3>\r\n<ul>\r\n\t<li>Provides preservation services for digitized and born-digital materials which fit under our Digital Preservation Policy<\/li>\r\n\t<li>Management of FSU&rsquo;s involvement with the Florida Digital Archive and MetaArchive<\/li>\r\n\t<li>Web Archiving (<a href=\"https:\/\/archive-it.org\/organizations\/1125\">FSU&#39;s site on Archive-It<\/a>)<\/li>\r\n\t<li>Consultation on digital preservation options for projects outside of FSU Libraries<\/li>\r\n<\/ul>\r\n<center>\r\n\t<p><img src=\"\/sites\/default\/files\/2022-06\/DLCPagebanner2.jpg\" style=\"width: 800px; height: 388px;\" \/><\/p>\r\n<\/center>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_related_menu": []
 }

@@ -1,0 +1,94 @@
+{
+    "uuid": [
+        {
+            "value": "a6dcfa9a-7cb5-4e0a-bda3-d2e9f8cc3ac8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "a12db886-d412-46b5-9932-855c32fb27dd"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-06-17T17:15:48+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Special Collections & Archives: Heritage and Archives Exhibits"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-17T16:38:55+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-17T17:15:48+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/special-collections\/heritage-and-university-archives\/exhibits",
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<center>\r\n    <p><img alt=\"\" src=\"\/sites\/default\/files\/2022-06\/hua_exhibits.jpeg\" style=\"width:600px;height:365px;\" \/><\/p>\r\n<\/center>\r\n<p>Heritage &amp; University Archives engages in the creation of physical and digital exhibits on a regular basis. We maintain and update both the permanent and rotating exhibits in the Heritage Museum at Dodd Hall and the The Norwood Reading Room in Strozier Library. We also collaborate within the Special Collections &amp; Archives Division, and with campus partners to exhibit archives material in their spaces and online.<\/p>\r\n\r\n<h2>Interactive<\/h2>\r\n<p><a href=\"https:\/\/www.lib.fsu.edu\/sca\/heritage-and-university-archives\/timeline\">Heritage &amp; University Archives Timeline<\/a><\/p>\r\n\r\n<h2>Virtual Heritage Museum<\/h2>\r\n<p><a href=\"https:\/\/fsuheritagemuseum.omeka.net\/exhibits\/show\/heritage-museum\">Permanent Exhibit<\/a><\/p>\r\n<p><a href=\"https:\/\/universityintransition.omeka.net\/\">A University in Transition: The Long Path to Integration<\/a><\/p>\r\n<p><a href=\"https:\/\/fsutraditions.omeka.net\/exhibits\/show\/florida-state--traditions\/odds-evens-honors\">Florida State Traditions: Odds, Evens, and Honors Society<\/a><\/p>\r\n<p><a href=\"http:\/\/fsu.digital.flvc.org\/islandora\/object\/fsu%3Afsulivesmain\">FSU Lives: Portal to the Past, Prologue to the Future<\/a><\/p>\r\n\r\n<h2>Collaborative Exhibits<\/h2>\r\n<p><a href=\"https:\/\/fsuresidencehalls.omeka.net\/\"><em>Living on Campus: Florida State University Residence Halls Past &amp; Present<\/a><\/p>\r\n<p><a href=\"https:\/\/fsuearthday50.omeka.net\/exhibits\/show\/earth-day-50\/home\" >Earth Day 50: Environmental Activism at FSU and Beyond><\/a><\/p>\r\n<p><a href=\"https:\/\/humfscwexploration.omeka.net\/collections\/browse\">Exploring Florida State College for Women Scrapbooks<\/a><\/p>\r\n<p><a href=\"https:\/\/fsuintegration50.omeka.net\/\">Celebrating 50 Years of Integration<\/a><\/p>\r\n<p><a href=\"https:\/\/fsusixties.omeka.net\/\">Student Unrest at Florida State&nbsp;1968-1972<\/a><\/p>\r\n\r\n\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_related_menu": []
+}

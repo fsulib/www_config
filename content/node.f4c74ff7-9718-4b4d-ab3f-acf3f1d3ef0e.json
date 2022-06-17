@@ -1,0 +1,94 @@
+{
+    "uuid": [
+        {
+            "value": "f4c74ff7-9718-4b4d-ab3f-acf3f1d3ef0e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "a12db886-d412-46b5-9932-855c32fb27dd"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-06-17T17:29:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Special Collections & Archives: About the Claude Pepper Library "
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-17T17:23:56+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-17T17:29:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/special-collections\/claude-pepper\/about",
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The Claude Pepper Library was established in 1985 as the official repository for the Pepper Collection, a unique and multifaceted collection of manuscripts, photographs, audio\/video recordings, and memorabilia by and about U.S. Congressman Claude Pepper (1900-1989).<\/p>\r\n<p>It is a congressional library that supports and advances research, teaching, and engagement by acquiring, preserving and providing access to collections dealing with the political history of the State of Florida on national and local levels for use by students, faculty and researchers worldwide.<\/p>\r\n<p>The collections are accessible to researchers 11 a.m. to 4 p.m. Monday - Friday in the Pepper Library Reading Room. <a href=\"\/special-collections\/visit\">Use the Visit page<\/a> to plan a visit to The Pepper Library.<\/p>\r\n<p>&nbsp;<\/p>\r\n<h2>About Claude Pepper<\/h2>\r\n<p><img style=\"width: 477px;\" src=\"\/sites\/default\/files\/2022-06\/photoa263.jpg\"\/><\/p>\r\n<p>Claude Pepper was a devoted public servant who served over 40 years in public office first as a Member of the Florida House of Representatives (1929-1930), then as a U.S. Senator (1936-1950), and then as a Member of the U.S. House of Representatives (1962-1989). Early in his career, Pepper was a progressive minded liberal who sponsored legislation to promote equal rights, civil rights, workers&#39; rights and the Lend-Lease Act. During and after World War II, Pepper became a driving force for the establishment of the National Institutes of Health, a system of government-sponsored medical research facilities.<\/p>\r\n<p>Much later in his life and career, he gained international fame as an advocate of elder&#39;s rights, health care, and for strengthening and protecting Social Security, Medicare, Medicaid, and other government sponsored programs on behalf of millions of Americans.<\/p>\r\n<p>Prior to his death, Pepper donated the bulk of his vast collection of official and personal papers to the Florida State University. It was his express wish that his collection is made available to researchers and scholars.<\/p>\r\n<p>The <a href=\"http:\/\/purl.fcla.edu\/fsu\/MSS_1979-01\">Pepper Collection<\/a> is especially valuable to researchers who are conducting research in 20th century policy studies, diplomacy, international affairs, and American history. Topic strengths within the collection include Aging, Civil Rights, Crime, Drug Prevention, Health Care, Law, Lend-Lease, McCarthyism, Social Security, U.S. Foreign and Domestic Policy, Vietnam, Watergate, Welfare, Worker&#39;s Rights, and World War II.<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_related_menu": []
+}

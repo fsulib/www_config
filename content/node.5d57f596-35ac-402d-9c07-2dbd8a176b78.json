@@ -1,0 +1,94 @@
+{
+    "uuid": [
+        {
+            "value": "5d57f596-35ac-402d-9c07-2dbd8a176b78"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "a12db886-d412-46b5-9932-855c32fb27dd"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-06-17T17:15:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Special Collections & Archives: Claude Pepper Library Collections"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-17T16:48:52+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-17T17:15:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/special-collections\/claude-pepper\/collections",
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The Pepper Library is home to many of Florida State University&#39;s political collections. Along with the 1,200 linear feet of archival material that makes up the <a href=\"http:\/\/purl.fcla.edu\/fsu\/MSS_1979-01\">Claude Pepper Papers<\/a>, the collections of former Florida governors, judges, litigators, and social action groups may be browsed on their individual pages and viewed in person in our spacious reading room. Here you may find information about other collections housed at the Pepper Library.<\/p>\r\n<p>To browse finding aids of all collections at the Pepper Library, visit our finding aid database, <a href=\"https:\/\/archives.lib.fsu.edu\/\">ArchivesSpace<\/a> and select Claude Pepper Library under Classifications.<\/p>\r\n<h2><a href=\"https:\/\/archives.lib.fsu.edu\/repositories\/10\/resources\/337\">Justice Glenn Terrell Papers<\/a><\/h2>\r\n\tJustice Glenn Terrell was a member of the Florida Supreme Court for 41 years at the time of his death in January 1964. In 1965, Mrs. Esther Collins Terrell presented his papers to the Florida State University Library. The collection includes Judge Terrell&#39;s official papers, speeches, newspaper articles by and about the Judge, correspondence &amp; legal files pertaining to the Florida Bar, court rules, impeachments, campaigns, law books, bulletins, journals, &amp; official papers and private correspondence.<\/p>\r\n<h2><a href=\"http:\/\/purl.fcla.edu\/fsu\/MSS_1976-012\">W. May Walker Papers<\/a><\/h2>\r\n\tW. May Walker served first as the County Judge of Leon County from 1932 to 1940 and the Circuit Court Judge of Tallahassee from 1940 until his death in 1974. Included in the collection are papers belonging to his father Nat R. Walker. Nat Walker began his law career as a Clerk in the Court of Wakulla County. During the twelve years he served as County Clerk, he read and studied law. In 1880 Nat R. Walker was admitted to practice, finished his law courses and received a Bachelor of Law degree from Georgetown University in Washington D.C. Nat Walker was elected to serve in the Florida House of Representatives in 1893, 1899, and 1917. He also served as the Reading Clerk of the House for thirty years.<\/p>\r\n<h2><a href=\"https:\/\/archives.lib.fsu.edu\/repositories\/10\/resources\/817\">LeRoy Collins Papers<\/a><\/h2>\r\n\tThomas LeRoy Collins was the 33rd Governor of the State of Florida and was in office from 1955 to 1961. A former State Senator and veteran of World War II, Collins also served as the Chairman of the Southern Governors Association. Donated to Florida State University in 1991, the collection includes mostly materials from his post-Gubernatorial period (1961-1991), and some items from his earlier career. Included are campaign materials, personal memorabilia, correspondence, speeches, organization files, photographs, sound and video recordings.<\/p>\r\n<h2><a href=\"https:\/\/archives.lib.fsu.edu\/repositories\/10\/resources\/409\">Spessard L. Holland Papers<\/a><\/h2>\r\n\tSpessard L. Holland was the 28th Governor of Florida who served during the United States&rsquo; involvement in World War II. The collection consists of correspondence, photos, campaign materials, Floridiana, memorabilia such as awards, certificates, plaques, etc. Also included are Holland Family papers &amp; correspondence, his speeches, tax records, recordings, and over 170 books from his personal collection.<\/p>\r\n<h2><a href=\"https:\/\/archives.lib.fsu.edu\/repositories\/10\/resources\/783\">Donald L. Tucker Papers<\/a><\/h2>\r\n\tDonald L. Tucker, an attorney from Tallahassee, served in the Florida House of Representatives as House Speaker during the 1960s and 1970s. In 1977, he was recruited for a position within the Carter administration on the Civil Aeronautics Board. However, he withdrew his nomination during confirmation hearings due to a controversy over past financial dealings. At the end of his term in 1978, he reopened his Tallahassee law office. This collection is comprised of political papers on a broad range of people and subjects accumulated during Donald L. Tucker&#39;s term as Speaker of the Florida House of Representatives.<\/p>\r\n<h2><a href=\"https:\/\/archives.lib.fsu.edu\/repositories\/10\/resources\/742\">Farris Bryant Papers<\/a><\/h2>\r\n\tCecil Farris Bryant was Florida&rsquo;s 34th Governor who worked to improve funding for higher education, began construction of the Cross Florida Barge Canal, reorganized the State Road Department, and completed work on the Sunshine State Parkway. While he supported segregation, he did not prevent voluntary integration. During his administration in 1964, there was some civil rights unrest and racial violence in Saint Augustine, however, a major crisis was averted. He emphasized tourism and worked to attract new businesses to Florida. The collection includes clippings from Florida Clipping Service and unmarked clippings (some no source noted) concerning Farris Bryant&#39;s campaign as the Democratic candidate for Governor of Florida and the campaigns of other Florida Democratic candidates.<\/p>\r\n<h2><a href=\"https:\/\/archives.lib.fsu.edu\/repositories\/10\/resources\/1270\">Martin Dyckman Papers<\/a><\/h2>\r\n\tThe Martin Dyckman Collection contains research materials used by Martin Dyckman for his 2006 book about former Governor Leroy Collins titled <em>Floridian of His Century<\/em>. Research materials include speeches from Leroy Collins before he became governor; an interview transcript with Premier Khrushchev during Collins&#39; trip to the Soviet Union; newspaper columns written by Collins for the St. Petersburg Times and transcripts and audio recordings of interviews conducted by Dyckman.<\/p>\r\n<h2><a href=\"http:\/\/purl.flvc.org\/fsu\/fd\/FSU_MSS2008003_B17_F01_003\">National Organization for Women (NOW), Tallahassee Chapter Records<\/a><\/h2>\r\n\tThe Tallahassee Chapter of the National Organization of Women collection (Tallahassee NOW) include officers&#39; and members&#39; correspondence, meeting minutes and agendas, reports, budgets, newsletters and other publications, promotional items and photographs collected by Tallahassee NOW, and other records which chronicle the development and activities of Tallahassee NOW (1971-1997).<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_related_menu": []
+}

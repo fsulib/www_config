@@ -4,6 +4,7 @@ status: true
 dependencies:
   config:
     - field.field.node.page.body
+    - field.field.node.page.field_related_menu
     - node.type.page
   module:
     - path
@@ -28,6 +29,12 @@ content:
   created:
     type: datetime_timestamp
     weight: 10
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  field_related_menu:
+    type: options_select
+    weight: 121
     region: content
     settings: {  }
     third_party_settings: {  }
