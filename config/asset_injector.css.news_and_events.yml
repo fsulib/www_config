@@ -1,7 +1,9 @@
 uuid: b7cb6961-3d20-416a-9733-20c8294d861f
 langcode: en
 status: true
-dependencies: {  }
+dependencies:
+  module:
+    - context
 id: news_and_events
 label: 'News and Events'
 code: |-
@@ -10,7 +12,7 @@ code: |-
   }
 
   div.homepage-news-events-section:hover {
-    background:#e7dcc4;
+    background:#e1d4b7;
     box-shadow:0 0 10px rgba(0,0,0,.1)
   }
 
@@ -19,6 +21,14 @@ code: |-
   }
 media: all
 preprocess: true
-conditions: {  }
+conditions:
+  context_all:
+    id: context_all
+    negate: null
+    values: ''
+  context:
+    id: context
+    negate: null
+    values: ''
 contexts: {  }
 conditions_require_all: true

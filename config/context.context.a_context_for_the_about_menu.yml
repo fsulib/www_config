@@ -1,0 +1,50 @@
+uuid: 40eb62b4-91ae-442e-b244-ab0ec2cb1f91
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.about
+  module:
+    - system
+    - term_condition
+label: 'A Context for the About Menu'
+name: a_context_for_the_about_menu
+group: menu
+description: 'Creates the relationship between the menu and the taxonomy term'
+requireAllConditions: false
+disabled: false
+conditions:
+  term:
+    id: term
+    tid:
+      -
+        target_id: '145'
+    negate: 0
+    uuid: dbfed4da-8336-450f-b559-4a293e32a389
+    context_mapping: {  }
+reactions:
+  blocks:
+    id: blocks
+    uuid: 661073f2-e0cf-4657-8bf5-efad02597c56
+    blocks:
+      6becb602-f8a9-4b6f-9191-4a380850076a:
+        uuid: 6becb602-f8a9-4b6f-9191-4a380850076a
+        id: 'system_menu_block:about'
+        label: 'About 1'
+        provider: system
+        label_display: '0'
+        region: navigation
+        weight: '0'
+        custom_id: system_menu_block_about
+        theme: fsu_strata
+        css_class: ''
+        unique: 0
+        context_id: a_context_for_the_about_menu
+        context_mapping: {  }
+        level: '1'
+        depth: '0'
+        expand_all_items: 0
+        third_party_settings: {  }
+    include_default_blocks: 1
+    saved: false
+weight: 0

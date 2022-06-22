@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "cb808c6a-71fa-4216-81f4-90bbed7f7fd3"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "filename": [
+        {
+            "value": "01_FSUDL_Slideshow_CivilRights2021.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2022-06\/01_FSUDL_Slideshow_CivilRights2021.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 114426
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-21T13:47:19+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-21T13:47:55+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "6752a900-7491-4a5b-a28d-abb08df98b21"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/special_collections_archives_rep\/submissions"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/form\/sca-reproduction\/submissions"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

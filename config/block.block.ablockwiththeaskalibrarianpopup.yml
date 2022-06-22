@@ -10,8 +10,8 @@ dependencies:
     - fsu_strata
 id: ablockwiththeaskalibrarianpopup
 theme: fsu_strata
-region: footer
-weight: 0
+region: navigation
+weight: -8
 provider: null
 plugin: 'block_content:7a3b2b94-cc35-4810-be0f-96c76fb49655'
 settings:

@@ -15,12 +15,19 @@ category: ''
 elements: |-
   your_name:
     '#type': textfield
-    '#title': 'Your Name'
+    '#title': 'Last Name'
+    '#required': true
+    '#default_value': '[current-user:field_last_name]'
+  first_name:
+    '#type': textfield
+    '#title': 'First Name'
+    '#default_value': '[current-user:field_first_name]'
     '#required': true
   your_email_address:
     '#type': textfield
-    '#title': 'Your Email address'
+    '#title': 'Email address'
     '#required': true
+    '#default_value': '[current-user:mail]'
   request_description:
     '#type': textarea
     '#title': 'Request Description'
@@ -43,7 +50,7 @@ settings:
   ajax_effect: ''
   ajax_speed: null
   page: true
-  page_submit_path: ''
+  page_submit_path: /form/library-data-request
   page_confirm_path: ''
   page_theme_name: ''
   form_title: both

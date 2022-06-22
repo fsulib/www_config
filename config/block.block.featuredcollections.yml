@@ -6,19 +6,20 @@ dependencies:
     - 'block_content:basic:0b0136d1-306a-4036-b3cc-880d1684c1e0'
   module:
     - block_content
+    - context
     - system
   theme:
     - fsu_strata
 id: featuredcollections
 theme: fsu_strata
 region: content
-weight: 1
+weight: 0
 provider: null
 plugin: 'block_content:0b0136d1-306a-4036-b3cc-880d1684c1e0'
 settings:
   id: 'block_content:0b0136d1-306a-4036-b3cc-880d1684c1e0'
   label: 'Featured Collections'
-  label_display: visible
+  label_display: '0'
   provider: block_content
   status: true
   info: ''
@@ -28,3 +29,22 @@ visibility:
     id: request_path
     negate: false
     pages: '<front>'
+  context_all:
+    id: context_all
+    negate: null
+    values: ''
+  context:
+    id: context
+    negate: null
+    values: ''
+  user_status:
+    id: user_status
+    negate: false
+    context_mapping:
+      user: '@user.current_user_context:current_user'
+    user_status:
+      viewing_profile: '0'
+      logged_viewing_profile: '0'
+      own_page_true: '0'
+      field_value: '0'
+    user_fields: uid

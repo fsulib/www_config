@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "496875b8-6313-4f3c-b2eb-b65ffe61bb4e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/special_collections_class_visit_\/drafts"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/form\/sca-class-visit\/drafts"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "uuid": [
+        {
+            "value": "64be826c-1b3e-40e7-9a48-b0d42875c34b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "study_space",
+            "target_type": "node_type",
+            "target_uuid": "18faed0f-4ddc-4840-865a-a6603710c2cd"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-06-18T22:17:28+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Dirac Conference Rooms"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-18T22:17:28+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-18T22:17:28+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "body": [],
+    "field_booking_widget": [],
+    "field_catalog_url": [],
+    "field_content_image": [],
+    "field_related_menu": [],
+    "field_study_space_capacity": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "881d13a5-0497-4741-b25e-0c69390ceb4f"
+        }
+    ],
+    "field_study_space_location": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "e5afa1bd-01ba-4121-ac19-f48c343551f4"
+        }
+    ],
+    "field_study_space_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "598492bb-cd8a-415b-ae30-55efca8572c1"
+        }
+    ],
+    "field_thumbnail": []
+}

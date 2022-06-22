@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "745dff9b-b87d-4632-817f-9046455ec1db"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/88355a7c-301b-4a02-8743-15bf9c7e1d7e"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/special-collections\/donate"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

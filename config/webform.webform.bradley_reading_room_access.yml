@@ -15,20 +15,27 @@ category: ''
 elements: |-
   your_name:
     '#type': textfield
-    '#title': 'Your Name'
+    '#title': 'Last Name'
     '#required': true
+    '#default_value': '[current-user:field_last_name]'
+  first_name:
+    '#type': textfield
+    '#title': 'First Name'
+    '#required': true
+    '#default_value': '[current-user:field_first_name]'
   email_address:
     '#type': textfield
     '#title': 'Email Address'
     '#required': true
     '#required_error': 'Please enter your email address'
+    '#default_value': '[current-user:mail]'
   phone_number:
     '#type': tel
     '#title': 'Phone Number'
     '#description_display': before
   status:
     '#type': radios
-    '#title': Status
+    '#title': 'FSU Status'
     '#options':
       Faculty: Faculty
       'Graduate Student': 'Graduate Student'
@@ -40,6 +47,7 @@ elements: |-
     '#description_display': after
     '#required': true
     '#required_error': 'Please enter your FSU card number'
+    '#default_value': '216'
 css: ''
 javascript: ''
 settings:

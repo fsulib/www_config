@@ -15,12 +15,21 @@ category: ''
 elements: |-
   your_name:
     '#type': textfield
-    '#title': 'Your Name'
+    '#title': 'Last Name'
+    '#default_value': '[current-user:field_last_name]'
+    '#required': true
+  first_name:
+    '#type': textfield
+    '#title': 'First Name'
+    '#default_value': '[current-user:field_first_name]'
+    '#required': true
   your_email_address:
     '#type': email
-    '#title': 'Your Email address'
+    '#title': 'Email address'
     '#help_title': 'Why?'
     '#help': 'Please provide an email address if you would like us to contact you regarding this issue.'
+    '#default_value': '[current-user:mail]'
+    '#required': true
   describe_your_issue_or_leave_feedback:
     '#type': textarea
     '#title': 'Describe your issue or leave feedback'

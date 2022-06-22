@@ -1,0 +1,29 @@
+uuid: 2fe7a0c9-033e-4de1-b31d-35505c961a87
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_related_menu
+    - node.type.study_space
+    - taxonomy.vocabulary.menus
+id: node.study_space.field_related_menu
+field_name: field_related_menu
+entity_type: node
+bundle: study_space
+label: 'Related Menu'
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      menus: menus
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

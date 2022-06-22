@@ -1,0 +1,59 @@
+uuid: fd2fe50a-15ee-418a-a710-45382c3ec3f8
+langcode: en
+status: true
+dependencies:
+  module:
+    - context
+    - system
+id: study_space
+label: 'Study Space'
+code: |-
+  /* .study-spaces .views-row{
+    padding:20px;
+  }*/
+
+  .study-spaces .views-col{
+    padding:20px;
+    width:30%;
+   
+  } 
+
+  /* Styling for filters*/
+  /*.study-spaces {
+    display:block;.
+    padding-bottom:20px;
+  }*/
+
+
+  .study-spaces .control-label {
+    display: block;
+    max-width: 100%;
+    margin-bottom: 10px;
+    font-weight: bold;
+    
+  }
+
+  .study-spaces .form-inline .form-group {
+    margin-right:20px;
+  }
+
+  .study-spaces .study-spaces .bef-exposed-form .form--inline .form-item{
+    float: "none";
+  }
+media: all
+preprocess: true
+conditions:
+  context_all:
+    id: context_all
+    negate: null
+    values: ''
+  context:
+    id: context
+    negate: null
+    values: ''
+  request_path:
+    id: request_path
+    negate: false
+    pages: /visit/rooms
+contexts: {  }
+conditions_require_all: true

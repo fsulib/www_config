@@ -1,0 +1,32 @@
+uuid: e682e077-86f6-49d8-800e-3df17e4a280d
+langcode: en
+status: true
+dependencies:
+  module:
+    - context
+id: strategic_init
+label: 'Strategic Init'
+code: |-
+  .strategic-initiative div.field--label {
+  font-weight: 600;
+  margin-top: 28px;
+  line-height: 1.1;
+  color: inherit;
+  font-size: 32px !important;
+  margin-bottom: 20px !important;
+  font-family: acumin-pro-condensed, Arial, sans-serif !important;
+  text-transform: none !important;
+  }
+media: all
+preprocess: true
+conditions:
+  context_all:
+    id: context_all
+    negate: null
+    values: ''
+  context:
+    id: context
+    negate: null
+    values: ''
+contexts: {  }
+conditions_require_all: true

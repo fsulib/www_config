@@ -70,11 +70,6 @@ elements: |-
       'Summer (6 week, 1st term)': 'Summer (6 week, 1st term)'
       'Summer (6 week, 2nd term)': 'Summer (6 week, 2nd term)'
     '#required': true
-  processed_text:
-    '#type': processed_text
-    '#text': |
-      <p>Item(s) Requested</p>
-    '#format': basic_html
   item_:
     '#type': webform_custom_composite
     '#title': 'Item(s) Requested'
@@ -122,7 +117,7 @@ settings:
   ajax_effect: ''
   ajax_speed: null
   page: true
-  page_submit_path: ''
+  page_submit_path: /teaching-and-learning/course-materials/course-reserves-request
   page_confirm_path: ''
   page_theme_name: ''
   form_title: both
@@ -217,8 +212,8 @@ settings:
   draft_pending_multiple_message: ''
   confirmation_type: page
   confirmation_url: ''
-  confirmation_title: ''
-  confirmation_message: ''
+  confirmation_title: 'Your request has been submitted'
+  confirmation_message: 'Thank you for submitting your Course Reserve Request. For questions please contact <a href="mailto: lib-coursereserves@fsu.edu">lib-coursereserves@fsu.edu</a>.'
   confirmation_attributes: {  }
   confirmation_back: true
   confirmation_back_label: ''
@@ -294,5 +289,42 @@ access:
     roles: {  }
     users: {  }
     permissions: {  }
-handlers: {  }
+handlers:
+  email:
+    id: email
+    handler_id: email
+    label: Email
+    notes: ''
+    status: true
+    conditions: {  }
+    weight: 0
+    settings:
+      states:
+        - completed
+      to_mail: lib-coursereserves@fsu.edu
+      to_options: {  }
+      bcc_mail: ''
+      bcc_options: {  }
+      cc_mail: ''
+      cc_options: {  }
+      from_mail: '[webform_submission:values:email_address:raw]'
+      from_options: {  }
+      from_name: '[webform_submission:values:email_address:raw]'
+      reply_to: ''
+      return_path: ''
+      sender_mail: ''
+      sender_name: ''
+      subject: '[webform_submission:values:reserves_location:raw]'
+      body: _default
+      excluded_elements: {  }
+      ignore_access: false
+      exclude_empty: true
+      exclude_empty_checkbox: false
+      exclude_attachments: false
+      html: true
+      attachments: false
+      twig: false
+      theme_name: ''
+      parameters: {  }
+      debug: false
 variants: {  }

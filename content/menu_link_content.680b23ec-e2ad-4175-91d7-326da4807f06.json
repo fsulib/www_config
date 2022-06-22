@@ -1,0 +1,89 @@
+{
+    "uuid": [
+        {
+            "value": "680b23ec-e2ad-4175-91d7-326da4807f06"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "value": "menu_link_content"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-06-21T17:16:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "enabled": [
+        {
+            "value": true
+        }
+    ],
+    "title": [
+        {
+            "value": "A Context for the Visit Menu"
+        }
+    ],
+    "description": [],
+    "menu_name": [
+        {
+            "value": "admin"
+        }
+    ],
+    "link": [
+        {
+            "uri": "route:entity.context.edit_form;context=a_context_for_the_visit_menu",
+            "title": null,
+            "options": []
+        }
+    ],
+    "external": [
+        {
+            "value": false
+        }
+    ],
+    "rediscover": [
+        {
+            "value": false
+        }
+    ],
+    "weight": [
+        {
+            "value": 10
+        }
+    ],
+    "expanded": [
+        {
+            "value": true
+        }
+    ],
+    "parent": [
+        {
+            "value": "entity.context.collection"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-21T17:16:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ]
+}

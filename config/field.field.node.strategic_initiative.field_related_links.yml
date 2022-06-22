@@ -1,0 +1,21 @@
+uuid: 5585894d-f55c-4c3a-b798-037d715874e3
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_related_links
+    - node.type.strategic_initiative
+  module:
+    - text
+id: node.strategic_initiative.field_related_links
+field_name: field_related_links
+entity_type: node
+bundle: strategic_initiative
+label: 'Related Links'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

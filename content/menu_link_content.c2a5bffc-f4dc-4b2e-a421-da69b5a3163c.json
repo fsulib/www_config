@@ -1,0 +1,89 @@
+{
+    "uuid": [
+        {
+            "value": "c2a5bffc-f4dc-4b2e-a421-da69b5a3163c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "value": "menu_link_content"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-06-21T21:44:10+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "enabled": [
+        {
+            "value": true
+        }
+    ],
+    "title": [
+        {
+            "value": "A Context for the Find and Borrow Menu"
+        }
+    ],
+    "description": [],
+    "menu_name": [
+        {
+            "value": "admin"
+        }
+    ],
+    "link": [
+        {
+            "uri": "route:entity.context.edit_form;context=a_context_for_the_find_and_borrow_menu",
+            "title": null,
+            "options": []
+        }
+    ],
+    "external": [
+        {
+            "value": false
+        }
+    ],
+    "rediscover": [
+        {
+            "value": false
+        }
+    ],
+    "weight": [
+        {
+            "value": 10
+        }
+    ],
+    "expanded": [
+        {
+            "value": true
+        }
+    ],
+    "parent": [
+        {
+            "value": "entity.context.collection"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-21T21:44:10+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-06-17T17:19:52+00:00",
+            "value": "2022-06-21T20:57:13+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-17T17:19:52+00:00",
+            "value": "2022-06-21T20:57:13+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -72,14 +72,10 @@
             "value": true
         }
     ],
-    "revision_translation_affected": [
-        {
-            "value": true
-        }
-    ],
+    "revision_translation_affected": [],
     "path": [
         {
-            "alias": "\/special-collections\/heritage-and-university-archives\/university-records\/norwood-reading-room",
+            "alias": "\/special-collections\/heritage-and-university-archives\/norwood-reading-room",
             "langcode": "en"
         }
     ],
@@ -90,5 +86,10 @@
             "summary": ""
         }
     ],
-    "field_related_menu": []
+    "field_related_menu": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "ac5f0c8b-0836-467b-9c4e-ad3038ca463e"
+        }
+    ]
 }

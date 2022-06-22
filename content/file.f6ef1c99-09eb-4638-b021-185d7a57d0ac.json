@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "f6ef1c99-09eb-4638-b021-185d7a57d0ac"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "filename": [
+        {
+            "value": "attachments.ppt"
+        }
+    ],
+    "uri": [
+        {
+            "value": "private:\/\/webform\/ask_us_a_tutoring_question\/_sid_\/attachments.ppt"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "application\/vnd.ms-powerpoint"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 48128
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-21T22:05:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-21T22:05:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

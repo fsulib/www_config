@@ -15,4 +15,4 @@ description: 'This is for study room or spaces content types that will build the
 help: ''
 new_revision: true
 preview_mode: 1
-display_submitted: true
+display_submitted: false

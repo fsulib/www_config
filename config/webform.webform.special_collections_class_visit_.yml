@@ -1,0 +1,298 @@
+uuid: 512fd389-77f3-4d2d-af5b-14e1ecc255cf
+langcode: en
+status: open
+dependencies: {  }
+weight: 0
+open: null
+close: null
+uid: 1
+template: false
+archive: false
+id: special_collections_class_visit_
+title: 'Special Collections: Class Visit Request'
+description: 'Class visit request for SC'
+category: ''
+elements: |-
+  markup:
+    '#type': webform_markup
+    '#markup': |-
+      <p>Research in Special Collections &amp; Archives and interaction with collections materials can greatly enrich your students&rsquo; classroom experience and reinforce key course concepts. We invite instructors teaching at all levels in all departments to consider a class visit to Special Collections &amp; Archives during your course. We are able to offer different class formats to meet your needs, including virtual and asynchronous instruction.</p>
+
+      <h2>Class Request Process</h2>
+
+      <ul>
+      	<li>Please use this form to request a class visit to or by Special Collections &amp; Archives.</li>
+      	<li>It is suggested that requests be submitted as early as possible; <strong>please note that requests made less than two weeks in advance may not be fulfilled.</strong></li>
+      	<li>Special Collections &amp; Archives staff will follow up within 5 business days to confirm or decline your request and to schedule a planning meeting if necessary. <strong>Submitting a request does not automatically reserve the time.</strong></li>
+      </ul>
+  full_name_of_class_instructor:
+    '#type': textfield
+    '#title': 'Full name of Class Instructor'
+    '#required': true
+  instructor_email:
+    '#type': email
+    '#title': 'Instructor Email'
+  other_contact_information_:
+    '#type': textfield
+    '#title': 'Other Contact Information '
+    '#description': 'Please enter another way we can contact you (mobile number, office phone, etc) in the case email is not available.'
+  fsu_department:
+    '#type': webform_entity_select
+    '#title': 'FSU Department'
+    '#target_type': taxonomy_term
+    '#selection_handler': 'default:taxonomy_term'
+    '#selection_settings':
+      target_bundles:
+        fsu_departments: fsu_departments
+  if_not_from_florida_state_the_name_of_your_institution:
+    '#type': textfield
+    '#title': 'If not from Florida State, the name of your institution'
+  course_number_and_or_course_title:
+    '#type': textfield
+    '#title': 'Course Number and/or Course Title'
+    '#description': '(e.g., AMH 2020 A History of the United States since 1865)'
+    '#required': true
+  estimated_number_of_students:
+    '#type': number
+    '#title': 'Estimated Number of Students'
+    '#required': true
+  student_level:
+    '#type': radios
+    '#title': 'Student Level'
+    '#options':
+      ' Undergraduate Students ': ' Undergraduate Students '
+      'Graduate Students': 'Graduate Students'
+      Other: Other
+    '#required': true
+  preferred_date_and_time_for_session_:
+    '#type': datetime
+    '#title': 'Preferred Date and Time for Session '
+    '#description': 'Leave blank if you do not have a specific date or time in mind'
+    '#date_date_format': ''
+    '#date_time_format': ''
+    '#date_time_step': '60'
+  backup_date_and_time:
+    '#type': datetime
+    '#title': 'Backup Date and Time'
+    '#date_date_format': ''
+    '#date_time_format': ''
+    '#date_time_step': '60'
+  link_to_course_syllabus:
+    '#type': url
+    '#title': 'Link to Course Syllabus'
+    '#description': 'Please enter a valid URL of your course syllabus. Optionally you may upload your syllabus below.'
+  upload_course_syllabus_:
+    '#type': managed_file
+    '#title': 'Upload Course Syllabus '
+    '#file_placeholder': 'Upload a copy of your syllabus.'
+  type_of_instructions:
+    '#type': checkboxes
+    '#title': 'Type of instruction'
+    '#options':
+      ' Introduction to primary source research ': ' Introduction to primary source research '
+      'Orientation to FSU Special Collections & Archives ': 'Orientation to FSU Special Collections & Archives '
+      'Specific to course topic or assignment ': 'Specific to course topic or assignment '
+      Other: Other
+    '#required': true
+  format_of_instruction:
+    '#type': checkboxes
+    '#title': 'Format of Instruction'
+    '#options':
+      'In-person Instruction in Special Collections & Archives Spaces ': 'In-person Instruction in Special Collections & Archives Spaces '
+      'In-person Instruction in my class meeting space ': 'In-person Instruction in my class meeting space '
+      'Virtual Instruction during Class Time ': 'Virtual Instruction during Class Time '
+      'Virtual Instruction via Asynchronous Learning Object (Videos, modules, and activities that students can access on their own schedules) ': 'Virtual Instruction via Asynchronous Learning Object (Videos, modules, and activities that students can access on their own schedules) '
+    '#required': true
+  please_share_any_specific_goals_activities_and_or_assignments_yo:
+    '#type': textarea
+    '#title': 'Please share any specific goals, activities, and/or assignments you are planning in relation to this class visit. '
+  are_there_specific_special_collections_archives_materials_you_d_:
+    '#type': textarea
+    '#title': 'Are there specific Special Collections & Archives materials you’d like to include? '
+    '#description': '(please include relevant call numbers and collection IDs if known)'
+  notes_questions_or_comments_:
+    '#type': textarea
+    '#title': 'Notes, Questions or Comments '
+css: ''
+javascript: ''
+settings:
+  ajax: false
+  ajax_scroll_top: form
+  ajax_progress_type: ''
+  ajax_effect: ''
+  ajax_speed: null
+  page: true
+  page_submit_path: /form/sca-class-visit
+  page_confirm_path: ''
+  page_theme_name: ''
+  form_title: both
+  form_submit_once: false
+  form_open_message: ''
+  form_close_message: ''
+  form_exception_message: ''
+  form_previous_submissions: true
+  form_confidential: false
+  form_confidential_message: ''
+  form_disable_remote_addr: false
+  form_convert_anonymous: false
+  form_prepopulate: false
+  form_prepopulate_source_entity: false
+  form_prepopulate_source_entity_required: false
+  form_prepopulate_source_entity_type: ''
+  form_unsaved: false
+  form_disable_back: false
+  form_submit_back: false
+  form_disable_autocomplete: false
+  form_novalidate: false
+  form_disable_inline_errors: false
+  form_required: false
+  form_autofocus: false
+  form_details_toggle: false
+  form_reset: false
+  form_access_denied: default
+  form_access_denied_title: ''
+  form_access_denied_message: ''
+  form_access_denied_attributes: {  }
+  form_file_limit: ''
+  form_attributes: {  }
+  form_method: ''
+  form_action: ''
+  share: false
+  share_node: false
+  share_theme_name: ''
+  share_title: true
+  share_page_body_attributes: {  }
+  submission_label: ''
+  submission_exception_message: ''
+  submission_locked_message: ''
+  submission_log: false
+  submission_excluded_elements: {  }
+  submission_exclude_empty: false
+  submission_exclude_empty_checkbox: false
+  submission_views: {  }
+  submission_views_replace: {  }
+  submission_user_columns: {  }
+  submission_user_duplicate: false
+  submission_access_denied: default
+  submission_access_denied_title: ''
+  submission_access_denied_message: ''
+  submission_access_denied_attributes: {  }
+  previous_submission_message: ''
+  previous_submissions_message: ''
+  autofill: false
+  autofill_message: ''
+  autofill_excluded_elements: {  }
+  wizard_progress_bar: true
+  wizard_progress_pages: false
+  wizard_progress_percentage: false
+  wizard_progress_link: false
+  wizard_progress_states: false
+  wizard_start_label: ''
+  wizard_preview_link: false
+  wizard_confirmation: true
+  wizard_confirmation_label: ''
+  wizard_auto_forward: true
+  wizard_auto_forward_hide_next_button: false
+  wizard_keyboard: true
+  wizard_track: ''
+  wizard_prev_button_label: ''
+  wizard_next_button_label: ''
+  wizard_toggle: false
+  wizard_toggle_show_label: ''
+  wizard_toggle_hide_label: ''
+  preview: 0
+  preview_label: ''
+  preview_title: ''
+  preview_message: ''
+  preview_attributes: {  }
+  preview_excluded_elements: {  }
+  preview_exclude_empty: true
+  preview_exclude_empty_checkbox: false
+  draft: none
+  draft_multiple: false
+  draft_auto_save: false
+  draft_saved_message: ''
+  draft_loaded_message: ''
+  draft_pending_single_message: ''
+  draft_pending_multiple_message: ''
+  confirmation_type: page
+  confirmation_url: ''
+  confirmation_title: ''
+  confirmation_message: ''
+  confirmation_attributes: {  }
+  confirmation_back: true
+  confirmation_back_label: ''
+  confirmation_back_attributes: {  }
+  confirmation_exclude_query: false
+  confirmation_exclude_token: false
+  confirmation_update: false
+  limit_total: null
+  limit_total_interval: null
+  limit_total_message: ''
+  limit_total_unique: false
+  limit_user: null
+  limit_user_interval: null
+  limit_user_message: ''
+  limit_user_unique: false
+  entity_limit_total: null
+  entity_limit_total_interval: null
+  entity_limit_user: null
+  entity_limit_user_interval: null
+  purge: none
+  purge_days: null
+  results_disabled: false
+  results_disabled_ignore: false
+  results_customize: false
+  token_view: false
+  token_update: false
+  token_delete: false
+  serial_disabled: false
+access:
+  create:
+    roles:
+      - anonymous
+      - authenticated
+    users: {  }
+    permissions: {  }
+  view_any:
+    roles: {  }
+    users: {  }
+    permissions: {  }
+  update_any:
+    roles: {  }
+    users: {  }
+    permissions: {  }
+  delete_any:
+    roles: {  }
+    users: {  }
+    permissions: {  }
+  purge_any:
+    roles: {  }
+    users: {  }
+    permissions: {  }
+  view_own:
+    roles: {  }
+    users: {  }
+    permissions: {  }
+  update_own:
+    roles: {  }
+    users: {  }
+    permissions: {  }
+  delete_own:
+    roles: {  }
+    users: {  }
+    permissions: {  }
+  administer:
+    roles: {  }
+    users: {  }
+    permissions: {  }
+  test:
+    roles: {  }
+    users: {  }
+    permissions: {  }
+  configuration:
+    roles: {  }
+    users: {  }
+    permissions: {  }
+handlers: {  }
+variants: {  }

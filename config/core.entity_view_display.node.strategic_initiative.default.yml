@@ -1,0 +1,69 @@
+uuid: 2e3b3716-6111-4d0b-8911-0d6e4583cced
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.strategic_initiative.field_init_leads
+    - field.field.node.strategic_initiative.field_initiative_description
+    - field.field.node.strategic_initiative.field_related_links
+    - field.field.node.strategic_initiative.field_strategic_alignment
+    - field.field.node.strategic_initiative.field_timeline
+    - field.field.node.strategic_initiative.field_updates
+    - node.type.strategic_initiative
+  module:
+    - text
+    - user
+id: node.strategic_initiative.default
+targetEntityType: node
+bundle: strategic_initiative
+mode: default
+content:
+  field_init_leads:
+    type: basic_string
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 107
+    region: content
+  field_initiative_description:
+    type: basic_string
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 102
+    region: content
+  field_related_links:
+    type: text_default
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 108
+    region: content
+  field_strategic_alignment:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 103
+    region: content
+  field_timeline:
+    type: basic_string
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 106
+    region: content
+  field_updates:
+    type: basic_string
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 105
+    region: content
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 100
+    region: content
+hidden: {  }

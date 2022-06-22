@@ -31,7 +31,7 @@
     ],
     "name": [
         {
-            "value": "Quiet Space"
+            "value": "Quiet Spaces"
         }
     ],
     "description": [
@@ -42,7 +42,7 @@
     ],
     "weight": [
         {
-            "value": 0
+            "value": 4
         }
     ],
     "parent": [
@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-10T16:43:58+00:00",
+            "value": "2022-06-18T21:59:20+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],

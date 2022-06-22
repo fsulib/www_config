@@ -16,19 +16,26 @@ elements: |-
   markup:
     '#type': webform_markup
     '#markup': '<p>We would appreciate 48 hours notice for scheduling your appointment. If you need assistance before 48 hours, please stop by the reference desk or use Ask-Us-Now live chat. You may also contact the &lt;NEED NEW LINK FOR SUBJECT SPECIALISTS&gt;</p>'
+  last_name:
+    '#type': textfield
+    '#title': 'Last Name'
+    '#default_value': '[current-user:field_last_name]'
+    '#required': true
   your_name:
     '#type': textfield
-    '#title': 'Your Name'
+    '#title': 'First Name'
     '#required': true
+    '#default_value': '[current-user:field_first_name]'
   your_email_address:
     '#type': email
-    '#title': 'Your FSU Email Address'
+    '#title': 'FSU Email Address'
     '#description': 'You must use your @fsu.edu email address or your request may not be received.'
     '#description_display': after
     '#required': true
+    '#default_value': '[current-user:mail]'
   your_fsu_status:
     '#type': select
-    '#title': 'Your FSU status'
+    '#title': 'FSU status'
     '#options':
       Undergraduate: Undergraduate
       Graduate: Graduate

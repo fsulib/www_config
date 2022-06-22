@@ -30,7 +30,7 @@ elements: |-
     '#default_value': '[current-user:mail]'
   department:
     '#type': webform_entity_select
-    '#title': Department
+    '#title': 'FSU Department'
     '#target_type': taxonomy_term
     '#selection_handler': 'default:taxonomy_term'
     '#selection_settings':
@@ -42,7 +42,7 @@ elements: |-
   date_of_pickup:
     '#type': date
     '#title': 'Date of pickup'
-    '#description': '<div class="description">What day would you like us to pick the item(s) up?</div>'
+    '#help': 'What day would you like us to pick the item(s) up?'
     '#datepicker': true
     '#datepicker_button': true
   how_many_items_:
@@ -52,7 +52,7 @@ elements: |-
     '#type': textfield
     '#title': 'Title of items'
     '#multiple': true
-    '#description': '<div class="description">Just a brief list of your items. The first couple of words of the title will be fine. Let us know if we should look for a DVD.</div>'
+    '#help': 'Just a brief list of your items. The first couple of words of the title will be fine. Let us know if we should look for a DVD.'
   are_these_items_to_be_placed_on_reserve_:
     '#type': select
     '#title': 'Are these items to be placed on reserve? '
@@ -240,5 +240,79 @@ access:
     roles: {  }
     users: {  }
     permissions: {  }
-handlers: {  }
+handlers:
+  pick_up_request:
+    id: email
+    handler_id: pick_up_request
+    label: 'Pick-Up Request'
+    notes: ''
+    status: true
+    conditions: {  }
+    weight: 0
+    settings:
+      states:
+        - completed
+      to_mail: lib-delivery@fsu.edu
+      to_options: {  }
+      bcc_mail: ''
+      bcc_options: {  }
+      cc_mail: ''
+      cc_options: {  }
+      from_mail: '[webform_submission:values:email_address:raw]'
+      from_options: {  }
+      from_name: '[webform_submission:values:last_name:raw]'
+      reply_to: ''
+      return_path: ''
+      sender_mail: ''
+      sender_name: ''
+      subject: 'Pick-Up Request'
+      body: _default
+      excluded_elements: {  }
+      ignore_access: false
+      exclude_empty: true
+      exclude_empty_checkbox: false
+      exclude_attachments: false
+      html: true
+      attachments: false
+      twig: false
+      theme_name: ''
+      parameters: {  }
+      debug: false
+  email_to_submitter:
+    id: email
+    handler_id: email_to_submitter
+    label: 'Email to Submitter'
+    notes: ''
+    status: true
+    conditions: {  }
+    weight: 0
+    settings:
+      states:
+        - completed
+      to_mail: '[webform_submission:values:email_address:raw]'
+      to_options: {  }
+      bcc_mail: ''
+      bcc_options: {  }
+      cc_mail: ''
+      cc_options: {  }
+      from_mail: lib-delivery@fsu.edu
+      from_options: {  }
+      from_name: _default
+      reply_to: ''
+      return_path: ''
+      sender_mail: ''
+      sender_name: ''
+      subject: 'Form submission from: LED Library Express Delivery Materials Pickup Request'
+      body: _default
+      excluded_elements: {  }
+      ignore_access: false
+      exclude_empty: true
+      exclude_empty_checkbox: false
+      exclude_attachments: false
+      html: true
+      attachments: false
+      twig: false
+      theme_name: ''
+      parameters: {  }
+      debug: false
 variants: {  }

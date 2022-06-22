@@ -17,15 +17,20 @@ id: contact
 title: Contact
 description: 'Basic email contact webform.'
 category: ''
-elements: |
-  name:
-    '#title': 'Your Name'
+elements: |-
+  last_name:
     '#type': textfield
+    '#title': 'Last Name'
+    '#default_value': '[current-user:field_last_name]'
     '#required': true
-    '#default_value': '[current-user:display-name]'
+  name:
+    '#type': textfield
+    '#title': 'First Name'
+    '#required': true
+    '#default_value': '[current-user:field_first_name]'
   email:
-    '#title': 'Your Email'
     '#type': email
+    '#title': 'Email Address'
     '#required': true
     '#default_value': '[current-user:mail]'
   subject:

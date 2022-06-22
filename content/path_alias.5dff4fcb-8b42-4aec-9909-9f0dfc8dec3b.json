@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "5dff4fcb-8b42-4aec-9909-9f0dfc8dec3b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/special_collections_class_visit_\/confirmation"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/form\/sca-class-visit\/confirmation"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

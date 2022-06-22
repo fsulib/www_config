@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "7c208217-335d-4e5c-b23d-f4d0faf705b0"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/special_collections_archives_rep"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/form\/sca-reproduction"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

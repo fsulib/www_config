@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "4c8abf5a-7129-42d5-bacc-083ac0c9e19b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/streaming_media_course_reserves_\/submissions"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/form\/streaming_media_course_reserves\/submissions"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

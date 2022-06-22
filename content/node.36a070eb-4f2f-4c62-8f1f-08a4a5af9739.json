@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "36a070eb-4f2f-4c62-8f1f-08a4a5af9739"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "a12db886-d412-46b5-9932-855c32fb27dd"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-06-20T16:47:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "COVID-19 FSU Community Experience Project"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-20T16:05:34+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-20T16:47:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [],
+    "path": [
+        {
+            "alias": "\/special-collections\/heritage-and-university-archives\/covid-19-project",
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><img alt=\"Quote and Entrance of Dodd Hall, Photo by Sandra Varry.\" src=\"\/sites\/default\/files\/2022-06\/doddhall_web_crop_sv.jpg\" style=\"width: 478px; height: 250px; float: right; margin: 10px;\" \/>Heritage &amp; University Archives is launching a campus-wide project to encourage FSU students, staff, and faculty to document their personal experiences during the coronavirus outbreak and contribute them to the University Archives. In accordance with FSU&rsquo;s University Archives Policy, we are collecting records related to FSU&rsquo;s official response. In addition, we want to ensure that personal experiences and reactions to this challenging and historic situation are included in FSU&#39;s permanent archives. All members of the campus community are invited and encouraged to participate.<\/p>\r\n<h2>How to participate<\/h2>\r\n<p>The method of recording your thoughts during this time period is up to you. Some suggestions include writing in a journal, recording voice memos, saving your social media posts, taking photos and\/or videos of life as you see it, or creating multimedia works of digital storytelling.<\/p>\r\n<p>We are interested in your stories about the shift to remote instruction and learning, studying and working from home, working at off-campus jobs (in the service industry, grocery stores, etc.), the impact of closing residence halls and other campus services, the ways you and your friends and family are staying in touch during this period of social distancing and self-quarantine, and so on. Please comply with county and state stay-at-home orders while self-documenting.<\/p>\r\n<h2>The submission process<\/h2>\r\n<ul>\r\n\t<li>Heritage &amp; University Archives can accept almost any format you create, but if you&rsquo;re uncertain about something in particular and need technical assistance please reach out to <a href=\"mailto:svarry@fsu.edu?subject=COVID-19%20community%20project\">svarry@fsu.edu<\/a> or <a href=\"mailto:kmthomas@fsu.edu?subject=COVID-19%20community%20project\">kmthomas@fsu.edu<\/a>. We can help!<\/li>\r\n\t<li>Please use this <a href=\"https:\/\/forms.gle\/M2en2CQVrSBhKqK48\">Google Form<\/a> to submit your items. You will be able to sign an agreement allowing the University Archives to preserve your submission, and you will receive important information about the copyright and use of your content. You will have the option to remain anonymous if you choose.&nbsp;<\/li>\r\n\t<li>If you interview other people in the course of your documentation, we will also need their permission so that we can preserve and share the recordings with future researchers. Please have any friends, family members, or community members fill out <a href=\"https:\/\/forms.gle\/M2en2CQVrSBhKqK48\">the Google Form<\/a>&nbsp;if you wish to record with them. <em>If we do not receive releases from all participants we cannot preserve the materials, however only one person will need to attach the files to the form -- co-creators can simply fill in their personal information along with a description of the materials.<\/em><\/li>\r\n\t<li>Submissions will not be available to the public immediately. After they are processed by Heritage &amp; University Archives staff, they will be available as a collection in our digital repository, <a href=\"https:\/\/fsu.digital.flvc.org\/islandora\/object\/fsu%3Ahpmain\">DigiNole<\/a>.&nbsp;<\/li>\r\n\t<li>If you are not ready to submit immediately, that is OK. We will continue to collect materials indefinitely.<\/li>\r\n<\/ul>\r\n<p>If you have any questions about the project, privacy, what to donate, the donation agreement, or anything else related to our efforts to collect materials related to the pandemic, please do not hesitate to contact the <a href=\"mailto:svarry@fsu.edu?subject=COVID-19%20Project\">Heritage &amp; University Archvist.<\/a><\/p>\r\n<h2>Support is available<\/h2>\r\n<p>We know that the pandemic has affected our community emotionally, physically, mentally, and financially. Staff and faculty can visit the <a href=\"https:\/\/eap.fsu.edu\/\">Human Resources Employee Assistance Program<\/a> for COVID-19 resources that may help to cope with the emotional and financial effects of the coronavirus outbreak. Students can visit the <a href=\"https:\/\/counseling.fsu.edu\/\">University Counseling Center<\/a> for information on how they may seek counseling services, as well as resources on how to manage COVID-19 related stress and anxiety.&nbsp;<\/p>\r\n<p><em><span>This project is based on the work of the University of North Carolina - Charlotte Special Collections &amp; Archives.&nbsp;<\/span><\/em><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_related_menu": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "ac5f0c8b-0836-467b-9c4e-ad3038ca463e"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "3689c082-a3d3-4ad3-8379-cc6c9e1a2585"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/special_collections_research_con"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/form\/sca-research-consultation"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

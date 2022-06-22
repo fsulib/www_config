@@ -1,0 +1,50 @@
+uuid: bfabd7a9-9f25-45fd-afa2-b1369e24f3a1
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.visit-and-study
+  module:
+    - system
+    - term_condition
+label: 'A Context for the Visit Menu'
+name: a_context_for_the_visit_menu
+group: menu
+description: 'Creates the relationship between the menu and the taxonomy term'
+requireAllConditions: false
+disabled: false
+conditions:
+  term:
+    id: term
+    tid:
+      -
+        target_id: '144'
+    negate: 0
+    uuid: dc08d89e-8eb9-46cd-97bc-c63cbbfe3827
+    context_mapping: {  }
+reactions:
+  blocks:
+    id: blocks
+    uuid: 6db4868f-8ffc-4cd0-b03c-dd1fb4466cdf
+    blocks:
+      a708fb0b-df7d-4d1c-840e-9fdfc83dc845:
+        uuid: a708fb0b-df7d-4d1c-840e-9fdfc83dc845
+        id: 'system_menu_block:visit-and-study'
+        label: 'Visit and Study'
+        provider: system
+        label_display: '0'
+        region: sidebar_first
+        weight: '0'
+        custom_id: system_menu_block_visit_and_study
+        theme: fsu_strata
+        css_class: ''
+        unique: 0
+        context_id: a_context_for_the_visit_menu
+        context_mapping: {  }
+        level: '1'
+        depth: '0'
+        expand_all_items: 0
+        third_party_settings: {  }
+    include_default_blocks: 1
+    saved: false
+weight: 0

@@ -1,0 +1,25 @@
+uuid: 4e36f1aa-38f1-4fc2-b6c3-242ce9b8487e
+langcode: en
+status: true
+dependencies:
+  module:
+    - context
+id: subject_librarians
+label: 'Subject Librarians'
+code: |-
+  .subject-librarians .views-row .clearfix {
+    padding-bottom: 20px;
+  }
+media: all
+preprocess: true
+conditions:
+  context_all:
+    id: context_all
+    negate: null
+    values: ''
+  context:
+    id: context
+    negate: null
+    values: ''
+contexts: {  }
+conditions_require_all: true

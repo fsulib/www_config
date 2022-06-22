@@ -1,0 +1,97 @@
+{
+    "uuid": [
+        {
+            "value": "5a129ede-e429-4624-8423-66e349ee3e52"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "b17d1dd2-b562-4656-b080-3f9bec3625f6"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-06-21T14:04:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "name": [
+        {
+            "value": "01_FSUDL_Slideshow_CivilRights2021_0.png"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "Civil rights movement",
+            "title": null,
+            "width": 360,
+            "height": 200,
+            "target_type": "file",
+            "target_uuid": "7050b4a6-7db8-455b-b187-7d327df18154"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-21T14:03:52+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-21T14:04:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "Civil rights movement",
+            "title": "",
+            "width": 360,
+            "height": 200,
+            "target_type": "file",
+            "target_uuid": "7050b4a6-7db8-455b-b187-7d327df18154"
+        }
+    ]
+}

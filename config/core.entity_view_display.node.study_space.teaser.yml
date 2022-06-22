@@ -8,6 +8,7 @@ dependencies:
     - field.field.node.study_space.field_booking_widget
     - field.field.node.study_space.field_catalog_url
     - field.field.node.study_space.field_content_image
+    - field.field.node.study_space.field_related_menu
     - field.field.node.study_space.field_study_space_capacity
     - field.field.node.study_space.field_study_space_location
     - field.field.node.study_space.field_study_space_type
@@ -38,6 +39,7 @@ hidden:
   field_booking_widget: true
   field_catalog_url: true
   field_content_image: true
+  field_related_menu: true
   field_study_space_capacity: true
   field_study_space_location: true
   field_study_space_type: true

@@ -1,0 +1,50 @@
+uuid: 37b80cbb-0749-4738-97d7-2eab05b149b9
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.teaching-and-learning
+  module:
+    - system
+    - term_condition
+label: 'A Context for the Teaching and Learning Menu'
+name: a_context_for_the_teaching_and_learning_menu
+group: menu
+description: 'Creates the relationship between the menu and the taxonomy term'
+requireAllConditions: false
+disabled: false
+conditions:
+  term:
+    id: term
+    tid:
+      -
+        target_id: '143'
+    negate: 0
+    uuid: 85f717b9-07bc-43cf-9cc7-d9c7595925e0
+    context_mapping: {  }
+reactions:
+  blocks:
+    id: blocks
+    uuid: cb2fc906-4917-4cb3-9b75-f8b17472c9d7
+    blocks:
+      758284ec-3257-4322-9418-7bb4f32f1c7f:
+        uuid: 758284ec-3257-4322-9418-7bb4f32f1c7f
+        id: 'system_menu_block:teaching-and-learning'
+        label: 'Teaching and Learning'
+        provider: system
+        label_display: '0'
+        region: sidebar_first
+        weight: '0'
+        custom_id: system_menu_block_teaching_and_learning
+        theme: fsu_strata
+        css_class: ''
+        unique: 0
+        context_id: a_context_for_the_teaching_and_learning_menu
+        context_mapping: {  }
+        level: '1'
+        depth: '0'
+        expand_all_items: 0
+        third_party_settings: {  }
+    include_default_blocks: 1
+    saved: false
+weight: 0

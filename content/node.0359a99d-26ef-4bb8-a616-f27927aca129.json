@@ -1,0 +1,99 @@
+{
+    "uuid": [
+        {
+            "value": "0359a99d-26ef-4bb8-a616-f27927aca129"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "a12db886-d412-46b5-9932-855c32fb27dd"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-06-20T16:47:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Special Collections & Archives: Tours"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-20T16:41:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-20T16:47:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/special-collections\/visit\/tours",
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<img alt=\"\" src=\"\/sites\/default\/files\/2022-06\/ToursPageImage_webedit.jpg\" \/><p>Staff in Special Collections &amp; Archives are happy to provide tours and orientations to exhibits, spaces, and collections in Special Collections &amp; Archives, Heritage &amp; University Archives, and the Claude Pepper Library &amp; Museum. Due to space limitations, tours of more than 20 individuals at a time may need to be divided into groups.<\/p>\r\n\r\n<p>If you would like to schedule a class visit, <a href=\"\/form\/sca-class-visit\">please use this form<\/a>.<\/p>\r\n\r\n<p>If you would like to schedule an individual research consultation, <a href=\"\/form\/sca-research-consultation\">please use this form<\/a>.<\/p>\r\n\r\n<p><strong>For&nbsp;tours of the Special Collections &amp; Archives Research Center<\/strong>, please<span> contact&nbsp;<\/span><a href=\"mailto:kmccormick@fsu.edu?subject=Tour%20of%20Special%20Collections\">Katie McCormick<\/a><span>&nbsp;by email or phone (850) 645-6167.<\/span><\/p>\r\n\r\n<p><strong>For&nbsp;tours of Heritage &amp; University Archives, the FSU Heritage Museum at Dodd Hall and\/or The Mary Lou Norwood Reading Room<\/strong>, please<span> contact&nbsp;<\/span><a href=\"mailto:svarry@fsu.edu\">Sandra Varry<\/a><span>&nbsp;by email or phone (850) 645-7988.<\/span><\/p>\r\n\r\n<p><strong>For&nbsp;tours of the Claude Pepper Library &amp; Museum,&nbsp;<\/strong><span>please contact&nbsp;<\/span><a href=\"mailto:rlr02e@fsu.edu?subject=Tour%20of%20Pepper%20Library\">Robert Rubero<\/a><span>&nbsp;by email or phone (850) 644-9217.<\/span><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_related_menu": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "ac5f0c8b-0836-467b-9c4e-ad3038ca463e"
+        }
+    ]
+}

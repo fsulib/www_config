@@ -32,10 +32,12 @@ elements: |-
     '#type': textfield
     '#title': 'Last Name'
     '#default_value': '[current-user:field_last_name]'
+    '#required': true
   first_name:
     '#type': textfield
     '#title': 'First Name'
     '#default_value': '[current-user:field_first_name]'
+    '#required': true
   email_address:
     '#type': email
     '#title': 'Email Address'

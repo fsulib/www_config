@@ -103,6 +103,7 @@
             "target_uuid": "23e04e76-6c5d-4ea5-8df1-c36513b19b5f"
         }
     ],
+    "field_related_menu": [],
     "field_study_space_capacity": [
         {
             "target_type": "taxonomy_term",
@@ -116,10 +117,7 @@
         }
     ],
     "field_study_space_type": [
-        {
-            "target_type": "taxonomy_term",
-            "target_uuid": "3c79f419-25d3-4ad6-8e8f-bab4d8e9c038"
-        },
+        [],
         {
             "target_type": "taxonomy_term",
             "target_uuid": "598492bb-cd8a-415b-ae30-55efca8572c1"

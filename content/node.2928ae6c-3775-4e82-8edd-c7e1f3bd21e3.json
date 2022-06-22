@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-05-17T13:24:29+00:00",
+            "value": "2022-06-21T13:48:37+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-05-17T13:24:29+00:00",
+            "value": "2022-06-21T13:48:37+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -83,6 +83,12 @@
             "langcode": "en"
         }
     ],
-    "body": [],
+    "body": [
+        {
+            "value": "<h2>FSU Libraries Strategic Initiatives<\/h2>\t\r\n<h3><img alt=\"\" src=\"\/sites\/default\/files\/adjust-solid.png\" style=\"width: 49px; height: 25px;\" \/>Ensure Equitable Access to Information<\/h3>\r\n\t<div>\r\n\t\t<p>Equitable access to information is critical to intellectual freedom and participation in a democratic society. Through thoughtful stewardship, preservation, and the promotion of diverse perspectives and voices, FSU Libraries will reduce barriers to information in all of its forms.<\/p>\r\n<p><a href=\"https:\/\/www.lib.fsu.edu\/strategic-goals\/ensure-equitable-access-information\">View all related initiatives<\/a><\/p>\r\n\t<\/div>\r\n\t<h3><img alt=\"\" src=\"\/sites\/default\/files\/book-solid.png\" style=\"width: 49px; height: 25px;\" \/>Establish the Library as a Center of Intellectual Community<\/h3>\r\n\t<div>\r\n\t\t<p>FSU Libraries will be the physical and virtual heart of the university, by inspiring open mindedness and intellectual freedom, providing ample space and resources for learning, and ensuring the safety and well-being of our users.<\/p>\r\n<p><a href=\"https:\/\/www.lib.fsu.edu\/strategic-goals\/establish-library-center-intellectual-community\">View all related initiatives<\/a><\/p>\r\n\t<\/div>\r\n\t<h3><img alt=\"\" src=\"\/sites\/default\/files\/search-solid.png\" style=\"width: 49px; height: 25px;\" \/>Enhance Research &amp; Scholarship<\/h3>\r\n\t<div>\r\n\t\t<p>Through cultivation of programs, services, and partnerships, FSU Libraries will provide technical infrastructure and impart valuable skills to the university community, advancing innovative and emerging forms of research and scholarship.<\/p>\r\n<p><a href=\"https:\/\/www.lib.fsu.edu\/strategic-goals\/enhance-research-scholarship\">View all related initiatives<\/a><\/p>\r\n\t<\/div>\r\n\t<h3><img alt=\"\" src=\"\/sites\/default\/files\/user-check-solid.png\" style=\"width: 49px; height: 25px;\" \/>Invest in People<\/h3>\r\n\t<div>\r\n\t\t<p>FSU Libraries will develop and support faculty, staff, and student employees, with a commitment to enriching the individual in order to elevate the institution. We will facilitate an institutional culture of transparency, equity, and professionalism.<\/p>\r\n<p><a href=\"https:\/\/www.lib.fsu.edu\/strategic-goals\/invest-people\">View all related initiatives<\/a><\/p>\r\n\t<\/div>\r\n\t<h3><img alt=\"\" src=\"\/sites\/default\/files\/chess-solid.png\" style=\"width: 49px; height: 25px;\" \/>Promote Critical Thinking<\/h3>\r\n\t<div>\r\n\t\t<p>Critical thinking is imperative to navigating the complex world of information and making sound decisions. FSU Libraries will enhance the critical thinking skills of our users and employees through teaching, training, and advocating for the effective discovery, analysis, evaluation, and use of information.<\/p>\r\n<p><a href=\"https:\/\/www.lib.fsu.edu\/strategic-goals\/promote-critical-thinking\">View all related initiatives<\/a><\/p>\r\n\t<\/div>\r\n<\/div>\r\n<br \/>\r\n<h2><a href=\"https:\/\/www.lib.fsu.edu\/strategic-plan\/initiatives\">View Current Initiatives<\/a><\/h2><br \/>\r\n<h2>A Letter from Our Dean<\/h2>\r\n<p>I am pleased to share FSU Libraries&rsquo; Strategic Plan, including our Mission, Vision, Professional Values, Goals, and Initiatives. The Libraries are aligned with the FSU Strategic Plan, and we have designed a website so that anyone can access current information on our progress. We are committed to the students, faculty, and staff of FSU in their research, teaching, and service endeavors. Thanks to the Strategic Planning Team members under the leadership of Susannah Miller, the Associate Dean for Administration, for their thoughtful work on this process. We hope you will take time to review this website.<\/p>\r\n<p>Sincerely ,<\/p>\r\n<p><img alt=\"\" src=\"\/sites\/default\/files\/gale-sig.png\" style=\"width: 500px; height: 131px;\" \/><\/p>\r\n<p>Gale Etschmaier<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>The Strategic Planning Team<\/p>\r\n<ul>\r\n<li>Susannah Miller (Chair)<\/li>\r\n\t<li>Jessica Barmon<\/li>\r\n\t<li>Adam Beauchamp<\/li>\r\n\t<li>Meagan Bonnell<\/li>\r\n\t<li>Dianna Bradley<\/li>\r\n\t<li>Louis Brooks<\/li>\r\n\t<li>Tiffanie Burt<\/li>\r\n\t<li>Rory Grennan<\/li>\r\n\t<li>Jeff Hipsher<\/li>\r\n\t<li>Renaine Julian<\/li>\r\n\t<li>Kirsten Kinsley<\/li>\r\n\t<li>Eric Love<\/li>\r\n\t<li>Christian Mills<\/li>\r\n\t<li>Leah Sherman<\/li>\r\n\t<li>Devin Soper<\/li>\r\n<\/ul>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
     "field_related_menu": []
 }

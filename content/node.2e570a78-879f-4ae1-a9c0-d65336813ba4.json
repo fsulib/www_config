@@ -1,0 +1,94 @@
+{
+    "uuid": [
+        {
+            "value": "2e570a78-879f-4ae1-a9c0-d65336813ba4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "a12db886-d412-46b5-9932-855c32fb27dd"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-06-21T18:07:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Safety & Security"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-21T17:24:13+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-21T18:07:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/security",
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><strong>For all emergencies, call 911.<\/strong><\/p>\r\n\r\n<p><span><span><span><span><span><span>FSU Libraries Security staff are responsible for ensuring the safety and protection of all individuals and University property. Security staff are located at the entrance\/exit area of the Strozier and Dirac Libraries. Security supervisors are available at 850-491-5457 through call or text.<\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span>Florida State University expects all to adhere to the <\/span><\/span><\/span><\/span><\/span><\/span><a href=\"https:\/\/sccs.fsu.edu\/\"><span><span><span><span><span><span><span><span>Student Code of Conduct<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/a><span><span><span><span><span><span>, <\/span><\/span><\/span><\/span><\/span><\/span><a href=\"https:\/\/policies.vpfa.fsu.edu\/policies-and-procedures\/faculty-staff\"><span><span><span><span><span><span><span><span>Faculty &amp; Staff Policies<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/a><span><span><span><span><span><span>, and\/or <\/span><\/span><\/span><\/span><\/span><\/span><a href=\"https:\/\/facultyhandbook.fsu.edu\/\"><span><span><span><span><span><span><span><span>Faculty Handbook<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/a><span><span><span><span><span><span>. Individuals will not violate the security and safety of others in library spaces. <\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span><strong>Prohibited behaviors include:<\/strong><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<ul>\r\n\t<li><span><span><span><span><span><span>Exhibiting threatening and intimidating behaviors (abusive language, threats, or harassment)<\/span><\/span><\/span><\/span><\/span><\/span><\/li>\r\n\t<li><span><span><span><span><span><span>Engaging in behavior that is potentially unsafe or harmful to self or others<\/span><\/span><\/span><\/span><\/span><\/span><\/li>\r\n\t<li><span><span><span><span><span><span>Engaging in sexual harassment or making unwanted or inappropriate advances<\/span><\/span><\/span><\/span><\/span><\/span><\/li>\r\n<\/ul>\r\n\r\n<p><span><span><span><span><span><span>Individuals will not disturb or disrupt the academic pursuits of others. For guidance on noise zones and talk friendly or quiet spaces in the Libraries, more information can be found in our <\/span><\/span><\/span><\/span><\/span><\/span><a href=\"https:\/\/www.lib.fsu.edu\/policy\/noise-policy\"><span><span><span><span><span><span><span><span>Noise Policy<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/a><span><span><span><span><span><span>.&nbsp;<\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span><strong>Prohibited behaviors include<\/strong>:<\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<ul>\r\n\t<li><span><span><span><span><span><span>Creating disturbances or impeding the function of library services&nbsp;<\/span><\/span><\/span><\/span><\/span><\/span><\/li>\r\n\t<li><span><span><span><span><span><span>Vending, soliciting or inappropriately demanding the attention of others in the Libraries<\/span><\/span><\/span><\/span><\/span><\/span><\/li>\r\n\t<li><span><span><span><span><span><span>Bringing in animals, other than service animals<\/span><\/span><\/span><\/span><\/span><\/span><\/li>\r\n\t<li><span><span><span><span><span><span>Blocking means of egress, including exits, offices and study spaces<\/span><\/span><\/span><\/span><\/span><\/span><\/li>\r\n\t<li><span><span><span><span><span><span>Possessing, displaying, or using weapons of any kind<\/span><\/span><\/span><\/span><\/span><\/span><\/li>\r\n\t<li><span><span><span><span><span><span>Defacing, damaging, or denying access to library materials<\/span><\/span><\/span><\/span><\/span><\/span><\/li>\r\n\t<li><span><span><span><span><span><span>Promoting exclusionary jokes, language, or imagery<\/span><\/span><\/span><\/span><\/span><\/span><\/li>\r\n\t<li><span><span><span><span><span><span>Smoking or using vape inside the buildings<\/span><\/span><\/span><\/span><\/span><\/span><\/li>\r\n<\/ul>\r\n\r\n<p>Other security and safety considerations include:<\/p>\r\n\r\n<ul>\r\n\t<li>\r\n\t<p><span><span><span><strong><span><span>Identification:&nbsp;<\/span><\/span><\/strong><\/span><\/span><\/span><span><span><span><span><span><span>A person using a library facility may be asked by library staff and\/or security personnel to show identification and, if the person refuses, he or she may be asked to leave the library.<\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\t<\/li>\r\n\t<li>\r\n\t<p><span><span><span><strong><span><span>University Police:&nbsp;<\/span><\/span><\/strong><\/span><\/span><\/span><span><span><span><span><span><span>The University Police will be called any time a person refuses to leave after being asked to do so by the proper library staff or any time there is a disturbance or suspicious activity. 911 should be called in case of fire or medical emergency or if law enforcement assistance is needed.<\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\t<\/li>\r\n\t<li>\r\n\t<p><strong>Lost and Found:&nbsp;<\/strong>Lost and found items within Strozier library are turned into the Library Security Desk. All items are inventoried and turned over to the University Lost and Found located in the Student Union Information Center. If you have just recently lost an item first check with the Strozier security desk, or in Dirac, with the circulation desk there.<\/p>\r\n\t<\/li>\r\n\t<li>\r\n\t<p><strong>Turnstiles<\/strong>: To improve security at both Dirac and Strozier Libraries, our turnstile system requires you to swipe your FSU Card both to enter and exit the libraries.<\/p>\r\n\t<\/li>\r\n\t<li>\r\n\t<p><strong>Temporary Cards:<\/strong> For those FSU students, faculty, and staff who have forgotten their FSU Cards, temporary cards will be issued at the Security desk at the entrance to the library. All FSU students, faculty, and staff will be verified in the student and staff database and issued temporary cards up to three times per semester.<\/p>\r\n\t<\/li>\r\n\t<li>\r\n\t<p><strong>Visitors:<\/strong> Visiting scholars and faculty will be issued temporary cards with a photo ID from their university.&nbsp;Patrons from the community will be issued guest cards with an appropriate form of photo ID.<\/p>\r\n\r\n\t<p>&nbsp;<\/p>\r\n\t<\/li>\r\n<\/ul>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_related_menu": []
+}

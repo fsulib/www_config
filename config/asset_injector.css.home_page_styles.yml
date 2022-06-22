@@ -3,6 +3,7 @@ langcode: en
 status: true
 dependencies:
   module:
+    - context
     - system
 id: home_page_styles
 label: 'Home Page Styles'
@@ -10,6 +11,7 @@ code: |-
   div#home-page-icon-section {
     margin-left: 2px;
     margin-right: 2px;
+    margin-top: 1em;
   }
 
   div#home-page-icon-section .col-md-2 {
@@ -36,5 +38,13 @@ conditions:
     id: request_path
     negate: false
     pages: /home
+  context_all:
+    id: context_all
+    negate: null
+    values: ''
+  context:
+    id: context
+    negate: null
+    values: ''
 contexts: {  }
 conditions_require_all: true

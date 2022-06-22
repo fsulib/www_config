@@ -18,10 +18,12 @@ elements: |-
     '#text': |
       <p>Completing this form will connect you to library tutors and program coordinators who can answer your tutoring-related questions. Choose the appropriate subject from the dropdown menu below, and your question will be directed to the staff member who can best answer. For academic questions requiring tutor assistance, please try to be as specific and clear as possible so the tutor can quickly figure out the best way to help. Responses should generally take less than 24 hours Monday through Friday.</p>
     '#format': basic_html
-  name:
+  last_name:
     '#type': textfield
-    '#title': Name
-    '#required': true
+    '#title': 'Last Name'
+  first_name:
+    '#type': textfield
+    '#title': 'First Name'
   email_address:
     '#type': textfield
     '#title': 'Email Address'

@@ -1,0 +1,8 @@
+uuid: 367c48dc-f901-4a87-a32b-40c4ddfd762d
+langcode: en
+status: true
+dependencies: {  }
+name: 'Strategic Goals'
+vid: strategic_goals
+description: 'Goals for Initiatives'
+weight: 0

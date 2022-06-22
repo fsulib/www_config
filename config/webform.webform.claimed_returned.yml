@@ -84,7 +84,7 @@ elements: |-
       'Allen Music Library': 'Allen Music Library'
       'I don''t know/Someone else returned it': 'I don''t know/Someone else returned it'
   how_was_the_item_returned_:
-    '#type': webform_select_other
+    '#type': select
     '#title': 'How was the item returned?'
     '#description': '<div class="description">Indicate how you returned the item. This will assist us in locating the item.</div>'
     '#options':

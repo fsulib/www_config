@@ -1,0 +1,63 @@
+uuid: 5323bff4-c783-4675-877d-f3d893bc1a71
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.full
+    - field.field.node.strategic_initiative.field_init_leads
+    - field.field.node.strategic_initiative.field_initiative_description
+    - field.field.node.strategic_initiative.field_related_links
+    - field.field.node.strategic_initiative.field_strategic_alignment
+    - field.field.node.strategic_initiative.field_timeline
+    - field.field.node.strategic_initiative.field_updates
+    - node.type.strategic_initiative
+  module:
+    - user
+id: node.strategic_initiative.full
+targetEntityType: node
+bundle: strategic_initiative
+mode: full
+content:
+  field_init_leads:
+    type: basic_string
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 107
+    region: content
+  field_initiative_description:
+    type: basic_string
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 102
+    region: content
+  field_strategic_alignment:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 103
+    region: content
+  field_timeline:
+    type: basic_string
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 106
+    region: content
+  field_updates:
+    type: basic_string
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 105
+    region: content
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 100
+    region: content
+hidden:
+  field_related_links: true

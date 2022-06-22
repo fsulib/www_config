@@ -1,0 +1,118 @@
+{
+    "uuid": [
+        {
+            "value": "d480621e-7d8f-41c9-9a2b-7b86d418b1dc"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "strategic_initiative",
+            "target_type": "node_type",
+            "target_uuid": "34ee0c67-48c8-43d7-8ca3-2c2745d3e5ab"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-06-21T15:30:57+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "ADA Accessible Electronic Theses and Dissertations"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-21T13:52:13+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-21T15:30:57+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_init_leads": [
+        {
+            "value": "Rachel Smart"
+        }
+    ],
+    "field_initiative_description": [
+        {
+            "value": "The main goal of this pilot project is making incoming Electronic Theses and Dissertations (ETDs) and Honors Theses more ADA accessible. This will involve collecting data and developing templates, style guides, instruction materials, and workflows in collaboration with the Graduate School and Honors in the Major program. Addressing accessibility issues in historical ETDs is out of scope for this initiative but may be worth exploring in the future."
+        }
+    ],
+    "field_related_links": [],
+    "field_strategic_alignment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "c4659744-6170-4a80-9862-3c46a5bd9322"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2c657c32-9b9d-410e-8ea7-d509ba96ba1d"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "536d292e-e72e-4a8f-a6c4-3c48ce60fb1c"
+        }
+    ],
+    "field_timeline": [
+        {
+            "value": "Planning Phase - (December 2020 - April 2021; planning will be revisited) - This planning phase includes conversations with various stakeholders as we figure out what is possible. This includes research and reaching out to folks at other institutions that are implementing similar initiatives\/projects. Guides and workflows are produced in this phase.\r\n\r\nPilot Project - (April 2021 - August 2021) - This phase includes coordinating with Honors in the Major Program and Graduate School representatives to update Thesis templates and update the HITM Handbook with new guidelines.\r\n\r\nReview Phase - (May 2021 - September 2021; will likely pick back up again in 2022) - Honors Thesis submission data will be collected and analyzed, and result in a report. This report will be used to make decisions going forward. Updates will be made to student guidelines. Broader Implementation - This is something that is long term, and we may begin including minimum requirements for future submissions (ex., research reports, capstone projects, journal archives, and outreach content). I would like to address content beyond Theses and Dissertations and evolve our culture of content creation as a whole."
+        }
+    ],
+    "field_updates": [
+        {
+            "value": "January 2022\r\n\r\nThe final set of data on honors theses submissions is collected. With all data collected, a final report on the pilot project with analysis will be compiled and shared. \r\n\r\nJuly 2021\r\n\r\n    New accessibility guidelines are added to the Honors in the Major Handbook\r\n    Honors Theses submissions for Spring 2021 are reviewed and data collected.\r\n    Initiated conversations with the Graduate School about updating ETD submission requirements to include captions and transcripts for audio\/visual content.\r\n    Started analyzing accessibility compliance data from Spring 2021 Honors Thesis submissions.\r\n    Approval obtained from Honors in the Major program to update their program handbook for Summer 2021 with new accessibility information."
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "d0112c23-b836-4979-9fd0-8fb4344b39bb"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/special_collections_reading_room\/confirmation"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/form\/special-collections-reading-room\/confirmation"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

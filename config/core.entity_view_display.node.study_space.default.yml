@@ -7,6 +7,7 @@ dependencies:
     - field.field.node.study_space.field_booking_widget
     - field.field.node.study_space.field_catalog_url
     - field.field.node.study_space.field_content_image
+    - field.field.node.study_space.field_related_menu
     - field.field.node.study_space.field_study_space_capacity
     - field.field.node.study_space.field_study_space_location
     - field.field.node.study_space.field_study_space_type
@@ -52,7 +53,7 @@ content:
     region: content
   field_study_space_capacity:
     type: entity_reference_label
-    label: above
+    label: hidden
     settings:
       link: true
     third_party_settings: {  }
@@ -60,13 +61,14 @@ content:
     region: content
   field_study_space_location:
     type: entity_reference_label
-    label: inline
+    label: hidden
     settings:
       link: true
     third_party_settings: {  }
     weight: 5
     region: content
 hidden:
+  field_related_menu: true
   field_study_space_type: true
   field_thumbnail: true
   links: true

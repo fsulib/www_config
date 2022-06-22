@@ -1,6 +1,6 @@
 uuid: ffb4b2be-3301-4a84-84e6-b8b7e0af3fcc
 langcode: en
-status: true
+status: false
 dependencies:
   config:
     - system.menu.teaching-and-learning
@@ -11,7 +11,7 @@ dependencies:
 id: teachingandlearning
 theme: fsu_strata
 region: sidebar_first
-weight: 0
+weight: -5
 provider: null
 plugin: 'system_menu_block:teaching-and-learning'
 settings:

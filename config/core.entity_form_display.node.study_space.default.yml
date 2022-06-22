@@ -7,6 +7,7 @@ dependencies:
     - field.field.node.study_space.field_booking_widget
     - field.field.node.study_space.field_catalog_url
     - field.field.node.study_space.field_content_image
+    - field.field.node.study_space.field_related_menu
     - field.field.node.study_space.field_study_space_capacity
     - field.field.node.study_space.field_study_space_location
     - field.field.node.study_space.field_study_space_type
@@ -53,6 +54,12 @@ content:
     region: content
     settings:
       media_types: {  }
+    third_party_settings: {  }
+  field_related_menu:
+    type: options_select
+    weight: 30
+    region: content
+    settings: {  }
     third_party_settings: {  }
   field_study_space_capacity:
     type: options_select

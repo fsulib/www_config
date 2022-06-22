@@ -1,0 +1,19 @@
+uuid: 2101c771-0db2-4022-a94b-d7f62caf3ef1
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: node.field_init_leads
+field_name: field_init_leads
+entity_type: node
+type: string_long
+settings:
+  case_sensitive: false
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

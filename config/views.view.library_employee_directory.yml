@@ -1218,8 +1218,8 @@ display:
           label: ''
           exclude: false
           alter:
-            alter_text: false
-            text: ''
+            alter_text: true
+            text: '<a href="/user/{{uid}}">{{ field_preferred_email is not empty ? field_preferred_email }} </a>'
             make_link: false
             path: ''
             absolute: false
@@ -2611,7 +2611,7 @@ display:
       css_class: subject-librarians
       display_description: ''
       display_extenders: {  }
-      path: subject-librarian-directory
+      path: help/subject-librarians
     cache_metadata:
       max-age: -1
       contexts:

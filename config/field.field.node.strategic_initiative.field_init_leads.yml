@@ -1,0 +1,19 @@
+uuid: 158e6412-78da-4db0-8d3d-3f06b4586e93
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_init_leads
+    - node.type.strategic_initiative
+id: node.strategic_initiative.field_init_leads
+field_name: field_init_leads
+entity_type: node
+bundle: strategic_initiative
+label: 'Initiative Leads'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

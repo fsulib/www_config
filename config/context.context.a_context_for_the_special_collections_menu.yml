@@ -45,6 +45,6 @@ reactions:
         depth: '0'
         expand_all_items: 0
         third_party_settings: {  }
-    include_default_blocks: 0
+    include_default_blocks: 1
     saved: false
 weight: 0

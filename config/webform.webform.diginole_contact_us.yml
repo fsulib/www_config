@@ -13,14 +13,21 @@ title: 'DigiNole: Contact Us'
 description: 'General form for diginole problems, imports, etc'
 category: ''
 elements: |-
+  last_name:
+    '#type': textfield
+    '#title': 'Last Name'
+    '#default_value': '[current-user:field_last_name]'
+    '#required': true
   your_name:
     '#type': textfield
-    '#title': 'Your Name'
+    '#title': 'First Name'
     '#required': true
+    '#default_value': '[current-user:field_first_name]'
   your_email_address:
     '#type': email
-    '#title': 'Your Email address'
+    '#title': 'Email address'
     '#required': true
+    '#default_value': '[current-user:mail]'
   what_are_you_contacting_us_about_:
     '#type': textarea
     '#title': 'What are you contacting us about?'

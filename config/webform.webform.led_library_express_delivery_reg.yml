@@ -10,9 +10,15 @@ template: false
 archive: false
 id: led_library_express_delivery_reg
 title: 'Library Express Delivery Registration'
-description: "<p>Complete and send this form before requesting delivery services. Upon completion of the form you do not need to submit another unless your information changes.</p>\r\n\r\n<p><strong>By filling out and sending this form, I am authorizing the FSU Libraries to check books and other materials I request through this service to my FSU Libraries account. I acknowledge that I am responsible for returning the materials to the Libraries.</strong></p>"
+description: ''
 category: ''
 elements: |-
+  markup:
+    '#type': webform_markup
+    '#markup': |-
+      <p>Complete and send this form before requesting delivery services. Upon completion of the form you do not need to submit another unless your information changes.</p>
+
+      <p><strong>By filling out and sending this form, I am authorizing the FSU Libraries to check books and other materials I request through this service to my FSU Libraries account. I acknowledge that I am responsible for returning the materials to the Libraries.</strong></p>
   last_name:
     '#type': textfield
     '#title': 'Last Name'
@@ -35,7 +41,7 @@ elements: |-
     '#default_value': '206'
   department:
     '#type': webform_entity_select
-    '#title': Department
+    '#title': 'FSU Department'
     '#description': 'If you are a Panama City customer, please choose Panama City, FL Campus.'
     '#target_type': taxonomy_term
     '#selection_handler': 'default:taxonomy_term'
@@ -75,9 +81,6 @@ elements: |-
     '#options':
       'Yes': 'Yes'
       'No': 'No'
-  item_:
-    '#type': label
-    '#title': 'Item '
 css: ''
 javascript: ''
 settings:
@@ -277,14 +280,14 @@ handlers:
       bcc_options: {  }
       cc_mail: ''
       cc_options: {  }
-      from_mail: _default
+      from_mail: lib-delivery@fsu.edu
       from_options: {  }
       from_name: _default
       reply_to: ''
       return_path: ''
       sender_mail: ''
       sender_name: ''
-      subject: _default
+      subject: 'Form submission from: LED Library Express Delivery Registration'
       body: _default
       excluded_elements: {  }
       ignore_access: false
@@ -314,14 +317,14 @@ handlers:
       bcc_options: {  }
       cc_mail: ''
       cc_options: {  }
-      from_mail: _default
+      from_mail: '[webform_submission:values:email_address:raw]'
       from_options: {  }
       from_name: _default
       reply_to: ''
       return_path: ''
       sender_mail: ''
       sender_name: ''
-      subject: _default
+      subject: 'Form submission from: LED Library Express Delivery Registration'
       body: _default
       excluded_elements: {  }
       ignore_access: false

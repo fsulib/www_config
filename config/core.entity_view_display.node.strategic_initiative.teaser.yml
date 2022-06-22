@@ -1,0 +1,32 @@
+uuid: 4133e054-bfde-4502-bf4b-43e29384b419
+langcode: en
+status: false
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.strategic_initiative.field_init_leads
+    - field.field.node.strategic_initiative.field_initiative_description
+    - field.field.node.strategic_initiative.field_related_links
+    - field.field.node.strategic_initiative.field_strategic_alignment
+    - field.field.node.strategic_initiative.field_timeline
+    - field.field.node.strategic_initiative.field_updates
+    - node.type.strategic_initiative
+  module:
+    - user
+id: node.strategic_initiative.teaser
+targetEntityType: node
+bundle: strategic_initiative
+mode: teaser
+content:
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 100
+    region: content
+hidden:
+  field_init_leads: true
+  field_initiative_description: true
+  field_related_links: true
+  field_strategic_alignment: true
+  field_timeline: true
+  field_updates: true

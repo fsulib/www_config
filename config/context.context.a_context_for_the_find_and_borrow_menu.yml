@@ -1,0 +1,50 @@
+uuid: 34c039f8-f8e1-483a-8748-3ad729abe4d0
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.find-and-borrow
+  module:
+    - system
+    - term_condition
+label: 'A Context for the Find and Borrow Menu'
+name: a_context_for_the_find_and_borrow_menu
+group: menu
+description: 'Creates the relationship between the menu and the taxonomy term'
+requireAllConditions: false
+disabled: false
+conditions:
+  term:
+    id: term
+    tid:
+      -
+        target_id: '135'
+    negate: 0
+    uuid: df5a7546-5d19-4fe6-b1ce-f2c5a9de0731
+    context_mapping: {  }
+reactions:
+  blocks:
+    id: blocks
+    uuid: ab03ff39-89d2-4799-ad44-6875edd8a79b
+    blocks:
+      eb9d90fe-3a3a-4223-8ff9-b5ffada63a9d:
+        uuid: eb9d90fe-3a3a-4223-8ff9-b5ffada63a9d
+        id: 'system_menu_block:find-and-borrow'
+        label: 'Find and Borrow'
+        provider: system
+        label_display: '0'
+        region: sidebar_first
+        weight: '0'
+        custom_id: system_menu_block_find_and_borrow
+        theme: fsu_strata
+        css_class: ''
+        unique: 0
+        context_id: a_context_for_the_find_and_borrow_menu
+        context_mapping: {  }
+        level: '1'
+        depth: '0'
+        expand_all_items: 0
+        third_party_settings: {  }
+    include_default_blocks: 1
+    saved: false
+weight: 0

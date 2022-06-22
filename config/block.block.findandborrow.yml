@@ -1,6 +1,6 @@
 uuid: e9faec36-dda3-4801-b81d-0906a784b923
 langcode: en
-status: true
+status: false
 dependencies:
   config:
     - system.menu.find-and-borrow
@@ -11,7 +11,7 @@ dependencies:
 id: findandborrow
 theme: fsu_strata
 region: sidebar_first
-weight: 0
+weight: -6
 provider: null
 plugin: 'system_menu_block:find-and-borrow'
 settings:
