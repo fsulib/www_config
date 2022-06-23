@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "35d50fc1-6783-4738-9d35-b71d74ef4bff"
+            "value": "ef7db3f3-ccf1-48c2-a5a7-67df2adb14b0"
         }
     ],
     "langcode": [
@@ -16,7 +16,7 @@
     ],
     "revision_created": [
         {
-            "value": "2022-06-09T16:12:15+00:00",
+            "value": "2022-06-22T15:14:12+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -29,7 +29,7 @@
     ],
     "title": [
         {
-            "value": "etextbook Search"
+            "value": "Course Reserves"
         }
     ],
     "description": [],
@@ -40,7 +40,7 @@
     ],
     "link": [
         {
-            "uri": "internal:\/teaching-and-learning\/course-materials\/etextbooks",
+            "uri": "internal:\/teaching-and-learning\/course-reserves",
             "title": "",
             "options": []
         }
@@ -57,7 +57,7 @@
     ],
     "weight": [
         {
-            "value": -47
+            "value": -50
         }
     ],
     "expanded": [
@@ -72,7 +72,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-22T15:32:40+00:00",
+            "value": "2022-06-22T15:14:23+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],

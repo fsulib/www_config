@@ -3,13 +3,14 @@ langcode: en
 status: true
 dependencies:
   module:
+    - context
     - node
 id: jess_secondary_pages_boxes
 label: 'Jess- Secondary pages boxes'
 code: |-
   div.blue-boxes {
   min-height: 100px;
-  box-shadow: inset 0px 0px 0px 2px #2c6784;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
   background-color: rgb(44, 103, 132, 0.2);
   color: black
   }
@@ -36,5 +37,13 @@ conditions:
       node: '@node.node_route_context:node'
     bundles:
       page: page
+  context_all:
+    id: context_all
+    negate: null
+    values: ''
+  context:
+    id: context
+    negate: null
+    values: ''
 contexts: {  }
 conditions_require_all: true

@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "b4c007ed-62e3-4ec8-8714-ddcd6c7eadee"
+            "value": "d6f14d59-981a-45f3-b82e-252994430572"
         }
     ],
     "langcode": [
@@ -16,7 +16,7 @@
     ],
     "revision_created": [
         {
-            "value": "2022-06-14T12:33:40+00:00",
+            "value": "2022-06-22T15:41:02+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -29,7 +29,7 @@
     ],
     "title": [
         {
-            "value": "eTextbook Access"
+            "value": "Course Reserves Request Form"
         }
     ],
     "description": [],
@@ -40,7 +40,7 @@
     ],
     "link": [
         {
-            "uri": "internal:\/teaching-and-learning\/course-materials\/etextbook-access",
+            "uri": "internal:\/teaching-and-learning\/course-materials\/course-reserves-request",
             "title": "",
             "options": []
         }
@@ -72,7 +72,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-14T12:33:52+00:00",
+            "value": "2022-06-22T15:41:08+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],

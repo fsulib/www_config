@@ -1,10 +1,11 @@
 uuid: 9842fad9-ea83-48f8-8291-0f82a92d44e5
 langcode: en
-status: true
+status: false
 dependencies:
   config:
     - system.menu.about-2
   module:
+    - context
     - system
   theme:
     - fsu_strata
@@ -23,7 +24,22 @@ settings:
   depth: 0
   expand_all_items: false
 visibility:
-  request_path:
-    id: request_path
+  context_all:
+    id: context_all
+    negate: null
+    values: ''
+  context:
+    id: context
+    negate: null
+    values: ''
+  user_status:
+    id: user_status
     negate: false
-    pages: "/about/collection-strategies\r\n/about/diversity-inclusion"
+    context_mapping:
+      user: '@user.current_user_context:current_user'
+    user_status:
+      viewing_profile: '0'
+      logged_viewing_profile: '0'
+      own_page_true: '0'
+      field_value: '0'
+    user_fields: uid

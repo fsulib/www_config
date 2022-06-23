@@ -13,6 +13,17 @@ title: 'Course Reserve Request Form'
 description: ''
 category: ''
 elements: |-
+  markup:
+    '#type': webform_markup
+    '#markup': |-
+      <p>Physical course reserves are now circulating again. Please fill out this form with the material(s) you would like to place on reserve.</p>
+
+      <ul>
+      	<li>Any items that need to be on Reserve for the first week of the semester should be placed three weeks in advance.</li>
+      	<li>Requests received after 5pm will begin processing the next business day.</li>
+      	<li>Reserve requests may take up to 72 hours to process, though ones submitted during the first week of the semester can take up to 5 days.</li>
+      	<li>If you have multiple items, please place them all on this form by using the &ldquo;add another item&rdquo; button below.</li>
+      </ul>
   first_name:
     '#type': textfield
     '#title': 'First Name'
@@ -49,7 +60,7 @@ elements: |-
     '#description': '<div class="description">(e.g., General Psychology, PSY 2010)</div>'
   course_section_course_reserves_only_:
     '#type': textfield
-    '#title': 'Course Section (Course Reserves Only) '
+    '#title': 'Course Section '
   fsu_department:
     '#type': webform_entity_select
     '#title': 'FSU Department'
@@ -92,6 +103,7 @@ elements: |-
         '#title': 'Item Type'
       title:
         '#type': textfield
+        '#required': true
         '#title': Title
       author:
         '#type': textfield

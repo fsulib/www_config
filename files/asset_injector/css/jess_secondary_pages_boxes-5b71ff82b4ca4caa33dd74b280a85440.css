@@ -1,6 +1,6 @@
 div.blue-boxes {
 min-height: 100px;
-box-shadow: inset 0px 0px 0px 2px #2c6784;
+box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 background-color: rgb(44, 103, 132, 0.2);
 color: black
 }

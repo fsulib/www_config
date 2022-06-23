@@ -33,7 +33,7 @@ reactions:
         label: 'About 1'
         provider: system
         label_display: '0'
-        region: navigation
+        region: sidebar_first
         weight: '0'
         custom_id: system_menu_block_about
         theme: fsu_strata
