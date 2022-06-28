@@ -4,5 +4,5 @@ status: true
 dependencies: {  }
 id: find-and-borrow
 label: 'Find and Borrow'
-description: ''
+description: 'Links related to finding and borrowing materials at the library'
 locked: false

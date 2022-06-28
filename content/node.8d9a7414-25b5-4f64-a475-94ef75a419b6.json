@@ -1,0 +1,99 @@
+{
+    "uuid": [
+        {
+            "value": "8d9a7414-25b5-4f64-a475-94ef75a419b6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "a12db886-d412-46b5-9932-855c32fb27dd"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-06-27T17:49:13+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Instruction"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-27T13:53:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-27T17:49:13+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/teaching-and-learning\/instruction",
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "  <a id=\"top\"><\/a>\r\n<div class=\"s3-m-4 s3-p-0 s3-bg-cover\" style=\"background-image: url(\/sites\/default\/files\/2022-06\/learningdistrict_2022-banner.png);\">\r\n\t<div class=\"row\">\r\n\t\t<div class=\"col-sm-5 col-md-4\">\r\n\t\t\t<div class=\"s3-p-10 s3-gd2c feature-fixed\">\r\n\t\t\t\t<p>What's on this page:<\/p>\r\n\t\t\t\t<ul>\r\n\r\n<li><a href=\"#instruction-sessions\">Library Instruction Sessions<\/a><\/li>\r\n<li><a href=\"#assignment-design\">Assignment Design &amp; Consultation<\/a><\/li>\r\n<li><a href=\"#async-resources\">Asynchronous Resources<\/a><\/li>\r\n<li><a href=\"#course-materials\">Course Materials<\/a><\/li>\r\n<li><a href=\"#tours-orientation\">Tours, Orientations, and Visits<\/a><\/li>\r\n<li><a href=\"#workshops\">Workshops<\/a><\/li>\r\n<\/ul>\r\n\t\t\t<\/div>\r\n\t\t<\/div>\r\n\t<\/div>\r\n<\/div>\r\n\r\n<h2><a class=\"no-underline\" id=\"instruction-sessions\">Library Instruction Sessions<\/a><\/h2><a href=\"#top\">Back to top<\/a>\r\n\t\t<p>We seek to provide customizable instruction sessions to help learners achieve their research goals. Library instructors are available to teach sessions on a variety of research-related topics tailored to specific courses and disciplines. <\/p>\r\n\r\n<p>Library instructors are available to teach sessions on topic mapping and keyword selection, developing research questions, finding sources, evaluating sources,\u00a0 incorporating sources into their own research, creating citations, and using a variety of research tools and methodologies. To partner with a library instructor to design an instruction session tailored to your course goals either reach out to your subject librarian or fill out our instruction request form.\r\nIf you would like to give students a holistic experience with conducting research, course-integrated library instruction is an effective way to do so. Library instructors are available to deliver multiple instruction sessions throughout the course of a semester to guide students through all components of research assignments. Contact your subject librarian to discuss the possibility of having library instruction embedded in your course.<\/p>\r\n<h3>Learning Goals & Instruction Examples<\/h3>\r\n<p>Library instructors strive to craft learning objectives aligned with course research goals and incorporate active learning strategies throughout instruction sessions. Below are some examples of commonly targeted learning objectives and samples of learning activities.<\/p>\r\n<h3>Sample Learning Objectives<\/h3>\r\n<ul>\r\n<li>Learners will evaluate information sources for credibility and relevance to their research needs.<\/li>\r\n<li>Learners will identify strategies for efficiently reading academic materials.<\/li>\r\n<li>Learners will demonstrate how to perform advanced searches in library databases to find peer-reviewed material relevant to their research needs.<\/li>\r\n<\/ul>\r\n<h3>Instruction Examples<\/h3>\r\n<a href=\"\/sites\/default\/files\/2022-06\/patent_research_instruction_activity_example.pdf\">STEM<\/a>\r\n\r\n<h3>Session Expectations<\/h3>\r\n<p>In order for library instruction to be successful and for learners to fully benefit from the sessions, course instructors must:<\/p>\r\n<ul>\r\n<li>Submit instruction requests at least two weeks in advance. This ensures the availability of a library instructor and provides us with adequate time to design an effective lesson.<\/li>\r\n<li>Submit a copy of the course syllabi or the relevant assignment description. This guarantees library instructors can better design content and activities aligned with course goals.<\/li>\r\n<li>Be present during the library instruction session. This helps create an environment where students are actively participating in the learning process.<\/li>\r\n<\/ul>\r\n\r\n<h2><a class=\"no-underline\" id=\"assignment-design\">Assignment Design &amp; Consultation<\/a><\/h2><a href=\"#top\">Back to top<\/a>\r\n\r\n\t<p>Library staff are excited to partner with course instructors and lend their instructional design expertise in order to create and meet research-related learning outcomes that support the curriculum. Library instructors can assist in the development of student-centered active learning content and alternative assessment measures to ensure that learners are gaining critical thinking and research skills aligned with course objectives. Reach out to Instruction Librarian, <a href=\"mailto:edunne@fsu.edu\">Liz Dunne<\/a> to begin the assignment design process.<\/p>\r\n\r\n<h2><a class=\"no-underline\" id=\"async-resources\">Asynchronous Resources<\/a><\/h2><a href=\"#top\">Back to top<\/a>\r\n\r\n\t\r\n<p>FSU Libraries have expanded the traditional content of library literacy sessions by incorporating critical thinking, evaluating resources, and research skills support through asynnchronous learning resources.<\/p>\r\n<h3>Libraries in Canvas<\/h3>\r\n\r\n<p>We&#39;ve gone beyond the physical library to seamlessly integrate our services and resources right into the Canvas dashboard and your course site. Use the <a href=\"http:\/\/guides.lib.fsu.edu\/canvasintegration\/tools\">Library Tools link<\/a> in your course site and the <a href=\"https:\/\/guides.lib.fsu.edu\/canvasintegration\/course-faculty\">FSU Libraries course<\/a> to search for materials, find research support, and access our library services. Integrate our library modules, videos, and tutorials into your Canvas course from the Canvas Commons. Find out more about <a href=\"http:\/\/guides.lib.fsu.edu\/canvasintegration\">our Libraries&rsquo; integrations in Canvas on this guide<\/a>.<\/p>\r\n\r\n<h3>&nbsp; Research Guides;<\/h3>\r\n\r\n<p>The Libraries boasts a large number of <a href=\"https:\/\/guides.lib.fsu.edu\/\">research guides<\/a> on all manner of research-related topics. Research guides typically provide overviews of topics, collect and organize pertinent resources, and provide procedural information for how to conduct research in certain disciplines. Library staff are also available to create research guides tailored to the content and assignments of specific courses. If you&rsquo;d like to explore the possibility of building a custom research guide for your course, please reach out to your <a href=\"\/help\/subject-librarians\">subject librarian<\/a>.<\/p>\r\n\r\n<h3>Other Learning Objects<\/h3>\r\n\r\n<p>We&rsquo;ve created a comprehensive suite of <a href=\"https:\/\/www.youtube.com\/channel\/UCyxO0sXrrcT9tKa-LPsFP9w\">videos &amp; tutorials<\/a> that course instructors are welcome to incorporate in their classes. We are also available to create custom video tutorials, eLearning modules, and other digital learning objects. To pursue creating course-customized digital learning objects, please reach out to your <a href=\"\/help\/subject-librarians\">subject librarian<\/a> so they can collaborate with the Instruction and Distance Learning teams to explore design options.<\/p>\r\n\r\n<h3>Asynchronous Learning Tools &amp; Support<\/h3>\r\n<p>FSU Libraries provides support and guidance for asynchronous instruction tools. Find out more about tools that can be used to conduct class activities online on this <a href=\"https:\/\/guides.lib.fsu.edu\/asynchLearningTools\">Tools for Asynchronous Learning Guide.<\/a><\/p>\r\n\r\n\r\n\r\n<h2><a class=\"no-underline\" id=\"course-materials\">Course Materials<\/a><\/h2><a href=\"#top\">Back to top<\/a>\r\n\r\n\t<p>Our Libraries&#39; offers services and tools that help instructors deliver course materials to their students.&nbsp;<a href=\"\/teaching-and-learning\/course-materials\">Find out more on our Library Support for Course Materials page<\/a>.<\/p>\r\n\r\n<h2><a class=\"no-underline\" id=\"tours-orientation\">Tours, Orientations, and Visits<\/a><\/h2><a href=\"#top\">Back to top<\/a>\r\n\r\n\r\n\t<p><covid-era tours=\"\">Due to the current closure of FSU Libraries in the wake of COVID-19, we have directed our tours and orientations to online formats. For a look at our physical spaces, visitors can access <strong><a href=\"https:\/\/www.google.com\/maps\/@30.4431142,-84.2951042,3a,75y,164.91h,89.19t\/data=!3m7!1e1!3m5!1sAF1QipM5WTf6HgiorBhJpgtIemwfuEOzShzC9p_doco!2e10!3e12!7i10000!8i5000\">our 360&deg; tour<\/a><\/strong> taken before the library&rsquo;s temporary closure.<hyperlink><\/hyperlink><\/covid-era><\/p>\r\n\t<p>FSU Libraries welcomes student, research, and public groups to visit our physical spaces and explore our resources! Tours are designed to meet the specific needs of individual groups and typically include a walk-through of library facilities and highlight key library services.<\/p>\r\n\t<p>To schedule a tour, FSU course instructors can reach out to their <a href=\"\/help\/subject-librarians\">subject librarian<\/a>. Public groups looking to schedule a general tour of Strozier library can contact the Student Engagement Librarian. Visiting groups looking to tour libraries aside from Strozier can contact those libraries directly.<\/p>\r\n\r\n<h2><a class=\"no-underline\" id=\"workshops\">Workshops<\/a><\/h2><a href=\"#top\">Back to top<\/a>\r\n\r\n\t<p>FSU Libraries seeks to provide learners with a variety of workshops on topics such as best practices for data management and avoiding plagiarism as well as sessions geared towards teaching specific research tools including (but not limited to) SQL, SPSS, coding languages, citation managers, and more. For information on what workshops, <a href=\"\/teaching-and-learning\/workshops\">please see our workshop listings.<\/a><\/p>\r\n\r\n\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_related_menu": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "ce63f4af-bac4-47a8-85db-c8e4fa80a049"
+        }
+    ]
+}

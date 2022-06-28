@@ -7,7 +7,7 @@ dependencies:
   module:
     - system
     - term_condition
-label: 'A Context for the Teaching and Learning Menu'
+label: 'Teaching and Learning Menu'
 name: a_context_for_the_teaching_and_learning_menu
 group: menu
 description: 'Creates the relationship between the menu and the taxonomy term'

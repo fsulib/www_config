@@ -1,0 +1,123 @@
+{
+    "uuid": [
+        {
+            "value": "a1dbd6e2-750f-4423-af34-efd70125a1c3"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "strategic_initiative",
+            "target_type": "node_type",
+            "target_uuid": "34ee0c67-48c8-43d7-8ca3-2c2745d3e5ab"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-06-23T13:44:09+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "FSU Libraries Website Refresh "
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-23T13:42:57+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-23T13:44:09+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_initiative_description": [
+        {
+            "value": "Due to a significant Drupal software upgrade requirement, the FSU Libraries website needs to be migrated to a new infrastructure.  This upgrade provides an opportunity to refresh the website to improve user experience and advance our interface to best meet the needs of the FSU community. "
+        }
+    ],
+    "field_init_leads": [
+        {
+            "value": "Jess Barmon\r\nLindsey Wharton"
+        }
+    ],
+    "field_related_links": [
+        {
+            "value": "<a href=\"https:\/\/www.lib.fsu.edu\/\">https:\/\/www.lib.fsu.edu\/<\/a>",
+            "format": "basic_html"
+        }
+    ],
+    "field_strategic_alignment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "c4659744-6170-4a80-9862-3c46a5bd9322"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2c657c32-9b9d-410e-8ea7-d509ba96ba1d"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2b321f7a-00cf-4301-bdfb-0b0a498715e7"
+        }
+    ],
+    "field_timeline": [],
+    "field_updates": [
+        {
+            "value": "Phase 1a - Website Feedback and User Testing (November 2021 - February 2022): Using surveys, open forums, and other communication tools, we will identify opportunities for improvement for our current website. We will also work with the UX Group to perform user testing and analysis that will provide insight into how our users utilize our website and uncover roadblocks with the goal of integrating feedback into an iterative design process.\r\n\r\nPhase 1b - Website Content Review (November 2021 - February 2022): This phase will include a web content review with the goal of assessing, and improving our overall content structure and pages for clarity, discoverability, accessibility, and usability. As part of this assessment, we will perform a comparative analysis of other academic library websites in order to adopt and model best practices.\r\n\r\nPhase 2a - Wireframes, Mockups, Themes: Design and Testing (January 2022 - June 2022): Using the feedback from phase 1, we will design an improved website interface. As new features and interface changes are implemented and tested, the Web Advisory Group will be consulted for final approval.\r\n\r\nPhase 2b - Drupal 9 Infrastructure Design and Implementation (January 2022 - June 2022): A parallel workflow to phase 2a, our Digital Infrastructure team will be working on AWS Cloud Formation templates to deploy a highly available, scalable environment for our Drupal 9 website deployment.\r\n\r\nPhase 3 - New Website Launch (May 2022 - July 2022): This phase will include communication with various stakeholders regarding any changes and improvements made to our website, training content editors, and performing additional testing and assessment of our new infrastructure."
+        }
+    ]
+}

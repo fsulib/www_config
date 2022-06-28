@@ -1,0 +1,8 @@
+uuid: 98ecf72a-84da-4020-9bfa-996be9645a8a
+langcode: en
+status: true
+dependencies: {  }
+id: research-and-publish
+label: 'Research and Publish'
+description: 'Links related to research services at the libraries'
+locked: false

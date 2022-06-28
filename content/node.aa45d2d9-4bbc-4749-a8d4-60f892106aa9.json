@@ -1,0 +1,126 @@
+{
+    "uuid": [
+        {
+            "value": "aa45d2d9-4bbc-4749-a8d4-60f892106aa9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "strategic_initiative",
+            "target_type": "node_type",
+            "target_uuid": "34ee0c67-48c8-43d7-8ca3-2c2745d3e5ab"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-06-23T13:45:54+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Library Digital Preservation System"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-23T13:45:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-23T13:45:54+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_initiative_description": [
+        {
+            "value": "Create a preservation system for born digital and digitized materials to meet the needs of the FSU Libraries Digital Preservation Framework in AWS using Archivematica (AM), an open source software. Enable AM to work with DigiNole to allow for simplification of ingest processes for both access and preservation. Enable Ringling Museum to access AM as a test case for further expansion of service to other organizations."
+        }
+    ],
+    "field_init_leads": [
+        {
+            "value": "Krystal Thomas\r\nKatie McCormick\r\nMalcolm Shackelford\r\nDavid Rodriguez\r\nLouis Brooks"
+        }
+    ],
+    "field_related_links": [],
+    "field_strategic_alignment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "c4659744-6170-4a80-9862-3c46a5bd9322"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2c657c32-9b9d-410e-8ea7-d509ba96ba1d"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2b321f7a-00cf-4301-bdfb-0b0a498715e7"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "1ee63eb4-04c0-4779-9d3f-74300e28b3a8"
+        }
+    ],
+    "field_timeline": [
+        {
+            "value": "The committee has been working on this project on and off for a year or so prior to the initiative being outlined. It will take another 6 months to a year for completion of the outlined work. This is dependent on the development of DigiNole in FSU Islandora which the team members are involved in as well. A current outline of the work to take us into the summer looks like this:\r\n\r\n*By 2\/26: Krystal will have the ingest package instructions outlined and given to Laura Miller and Ringling for testing and creation of their packages. Will be using Bagger as it\u2019s straightforward and allows for checksum creation by the curator\r\n\r\n*By 2\/26: AM Training for selected FSU Libraries staff is selected and registration completed when available. AD for SCA is providing funding for training.\r\n\r\n*By 4\/31: All the testing data is removed from the current AM instance (or new instance is deployed), AM is connected to the appropriate storage (Glacier Deep) and we\u2019re ready for production. Packages are actively being processed and stored starting May 1 Note: This step is dependent on the Islandora migration project remaining on schedule as noted above.\r\n\r\n*By 4\/31: a schedule for movement of materials out of current Glacier storage, review and processed into AM as decided is set between DI and DLC staff. Schedule should be based on order of priority listed on spreadsheet and turnover with Glacier (NOTE: it takes about 4 days to get materials out once requested) should be factored into scheduling\r\n\r\n*By 4\/31: Discussion with Ringling staff around the costs projected for using AM for long-term preservation storage. Setting up the MoU with them around that work.\r\n\r\n*By 4\/31: Access to MSP360 (or similar FTP service) is set up for all parties needing it to place packages into the waiting folder for processing - Laura Miller in DRS and Ringling staff.\r\n\r\n*By mid-May: Check in with DRS and Ringling; workflow revisions are made based on experiences of workflow so far. At this time, may give more access to the AM backend functions to partners if deemed useful.\r\n\r\n*By 6\/1: All old materials removed from Glacier, reviewed and migrated into AM; A solid workflow for AM processing is outlined and in production. Start planning for integration of AM and DigiNole and what that work and timeline will look like for that phase.\r\n\r\n*By 6\/30: Functionality in need of more work (ex. Appraisal and Fixity) should be tested and implemented as decided. *September 2021: Start the AM-DigiNole work as outlined in the June deadline.\r\n\r\n*January 2022: Have a working pathway between AM and DigiNole for better management of access and preservation tasks with digitized and born-digital materials."
+        }
+    ],
+    "field_updates": [
+        {
+            "value": "January 2022\r\n\r\n    Archivematica (AM) is fully deployed at this time. The system is successfully being used to process preservation packages for the Ringling Archives and for Special Collections materials since this fall. Moving all materials out of Glacier through AM and into Glacier Deep Storage will be a priority in the spring semester. The development to have AM interact with DigiNole is still forthcoming.\r\n\r\nJune 2021\r\n\r\n    A production instance of Archivematica (AM) went live in mid-July 2021 with organization for FSU Libraries and the Ringling Archives to have their own storage using the same interface. In the next few weeks, we'll begin the loading of materials that were being stored in Glacier. This involves using the Bag-It tool to package and ingest into AM and helping Ringling start their loading processes as well."
+        }
+    ]
+}

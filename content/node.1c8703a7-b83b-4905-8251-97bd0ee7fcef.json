@@ -1,0 +1,118 @@
+{
+    "uuid": [
+        {
+            "value": "1c8703a7-b83b-4905-8251-97bd0ee7fcef"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "strategic_initiative",
+            "target_type": "node_type",
+            "target_uuid": "34ee0c67-48c8-43d7-8ca3-2c2745d3e5ab"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-06-23T13:53:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "The Human Library Project"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-23T13:52:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-23T13:53:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_initiative_description": [
+        {
+            "value": "The Human Library Project consists of individuals of various backgrounds that make themselves readily available to scholars on campus, as a \u201cbook\u201d to be checked out and interviewed as a means of exploring diversity through open minded conversation. The goal of the Human Library Project is to provide a safe space for our scholars to gain perspective and understanding of individuals with unique  experiences and stories. Many university libraries across the world are hosts for the Human Library, see FAU\u2019s example."
+        }
+    ],
+    "field_init_leads": [
+        {
+            "value": "Priscilla Hunt"
+        }
+    ],
+    "field_related_links": [],
+    "field_strategic_alignment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "c4659744-6170-4a80-9862-3c46a5bd9322"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2c657c32-9b9d-410e-8ea7-d509ba96ba1d"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2b321f7a-00cf-4301-bdfb-0b0a498715e7"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "1ee63eb4-04c0-4779-9d3f-74300e28b3a8"
+        }
+    ],
+    "field_timeline": [],
+    "field_updates": []
+}

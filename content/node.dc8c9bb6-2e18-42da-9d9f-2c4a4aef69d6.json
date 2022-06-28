@@ -1,0 +1,118 @@
+{
+    "uuid": [
+        {
+            "value": "dc8c9bb6-2e18-42da-9d9f-2c4a4aef69d6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "strategic_initiative",
+            "target_type": "node_type",
+            "target_uuid": "34ee0c67-48c8-43d7-8ca3-2c2745d3e5ab"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-06-23T13:45:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Improving access to collections through Inclusive Metadata Implementation"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-23T13:44:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-23T13:45:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_initiative_description": [
+        {
+            "value": "This initiative seeks to redress inequities and injustice in the descriptive language and narrative framing of archives, special collections, and the institutional repository. In this phase of work, we will apply conscious editing principles to metadata in ArchivesSpace and DigiNole. Conscious editing is an active, critical awareness of bias, privilege, and power and an ethos of deliberate care used in the assessment, creation, and refinement of descriptive texts. One outcome of conscious editing is the increased accessibility of our collections in unserved and underserved communities seeking meaningful connections with their histories. Collection and object descriptions will undergo a metadata gap analysis to identify harmful and outdated terms and prioritized for remediation. The analysis will require a combination of computational queries and manual analysis. After the initial analysis, a small collection will be identified for a pilot remediation project and a prioritization document will be produced along with documentation for workflows and practices to remediate legacy collections and to incorporate conscious descriptive practice in work going forward.\r\n\r\nThis initiative supports ethical and inclusive descriptive practices at Florida State University Libraries by encouraging the ongoing, reflective examination of legacy descriptions, by engaging colleagues in a continuous dialog about that examination, and by connecting practice with scholarship, theory, and contemporary social justice activism."
+        }
+    ],
+    "field_init_leads": [
+        {
+            "value": "Keila Zayas Ruiz"
+        }
+    ],
+    "field_related_links": [],
+    "field_strategic_alignment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "c4659744-6170-4a80-9862-3c46a5bd9322"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2c657c32-9b9d-410e-8ea7-d509ba96ba1d"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "536d292e-e72e-4a8f-a6c4-3c48ce60fb1c"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "1ee63eb4-04c0-4779-9d3f-74300e28b3a8"
+        }
+    ],
+    "field_timeline": [],
+    "field_updates": []
+}

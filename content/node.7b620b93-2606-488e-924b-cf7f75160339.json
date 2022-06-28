@@ -1,0 +1,130 @@
+{
+    "uuid": [
+        {
+            "value": "7b620b93-2606-488e-924b-cf7f75160339"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "strategic_initiative",
+            "target_type": "node_type",
+            "target_uuid": "34ee0c67-48c8-43d7-8ca3-2c2745d3e5ab"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-06-23T19:29:57+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Enhancing Online Learning at the Libraries with Articulate 360"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-23T13:38:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-23T19:29:57+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_initiative_description": [
+        {
+            "value": "Led by the Teaching, Learning & Engagement Instruction & Reference Unit, the Reference & Instruction Librarian and Library Instruction Specialist will use Articulate 360, a suite of e-learning authoring applications, to create online learning objects, such as web-based lessons and modules that can integrate with Canvas. This work will meet the information literacy-related instruction needs of FSU learners in an accessible and mobile-friendly format. We will also use the software to create asynchronous internal training materials. These materials will support employee onboarding processes as well as library-wide projects. Other library personnel will also be trained on how to use the software if they identify a need to create online learning materials related to their operations and areas of expertise."
+        }
+    ],
+    "field_init_leads": [
+        {
+            "value": "Liz Dunne\r\nLisa Play"
+        }
+    ],
+    "field_related_links": [],
+    "field_strategic_alignment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "c4659744-6170-4a80-9862-3c46a5bd9322"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2c657c32-9b9d-410e-8ea7-d509ba96ba1d"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2b321f7a-00cf-4301-bdfb-0b0a498715e7"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "536d292e-e72e-4a8f-a6c4-3c48ce60fb1c"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "1ee63eb4-04c0-4779-9d3f-74300e28b3a8"
+        }
+    ],
+    "field_timeline": [
+        {
+            "value": "This is a year-long pilot. Throughout the year, the Instruction & Reference Librarian and Library Instruction Specialist will continuously create, implement, evaluate, and revise online learning materials in addition to training other library employees interested in using the software. Although this initiative will be ongoing throughout the year as relevant projects crop up, the first project using this software will be to redesign the current ENC 2135 online modules. This will take approximately 3 months to accomplish, and it is anticipated that it will be ready to implement in Spring 2022. By the end of the Fall 2021 semester, evaluation data will be available to analyze and determine if the learning objects were successful. This assessment data will be integral in informing the decision as to whether additional funding will be sought to continue and possibly expand the Articulate 360 subscription."
+        }
+    ],
+    "field_updates": [
+        {
+            "value": "January 2022\r\n\r\n    In the last six months, the Teaching, Learning & Engagement Instruction & Reference Unit, the Reference & Instruction Librarian and Library Instruction Specialist have created and distributed multiple interactive tutorials with Articulate 360. These tutorials include ENC 2135 modules, a Reference Associate training module, a Crafting a Research Question for UROP students, and other projects in progress."
+        }
+    ]
+}

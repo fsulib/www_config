@@ -7,7 +7,7 @@ dependencies:
   module:
     - system
     - term_condition
-label: 'A Context for the Visit Menu'
+label: 'Visit Menu'
 name: a_context_for_the_visit_menu
 group: menu
 description: 'Creates the relationship between the menu and the taxonomy term'

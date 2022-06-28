@@ -1,0 +1,19 @@
+uuid: c0516575-31bb-41fc-94ab-293bda9bd215
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_isbn
+    - node.type.etextbook
+id: node.etextbook.field_isbn
+field_name: field_isbn
+entity_type: node
+bundle: etextbook
+label: ISBN
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

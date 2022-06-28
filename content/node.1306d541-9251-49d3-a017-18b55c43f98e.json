@@ -1,0 +1,123 @@
+{
+    "uuid": [
+        {
+            "value": "1306d541-9251-49d3-a017-18b55c43f98e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "strategic_initiative",
+            "target_type": "node_type",
+            "target_uuid": "34ee0c67-48c8-43d7-8ca3-2c2745d3e5ab"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-06-23T13:27:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Alternative Textbook Grant Program "
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-23T13:24:47+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-23T13:27:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_initiative_description": [
+        {
+            "value": "The OER team seeks $15,000 in E&G or Foundation funds to sustain the Alternative Grants  Program program, which has become an important pillar of FSU\u2019s textbook affordability  initiative since 2017 and supports instructors in their efforts to replace commercial textbooks  with open alternatives that are available at no cost to students.. This source of funding would  offer more flexibility and sustainability in the grant distribution requested by applicants (e.g.  professional development, technology, copyediting,etc.) based on previous iterations of the grant. "
+        }
+    ],
+    "field_init_leads": [
+        {
+            "value": "Camille Thomas"
+        }
+    ],
+    "field_related_links": [
+        {
+            "value": "<p><a href=\"https:\/\/www.lib.fsu.edu\/alttextbooks\">https:\/\/www.lib.fsu.edu\/alttextbooks<\/a><\/p>\r\n",
+            "format": "basic_html"
+        }
+    ],
+    "field_strategic_alignment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2c657c32-9b9d-410e-8ea7-d509ba96ba1d"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2b321f7a-00cf-4301-bdfb-0b0a498715e7"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "536d292e-e72e-4a8f-a6c4-3c48ce60fb1c"
+        }
+    ],
+    "field_timeline": [],
+    "field_updates": [
+        {
+            "value": "January 2022\r\n\r\n    In the past six months, eight applications for the Alternative Textbook Grant were received, including a large course with over 400 students total per semester. No publication projects were received, which was the original intention of piloting a tiered model. However, there were several inquiries and the increased, flexible funding will allow this project to continue in the spring."
+        }
+    ]
+}

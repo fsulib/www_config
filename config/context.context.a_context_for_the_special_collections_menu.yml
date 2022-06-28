@@ -7,7 +7,7 @@ dependencies:
   module:
     - system
     - term_condition
-label: 'A Context for the Special Collections Menu'
+label: 'Special Collections Menu'
 name: a_context_for_the_special_collections_menu
 group: menu
 description: 'Creates the relationship between the menu and the taxonomy term'

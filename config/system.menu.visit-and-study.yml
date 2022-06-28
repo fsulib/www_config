@@ -4,5 +4,5 @@ status: true
 dependencies: {  }
 id: visit-and-study
 label: 'Visit and Study'
-description: ''
+description: 'Links related to visiting and studying at the libraries'
 locked: false

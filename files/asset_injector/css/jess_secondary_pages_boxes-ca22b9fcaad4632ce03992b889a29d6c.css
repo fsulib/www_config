@@ -1,0 +1,19 @@
+div.blue-boxes {
+max-height: 450px;
+box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+background-color: rgb(44, 103, 132, 0.2);
+color: black
+}
+
+
+div.blue-boxes a:hover {
+  color:black;
+}
+
+div.hr-double-line {
+width:50%; 
+height:5px; 
+border-top:1px solid black; 
+border-bottom:1px solid black;
+margin: 0 25% 0 25%;
+}

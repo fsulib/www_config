@@ -17,6 +17,10 @@ code: |-
   font-family: acumin-pro-condensed, Arial, sans-serif !important;
   text-transform: none !important;
   }
+
+  .view-id-strategic_initiatives_ .views-field.views-field-title {
+    padding-top: 10px;
+  }
 media: all
 preprocess: true
 conditions:

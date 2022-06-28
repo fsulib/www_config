@@ -1,0 +1,126 @@
+{
+    "uuid": [
+        {
+            "value": "50ae62b2-3906-452e-96ce-8545712189be"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "strategic_initiative",
+            "target_type": "node_type",
+            "target_uuid": "34ee0c67-48c8-43d7-8ca3-2c2745d3e5ab"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-06-23T13:49:54+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Project Enhancement Network & Incubator (PEN & Inc)"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-23T13:48:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-23T13:49:54+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_initiative_description": [
+        {
+            "value": "The digital project incubator will provide targeted support to a limited number of faculty and student projects in digital humanities and digital scholarship. This incubator program will allow the Digital Humanities Librarian and Digital Scholarship Librarian to provide targeted support to 5-10 members of the university community each semester (10-20 over the course of an academic year). This support will help these community members kickstart their digital projects. Project support funds will be provided to these incubator participants so they can purchase goods and services to enhance their projects or present their nascent projects at conferences to enhance the reputation of the university in digital research. This program will synergize with the CreateFSU strategic initiative, as each incubator participant will be given a CreateFSU account to build up the web-presence of their digital projects."
+        }
+    ],
+    "field_init_leads": [
+        {
+            "value": "Sarah Stanley\r\nMatt Hunter"
+        }
+    ],
+    "field_related_links": [],
+    "field_strategic_alignment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "c4659744-6170-4a80-9862-3c46a5bd9322"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2c657c32-9b9d-410e-8ea7-d509ba96ba1d"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2b321f7a-00cf-4301-bdfb-0b0a498715e7"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "536d292e-e72e-4a8f-a6c4-3c48ce60fb1c"
+        }
+    ],
+    "field_timeline": [
+        {
+            "value": "This is a one year project with the expectation that it will continue so long as funding is approved for future years."
+        }
+    ],
+    "field_updates": [
+        {
+            "value": "January 2022\r\n\r\n    The Incubator initiative leads put out a call for proposals in Fall 2021 and have selected the first cohort. The group is now in the process of building their websites, meeting as a group to discuss progress, and supporting each other in developing their projects."
+        }
+    ]
+}

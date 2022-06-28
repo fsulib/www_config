@@ -1,0 +1,122 @@
+{
+    "uuid": [
+        {
+            "value": "a27c2a26-ae21-482c-b6af-5720053b96c2"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "strategic_initiative",
+            "target_type": "node_type",
+            "target_uuid": "34ee0c67-48c8-43d7-8ca3-2c2745d3e5ab"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-06-23T13:48:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Library-Wide Professional Development"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-23T13:47:43+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-23T13:48:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_initiative_description": [
+        {
+            "value": "This initiative will establish a lasting professional development group that spends dedicated time to creating, providing, and facilitating professional development opportunities library-wide. Through programming and sub-committee work this group hopes to enhance professional development across the Libraries. The group will send out a yearly survey to assess professional development interests and needs throughout the library and plan out action-oriented steps to fill those gaps."
+        }
+    ],
+    "field_init_leads": [
+        {
+            "value": "Nikki Morse\r\nKelly Grove\r\nSusannah Miller"
+        }
+    ],
+    "field_related_links": [],
+    "field_strategic_alignment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "c4659744-6170-4a80-9862-3c46a5bd9322"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2c657c32-9b9d-410e-8ea7-d509ba96ba1d"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "536d292e-e72e-4a8f-a6c4-3c48ce60fb1c"
+        }
+    ],
+    "field_timeline": [
+        {
+            "value": "There is no end date as this is a proposal for an on-going committee and continued professional development opportunities for the Libraries."
+        }
+    ],
+    "field_updates": [
+        {
+            "value": "January 2022\r\n\r\n    Multiple Professional Development Days (2020 and 2021 virtually) and other professional development programs have been hosted in partnership with Faculty Professional Development Research and Travel committee, Diversity and Inclusion committee, and the Internal Communication Team.\r\n    A staff mentorship program has been established and is available to all Libraries employees.\r\n    A line of communication has been established between all professional development-related programming in the library. Semesterly meetings are held with leadership of multiply committees to unify professional development programming throughout the Libraries."
+        }
+    ]
+}

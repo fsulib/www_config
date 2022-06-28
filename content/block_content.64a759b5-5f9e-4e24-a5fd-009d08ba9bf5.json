@@ -1,0 +1,65 @@
+{
+    "uuid": [
+        {
+            "value": "64a759b5-5f9e-4e24-a5fd-009d08ba9bf5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "basic",
+            "target_type": "block_content_type",
+            "target_uuid": "bd93dd8d-71b1-4c0e-99e8-a4004533c089"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-06-24T18:02:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "info": [
+        {
+            "value": "Footer Navigation"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-24T23:32:41+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "reusable": [
+        {
+            "value": true
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "body": [
+        {
+            "value": "            <div class=\"col-xs-6 col-sm-12 col-md-0\">\r\n                <div class=\"row text-left\">\r\n                    <div class=\"col-sm-2\">\r\n                        <p class=\"h6\">Find &amp; Borrow<\/p>\r\n                        <ul class=\"list-unstyled list-block\">\r\n                            <li><a href=\"\/getting-started\">Getting Started<\/a><\/li>\r\n                            <li><a href=\"https:\/\/fsu-flvc.primo.exlibrisgroup.com\/discovery\/account?vid=01FALSC_FSU:Home&section=overview&lang=en\">My Library Account<\/a><\/li>\r\n                            <li><a href=\"\/teaching-and-learning\/course-materials\">Course Materials<\/a><\/li>\r\n                            <li><a href=\"\/find-and-borrow\/leds\">Library Express Delivery<\/a><\/li>\r\n                            <li><a href=\"\/find-and-borrow\/materials\">Borrowing Physical Materials<\/a><\/li>\r\n                            <li><a href=\"\/find-and-borrow\/interlibrary-loan\">Interlibrary Loan<\/a><\/li>\r\n                        <\/ul>\r\n                    <\/div>\r\n\r\n                    <div class=\"col-sm-2\">\r\n                        <p class=\"h6\">Research &amp; Publish<\/p>\r\n                        <ul class=\"list-unstyled list-block\">\r\n                            <li><a href=\"https:\/\/guides.lib.fsu.edu\">Research Guides<\/a><\/li>\r\n                            <li><a href=\"\/research-and-publish\/research\/grant-programs\">Grant Programs<\/a><\/li>\r\n                            <li><a href=\"\/research-and-publish\/publishing\/open-access-support\">Open Access Support<\/a><\/li>\r\n                            <li><a href=\"https:\/\/create.fsu.edu\">Create FSU Web Hosting<\/a><\/li>\r\n                            <li><a href=\"\/research-and-publish\/research\/data-services\">Research Data Services<\/a><\/li>\r\n                            <li><a href=\"https:\/\/geoset.fsu.edu\">GEOSET<\/a><\/li>\r\n                        <\/ul>\r\n                    <\/div>\r\n\r\n                    <div class=\"col-sm-2\">\r\n                        <p class=\"h6\">Visit &amp; Study<\/p>\r\n                        <ul class=\"list-unstyled list-block\">\r\n                                <li><a href=\"\/visit\/hours\">Library Hours<\/a><\/li>\r\n                                <li><a href=\"\/visit\/visiting\">Visitor Information<\/a><\/li>\r\n                                <li><a href=\"\/visit\/rooms\">Study Spaces<\/a><\/li>\r\n                                <li><a href=\"\/teaching-and-learning\/tutoring\">Tutoring<\/a><\/li>\r\n                                <li><a href=\"\/visit\/accessibility\">Accessibility<\/a><\/li>\r\n                            <\/ul>\r\n                    <\/div>\r\n\r\n                    <div class=\"col-sm-2\">\r\n                        <p class=\"h6\">Explore Collections<\/p>\r\n                        <ul class=\"list-unstyled list-block\">\r\n                            <li><a href=\"\/collections\">Collections Overview<\/a><\/li>\r\n                            <li><a href=\"\/special-collections-and-archives\">Special Collections<\/a><\/li>\r\n                            <li><a href=\"\/special-collections-and-archives\/claude-pepper\">Claude Pepper Library<\/a><\/li>\r\n                            <li><a href=\"\/special-collections-and-archives\/heritage-and-university-archives\">Heritage &amp; Archives<\/a><\/li>\r\n                            <li><a href=\"https:\/\/diginole.lib.fsu.edu\">Institutional Repository<\/a><\/li>\r\n                            <li><a href=\"\/about\/collection-strategies\">Collection Strategies<\/a><\/li>\r\n                        <\/ul>\r\n                    <\/div>\r\n\r\n                    <div class=\"col-sm-2\">\r\n                        <p class=\"h6\">About<\/p>\r\n                        <ul class=\"list-unstyled list-block\">\r\n                            <li><a href=\"\/departments\">Departments<\/a><\/li>\r\n                            <li><a href=\"\/directory\/\">Directory<\/a><\/li>\r\n                            <li><a href=\"\/business\">Doing Business<\/a><\/li>\r\n                            <li><a href=\"https:\/\/jobs.fsu.edu\/\">Employment<\/a><\/li>\r\n                            <li><a href=\"https:\/\/bookstore.fsu.edu\/\">FSU Bookstore<\/a><\/li>\r\n                            <li><a href=\"https:\/\/hr.fsu.edu\/\">Human Resources<\/a><\/li>\r\n                        <\/ul>\r\n                    <\/div>\r\n\r\n                    <div class=\"col-sm-2\">\r\n                        <p class=\"h6\">Help &amp; Support<\/p>\r\n                        <ul class=\"list-unstyled list-block\">\r\n                            <li><a href=\"https:\/\/admissions.fsu.edu\/\">Admissions<\/a><\/li>\r\n                            <li><a href=\"http:\/\/www.advocateforfloridastate.fsu.edu\/\">Advocate for Florida State<\/a><\/li>\r\n                            <li><a href=\"http:\/\/alumni.fsu.edu\/\">Alumni Association<\/a><\/li>\r\n                            <li><a href=\"http:\/\/foundation.fsu.edu\/\">Giving to FSU<\/a><\/li>\r\n                            <li><a href=\"https:\/\/registrar.fsu.edu\/\">Registrar<\/a><\/li>\r\n                            <li><a href=\"http:\/\/boosters.fsu.edu\/\">Seminole Boosters<\/a><\/li>\r\n                        <\/ul>\r\n                    <\/div>\r\n\r\n                <\/div>\r\n            <\/div>",
+            "format": "full_html",
+            "summary": ""
+        }
+    ]
+}

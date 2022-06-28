@@ -1,0 +1,126 @@
+{
+    "uuid": [
+        {
+            "value": "52b1d33f-2f36-4d47-9801-a99ddc19f33f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "strategic_initiative",
+            "target_type": "node_type",
+            "target_uuid": "34ee0c67-48c8-43d7-8ca3-2c2745d3e5ab"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-06-23T13:33:10+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Create FSU - FSU Libraries Web Hosting for Digital Projects"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-23T13:31:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-23T13:33:10+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_initiative_description": [
+        {
+            "value": "This new initiative will provide web hosting for digital projects through an educational technology company called Reclaim Hosting. This service would be available to any FSU faculty members, graduate students, or undergraduate Honors students who wants a web domain to host content related to their research, meeting both research and pedagogical needs for which there is currently no solution on campus."
+        }
+    ],
+    "field_init_leads": [
+        {
+            "value": "Sarah Stanley\r\nMatt Hunter"
+        }
+    ],
+    "field_related_links": [],
+    "field_strategic_alignment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "c4659744-6170-4a80-9862-3c46a5bd9322"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2c657c32-9b9d-410e-8ea7-d509ba96ba1d"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2b321f7a-00cf-4301-bdfb-0b0a498715e7"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "536d292e-e72e-4a8f-a6c4-3c48ce60fb1c"
+        }
+    ],
+    "field_timeline": [
+        {
+            "value": "This will be an ongoing initiative, but the work of establishing workflows, policies, and configuring startup accounts will take about one month of intensive labor from the Digital Humanities Librarian, Digital Scholarship Librarian, and Director of Digital Scholarship.\r\n\r\nWe expect that the setup process should be completed by May, 2021, with provision of new accounts starting around that time."
+        }
+    ],
+    "field_updates": [
+        {
+            "value": "January 2022\r\n\r\n    There are currently 17 total live user accounts, and about 15 more accounts will be created in the next month. Partnerships have been developed with several campus units, including the Honors in the Major program. The onboarding and workflow procedures that have been developed are being used to facilitate account creation. \r\n\r\nJuly 2021\r\n\r\n    We are now in the implementation phase for CreateFSU. Reclaim Hosting's services have been acquired, and the website is now live at https:\/\/create.fsu.edu. We are in the process of seeking new users for the pilot program, and we already have a few accounts set up."
+        }
+    ]
+}

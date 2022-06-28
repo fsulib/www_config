@@ -4,5 +4,5 @@ status: true
 dependencies: {  }
 id: teaching-and-learning
 label: 'Teaching and Learning'
-description: ''
+description: 'Links related to teaching and learning services at the libraries'
 locked: false

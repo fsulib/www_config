@@ -7,7 +7,7 @@ dependencies:
   module:
     - system
     - term_condition
-label: 'A Context for the About Menu'
+label: 'About Menu (Admin related links)'
 name: a_context_for_the_about_menu
 group: menu
 description: 'Creates the relationship between the menu and the taxonomy term'

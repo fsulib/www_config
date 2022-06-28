@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "34147832-b0b0-47fd-a1a5-0b5986dbf04a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/b873a7d8-fc9e-486b-95d8-0d30975177e1"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/teaching-and-learning\/workshops"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

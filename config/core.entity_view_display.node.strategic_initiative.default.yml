@@ -23,21 +23,22 @@ content:
     label: above
     settings: {  }
     third_party_settings: {  }
-    weight: 107
+    weight: 3
     region: content
   field_initiative_description:
     type: basic_string
     label: hidden
     settings: {  }
     third_party_settings: {  }
-    weight: 102
+    weight: 1
     region: content
   field_related_links:
-    type: text_default
+    type: text_trimmed
     label: above
-    settings: {  }
+    settings:
+      trim_length: 600
     third_party_settings: {  }
-    weight: 108
+    weight: 6
     region: content
   field_strategic_alignment:
     type: entity_reference_label
@@ -45,25 +46,25 @@ content:
     settings:
       link: true
     third_party_settings: {  }
-    weight: 103
+    weight: 2
     region: content
   field_timeline:
     type: basic_string
     label: above
     settings: {  }
     third_party_settings: {  }
-    weight: 106
+    weight: 5
     region: content
   field_updates:
     type: basic_string
     label: above
     settings: {  }
     third_party_settings: {  }
-    weight: 105
+    weight: 4
     region: content
   links:
     settings: {  }
     third_party_settings: {  }
-    weight: 100
+    weight: 0
     region: content
 hidden: {  }

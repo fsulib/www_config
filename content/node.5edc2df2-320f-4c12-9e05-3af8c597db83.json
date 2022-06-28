@@ -1,0 +1,118 @@
+{
+    "uuid": [
+        {
+            "value": "5edc2df2-320f-4c12-9e05-3af8c597db83"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "strategic_initiative",
+            "target_type": "node_type",
+            "target_uuid": "34ee0c67-48c8-43d7-8ca3-2c2745d3e5ab"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-06-23T13:46:56+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Library New Employee Onboarding"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-23T13:46:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-23T13:46:56+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_initiative_description": [
+        {
+            "value": "This strategic initiative will create a group charged with organizing and implementing an on-boarding process for new Libraries faculty and staff. This includes the creation of a workflow that helps new employees understand how the Libraries work, who we are, and how we communicate. While there is a goal to create a comprehensive workflow for new employees and their supervisors, this will also create a positive experience while they adjust to their new working environments and colleagues."
+        }
+    ],
+    "field_init_leads": [
+        {
+            "value": "Jessica Barmon\r\nSarah Miller\r\nSusannah Miller\r\nLouis Brooks\r\nMallary Rawl\r\nTheresa Haworth"
+        }
+    ],
+    "field_related_links": [],
+    "field_strategic_alignment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2c657c32-9b9d-410e-8ea7-d509ba96ba1d"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "536d292e-e72e-4a8f-a6c4-3c48ce60fb1c"
+        }
+    ],
+    "field_timeline": [
+        {
+            "value": "This initiative is estimated to take six months to implement and then it will be ongoing."
+        }
+    ],
+    "field_updates": [
+        {
+            "value": "We have established the needs and uses cases for new employees, which allows to address where to begin. We also have gathered research on other onboarding procedures to get an idea of what we want to focus on. However, due to a significant number of transitions, and summer break weeks, we have decided to take a break until September, where we hope schedules will stabilize. Several of our groups member also resigned and we do not have a group makeup reflective of the users, so we hope to add more members to the group when we begin again."
+        }
+    ]
+}

@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-05-11T11:17:24+00:00",
+            "value": "2022-06-27T15:46:06+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-05-11T11:17:24+00:00",
+            "value": "2022-06-27T15:46:06+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -90,5 +90,10 @@
             "summary": ""
         }
     ],
-    "field_related_menu": []
+    "field_related_menu": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8cf8dfe3-b4c7-41bf-bd39-cbd2372a8fca"
+        }
+    ]
 }

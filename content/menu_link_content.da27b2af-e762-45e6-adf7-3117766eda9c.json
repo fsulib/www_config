@@ -29,7 +29,7 @@
     ],
     "title": [
         {
-            "value": "A Context for the About Menu"
+            "value": "About Menu (Admin related links)"
         }
     ],
     "description": [],
@@ -72,7 +72,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-21T21:33:11+00:00",
+            "value": "2022-06-24T23:25:03+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],

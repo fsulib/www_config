@@ -1,0 +1,118 @@
+{
+    "uuid": [
+        {
+            "value": "3224c157-e923-4342-b274-37a534b335e2"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "strategic_initiative",
+            "target_type": "node_type",
+            "target_uuid": "34ee0c67-48c8-43d7-8ca3-2c2745d3e5ab"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-06-23T13:42:14+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "FSU Islandora Migration"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-23T13:41:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-23T13:42:14+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_initiative_description": [
+        {
+            "value": "FSU's institutional repository, Diginole, is shifting from being hosted under FLVC's architecture to one that is maintained, in-house, by FSU Libraries. The migration involves a complex, multi-layered process that includes: building and sustaining this technical infrastructure in a cloud-based computing environment (Amazon Web Services), deploying an updated version of the repository's software stack (Islandora) within this environment, and transferring the contents of the old repository to the new one in a way that maintains their integrity and discoverability. Updates to the overall look and feel of the repository are also being implemented in addition to new features and functionalities that were not available through the old system."
+        }
+    ],
+    "field_init_leads": [
+        {
+            "value": "Jean Phillips\r\nDavid Rodriguez"
+        }
+    ],
+    "field_related_links": [],
+    "field_strategic_alignment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "c4659744-6170-4a80-9862-3c46a5bd9322"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2c657c32-9b9d-410e-8ea7-d509ba96ba1d"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2b321f7a-00cf-4301-bdfb-0b0a498715e7"
+        }
+    ],
+    "field_timeline": [
+        {
+            "value": "This project began in 2019 with an anticipated completion date of Summer 2021"
+        }
+    ],
+    "field_updates": []
+}

@@ -1,0 +1,126 @@
+{
+    "uuid": [
+        {
+            "value": "44ca86bc-86f7-4255-9640-b228277f68f6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "strategic_initiative",
+            "target_type": "node_type",
+            "target_uuid": "34ee0c67-48c8-43d7-8ca3-2c2745d3e5ab"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-06-23T13:30:14+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Build a Community of STEM Data Scholars"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-23T13:29:10+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-23T13:30:14+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_initiative_description": [
+        {
+            "value": "Building a community of STEM Data Scholars at FSU will increase data literacy by allowing the Libraries to expand the reach and impact of research data services across the STEM community. This will be achieved through the creation of a STEM data fellowship program where paid student employees will teach and collaborate with STEM scholars. It will also allow the Libraries to leverage the expertise of our community in order to solve data related problems, enable interdisciplinary collaboration, and foster engagement around topics related to open data and open science."
+        }
+    ],
+    "field_init_leads": [
+        {
+            "value": "Nick Ruhs"
+        }
+    ],
+    "field_related_links": [],
+    "field_strategic_alignment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "c4659744-6170-4a80-9862-3c46a5bd9322"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2c657c32-9b9d-410e-8ea7-d509ba96ba1d"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2b321f7a-00cf-4301-bdfb-0b0a498715e7"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "1ee63eb4-04c0-4779-9d3f-74300e28b3a8"
+        }
+    ],
+    "field_timeline": [
+        {
+            "value": "Year 1: Phase 1, Pilot. Recruit, hire, and train first cohort of fellows, begin research and development efforts, achieve stakeholder engagement and develop outreach master plan.\r\n\r\nYears 2 & 3: Phase 2, with continued funding. Transition fellows into second year and transfer many program responsibilities to them. Recruit, hire and train second cohort. Assess program's first year."
+        }
+    ],
+    "field_updates": [
+        {
+            "value": "January 2022\r\n\r\n    There has been significant progress in the first year of this initiative. Two undergraduate Data Fellows have successfully been hired as part of the initial group of fellows. The fellows have received training and have participated in discussions about data reference, instruction, outreach, and open data.\r\n    Weekly virtual data reference hours have been started in conjunction with Libraries colleagues, which includes a channel on the Virtual Reference platform devoted to data. The fellows also co-wrote a blog post for the FSU Libraries blog on Big Data, with more posts planned. Finally, the fellows have begun work on two long-term projects, which include creating a CANVAS module for MATLAB and a survey gauging awareness of our data services among undergraduate students.\r\n\r\nJune 2021\r\n\r\n    Creation of a STEM Data Fellowship program where FSU Libraries hires student employees who will teach data related curricular to STEM Scholars\r\n    Development of a peer-to-peer teaching and consultation model where data fellows provide direct support to peers in academic departments.\r\n    Development of a library data services model that leverages the expertise of the FSU community to educate and advocate for principles related to data information literacy and open science.\r\n    Development of data related curricular that encourages engaged learning and post graduation success.\r\n    Development of training materials in response to data related researcher needs.\r\n    Documentation of solutions to research challenges by contributing to existing documentation and expanding documentation in response to researcher needs."
+        }
+    ]
+}

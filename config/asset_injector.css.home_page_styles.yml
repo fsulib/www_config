@@ -8,28 +8,66 @@ dependencies:
 id: home_page_styles
 label: 'Home Page Styles'
 code: |-
-  div#home-page-icon-section {
+  #home-page-icon-section {
     margin-left: 2px;
     margin-right: 2px;
-    margin-top: 1em;
+    margin-top: .3em;
   }
 
-  div#home-page-icon-section .col-md-2 {
-    padding: 0 40px;
+  #home-page-icon-section .col-md-1dot5 {
+    padding: 10px 30px 15px 30px;
+    margin-bottom: 5px;
   }
 
-  div#home-page-icon-section .col-md-2:hover {
+  #home-page-icon-section .col-md-1dot5:hover {
     background-color: #f3ede1;
   }
 
-  div#home-page-icon-section .s3-m-8 {
+  #home-page-icon-section .s3-m-8 {
     margin-bottom: 0;
   }
 
-  div#home-page-icon-section .col-md-2 p {
+  #home-page-icon-section .col-md-1dot5 p {
     padding: 0;
+    line-height: 115%;
     margin: 0;
     text-align: center;
+  }
+
+  /* narrow viewport styles */
+  @media only screen and (min-width: 740px) and (max-width: 979px)  {
+   
+    .col-md-1dot5 {
+      width: 22.5%;
+      margin-right: 16px;
+    }
+    
+    #home-page-icon-section .col-md-1dot5 p {
+      font-size: 100%;
+    }  
+    
+  }
+
+  /* normal viewport styles */
+  @media only screen and (min-width: 980px) and (max-width: 1199px)  {
+   
+    .col-md-1dot5 {
+      width: 12.5%;  
+    }
+    
+    #home-page-icon-section .col-md-1dot5 p {
+      font-size: 68%;
+    }  
+    
+  }
+
+  /* wide viewport styles */
+  @media only screen and (min-width: 1200px)  {
+   
+    .col-md-1dot5 {
+      width: 12.5%;  
+    }  
+    
   }
 media: all
 preprocess: true

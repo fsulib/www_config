@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "be3145e7-f153-4bd5-9afb-e00007258ad0"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/629910ef-b558-4421-9909-4f4f9ef1591c"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/visit\/libraries-abroad"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+uuid: 4bf49b01-588b-4375-aa65-2b294014d1b4
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.help-and-support
+  module:
+    - system
+    - term_condition
+label: 'Help & Support Menu'
+name: a_context_for_the_help_support_menu
+group: menu
+description: 'Creates the relationship between the menu and the taxonomy term'
+requireAllConditions: false
+disabled: false
+conditions:
+  term:
+    id: term
+    tid:
+      -
+        target_id: '148'
+    negate: 0
+    uuid: add101f2-0d2e-450e-96c3-38c3fa188a69
+    context_mapping: {  }
+reactions:
+  blocks:
+    id: blocks
+    uuid: 356359d4-2f97-48fd-b380-1f37fd77566c
+    blocks:
+      89b58112-cc24-44c4-940c-72c050921955:
+        uuid: 89b58112-cc24-44c4-940c-72c050921955
+        id: 'system_menu_block:help-and-support'
+        label: 'Help and Support'
+        provider: system
+        label_display: '0'
+        region: sidebar_first
+        weight: '0'
+        custom_id: system_menu_block_help_and_support
+        theme: fsu_strata
+        css_class: ''
+        unique: 0
+        context_id: a_context_for_the_help_support_menu
+        context_mapping: {  }
+        level: '1'
+        depth: '0'
+        expand_all_items: 0
+        third_party_settings: {  }
+    include_default_blocks: 1
+    saved: false
+weight: 0

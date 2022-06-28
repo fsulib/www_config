@@ -1,0 +1,118 @@
+{
+    "uuid": [
+        {
+            "value": "e34467ef-e099-436c-a922-9db119b2d17a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "strategic_initiative",
+            "target_type": "node_type",
+            "target_uuid": "34ee0c67-48c8-43d7-8ca3-2c2745d3e5ab"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-06-23T13:47:38+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Library Spatial Data and GIS Services"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-23T13:47:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-23T13:47:38+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_initiative_description": [
+        {
+            "value": "The development and implementation of GIS and spatial data services within the library are designed to enhance data information literacy and critical thinking skills throughout the FSU community but with a focus on STEM scholars. This will be done through educational and research services to students and faculty that enhance their data information literacy competencies. These services compliment existing GIS services in other campus units and departments by providing open source alternatives as well as integrating open science concepts into spatial data research and teaching."
+        }
+    ],
+    "field_init_leads": [
+        {
+            "value": "Kelly Grove"
+        }
+    ],
+    "field_related_links": [],
+    "field_strategic_alignment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "c4659744-6170-4a80-9862-3c46a5bd9322"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2b321f7a-00cf-4301-bdfb-0b0a498715e7"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "1ee63eb4-04c0-4779-9d3f-74300e28b3a8"
+        }
+    ],
+    "field_timeline": [],
+    "field_updates": [
+        {
+            "value": "January 2022\r\n\r\n    A survey has been sent out to Association of Research Libraries and select FSU faculty departments regarding GIS and spatial data services. The results have been collected and analyzed. There is ongoing work to compile the results into reports to share with senior leadership and also into an article to submit for publication to a journal.  GIS workshops have been held, with plans for more workshops in the spring."
+        }
+    ]
+}

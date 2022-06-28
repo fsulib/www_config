@@ -1,0 +1,118 @@
+{
+    "uuid": [
+        {
+            "value": "125025b8-7eef-4f1b-b818-1a0de861d808"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "strategic_initiative",
+            "target_type": "node_type",
+            "target_uuid": "34ee0c67-48c8-43d7-8ca3-2c2745d3e5ab"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-06-23T13:38:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "E-resources Usage Statistics Platform"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-23T13:37:19+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-23T13:38:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_initiative_description": [
+        {
+            "value": "This initiative proposes to create a platform on AWS to store and process e-resource usage data. It will consist of a data harvester, database and front-end interface to query the data. The completed product will allow subject librarians, the FSU Libraries' collections committee, and others access to up-to-date e-resource usage statistics data. This will facilitate improved collection management and purchasing decisions across the Libraries."
+        }
+    ],
+    "field_init_leads": [
+        {
+            "value": "Elissa Reiskind\r\nJim Snowden"
+        }
+    ],
+    "field_related_links": [],
+    "field_strategic_alignment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "c4659744-6170-4a80-9862-3c46a5bd9322"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2c657c32-9b9d-410e-8ea7-d509ba96ba1d"
+        }
+    ],
+    "field_timeline": [
+        {
+            "value": "Six months"
+        }
+    ],
+    "field_updates": [
+        {
+            "value": "January 2022\r\n\r\n    In the past six months a functional test system has been implemented. This system consists of a server, which hosts a basic web front-end, that is connected to a database back-end. Sample usage data files are currently being prepared for loading.\r\n\r\nJuly 2021\r\n\r\n    A development environment with a Docker container on AWS has been established. Methods for resource de-duplication have been identified.\r\n\r\n"
+        }
+    ]
+}

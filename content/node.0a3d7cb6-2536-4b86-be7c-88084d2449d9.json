@@ -1,0 +1,127 @@
+{
+    "uuid": [
+        {
+            "value": "0a3d7cb6-2536-4b86-be7c-88084d2449d9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "strategic_initiative",
+            "target_type": "node_type",
+            "target_uuid": "34ee0c67-48c8-43d7-8ca3-2c2745d3e5ab"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-06-23T13:36:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Diverse Voices in STEM"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-23T13:34:18+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-23T13:36:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_initiative_description": [
+        {
+            "value": "The Diverse Voices in FSU STEM project seeks to call attention to the challenges faced by diverse and underrepresented groups in STEM as they progress through their academic career. This program aims to engage the entire FSU community in conversations that highlight what it means to be a STEM scholar in terms of one\u2019s STEM identity. As part of the project, we will establish an in-person speaker series during which individual speakers will share their stories about what it means to them to be a STEM scholar. "
+        }
+    ],
+    "field_init_leads": [
+        {
+            "value": "Kelly Grove\r\nEmily McClellan\r\n(Denise Wetzel)"
+        }
+    ],
+    "field_related_links": [
+        {
+            "value": "<a href=\"https:\/\/diversevoices.create.fsu.edu\">https:\/\/diversevoices.create.fsu.edu\/<\/a>\r\n",
+            "format": "basic_html"
+        }
+    ],
+    "field_strategic_alignment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "c4659744-6170-4a80-9862-3c46a5bd9322"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2b321f7a-00cf-4301-bdfb-0b0a498715e7"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "1ee63eb4-04c0-4779-9d3f-74300e28b3a8"
+        }
+    ],
+    "field_timeline": [
+        {
+            "value": "Phase 1 is expected to last 4 months (May - August 2021) with intensive work for preparation of the speaker series, building out the website, and general logistical operations finalized. \r\n\r\nPhase 2 is the 2021-2022 academic year and includes the speaker series and in-series assessment, updates to the website and blog, transcription work, and collection of statistics. \r\n\r\nPhase 3 is the full assessment and analysis portion of this project which is expected to begin in late Spring 2022.  This is necessary before moving forward into a potential 2nd year of the project, if it is deemed impactful. We need to create a multi-phased program, with support, to make waves that last forever within the memory of FSU so we can have a strategic impact on all of STEM."
+        }
+    ],
+    "field_updates": [
+        {
+            "value": "January 2022\r\n\r\nDiverse Voices in STEM Speaker Series held three online speaker events in the fall of 2021, where we saw 82 attendees over the three events. For the spring of 2022, there are two scheduled speaker events to be held virtually. More information can be found at https:\/\/diversevoices.create.fsu.edu\/"
+        }
+    ]
+}
