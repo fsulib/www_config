@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-03T20:32:28+00:00",
+            "value": "2022-06-28T20:46:30+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -89,7 +89,12 @@
             "value": "Dunne"
         }
     ],
-    "field_liaison_fsu_department": [],
+    "field_liaison_fsu_department": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "6b8e5f7c-4d3f-4be8-96e5-d2824e99aa2c"
+        }
+    ],
     "field_library_department": [
         {
             "target_type": "taxonomy_term",
@@ -107,7 +112,11 @@
             "value": "Instruction and Reference Librarian"
         }
     ],
-    "field_preferred_email_address": [],
+    "field_preferred_email_address": [
+        {
+            "value": "edunne@fsu.edu"
+        }
+    ],
     "field_preferred_name": [],
     "field_room_number": [
         {

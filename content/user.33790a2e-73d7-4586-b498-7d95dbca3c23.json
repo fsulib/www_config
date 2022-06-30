@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-03T22:05:10+00:00",
+            "value": "2022-06-28T20:40:59+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -94,7 +94,28 @@
             "value": "DaSo"
         }
     ],
-    "field_liaison_fsu_department": [],
+    "field_liaison_fsu_department": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8aa47053-27b9-48a2-b675-a977490a3e0a"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "e80c3af4-3bd3-4efe-8a04-23ed11e86a95"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "039731e8-81cd-40a8-8b55-2ede0dc52804"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "fb179fef-e955-4562-bea6-a6bae0f3ecd3"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "0dde4a9b-dd25-4d8b-9048-5e65fa8666fe"
+        }
+    ],
     "field_library_department": [
         {
             "target_type": "taxonomy_term",
@@ -112,7 +133,11 @@
             "value": "Modern Languages Librarian"
         }
     ],
-    "field_preferred_email_address": [],
+    "field_preferred_email_address": [
+        {
+            "value": "jdaso@fsu.edu"
+        }
+    ],
     "field_preferred_name": [],
     "field_room_number": [
         {

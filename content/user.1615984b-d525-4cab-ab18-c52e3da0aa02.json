@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-03T20:35:41+00:00",
+            "value": "2022-06-28T20:46:01+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -85,7 +85,20 @@
             "value": "Wharton"
         }
     ],
-    "field_liaison_fsu_department": [],
+    "field_liaison_fsu_department": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "565af60e-4245-4f56-971b-e24501f03d34"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "234c0ef6-03b3-4f02-b908-df720295c887"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "f5cfae72-59e8-4d1b-bd97-f9afa4a4d7bf"
+        }
+    ],
     "field_library_department": [
         {
             "target_type": "taxonomy_term",
@@ -99,7 +112,11 @@
             "value": "Extended Campus and Distance Services Librarian"
         }
     ],
-    "field_preferred_email_address": [],
+    "field_preferred_email_address": [
+        {
+            "value": "lwharton@fsu.edu"
+        }
+    ],
     "field_preferred_name": [],
     "field_room_number": [],
     "user_picture": []

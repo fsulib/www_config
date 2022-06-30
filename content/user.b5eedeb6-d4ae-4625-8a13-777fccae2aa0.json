@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-04T05:21:03+00:00",
+            "value": "2022-06-28T20:39:27+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -113,11 +113,15 @@
         },
         {
             "target_type": "taxonomy_term",
-            "target_uuid": "10a8d173-1121-44e3-9710-50b92e316f00"
+            "target_uuid": "00fb67fa-c2cd-47d7-870c-d9491c68f0a6"
         },
         {
             "target_type": "taxonomy_term",
             "target_uuid": "b74064ae-92b4-440d-96eb-e8e5120502aa"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "72e4cba8-c370-497d-80ae-b002e4683be2"
         }
     ],
     "field_library_department": [
@@ -137,8 +141,16 @@
             "value": "Social Sciences Librarian"
         }
     ],
-    "field_preferred_email_address": [],
-    "field_preferred_name": [],
+    "field_preferred_email_address": [
+        {
+            "value": "jbphillips@fsu.du"
+        }
+    ],
+    "field_preferred_name": [
+        {
+            "value": "Jeff"
+        }
+    ],
     "field_room_number": [
         {
             "value": "0027F"

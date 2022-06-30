@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-04T06:19:44+00:00",
+            "value": "2022-06-28T20:49:43+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -89,7 +89,20 @@
             "value": "Julian"
         }
     ],
-    "field_liaison_fsu_department": [],
+    "field_liaison_fsu_department": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "59a697e3-94d4-4fdd-a8e7-908b745701ae"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "da1bdd33-1e83-4baf-96ee-b8e80efe0ae3"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "12b6e320-17de-425e-b7d6-19bcd23d642f"
+        }
+    ],
     "field_library_department": [
         {
             "target_type": "taxonomy_term",
@@ -107,7 +120,11 @@
             "value": "Director of STEM Libraries"
         }
     ],
-    "field_preferred_email_address": [],
+    "field_preferred_email_address": [
+        {
+            "value": "rjulian@fsu.edu"
+        }
+    ],
     "field_preferred_name": [],
     "field_room_number": [
         {

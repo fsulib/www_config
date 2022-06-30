@@ -58,6 +58,7 @@ elements: |-
     '#type': textfield
     '#title': 'Course Title'
     '#description': '<div class="description">(e.g., General Psychology, PSY 2010)</div>'
+    '#required': true
   course_section_course_reserves_only_:
     '#type': textfield
     '#title': 'Course Section '
@@ -84,6 +85,10 @@ elements: |-
   item_:
     '#type': webform_custom_composite
     '#title': 'Item(s) Requested'
+    '#states':
+      visible:
+        '':
+          '': ''
     '#multiple__header': false
     '#multiple__sorting': false
     '#multiple__operations': false
@@ -120,6 +125,14 @@ elements: |-
       page_numbers:
         '#type': textfield
         '#title': 'Page Numbers'
+      personal_copy:
+        '#type': radios
+        '#options': yes_no
+        '#title': 'Is this a personal copy?'
+      donate:
+        '#type': radios
+        '#options': yes_no
+        '#title': 'If this is a personal copy, would you like to donate it the Permanent Reserves to keep it in the Course Reserve collections library?'
 css: ''
 javascript: ''
 settings:

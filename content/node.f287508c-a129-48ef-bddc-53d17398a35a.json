@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-05-20T16:03:13+00:00",
+            "value": "2022-06-29T20:30:30+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-05-20T16:03:13+00:00",
+            "value": "2022-06-29T20:30:30+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -83,6 +83,17 @@
             "langcode": "en"
         }
     ],
-    "body": [],
-    "field_related_menu": []
+    "body": [
+        {
+            "value": "<p>The Project Enhancement Network and Incubator is a program that supports the development and creation of digital humanities and digital scholarship projects. Selected participants engage in a semester- or year-long curriculum to develop their skills in digital humanities methods, learn how to apply for grants, and create digital humanities projects. Participants also work together to create networks of expertise and support each other through the project development process.<\/p>\r\n<p>In recent years, this program has included funding for participants to attend conferences and trainings or purchase software and materials for their digital projects. Funding has been used to enhance participants&#39; expertise in digital methods or to promote their projects to a wider audience.<\/p>\r\n<p>During the 2021-2022 academic year, up to 10 participants will be selected to build projects using our <a href=\"https:\/\/create.fsu.edu\/\">CreateFSU<\/a> web-hosting service. Participants will be awarded $1,000 for travel or materials and be given a custom domain for their project. Participants will also receive support from library staff on creating and developing their projects. Applications for this round are due by October 31st, 2021. Prospective participants can apply <a href=\"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSducLUx7SZXzNkdeM4hOXaBRGL1jrixJ48SXFJ0zY7ux_1ZpA\/viewform?usp=sf_link\">here<\/a>.<\/p>\r\n<h3>Past Participants<\/h3>\r\n<ul>\r\n\t<li>Amelia Anderson<\/li>\r\n\t<li>John Crow<\/li>\r\n\t<li>Kristin Dowell<\/li>\r\n\t<li>Rachel Duke<\/li>\r\n\t<li>Stephen Howard<\/li>\r\n\t<li>Melissa Hughes<\/li>\r\n\t<li>Shawn Joy<\/li>\r\n\t<li>Tanya Peres<\/li>\r\n\t<li>Suzanne Raybuck<\/li>\r\n\t<li>Zach Reddick<\/li>\r\n\t<li>Molly Marotta<\/li>\r\n\t<li>Jeannine Murray Rom\u00e1n<\/li>\r\n\t<li>Zach Stoltzfus<\/li>\r\n\t<li>Dena Sutphin<\/li>\r\n\t<li>Cocoa Williams<\/li>\r\n\t<li>Peggy Wright-Cleveland<\/li>\r\n<\/ul>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_related_menu": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf2edefb-3620-4458-9381-f2b2e0520483"
+        }
+    ]
 }

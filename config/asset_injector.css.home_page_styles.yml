@@ -15,7 +15,7 @@ code: |-
   }
 
   #home-page-icon-section .col-md-1dot5 {
-    padding: 10px 30px 15px 30px;
+    padding: 10px 25px 15px 25px;
     margin-bottom: 5px;
   }
 
@@ -32,6 +32,20 @@ code: |-
     line-height: 115%;
     margin: 0;
     text-align: center;
+  }
+
+  /* mobile viewport styles */
+  @media only screen and (max-width: 739px)  {
+    
+    #home-page-icon-section .col-md-1dot5 p {
+      font-size: 90%;
+    }
+    
+    #home-page-icon-section .col-md-1dot5 {
+    padding: 10px 25px 15px 25px;
+    margin-bottom: 5px;
+  }
+    
   }
 
   /* narrow viewport styles */

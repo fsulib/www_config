@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-04T05:15:55+00:00",
+            "value": "2022-06-28T20:45:04+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -109,11 +109,27 @@
         },
         {
             "target_type": "taxonomy_term",
+            "target_uuid": "5c50d9f3-1a78-4a10-b2c8-7cdc84f53ab3"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "7eac5f0a-96a2-459e-9be9-30d7e950a9b2"
+        },
+        {
+            "target_type": "taxonomy_term",
             "target_uuid": "7d38a7df-1036-4cb5-bdc6-1a13db24168c"
         },
         {
             "target_type": "taxonomy_term",
             "target_uuid": "7cba670e-7a15-4aca-a4b7-c6b2e85a60fc"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "5a97f2c4-8688-4561-af42-369ba6761450"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "60d01bb4-14e4-4a7a-a2a3-3aed01ee8ac1"
         },
         {
             "target_type": "taxonomy_term",
@@ -137,7 +153,11 @@
             "value": "Visual & Performing Arts Librarian"
         }
     ],
-    "field_preferred_email_address": [],
+    "field_preferred_email_address": [
+        {
+            "value": "lrsherman@fsu.edu"
+        }
+    ],
     "field_preferred_name": [],
     "field_room_number": [
         {

@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-04T06:08:57+00:00",
+            "value": "2022-06-28T20:43:34+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -94,7 +94,28 @@
             "value": "Kim"
         }
     ],
-    "field_liaison_fsu_department": [],
+    "field_liaison_fsu_department": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "e5dfdf1b-5ee6-4397-9291-980e2caa32fd"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "1b4b9600-d06d-4fe5-9da8-6f0654ae69bb"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4eef70b0-c645-4340-b946-a0ea26e0c040"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8212161f-427c-47cc-9618-5c5a07025c90"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "d2f2b30e-3301-4077-8662-be4c7fa7a483"
+        }
+    ],
     "field_library_department": [
         {
             "target_type": "taxonomy_term",
@@ -113,7 +134,11 @@
         }
     ],
     "field_preferred_email_address": [],
-    "field_preferred_name": [],
+    "field_preferred_name": [
+        {
+            "value": "Kyung"
+        }
+    ],
     "field_room_number": [
         {
             "value": "027K"

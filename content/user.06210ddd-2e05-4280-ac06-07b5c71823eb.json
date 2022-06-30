@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-03T20:32:35+00:00",
+            "value": "2022-06-28T20:37:54+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -118,8 +118,16 @@
             "value": "Digital Services Librarian"
         }
     ],
-    "field_preferred_email_address": [],
-    "field_preferred_name": [],
+    "field_preferred_email_address": [
+        {
+            "value": "dwrodriguez@fsu.edu"
+        }
+    ],
+    "field_preferred_name": [
+        {
+            "value": "Dave"
+        }
+    ],
     "field_room_number": [
         {
             "value": "0023"

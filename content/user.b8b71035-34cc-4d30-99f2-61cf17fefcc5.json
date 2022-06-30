@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-03T22:13:03+00:00",
+            "value": "2022-06-28T20:44:10+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -85,7 +85,7 @@
     ],
     "field_first_name": [
         {
-            "value": "Laura"
+            "value": "Laura Gayle"
         }
     ],
     "field_fsu_department": [],
@@ -94,7 +94,12 @@
             "value": "Green"
         }
     ],
-    "field_liaison_fsu_department": [],
+    "field_liaison_fsu_department": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "1ad7c375-3de6-477e-aec2-3ccdd42e0fa9"
+        }
+    ],
     "field_library_department": [
         {
             "target_type": "taxonomy_term",

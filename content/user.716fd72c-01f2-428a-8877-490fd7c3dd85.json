@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-04T06:23:38+00:00",
+            "value": "2022-06-28T20:35:19+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -85,7 +85,7 @@
     ],
     "field_first_name": [
         {
-            "value": "Trip "
+            "value": "Norman"
         }
     ],
     "field_fsu_department": [],
@@ -94,7 +94,48 @@
             "value": "Wyckoff"
         }
     ],
-    "field_liaison_fsu_department": [],
+    "field_liaison_fsu_department": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8a36ef91-07bb-45fe-9d9f-5c8f67fb250f"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "b5db293e-563a-491b-9a97-12f419f1ad7b"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "c47052f7-e71e-45d6-a3b3-cf7e28c9a5aa"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "ead5d679-b232-4f5d-a469-cd4f1c74ca82"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "18496621-c288-4fbd-a787-c9de51951871"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "06dacc1b-8691-45d7-94b6-8b98b3189ba5"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "f96af48b-c3ee-4778-b889-6afa0e844160"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "6e9ac39a-8bcf-4159-9022-9499e366ecb9"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "64634587-8f06-4193-878b-48299ed3f824"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "486526a4-3684-4c20-a621-236735d5bb0e"
+        }
+    ],
     "field_library_department": [
         {
             "target_type": "taxonomy_term",
@@ -113,7 +154,11 @@
         }
     ],
     "field_preferred_email_address": [],
-    "field_preferred_name": [],
+    "field_preferred_name": [
+        {
+            "value": "Trip"
+        }
+    ],
     "field_room_number": [
         {
             "value": "027K"

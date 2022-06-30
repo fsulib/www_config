@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-05-20T16:02:35+00:00",
+            "value": "2022-06-29T20:22:57+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-05-20T16:02:35+00:00",
+            "value": "2022-06-29T20:22:57+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -83,6 +83,17 @@
             "langcode": "en"
         }
     ],
-    "body": [],
-    "field_related_menu": []
+    "body": [
+        {
+            "value": "<p>We support digital humanities projects and pedagogy through training on DH tools, method and platforms, advising on digital project development, and collaborative research projects.&nbsp;<\/p>\r\n<hr \/>\r\n<h3>Project Development<\/h3>\r\n<p><img alt=\"Project Development\" src=\"https:\/\/www.lib.fsu.edu\/sites\/default\/files\/sites\/default\/files\/upload\/drs\/projmgmt.png\" style=\"float: left; padding-right: 20px;\"\/>We support the development of digital humanities projects by providing specialized consultations, resource guidance, and instruction sessions as may be needed. <br \/>&nbsp;<\/p>\r\n<h3>Infrastructure and Tools<\/h3>\r\n<p><img alt=\"Infrastructure and Tools\" src=\"https:\/\/www.lib.fsu.edu\/sites\/default\/files\/sites\/default\/files\/upload\/drs\/infrastructuretools.png\" style=\"float: left; padding-right: 20px;\" \/>We specialize in providing training and troubleshooting on tools and platforms related to the digital humanities. We also develop custom software for specific digital projects (for example, <a href=\"https:\/\/github.com\/fsudrs\/jekyllhide\">JekyllHIDE<\/a>) Please contact us if you would like to learn about a specific tool or method (ex. text encoding, geospatial analysis, digital exhibits).<\/p>\r\n<h3>Training and Pedagogy<\/h3>\r\n\t\t\t\t<p><img alt=\"Training and Pedagogy\" src=\"https:\/\/www.lib.fsu.edu\/sites\/default\/files\/sites\/default\/files\/upload\/drs\/trainingped.png\" style=\"float: left; padding-right: 20px;\"\/>We offer consultations on integrating digital humanities theories and methods into both graduate and undergraduate courses. We are interested in collaborations on innovative course designs, and integrating digital assignments into the classroom, physical or virtual.<\/p>\r\n<h3>Humanities Data Support<\/h3>\r\n\t\t\t\t<p><img alt=\"Humanities Data Support\" src=\"https:\/\/www.lib.fsu.edu\/sites\/default\/files\/sites\/default\/files\/upload\/drs\/humdata.png\" style=\"float: left; padding-right: 20px;\"\/>Traditional humanists are not often trained to think of their objects of research as &ldquo;data.&rdquo; We are interested in promoting data literacy for humanists at all levels of academic life by offering discussions, workshops, and other learning opportunities on humanities data.<\/p>\r\n\t\t\t\t\r\n<blockquote>\r\n\t<p>&ldquo;<span id=\"quote_text\">What is digital humanities? It is an umbrella term that describes how humanities scholars are using digital tools to inform, approach and present their research and teaching<\/span>.&rdquo;<\/p>\r\n\t<p>- Adeline Koh<\/p>\r\n<\/blockquote>",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_related_menu": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf2edefb-3620-4458-9381-f2b2e0520483"
+        }
+    ]
 }

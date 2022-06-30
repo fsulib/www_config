@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-04T06:40:12+00:00",
+            "value": "2022-06-28T20:47:16+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -94,7 +94,28 @@
             "value": "Rawls"
         }
     ],
-    "field_liaison_fsu_department": [],
+    "field_liaison_fsu_department": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "6dd3713b-a93f-43c4-9810-7b97cc1f9bf7"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "6f96a2f1-a588-424e-b7fa-f656a3f34d09"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "f401c1cc-9332-47d7-8977-d203dc51251b"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "593c6fb5-037e-4d19-8d2e-5a238755ada7"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "94e0c4f5-53af-4855-b022-834657012617"
+        }
+    ],
     "field_library_department": [
         {
             "target_type": "taxonomy_term",
@@ -112,7 +133,11 @@
             "value": "Humanities Librarian"
         }
     ],
-    "field_preferred_email_address": [],
+    "field_preferred_email_address": [
+        {
+            "value": "mrawls@fsu.edu"
+        }
+    ],
     "field_preferred_name": [],
     "field_room_number": [
         {

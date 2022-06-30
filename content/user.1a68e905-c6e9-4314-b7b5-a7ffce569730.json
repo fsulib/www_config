@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-03T22:07:40+00:00",
+            "value": "2022-06-28T20:42:22+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -102,6 +102,14 @@
         {
             "target_type": "taxonomy_term",
             "target_uuid": "5d2842fc-cf23-47fb-849d-ea30914650ae"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4a4b49f1-9cea-4ae1-8bb7-146646a5f2d2"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "7b05e1cb-52dd-4be6-a32f-859cb981a31a"
         }
     ],
     "field_library_department": [

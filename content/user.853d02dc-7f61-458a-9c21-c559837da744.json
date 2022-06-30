@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-04T06:10:14+00:00",
+            "value": "2022-06-28T20:42:52+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -94,7 +94,16 @@
             "value": "Kinsley"
         }
     ],
-    "field_liaison_fsu_department": [],
+    "field_liaison_fsu_department": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "24bcbf21-99c5-4a9b-bab2-6daba503c0e8"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4d6884cc-0acb-46af-ae13-04d6ee2d9944"
+        }
+    ],
     "field_library_department": [
         {
             "target_type": "taxonomy_term",

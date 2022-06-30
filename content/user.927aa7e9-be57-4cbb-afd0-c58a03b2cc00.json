@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-03T22:03:09+00:00",
+            "value": "2022-06-28T20:48:13+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -102,7 +102,15 @@
     "field_liaison_fsu_department": [
         {
             "target_type": "taxonomy_term",
+            "target_uuid": "f09a8a4d-f9e8-4131-83db-55fab8d68a19"
+        },
+        {
+            "target_type": "taxonomy_term",
             "target_uuid": "4d3d3d5d-48a4-467c-9dd0-19d7a29ab63d"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "67f23e6d-5d4c-4d53-abfa-8caf10886f2f"
         }
     ],
     "field_library_department": [

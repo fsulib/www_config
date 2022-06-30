@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-04T06:37:28+00:00",
+            "value": "2022-06-28T20:37:18+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -85,7 +85,7 @@
     ],
     "field_first_name": [
         {
-            "value": "Brew "
+            "value": "Dan"
         }
     ],
     "field_fsu_department": [],
@@ -94,7 +94,12 @@
             "value": "Schoonover"
         }
     ],
-    "field_liaison_fsu_department": [],
+    "field_liaison_fsu_department": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "cf9b6670-3ddf-4f9d-b2ad-948003293669"
+        }
+    ],
     "field_library_department": [
         {
             "target_type": "taxonomy_term",
@@ -113,7 +118,11 @@
         }
     ],
     "field_preferred_email_address": [],
-    "field_preferred_name": [],
+    "field_preferred_name": [
+        {
+            "value": "Brew"
+        }
+    ],
     "field_room_number": [
         {
             "value": "027"

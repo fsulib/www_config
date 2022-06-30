@@ -1218,8 +1218,8 @@ display:
           label: ''
           exclude: false
           alter:
-            alter_text: true
-            text: '<a href="/user/{{uid}}">{{ field_preferred_email is not empty ? field_preferred_email }} </a>'
+            alter_text: false
+            text: "\r\n"
             make_link: false
             path: ''
             absolute: false
@@ -1278,7 +1278,7 @@ display:
           admin_label: ''
           plugin_id: field
           label: ''
-          exclude: false
+          exclude: true
           alter:
             alter_text: false
             text: ''

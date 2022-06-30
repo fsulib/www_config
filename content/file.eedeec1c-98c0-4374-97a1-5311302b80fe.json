@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "1dd89b9c-2fd5-42f1-955a-49f45bf47449"
+            "value": "eedeec1c-98c0-4374-97a1-5311302b80fe"
         }
     ],
     "langcode": [
@@ -17,38 +17,38 @@
     ],
     "filename": [
         {
-            "value": "HomepageIcons__GettingStarted_0.png"
+            "value": "maarten-van-den-heuvel-8EzNkvLQosk-unsplash.jpg"
         }
     ],
     "uri": [
         {
-            "value": "public:\/\/2022-06\/HomepageIcons__GettingStarted_0.png"
+            "value": "public:\/\/2022-06\/maarten-van-den-heuvel-8EzNkvLQosk-unsplash.jpg"
         }
     ],
     "filemime": [
         {
-            "value": "image\/png"
+            "value": "image\/jpeg"
         }
     ],
     "filesize": [
         {
-            "value": 8674
+            "value": 1882099
         }
     ],
     "status": [
         {
-            "value": false
+            "value": true
         }
     ],
     "created": [
         {
-            "value": "2022-06-28T05:36:02+00:00",
+            "value": "2022-06-29T12:55:19+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "changed": [
         {
-            "value": "2022-06-28T05:36:02+00:00",
+            "value": "2022-06-29T12:55:38+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

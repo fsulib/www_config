@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-04T05:26:02+00:00",
+            "value": "2022-06-28T20:48:56+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -89,7 +89,28 @@
             "value": "Ruhs"
         }
     ],
-    "field_liaison_fsu_department": [],
+    "field_liaison_fsu_department": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "1a9f5338-9482-4e3a-92ea-08c83f327e8c"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "1463f01a-e893-4ee1-8662-330a1bd5e5bf"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "5bc28dee-08ca-47cc-9312-1d3d94ae6d86"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "fc4050ae-9bce-4910-80f2-44450cb2e368"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "e6fe9a99-739b-469b-a702-63ae14cc25c6"
+        }
+    ],
     "field_library_department": [
         {
             "target_type": "taxonomy_term",

@@ -14,3 +14,11 @@
   border-left: 1px solid #CCC;
   border-right: 1px solid #CCC;
 }
+.library-employee-directory .form-inline .form-control {
+  display:block;
+}
+
+.library-employee-directory .bef-exposed-form .form--inline > .form-item {
+  
+  padding-right:20px;
+}
