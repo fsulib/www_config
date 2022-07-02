@@ -1,9 +1,14 @@
 div.blue-boxes {
 max-height: 450px;
+min-height:300px;
 box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 background-color: rgb(44, 103, 132, 0.2);
 color: black
 }
+
+div.blue-boxes .s3-p-10 {padding: 1.5em;}
+
+
 
 
 div.blue-boxes a:hover {

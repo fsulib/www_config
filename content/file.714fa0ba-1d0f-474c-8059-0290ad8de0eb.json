@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "714fa0ba-1d0f-474c-8059-0290ad8de0eb"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "filename": [
+        {
+            "value": "HomepageIcons__GettingStarted.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2022-07\/HomepageIcons__GettingStarted.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 7433
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-01T20:51:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-01T20:51:50+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

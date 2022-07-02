@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "7c440c5a-df77-4cce-a8d2-b6d8d51f95b5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/7dcccc80-a24a-4a0f-8662-d5c8fda3f080"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/find-and-borrow\/theses-and-dissertations"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

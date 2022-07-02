@@ -85,10 +85,6 @@ elements: |-
   item_:
     '#type': webform_custom_composite
     '#title': 'Item(s) Requested'
-    '#states':
-      visible:
-        '':
-          '': ''
     '#multiple__header': false
     '#multiple__sorting': false
     '#multiple__operations': false

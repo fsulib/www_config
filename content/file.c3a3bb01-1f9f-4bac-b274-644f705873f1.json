@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "c3a3bb01-1f9f-4bac-b274-644f705873f1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "filename": [
+        {
+            "value": "fsu_libraries_faculty_assembly_bylaws_current.pdf"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2022-07\/fsu_libraries_faculty_assembly_bylaws_current.pdf"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "application\/pdf"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 364292
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-01T17:06:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-01T17:06:15+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

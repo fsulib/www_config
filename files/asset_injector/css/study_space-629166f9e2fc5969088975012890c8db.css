@@ -30,3 +30,7 @@
 .study-spaces .study-spaces .bef-exposed-form .form--inline .form-item{
   float: "none";
 }
+
+#edit-submit-study-space-search {
+  margin-top:37px;
+}

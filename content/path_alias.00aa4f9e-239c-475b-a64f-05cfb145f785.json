@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "00aa4f9e-239c-475b-a64f-05cfb145f785"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/166076e3-4502-4a5b-9564-4ac0edf290eb"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/about\/library-departments"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

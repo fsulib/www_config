@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "06e2c917-3055-443f-afa4-7bf0b5e14c70"
+            "value": "6872a26b-c7ad-4f05-a3ca-216df1c1bf94"
         }
     ],
     "langcode": [
@@ -11,14 +11,14 @@
     ],
     "bundle": [
         {
-            "target_id": "image",
+            "target_id": "document",
             "target_type": "media_type",
-            "target_uuid": "b17d1dd2-b562-4656-b080-3f9bec3625f6"
+            "target_uuid": "db5f1011-17bf-43b5-b70a-bebcbb2ffd02"
         }
     ],
     "revision_created": [
         {
-            "value": "2022-07-01T20:56:47+00:00",
+            "value": "2022-07-01T17:06:15+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -42,28 +42,28 @@
     ],
     "name": [
         {
-            "value": "HomepageIcons__GettingStarted_0.png"
+            "value": "fsu_libraries_faculty_assembly_bylaws_current.pdf"
         }
     ],
     "thumbnail": [
         {
-            "alt": "Getting Started Icon",
+            "alt": "",
             "title": null,
-            "width": 216,
-            "height": 216,
+            "width": 180,
+            "height": 180,
             "target_type": "file",
-            "target_uuid": "3b811457-2c0f-469e-a33b-6d5c5350fbad"
+            "target_uuid": "40268717-ad3c-41df-a379-7962777dafab"
         }
     ],
     "created": [
         {
-            "value": "2022-06-28T05:36:39+00:00",
+            "value": "2022-07-01T17:06:08+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "changed": [
         {
-            "value": "2022-07-01T20:56:47+00:00",
+            "value": "2022-07-01T17:06:15+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -84,14 +84,12 @@
             "langcode": "en"
         }
     ],
-    "field_media_image": [
+    "field_media_document": [
         {
-            "alt": "Getting Started Icon",
-            "title": "",
-            "width": 216,
-            "height": 216,
+            "display": true,
+            "description": "",
             "target_type": "file",
-            "target_uuid": "3b811457-2c0f-469e-a33b-6d5c5350fbad"
+            "target_uuid": "c3a3bb01-1f9f-4bac-b274-644f705873f1"
         }
     ]
 }
