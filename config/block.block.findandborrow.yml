@@ -1,10 +1,11 @@
 uuid: e9faec36-dda3-4801-b81d-0906a784b923
 langcode: en
-status: false
+status: true
 dependencies:
   config:
     - system.menu.find-and-borrow
   module:
+    - context
     - system
   theme:
     - fsu_strata
@@ -26,4 +27,23 @@ visibility:
   request_path:
     id: request_path
     negate: false
-    pages: "/find-and-borrow/materials\r\n/find-and-borrow/leds\r\n/find-and-borrow/interlibrary-loan\r\n/form/led-library-express-delivery-reg\r\n/form/pay-for-lost-materials\r\n/find-and-borrow/leds/locations\r\n/form/led-library-express-delivery-mat\r\n/form/claim-returned"
+    pages: /visit/equipment
+  context_all:
+    id: context_all
+    negate: null
+    values: ''
+  context:
+    id: context
+    negate: null
+    values: ''
+  user_status:
+    id: user_status
+    negate: false
+    context_mapping:
+      user: '@user.current_user_context:current_user'
+    user_status:
+      viewing_profile: '0'
+      logged_viewing_profile: '0'
+      own_page_true: '0'
+      field_value: '0'
+    user_fields: uid

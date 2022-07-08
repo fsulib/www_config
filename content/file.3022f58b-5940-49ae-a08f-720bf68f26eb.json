@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "3022f58b-5940-49ae-a08f-720bf68f26eb"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "filename": [
+        {
+            "value": "ILL.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2022-07\/ILL.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 198248
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-05T17:21:49+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-05T17:22:15+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

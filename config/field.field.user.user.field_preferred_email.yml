@@ -1,0 +1,20 @@
+uuid: 4e460afe-6f73-4239-90c6-92c534be5b64
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.user.field_preferred_email
+  module:
+    - user
+id: user.user.field_preferred_email
+field_name: field_preferred_email
+entity_type: user
+bundle: user
+label: 'Preferred Email'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

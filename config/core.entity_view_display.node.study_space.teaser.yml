@@ -5,11 +5,14 @@ dependencies:
   config:
     - core.entity_view_mode.node.teaser
     - field.field.node.study_space.body
-    - field.field.node.study_space.field_booking_widget
-    - field.field.node.study_space.field_catalog_url
+    - field.field.node.study_space.field_back_button
+    - field.field.node.study_space.field_booking_link
     - field.field.node.study_space.field_content_image
+    - field.field.node.study_space.field_image_and_details
     - field.field.node.study_space.field_related_menu
+    - field.field.node.study_space.field_request_reservation
     - field.field.node.study_space.field_study_space_capacity
+    - field.field.node.study_space.field_study_space_details
     - field.field.node.study_space.field_study_space_location
     - field.field.node.study_space.field_study_space_type
     - field.field.node.study_space.field_thumbnail
@@ -36,11 +39,14 @@ content:
     weight: 100
     region: content
 hidden:
-  field_booking_widget: true
-  field_catalog_url: true
+  field_back_button: true
+  field_booking_link: true
   field_content_image: true
+  field_image_and_details: true
   field_related_menu: true
+  field_request_reservation: true
   field_study_space_capacity: true
+  field_study_space_details: true
   field_study_space_location: true
   field_study_space_type: true
   field_thumbnail: true

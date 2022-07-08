@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-06-18T21:55:36+00:00",
+            "value": "2022-07-07T03:53:05+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -42,7 +42,7 @@
     ],
     "title": [
         {
-            "value": "Strozier Faculty Semester Rooms"
+            "value": "Faculty Semester Room 2008 - 2012"
         }
     ],
     "created": [
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-18T21:55:36+00:00",
+            "value": "2022-07-07T03:53:05+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -85,22 +85,55 @@
         }
     ],
     "body": [],
-    "field_booking_widget": [],
-    "field_catalog_url": [],
+    "field_back_button": [],
+    "field_booking_link": [
+        {
+            "uri": "route:<nolink>",
+            "title": "Use this space",
+            "options": []
+        }
+    ],
     "field_content_image": [],
-    "field_related_menu": [],
-    "field_study_space_capacity": [],
-    "field_study_space_location": [],
-    "field_study_space_type": [
-        [],
+    "field_image_and_details": [
+        {
+            "value": "<div class=\"s3-p-10 s3-txt-m-l s3\">\r\n\t<div class=\"row\">\r\n\t\t<div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n\t\t\t<img src=\"\/sites\/default\/files\/2022-07\/Strozier Faculty Semester Rooms.png\" class=\"img-responsive\" alt=\"\">\r\n\t\t<\/div>\r\n\t\t<div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n\t\t\t<p><strong>Location: <\/strong>Strozier Library<\/p>\r\n\r\n<p><strong>Capacity: <\/strong>Seats 6 - 15<\/p>\r\n\r\n<p><strong>Loan Period: <\/strong><\/p>\r\n<p><strong>Available to: <\/strong>FSU Undergraduate, Graduate, and Faculty<\/p>\r\n<button type=\"button\" class=\"btn btn-md s3-gd\"><a href=\"https:\/\/fsu.libcal.com\/r\/accessible\/availability?lid=3927&zone=0&gid=6568&capacity=2&space=\">Use this space<\/a><\/button>\r\n\t\t<\/div>\r\n\r\n\t<\/div>\r\n<\/div>\r\n\r\n\t\t\r\n\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_related_menu": [
         {
             "target_type": "taxonomy_term",
-            "target_uuid": "56fb71d1-7be5-4c74-9826-300d1a4ce0d8"
-        },
+            "target_uuid": "a899b725-42cd-4fba-b054-3170281c11f8"
+        }
+    ],
+    "field_request_reservation": [],
+    "field_study_space_capacity": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2443aa34-031a-47ba-bb3b-544504730cc1"
+        }
+    ],
+    "field_study_space_details": [],
+    "field_study_space_location": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2f7d0aff-9425-4b80-a54f-00cca361a08c"
+        }
+    ],
+    "field_study_space_type": [
         {
             "target_type": "taxonomy_term",
             "target_uuid": "6ab12dd1-73c6-4d9b-895c-6528732521a7"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "10cdac34-c844-4e78-9320-7f7a67dc1b5b"
         }
     ],
-    "field_thumbnail": []
+    "field_thumbnail": [
+        {
+            "target_type": "media",
+            "target_uuid": "326da4e3-2b7a-4b25-be19-825ebfb4d581"
+        }
+    ]
 }

@@ -6,44 +6,148 @@ dependencies:
     - context
     - system
 id: study_space
-label: 'Study Space'
-code: |-
-  /* .study-spaces .views-row{
-    padding:20px;
-  }*/
+label: 'Study Space, Equipment, and Subject Librarian Views'
+code: |+
+  /*card styling*/
 
+  .study-spaces .views-col, 
+  .equipment .views-col{
+  padding:20px;
+  float: left;
+  border: 1px solid #ccc;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  max-width: 250px;
+  max-height:375px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  background-color: #f3ede1;
+  }
+
+  /*column styling*/
   .study-spaces .views-col{
-    padding:20px;
-    width:30%;
-   
-  } 
+    min-height:350px;
+  }
 
-  /* Styling for filters*/
-  /*.study-spaces {
-    display:block;.
+  .equipment .views-col {
+  min-height:300px;
+  }
+
+  .subject-librarians .views-col {
+  min-height:200px;
+  max-height:350px;
+  padding-right:0;
+  margin:10px;
+  }
+
+  /* Styling for search filters*/
+  .study-spaces, 
+  .equipment,
+  .subject-librarians{
+    display:block;
     padding-bottom:20px;
-  }*/
-
-
-  .study-spaces .control-label {
+  }
+  /*Placement of Filter headers*/
+  .study-spaces .control-label,
+  .equipment .control-label,
+  .subject-librarians .control-label{
     display: block;
     max-width: 100%;
     margin-bottom: 10px;
     font-weight: bold;
     
   }
-
-  .study-spaces .form-inline .form-group {
+  /*Filter options spacing*/
+  .study-spaces .form-inline .form-group, 
+  .equipment .form-inline .form-group,
+  .subject-librarians .form-inline .form-group {
     margin-right:20px;
   }
 
-  .study-spaces .study-spaces .bef-exposed-form .form--inline .form-item{
-    float: "none";
+  /*Location filter*/
+  .study-spaces .views-label-field-study-space-location {
+    font-weight: bold;
   }
 
-  #edit-submit-study-space-search {
-    margin-top:37px;
+
+  /*Study space card with info*/
+
+  /*Space library location*/
+  .study-spaces .location{
+  text-align: center;
+  background-color: #782f40;
+  font-weight: bold;
+  color: #ffffff;
   }
+
+  /*Capacity
+  .study-spaces .capacity{
+    display:inline;
+  }*/
+
+  /*Reserve space button*/
+  .study-spaces .reserve-space,
+  .study-spaces .views-field-field-request-reservation,
+  .equipment .catalog-link{
+    margin-top:10px;
+    text-align:center;
+  }
+
+  /*Button link on card*/
+  .study-spaces .reserve-space a,
+  .study-spaces .views-field-field-request-reservation a,
+  .equipment .catalog-link a{
+  	color: #782f40; 
+  	padding:8px; 
+  	background-color: #FFF; 
+  	border: 1px solid #782f40;
+  	border-radius:5px;
+  	font:Arial, Helvetica, sans-serif; 
+  	font-weight:bold; 
+  	/*border-bottom:1px solid #772E3F */
+  }
+
+  /*Button link on card- hover and focus changes*/
+  .study-spaces .reserve-space a:hover, 
+  .study-spaces .reserve-space a:focus,
+  .study-spaces .views-field-field-request-reservation a:hover, 
+  .study-spaces .views-field-field-request-reservation a:focus,
+  .equipment .catalog-link  a:hover, 
+  .equipment .catalog-link  a:focus{
+  	color: #CEB888 !important; 
+  	background-color:#782f40;
+  }
+  /*Button link on card - active */
+  .study-spaces .reserve-space a:active,
+  .study-spaces .views-field-field-request-reservation a:active,
+  .equipment .catalog-link a:active {
+  	color: #ffffff; 
+  	background-color: #41111c;
+  }
+
+
+  /*Apply, Reset*/
+  #edit-submit-study-space-search, .study-spaces .btn-info, .btn-danger,
+  #edit-submit-equipment-search, .equipment .btn-info, .btn-danger,
+  #edit-submit-library-employee-directory, .subject-librarians .btn-info, .btn-danger{
+    margin-top:37px;
+    margin-left:10px;
+  }
+
+
+  /*Filter by space type*/
+  .study-spaces legend{
+    font-size:16px;
+    font-weight:bold;
+    margin-top:5px;
+    margin-bottom:10px;
+    margin-left:5px;
+  }
+
+  #edit-field-study-space-type-target-id-136, #edit-field-study-space-type-target-id-130, #edit-field-study-space-type-target-id-97 {
+    margin:5px;
+    }
+
+
 media: all
 preprocess: true
 conditions:
@@ -58,6 +162,6 @@ conditions:
   request_path:
     id: request_path
     negate: false
-    pages: /visit/rooms
+    pages: "/visit/rooms\r\n/visit/equipment-search\r\n/help/subject-librarians"
 contexts: {  }
 conditions_require_all: true

@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-06-18T22:18:35+00:00",
+            "value": "2022-07-07T04:16:13+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -42,7 +42,7 @@
     ],
     "title": [
         {
-            "value": "Dirac Instruction Room"
+            "value": "Instruction Lab Room 208"
         }
     ],
     "created": [
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-18T22:18:35+00:00",
+            "value": "2022-07-07T04:16:13+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -85,16 +85,35 @@
         }
     ],
     "body": [],
-    "field_booking_widget": [],
-    "field_catalog_url": [],
+    "field_back_button": [],
+    "field_booking_link": [
+        {
+            "uri": "https:\/\/fsu.libcal.com\/r\/accessible\/availability?lid=3928&zone=0&gid=6588&capacity=4&space=0",
+            "title": "Use this space",
+            "options": []
+        }
+    ],
     "field_content_image": [],
-    "field_related_menu": [],
+    "field_image_and_details": [
+        {
+            "value": "<div class=\"s3-p-10 s3-txt-m-l s3\">\r\n\t<div class=\"row\">\r\n\t\t<div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n\t\t\t<img src=\"\" class=\"img-responsive\" alt=\"\">\r\n\t\t<\/div>\r\n\t\t<div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n\t\t\t<p><strong>Location: <\/strong>Dirac Science Library<\/p>\r\n\r\n<p><strong>Capacity: <\/strong>Seats 6 - 15<\/p>\r\n\r\n<p><strong>Loan Period: <\/strong><\/p>\r\n<p><strong>Available to: <\/strong>FSU Undergraduate, Graduate, and Faculty<\/p>\r\n<button type=\"button\" class=\"btn btn-md s3-gd\"><a href=\"https:\/\/fsu.libcal.com\/r\/accessible\/availability?lid=3928&zone=0&gid=6588&capacity=4&space=0\">Use this space<\/a><\/button>\r\n\t\t<\/div>\r\n\r\n\t<\/div>\r\n<\/div>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_related_menu": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "a899b725-42cd-4fba-b054-3170281c11f8"
+        }
+    ],
+    "field_request_reservation": [],
     "field_study_space_capacity": [
         {
             "target_type": "taxonomy_term",
             "target_uuid": "881d13a5-0497-4741-b25e-0c69390ceb4f"
         }
     ],
+    "field_study_space_details": [],
     "field_study_space_location": [
         {
             "target_type": "taxonomy_term",
@@ -107,5 +126,10 @@
             "target_uuid": "10cdac34-c844-4e78-9320-7f7a67dc1b5b"
         }
     ],
-    "field_thumbnail": []
+    "field_thumbnail": [
+        {
+            "target_type": "media",
+            "target_uuid": "37d6df4c-7796-4133-9c65-a42f442f3da1"
+        }
+    ]
 }

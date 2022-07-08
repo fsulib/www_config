@@ -78,6 +78,7 @@
             "value": true
         }
     ],
+    "field_bio": [],
     "field_building": [
         {
             "value": "Strozier Library"
@@ -141,11 +142,7 @@
             "value": "Social Sciences Librarian"
         }
     ],
-    "field_preferred_email_address": [
-        {
-            "value": "jbphillips@fsu.du"
-        }
-    ],
+    "field_preferred_email": [],
     "field_preferred_name": [
         {
             "value": "Jeff"

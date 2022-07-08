@@ -84,14 +84,14 @@
             "langcode": "en"
         }
     ],
-    "field_initiative_description": [
-        {
-            "value": "Due to a significant Drupal software upgrade requirement, the FSU Libraries website needs to be migrated to a new infrastructure.  This upgrade provides an opportunity to refresh the website to improve user experience and advance our interface to best meet the needs of the FSU community. "
-        }
-    ],
     "field_init_leads": [
         {
             "value": "Jess Barmon\r\nLindsey Wharton"
+        }
+    ],
+    "field_initiative_description": [
+        {
+            "value": "Due to a significant Drupal software upgrade requirement, the FSU Libraries website needs to be migrated to a new infrastructure.  This upgrade provides an opportunity to refresh the website to improve user experience and advance our interface to best meet the needs of the FSU community. "
         }
     ],
     "field_related_links": [

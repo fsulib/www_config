@@ -73,6 +73,7 @@
             "value": true
         }
     ],
+    "field_bio": [],
     "field_building": [
         {
             "value": "Strozier Library"
@@ -112,11 +113,7 @@
             "value": "Instruction and Reference Librarian"
         }
     ],
-    "field_preferred_email_address": [
-        {
-            "value": "edunne@fsu.edu"
-        }
-    ],
+    "field_preferred_email": [],
     "field_preferred_name": [],
     "field_room_number": [
         {

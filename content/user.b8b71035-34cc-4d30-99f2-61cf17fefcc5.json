@@ -78,6 +78,7 @@
             "value": true
         }
     ],
+    "field_bio": [],
     "field_building": [
         {
             "value": "HMU"
@@ -117,7 +118,7 @@
             "value": "University Librarian, Head of the Music Library"
         }
     ],
-    "field_preferred_email_address": [],
+    "field_preferred_email": [],
     "field_preferred_name": [],
     "field_room_number": [
         {

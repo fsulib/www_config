@@ -73,6 +73,7 @@
             "value": true
         }
     ],
+    "field_bio": [],
     "field_building": [
         {
             "value": "Strozier Library"
@@ -107,7 +108,7 @@
             "value": "Technical Support Analyst"
         }
     ],
-    "field_preferred_email_address": [],
+    "field_preferred_email": [],
     "field_preferred_name": [],
     "field_room_number": [
         {

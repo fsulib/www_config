@@ -84,14 +84,14 @@
             "langcode": "en"
         }
     ],
-    "field_initiative_description": [
-        {
-            "value": "The OER team seeks $15,000 in E&G or Foundation funds to sustain the Alternative Grants  Program program, which has become an important pillar of FSU\u2019s textbook affordability  initiative since 2017 and supports instructors in their efforts to replace commercial textbooks  with open alternatives that are available at no cost to students.. This source of funding would  offer more flexibility and sustainability in the grant distribution requested by applicants (e.g.  professional development, technology, copyediting,etc.) based on previous iterations of the grant. "
-        }
-    ],
     "field_init_leads": [
         {
             "value": "Camille Thomas"
+        }
+    ],
+    "field_initiative_description": [
+        {
+            "value": "The OER team seeks $15,000 in E&G or Foundation funds to sustain the Alternative Grants  Program program, which has become an important pillar of FSU\u2019s textbook affordability  initiative since 2017 and supports instructors in their efforts to replace commercial textbooks  with open alternatives that are available at no cost to students.. This source of funding would  offer more flexibility and sustainability in the grant distribution requested by applicants (e.g.  professional development, technology, copyediting,etc.) based on previous iterations of the grant. "
         }
     ],
     "field_related_links": [

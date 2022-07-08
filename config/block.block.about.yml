@@ -1,6 +1,6 @@
 uuid: 357228e9-a6c2-409f-a19c-87e5fafcbb5e
 langcode: en
-status: false
+status: true
 dependencies:
   config:
     - system.menu.about
@@ -43,3 +43,7 @@ visibility:
       own_page_true: '0'
       field_value: '0'
     user_fields: uid
+  request_path:
+    id: request_path
+    negate: false
+    pages: "/about/employee-directory\r\n/help/subject-librarians\r\n/about/organization/strategic-initiatives/current-initiatives"

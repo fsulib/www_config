@@ -31,6 +31,9 @@ code: |-
     
     padding-right:20px;
   }
+  .library-employee-directory .views-col {
+    padding:10px;
+  }
 media: all
 preprocess: true
 conditions:

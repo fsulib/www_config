@@ -83,6 +83,7 @@
             "value": true
         }
     ],
+    "field_bio": [],
     "field_building": [
         {
             "value": "Strozier"
@@ -118,11 +119,7 @@
             "value": "Digital Services Librarian"
         }
     ],
-    "field_preferred_email_address": [
-        {
-            "value": "dwrodriguez@fsu.edu"
-        }
-    ],
+    "field_preferred_email": [],
     "field_preferred_name": [
         {
             "value": "Dave"

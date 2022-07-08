@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "91f43a8d-99cb-426b-b111-1c09dbf21b58"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "filename": [
+        {
+            "value": "bradley_reading269x165.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2022-07\/bradley_reading269x165.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 99139
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-05T17:59:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-05T17:59:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

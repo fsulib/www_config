@@ -1,0 +1,29 @@
+uuid: 2541f213-df0e-419e-a076-9e317b06f27f
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_related_menu
+    - node.type.equipment
+    - taxonomy.vocabulary.menus
+id: node.equipment.field_related_menu
+field_name: field_related_menu
+entity_type: node
+bundle: equipment
+label: 'Related Menu'
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      menus: menus
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

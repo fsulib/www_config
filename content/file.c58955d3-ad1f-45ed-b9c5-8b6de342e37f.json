@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "c58955d3-ad1f-45ed-b9c5-8b6de342e37f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "filename": [
+        {
+            "value": "Bradley-thumbnail220x156.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2022-07\/Bradley-thumbnail220x156.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 80262
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-06T21:40:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-06T21:40:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

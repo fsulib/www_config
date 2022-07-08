@@ -1,0 +1,8 @@
+uuid: 17251329-7b1b-44dc-81bb-4c2a3cd23472
+langcode: en
+status: true
+dependencies: {  }
+name: 'Equipment Lending Period'
+vid: equipment_lending_period
+description: 'A taxonomy for equipment lending periods.'
+weight: 0

@@ -1,0 +1,146 @@
+{
+    "uuid": [
+        {
+            "value": "73123e5a-a602-49e0-bcd0-8ee5cf9c50a3"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "study_space",
+            "target_type": "node_type",
+            "target_uuid": "18faed0f-4ddc-4840-865a-a6603710c2cd"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-07T14:21:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Study Room 107K"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-07T03:02:41+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-07T14:21:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eget tincidunt tortor, eget blandit quam. Praesent congue, purus quis sodales auctor, enim nisl luctus nulla, sit amet dapibus mi eros ac justo. Donec maximus eleifend dolor sed imperdiet. Cras arcu nisl, laoreet ut velit non, dapibus condimentum arcu. Nam laoreet laoreet purus vitae sodales. Mauris aliquam ullamcorper rutrum. In id ante et sem mollis blandit sed quis nulla.<\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_back_button": [
+        {
+            "value": "<button type=\"button\" class=\"btn btn-md s3-gt\">Learn More<\/button>",
+            "format": "full_html"
+        }
+    ],
+    "field_booking_link": [
+        {
+            "uri": "https:\/\/fsu.libcal.com\/r\/accessible\/availability?lid=3927&zone=0&gid=6585&capacity=4&space=24861",
+            "title": "Use this space",
+            "options": []
+        }
+    ],
+    "field_content_image": [],
+    "field_image_and_details": [
+        {
+            "value": "<div class=\"s3-p-10 s3-txt-m-l s3\">\r\n\t<div class=\"row\">\r\n\t\t<div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n\t\t\t<img src=\"\/sites\/default\/files\/2022-07\/107K.png\" class=\"img-responsive\" alt=\"\">\r\n\t\t<\/div>\r\n\t\t<div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n\t\t\t<p><strong>Location: <\/strong>Strozier Library<\/p>\r\n\r\n<p><strong>Capacity: <\/strong>Seats 6 - 15<\/p>\r\n\r\n<p><strong>Loan Period: <\/strong>Lorem ipsum dolor sit amet<\/p>\r\n<p><strong>Available to: <\/strong>FSU Undergraduate, Graduate, and Faculty<\/p>\r\n<button type=\"button\" class=\"btn btn-md s3-gd\"><a href=\"https:\/\/fsu.libcal.com\/r\/accessible\/availability?lid=3927&zone=0&gid=6568&capacity=2&space=\">Use this space<\/a><\/button>\r\n\t\t<\/div>\r\n\r\n\t<\/div>\r\n<\/div>\r\n\r\n\t\t\r\n\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_related_menu": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "a899b725-42cd-4fba-b054-3170281c11f8"
+        }
+    ],
+    "field_request_reservation": [],
+    "field_study_space_capacity": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "fc3db334-4167-4ecd-af8a-d38a7ee7c063"
+        }
+    ],
+    "field_study_space_details": [
+        {
+            "value": "<p><strong>Location: <\/strong><\/p>\r\n\r\n<p><strong>Capacity: <\/strong>=<\/p>\r\n\r\n<p><strong>Loan Period: <\/strong><\/p>\r\n<p><strong>Available to: <\/strong><\/p>\r\n\r\n\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_study_space_location": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2f7d0aff-9425-4b80-a54f-00cca361a08c"
+        }
+    ],
+    "field_study_space_type": [],
+    "field_thumbnail": [
+        {
+            "target_type": "media",
+            "target_uuid": "aa54eb69-72fe-4a7f-b2b9-a8bfc536a87e"
+        }
+    ]
+}

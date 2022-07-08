@@ -31,7 +31,7 @@
     ],
     "name": [
         {
-            "value": "Up to 8 peope"
+            "value": "Seats 11 - 15"
         }
     ],
     "description": [
@@ -42,7 +42,7 @@
     ],
     "weight": [
         {
-            "value": 2
+            "value": 3
         }
     ],
     "parent": [
@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-18T22:23:34+00:00",
+            "value": "2022-07-07T03:28:40+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],

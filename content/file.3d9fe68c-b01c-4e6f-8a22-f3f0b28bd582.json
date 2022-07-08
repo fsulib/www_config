@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "3d9fe68c-b01c-4e6f-8a22-f3f0b28bd582"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "filename": [
+        {
+            "value": "iphone_5_thumbnail220x156.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2022-07\/iphone_5_thumbnail220x156.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 19764
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-07T20:05:35+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-07T20:05:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

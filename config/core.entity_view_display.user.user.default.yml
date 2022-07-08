@@ -3,6 +3,7 @@ langcode: en
 status: true
 dependencies:
   config:
+    - field.field.user.user.field_bio
     - field.field.user.user.field_building
     - field.field.user.user.field_first_name
     - field.field.user.user.field_fsu_department
@@ -12,13 +13,14 @@ dependencies:
     - field.field.user.user.field_personal_pronouns
     - field.field.user.user.field_phone_number
     - field.field.user.user.field_position_title
-    - field.field.user.user.field_preferred_email_address
+    - field.field.user.user.field_preferred_email
     - field.field.user.user.field_preferred_name
     - field.field.user.user.field_room_number
     - field.field.user.user.user_picture
     - image.style.thumbnail
   module:
     - image
+    - text
     - user
 _core:
   default_config_hash: E1qmUI2SlozLlJ308jfMMFKT67l1p6PywE2LTRbeYS4
@@ -27,6 +29,13 @@ targetEntityType: user
 bundle: user
 mode: default
 content:
+  field_bio:
+    type: text_default
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 15
+    region: content
   field_building:
     type: string
     label: above
@@ -81,7 +90,7 @@ content:
     settings:
       link_to_entity: false
     third_party_settings: {  }
-    weight: 14
+    weight: 13
     region: content
   field_phone_number:
     type: string
@@ -99,13 +108,13 @@ content:
     third_party_settings: {  }
     weight: 5
     region: content
-  field_preferred_email_address:
+  field_preferred_email:
     type: string
     label: above
     settings:
       link_to_entity: false
     third_party_settings: {  }
-    weight: 13
+    weight: 14
     region: content
   field_preferred_name:
     type: string
@@ -126,12 +135,12 @@ content:
   masquerade:
     settings: {  }
     third_party_settings: {  }
-    weight: 2
+    weight: 1
     region: content
   member_for:
     settings: {  }
     third_party_settings: {  }
-    weight: 1
+    weight: 0
     region: content
   user_picture:
     type: image
@@ -140,6 +149,6 @@ content:
       image_link: content
       image_style: thumbnail
     third_party_settings: {  }
-    weight: 0
+    weight: 2
     region: content
 hidden: {  }

@@ -4,5 +4,5 @@ status: true
 dependencies: {  }
 name: 'Equipment Type'
 vid: equipment_type
-description: ''
+description: 'A taxonomy for equipment lending types.'
 weight: 0

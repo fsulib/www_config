@@ -1,0 +1,97 @@
+{
+    "uuid": [
+        {
+            "value": "bc78a6e0-7d3b-4ce1-b7c2-c34447809ef1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "b17d1dd2-b562-4656-b080-3f9bec3625f6"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-07-04T23:22:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "name": [
+        {
+            "value": "learningdistrict.png"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "people studying together",
+            "title": null,
+            "width": 600,
+            "height": 425,
+            "target_type": "file",
+            "target_uuid": "36c41237-5815-4890-9134-a3f85d5ddbeb"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-04T23:21:35+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-04T23:22:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "people studying together",
+            "title": "",
+            "width": 600,
+            "height": 425,
+            "target_type": "file",
+            "target_uuid": "36c41237-5815-4890-9134-a3f85d5ddbeb"
+        }
+    ]
+}

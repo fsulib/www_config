@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "01b5fa0e-ed1b-4ab2-a47e-d3a556c522c8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "filename": [
+        {
+            "value": "faculty_conference_room.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2022-07\/faculty_conference_room.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 86644
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-06T17:02:34+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-06T17:02:41+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+uuid: 3b85c865-5ebe-41e1-ab24-893c6010c18f
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_request_reservation
+    - node.type.study_space
+  module:
+    - text
+id: node.study_space.field_request_reservation
+field_name: field_request_reservation
+entity_type: node
+bundle: study_space
+label: 'Request Reservation'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text

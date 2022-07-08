@@ -1,0 +1,97 @@
+{
+    "uuid": [
+        {
+            "value": "81719ad1-0054-4773-8111-0e4f3ce46c61"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "b17d1dd2-b562-4656-b080-3f9bec3625f6"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-07-07T03:52:34+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "name": [
+        {
+            "value": "Strozier Faculty Semester Rooms.png"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "2 chairs and desk",
+            "title": null,
+            "width": 560,
+            "height": 275,
+            "target_type": "file",
+            "target_uuid": "4810fae0-508f-4573-814c-7174b87d615a"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-07T03:52:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-07T03:52:34+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "2 chairs and desk",
+            "title": "",
+            "width": 560,
+            "height": 275,
+            "target_type": "file",
+            "target_uuid": "4810fae0-508f-4573-814c-7174b87d615a"
+        }
+    ]
+}

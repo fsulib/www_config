@@ -1,0 +1,97 @@
+{
+    "uuid": [
+        {
+            "value": "6e655737-d682-4f4c-96fb-bb432d3aa69e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "b17d1dd2-b562-4656-b080-3f9bec3625f6"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-07-07T03:59:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "name": [
+        {
+            "value": "SC-Instruction-Room-template220x156_0.png"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "half circle tables with chairs and presenter set up",
+            "title": null,
+            "width": 220,
+            "height": 156,
+            "target_type": "file",
+            "target_uuid": "af1ba221-720c-44d1-89df-6c3459c9472d"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-07T03:59:10+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-07T03:59:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "half circle tables with chairs and presenter set up",
+            "title": "",
+            "width": 220,
+            "height": 156,
+            "target_type": "file",
+            "target_uuid": "af1ba221-720c-44d1-89df-6c3459c9472d"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "uuid": [
+        {
+            "value": "326da4e3-2b7a-4b25-be19-825ebfb4d581"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "b17d1dd2-b562-4656-b080-3f9bec3625f6"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-07-07T03:51:33+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "name": [
+        {
+            "value": "FacultySemesterRooms-template220x156.jpg"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "2 chairs and desk",
+            "title": null,
+            "width": 220,
+            "height": 156,
+            "target_type": "file",
+            "target_uuid": "aa398871-e773-42e1-82c8-81e7b7e933ac"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-07T03:51:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-07T03:51:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "2 chairs and desk",
+            "title": "",
+            "width": 220,
+            "height": 156,
+            "target_type": "file",
+            "target_uuid": "aa398871-e773-42e1-82c8-81e7b7e933ac"
+        }
+    ]
+}

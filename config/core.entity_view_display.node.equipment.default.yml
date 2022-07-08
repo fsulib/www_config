@@ -1,15 +1,15 @@
-uuid: d51c81c7-9762-432e-be5e-85858cae267a
+uuid: 02b34d30-ce82-4b24-ab76-627e40ccc49c
 langcode: en
 status: true
 dependencies:
   config:
     - field.field.node.equipment.body
-    - field.field.node.equipment.field_catalog_url
-    - field.field.node.equipment.field_check_availability
-    - field.field.node.equipment.field_equipment_category
-    - field.field.node.equipment.field_equipment_highlights
-    - field.field.node.equipment.field_equipment_image
-    - field.field.node.equipment.field_equipment_thumbnail
+    - field.field.node.equipment.field_catalog_link
+    - field.field.node.equipment.field_equipment_lending_period
+    - field.field.node.equipment.field_equipment_search
+    - field.field.node.equipment.field_image_and_details
+    - field.field.node.equipment.field_related_menu
+    - field.field.node.equipment.field_thumbnail
     - node.type.equipment
   module:
     - text
@@ -24,38 +24,19 @@ content:
     label: hidden
     settings: {  }
     third_party_settings: {  }
-    weight: 4
-    region: content
-  field_check_availability:
-    type: string
-    label: hidden
-    settings:
-      link_to_entity: false
-    third_party_settings: {  }
-    weight: 3
-    region: content
-  field_equipment_highlights:
-    type: text_default
-    label: hidden
-    settings: {  }
-    third_party_settings: {  }
     weight: 1
     region: content
-  field_equipment_image:
-    type: entity_reference_entity_view
+  field_image_and_details:
+    type: text_default
     label: hidden
-    settings:
-      view_mode: default
-      link: false
-    third_party_settings: {  }
-    weight: 2
-    region: content
-  links:
     settings: {  }
     third_party_settings: {  }
     weight: 0
     region: content
 hidden:
-  field_catalog_url: true
-  field_equipment_category: true
-  field_equipment_thumbnail: true
+  field_catalog_link: true
+  field_equipment_lending_period: true
+  field_equipment_search: true
+  field_related_menu: true
+  field_thumbnail: true
+  links: true

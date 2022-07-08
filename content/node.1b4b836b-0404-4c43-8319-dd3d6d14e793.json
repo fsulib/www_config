@@ -1,0 +1,131 @@
+{
+    "uuid": [
+        {
+            "value": "1b4b836b-0404-4c43-8319-dd3d6d14e793"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "equipment",
+            "target_type": "node_type",
+            "target_uuid": "ff91ee6e-3613-4921-a24c-f5d94a77ba62"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-07T20:25:15+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Wireless Hotspot: Mifi"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-07T15:53:34+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-07T20:25:15+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<h4>Mifi Wireless Hotspot<\/h4>\r\n\r\n<ul>\r\n\t<li>\r\n\t<h5>The MiFI hotspot allows you to connect devices wirelessly with Verizon on a 4G LTE network.<\/h5>\r\n\t<\/li>\r\n\t<li>\r\n\t<h5>2.4-inch color touchscreen and up to 24 hours of battery life.<\/h5>\r\n\t<\/li>\r\n\t<li>\r\n\t<h5>The MiFi 8800L includes a universal charger, USB port and carrying case.<\/h5>\r\n\t<\/li>\r\n<\/ul>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_catalog_link": [
+        {
+            "uri": "https:\/\/fsu-flvc.primo.exlibrisgroup.com\/permalink\/01FALSC_FSU\/pag4dr\/alma99383304169206576",
+            "title": "Use this item",
+            "options": []
+        }
+    ],
+    "field_equipment_lending_period": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "1dfd4cd7-cad7-4725-94cb-10b27586dc51"
+        }
+    ],
+    "field_equipment_search": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "def1a8ad-8d80-4557-93a5-fe2cf8e1b339"
+        }
+    ],
+    "field_image_and_details": [
+        {
+            "value": "<div class=\"s3-p-10 s3-txt-m-l s3\">\r\n\t<div class=\"row\">\r\n\t\t<div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n\t\t\t<img src=\"\/sites\/default\/files\/2022-07\/mifihotspot.png\" class=\"img-responsive\" alt=\"\">\r\n\t\t<\/div>\r\n\t\t<div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n\t\t\t\r\n\r\n<p><strong>Checkout at: <\/strong>Strozier Library<\/p>\r\n\r\n<p><strong>Loan Period: <\/strong>2 Hour Loan<\/p>\r\n\r\n<button type=\"button\" class=\"btn btn-md s3-gd\"><a href=\"https:\/\/fsu-flvc.primo.exlibrisgroup.com\/permalink\/01FALSC_FSU\/pag4dr\/alma99383304169206576\">Use this item<\/a><\/button>\r\n\t\t<\/div>\r\n\r\n\t<\/div>\r\n<\/div>\r\n\r\n\t\t\r\n\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_related_menu": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "a899b725-42cd-4fba-b054-3170281c11f8"
+        }
+    ],
+    "field_thumbnail": [
+        {
+            "target_type": "media",
+            "target_uuid": "88996f4e-b4b7-4547-975d-e5c4e751a316"
+        }
+    ]
+}

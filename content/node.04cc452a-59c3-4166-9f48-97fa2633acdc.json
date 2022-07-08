@@ -84,14 +84,14 @@
             "langcode": "en"
         }
     ],
-    "field_initiative_description": [
-        {
-            "value": "As research data instruction has become a priority for the library there is a need for a technical infrastructure to support these efforts. This proposal is to develop a pilot project to test the feasibility of a virtual desktop infrastructure based on our existing virtual scientific desktops for use in data instruction classes taught by our library faculty. This will include both the virtual hardware, software and storage that is needed for students to access and manipulate research data. By using a virtual environment this will enable our faculty to use this in any of our classrooms. "
-        }
-    ],
     "field_init_leads": [
         {
             "value": "Louis Brooks\r\nKelly Simon"
+        }
+    ],
+    "field_initiative_description": [
+        {
+            "value": "As research data instruction has become a priority for the library there is a need for a technical infrastructure to support these efforts. This proposal is to develop a pilot project to test the feasibility of a virtual desktop infrastructure based on our existing virtual scientific desktops for use in data instruction classes taught by our library faculty. This will include both the virtual hardware, software and storage that is needed for students to access and manipulate research data. By using a virtual environment this will enable our faculty to use this in any of our classrooms. "
         }
     ],
     "field_related_links": [],

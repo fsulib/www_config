@@ -1,0 +1,76 @@
+{
+    "uuid": [
+        {
+            "value": "e2ab52cb-6e2d-40e4-8071-8a90a3e436a5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "study_space_capacity",
+            "target_type": "taxonomy_vocabulary",
+            "target_uuid": "75fe1547-7e8a-43d0-ad2d-eb9d4cda7bb9"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-07-07T02:38:03+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "name": [
+        {
+            "value": "Seats 2 - 4"
+        }
+    ],
+    "description": [
+        {
+            "value": null,
+            "format": null
+        }
+    ],
+    "weight": [
+        {
+            "value": 1
+        }
+    ],
+    "parent": [
+        {
+            "target_id": null
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-07T03:28:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ]
+}

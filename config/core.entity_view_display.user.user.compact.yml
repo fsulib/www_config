@@ -4,6 +4,7 @@ status: true
 dependencies:
   config:
     - core.entity_view_mode.user.compact
+    - field.field.user.user.field_bio
     - field.field.user.user.field_building
     - field.field.user.user.field_first_name
     - field.field.user.user.field_fsu_department
@@ -13,7 +14,7 @@ dependencies:
     - field.field.user.user.field_personal_pronouns
     - field.field.user.user.field_phone_number
     - field.field.user.user.field_position_title
-    - field.field.user.user.field_preferred_email_address
+    - field.field.user.user.field_preferred_email
     - field.field.user.user.field_preferred_name
     - field.field.user.user.field_room_number
     - field.field.user.user.user_picture
@@ -43,6 +44,7 @@ content:
     weight: 0
     region: content
 hidden:
+  field_bio: true
   field_building: true
   field_first_name: true
   field_fsu_department: true
@@ -52,7 +54,7 @@ hidden:
   field_personal_pronouns: true
   field_phone_number: true
   field_position_title: true
-  field_preferred_email_address: true
+  field_preferred_email: true
   field_preferred_name: true
   field_room_number: true
   member_for: true

@@ -84,14 +84,14 @@
             "langcode": "en"
         }
     ],
-    "field_initiative_description": [
-        {
-            "value": "This initiative will establish a lasting professional development group that spends dedicated time to creating, providing, and facilitating professional development opportunities library-wide. Through programming and sub-committee work this group hopes to enhance professional development across the Libraries. The group will send out a yearly survey to assess professional development interests and needs throughout the library and plan out action-oriented steps to fill those gaps."
-        }
-    ],
     "field_init_leads": [
         {
             "value": "Nikki Morse\r\nKelly Grove\r\nSusannah Miller"
+        }
+    ],
+    "field_initiative_description": [
+        {
+            "value": "This initiative will establish a lasting professional development group that spends dedicated time to creating, providing, and facilitating professional development opportunities library-wide. Through programming and sub-committee work this group hopes to enhance professional development across the Libraries. The group will send out a yearly survey to assess professional development interests and needs throughout the library and plan out action-oriented steps to fill those gaps."
         }
     ],
     "field_related_links": [],

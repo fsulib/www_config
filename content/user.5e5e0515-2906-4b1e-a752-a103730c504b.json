@@ -73,6 +73,7 @@
             "value": true
         }
     ],
+    "field_bio": [],
     "field_building": [],
     "field_first_name": [
         {
@@ -99,7 +100,7 @@
             "value": "Electronic Resources Integration Management Librarian"
         }
     ],
-    "field_preferred_email_address": [],
+    "field_preferred_email": [],
     "field_preferred_name": [],
     "field_room_number": [],
     "user_picture": []

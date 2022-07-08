@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "86119036-5f30-4991-8f8d-dbfc254152b2"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "filename": [
+        {
+            "value": "individual_study_rooms.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2022-07\/individual_study_rooms.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 158437
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-06T16:57:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-06T16:57:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "uuid": [
+        {
+            "value": "f87122ea-70a2-455d-b0ac-4b573f9d9af3"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "equipment_lending_period",
+            "target_type": "taxonomy_vocabulary",
+            "target_uuid": "17251329-7b1b-44dc-81bb-4c2a3cd23472"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-07-07T19:03:38+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "name": [
+        {
+            "value": "4 Hour Loan"
+        }
+    ],
+    "description": [
+        {
+            "value": null,
+            "format": null
+        }
+    ],
+    "weight": [
+        {
+            "value": 2
+        }
+    ],
+    "parent": [
+        {
+            "target_id": null
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-07T19:05:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ]
+}

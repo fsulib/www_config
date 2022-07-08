@@ -84,14 +84,14 @@
             "langcode": "en"
         }
     ],
-    "field_initiative_description": [
-        {
-            "value": "The digital project incubator will provide targeted support to a limited number of faculty and student projects in digital humanities and digital scholarship. This incubator program will allow the Digital Humanities Librarian and Digital Scholarship Librarian to provide targeted support to 5-10 members of the university community each semester (10-20 over the course of an academic year). This support will help these community members kickstart their digital projects. Project support funds will be provided to these incubator participants so they can purchase goods and services to enhance their projects or present their nascent projects at conferences to enhance the reputation of the university in digital research. This program will synergize with the CreateFSU strategic initiative, as each incubator participant will be given a CreateFSU account to build up the web-presence of their digital projects."
-        }
-    ],
     "field_init_leads": [
         {
             "value": "Sarah Stanley\r\nMatt Hunter"
+        }
+    ],
+    "field_initiative_description": [
+        {
+            "value": "The digital project incubator will provide targeted support to a limited number of faculty and student projects in digital humanities and digital scholarship. This incubator program will allow the Digital Humanities Librarian and Digital Scholarship Librarian to provide targeted support to 5-10 members of the university community each semester (10-20 over the course of an academic year). This support will help these community members kickstart their digital projects. Project support funds will be provided to these incubator participants so they can purchase goods and services to enhance their projects or present their nascent projects at conferences to enhance the reputation of the university in digital research. This program will synergize with the CreateFSU strategic initiative, as each incubator participant will be given a CreateFSU account to build up the web-presence of their digital projects."
         }
     ],
     "field_related_links": [],

@@ -5,11 +5,14 @@ dependencies:
   config:
     - core.entity_view_mode.node.full
     - field.field.node.study_space.body
-    - field.field.node.study_space.field_booking_widget
-    - field.field.node.study_space.field_catalog_url
+    - field.field.node.study_space.field_back_button
+    - field.field.node.study_space.field_booking_link
     - field.field.node.study_space.field_content_image
+    - field.field.node.study_space.field_image_and_details
     - field.field.node.study_space.field_related_menu
+    - field.field.node.study_space.field_request_reservation
     - field.field.node.study_space.field_study_space_capacity
+    - field.field.node.study_space.field_study_space_details
     - field.field.node.study_space.field_study_space_location
     - field.field.node.study_space.field_study_space_type
     - field.field.node.study_space.field_thumbnail
@@ -29,20 +32,6 @@ content:
     third_party_settings: {  }
     weight: 2
     region: content
-  field_booking_widget:
-    type: text_default
-    label: above
-    settings: {  }
-    third_party_settings: {  }
-    weight: 4
-    region: content
-  field_catalog_url:
-    type: basic_string
-    label: above
-    settings: {  }
-    third_party_settings: {  }
-    weight: 3
-    region: content
   field_content_image:
     type: entity_reference_entity_view
     label: above
@@ -53,8 +42,13 @@ content:
     weight: 0
     region: content
 hidden:
+  field_back_button: true
+  field_booking_link: true
+  field_image_and_details: true
   field_related_menu: true
+  field_request_reservation: true
   field_study_space_capacity: true
+  field_study_space_details: true
   field_study_space_location: true
   field_study_space_type: true
   field_thumbnail: true

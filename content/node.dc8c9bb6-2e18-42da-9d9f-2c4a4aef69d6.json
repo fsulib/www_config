@@ -84,14 +84,14 @@
             "langcode": "en"
         }
     ],
-    "field_initiative_description": [
-        {
-            "value": "This initiative seeks to redress inequities and injustice in the descriptive language and narrative framing of archives, special collections, and the institutional repository. In this phase of work, we will apply conscious editing principles to metadata in ArchivesSpace and DigiNole. Conscious editing is an active, critical awareness of bias, privilege, and power and an ethos of deliberate care used in the assessment, creation, and refinement of descriptive texts. One outcome of conscious editing is the increased accessibility of our collections in unserved and underserved communities seeking meaningful connections with their histories. Collection and object descriptions will undergo a metadata gap analysis to identify harmful and outdated terms and prioritized for remediation. The analysis will require a combination of computational queries and manual analysis. After the initial analysis, a small collection will be identified for a pilot remediation project and a prioritization document will be produced along with documentation for workflows and practices to remediate legacy collections and to incorporate conscious descriptive practice in work going forward.\r\n\r\nThis initiative supports ethical and inclusive descriptive practices at Florida State University Libraries by encouraging the ongoing, reflective examination of legacy descriptions, by engaging colleagues in a continuous dialog about that examination, and by connecting practice with scholarship, theory, and contemporary social justice activism."
-        }
-    ],
     "field_init_leads": [
         {
             "value": "Keila Zayas Ruiz"
+        }
+    ],
+    "field_initiative_description": [
+        {
+            "value": "This initiative seeks to redress inequities and injustice in the descriptive language and narrative framing of archives, special collections, and the institutional repository. In this phase of work, we will apply conscious editing principles to metadata in ArchivesSpace and DigiNole. Conscious editing is an active, critical awareness of bias, privilege, and power and an ethos of deliberate care used in the assessment, creation, and refinement of descriptive texts. One outcome of conscious editing is the increased accessibility of our collections in unserved and underserved communities seeking meaningful connections with their histories. Collection and object descriptions will undergo a metadata gap analysis to identify harmful and outdated terms and prioritized for remediation. The analysis will require a combination of computational queries and manual analysis. After the initial analysis, a small collection will be identified for a pilot remediation project and a prioritization document will be produced along with documentation for workflows and practices to remediate legacy collections and to incorporate conscious descriptive practice in work going forward.\r\n\r\nThis initiative supports ethical and inclusive descriptive practices at Florida State University Libraries by encouraging the ongoing, reflective examination of legacy descriptions, by engaging colleagues in a continuous dialog about that examination, and by connecting practice with scholarship, theory, and contemporary social justice activism."
         }
     ],
     "field_related_links": [],

@@ -3,6 +3,7 @@ langcode: en
 status: true
 dependencies:
   config:
+    - field.field.user.user.field_bio
     - field.field.user.user.field_building
     - field.field.user.user.field_first_name
     - field.field.user.user.field_fsu_department
@@ -12,13 +13,14 @@ dependencies:
     - field.field.user.user.field_personal_pronouns
     - field.field.user.user.field_phone_number
     - field.field.user.user.field_position_title
-    - field.field.user.user.field_preferred_email_address
+    - field.field.user.user.field_preferred_email
     - field.field.user.user.field_preferred_name
     - field.field.user.user.field_room_number
     - field.field.user.user.user_picture
     - image.style.thumbnail
   module:
     - image
+    - text
     - user
 _core:
   default_config_hash: FaQ9Ptcpxpg30AtiqRDtl_8zbJArHP1LPfug_s59TOA
@@ -36,6 +38,14 @@ content:
     weight: 12
     region: content
     settings: {  }
+    third_party_settings: {  }
+  field_bio:
+    type: text_textarea
+    weight: 18
+    region: content
+    settings:
+      rows: 5
+      placeholder: ''
     third_party_settings: {  }
   field_building:
     type: string_textfield
@@ -97,15 +107,15 @@ content:
     third_party_settings: {  }
   field_position_title:
     type: string_textfield
-    weight: 5
+    weight: 4
     region: content
     settings:
       size: 60
       placeholder: ''
     third_party_settings: {  }
-  field_preferred_email_address:
+  field_preferred_email:
     type: string_textfield
-    weight: 3
+    weight: 17
     region: content
     settings:
       size: 60
@@ -113,7 +123,7 @@ content:
     third_party_settings: {  }
   field_preferred_name:
     type: string_textfield
-    weight: 4
+    weight: 3
     region: content
     settings:
       size: 60

@@ -1,4 +1,4 @@
-uuid: 3a110ff3-8c6a-4bed-bcd5-1bf0c3d9a902
+uuid: ff91ee6e-3613-4921-a24c-f5d94a77ba62
 langcode: en
 status: true
 dependencies:
@@ -11,8 +11,8 @@ third_party_settings:
     parent: 'main:'
 name: Equipment
 type: equipment
-description: 'A content type that stores information related to equipment the libraries make available to its patrons.'
+description: 'This is for equipment content types that will build the equipment search page'
 help: ''
-new_revision: false
+new_revision: true
 preview_mode: 1
 display_submitted: false

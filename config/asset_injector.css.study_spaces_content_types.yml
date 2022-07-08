@@ -1,0 +1,128 @@
+uuid: 8cb1b0ba-e93e-4dc5-ac84-b336c06630be
+langcode: en
+status: true
+dependencies:
+  module:
+    - context
+    - node
+id: study_spaces_content_types
+label: 'Study Spaces Content Types'
+code: |-
+  .content .field--name-body {
+  border: 1px solid #d1cbc0;
+  padding: 15px;
+  background-color: #f3ede1;
+  margin: 30px 10px 10px 10px;
+  }
+
+  .s3-p-10 {
+    padding:0px;
+  }
+  .col-sm-3 {
+    width:50%;
+  }
+  .content .btn::after {
+    content: "";
+  }
+
+  /*
+  /*.content .img-responsive{
+  max-width:45%;
+  padding-top:30px;
+  min-width:150px;
+  }*/
+
+
+  /*.content .field--name-field-booking-link {
+    line-height: 1.1;
+  white-space: normal;
+  border-style: solid !important;
+  margin: 2px 0;
+  border-radius: .25em;
+    background-color:#782f40;
+    clear: both;
+  float: right;
+    
+  }*/
+
+  /*.content .field--name-field-booking-link {
+      color: #772E3F;
+      padding: 8px;
+      padding-top: 8px;
+      background-color: #FFF;
+      /*border: 1px solid #782f40;
+      border-bottom-color: rgb(120, 47, 64);
+      border-bottom-style: solid;
+      border-bottom-width: 1px;
+      margin-top: 10px;
+      font: Arial, Helvetica, sans-serif;
+      font-weight: bold;
+      border-bottom: 1px solid #772E3F !important;
+  }
+
+  .content .field--name-field-booking-link a, 
+  .content .field--name-field-request-reservation a {
+  	color: #772E3F; 
+  	padding:8px; 
+  	background-color: #FFF; 
+  	border: 1px solid #782f40;
+  	border-radius: 5px;
+  	margin-top: 10px; 
+  	font:Arial, Helvetica, sans-serif; 
+  	font-weight:bold; 
+  	border-bottom:1px solid #772E3F 
+  }
+  .content .field--name-field-booking-link a:hover, #quicklinks a:focus,
+  .content .field--name-field-request-reservation a:hover, #quicklinks a:focus {
+  	color: #CEB888;
+  	background-color:#782f40;
+  }
+  .content .field--name-field-booking-link a:active
+  .content .field--name-field-request-reservation a:active{
+  	color: #ffffff; 
+  	background-color: #41111c;
+  }
+
+  .content .field--name-field-study-space-capacity .field--label {
+    font-weight:bold;
+    padding-right:10px;
+  }
+
+  .content .field--name-field-study-space-location .field--label {
+    font-weight:bold;
+    padding-right:10px;
+  }
+
+  .content .field--name-field-study-space-details {
+  border: 1px solid #d1cbc0;
+  padding: 15px 20px;
+  background-color: #f3ede1;
+  width:45%;
+  margin:58px 10px 20px 0;
+  }
+
+  .content {
+  clear: both;
+  float: right;
+  }
+  */
+media: all
+preprocess: true
+conditions:
+  context_all:
+    id: context_all
+    negate: null
+    values: ''
+  context:
+    id: context
+    negate: null
+    values: ''
+  node_type:
+    id: node_type
+    negate: false
+    context_mapping:
+      node: '@node.node_route_context:node'
+    bundles:
+      study_space: study_space
+contexts: {  }
+conditions_require_all: true

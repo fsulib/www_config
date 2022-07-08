@@ -1,0 +1,92 @@
+{
+    "uuid": [
+        {
+            "value": "ec1faed6-b7e4-4acc-85cf-aa401b9597ab"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "b17d1dd2-b562-4656-b080-3f9bec3625f6"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-07-06T21:40:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "name": [
+        {
+            "value": "Bradley-thumbnail220x156.png"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "4 tables, surrounded by chairs and couches",
+            "title": null,
+            "width": 220,
+            "height": 156,
+            "target_type": "file",
+            "target_uuid": "c58955d3-ad1f-45ed-b9c5-8b6de342e37f"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-06T21:40:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-06T21:40:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "4 tables, surrounded by chairs and couches",
+            "title": "",
+            "width": 220,
+            "height": 156,
+            "target_type": "file",
+            "target_uuid": "c58955d3-ad1f-45ed-b9c5-8b6de342e37f"
+        }
+    ]
+}

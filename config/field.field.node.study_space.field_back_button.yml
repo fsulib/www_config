@@ -1,0 +1,24 @@
+uuid: 660f102b-2f77-427c-ab32-037d49d55df7
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_back_button
+    - node.type.study_space
+  module:
+    - text
+id: node.study_space.field_back_button
+field_name: field_back_button
+entity_type: node
+bundle: study_space
+label: 'Back Button'
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: '<button type="button" class="btn btn-md s3-gt">Learn More</button>'
+    format: full_html
+default_value_callback: ''
+settings: {  }
+field_type: text_long

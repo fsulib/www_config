@@ -1,0 +1,97 @@
+{
+    "uuid": [
+        {
+            "value": "c98cbdf8-6ea7-4e67-bb32-bd59e67f342d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "b17d1dd2-b562-4656-b080-3f9bec3625f6"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-07-05T16:12:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "name": [
+        {
+            "value": "600x425px.png"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "placeholder",
+            "title": null,
+            "width": 600,
+            "height": 425,
+            "target_type": "file",
+            "target_uuid": "0851002b-b089-4867-a962-e173fe14db0c"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-05T16:11:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-05T16:12:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "placeholder",
+            "title": "",
+            "width": 600,
+            "height": 425,
+            "target_type": "file",
+            "target_uuid": "0851002b-b089-4867-a962-e173fe14db0c"
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "uuid": [
+        {
+            "value": "5efc7371-e176-4cfd-bb0d-e1009b103526"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "study_space",
+            "target_type": "node_type",
+            "target_uuid": "18faed0f-4ddc-4840-865a-a6603710c2cd"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-07T04:34:54+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Group Study Rooms 331 - 342"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-05T17:51:18+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-07T04:34:54+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eget tincidunt tortor, eget blandit quam. Praesent congue, purus quis sodales auctor, enim nisl luctus nulla, sit amet dapibus mi eros ac justo. Donec maximus eleifend dolor sed imperdiet. Cras arcu nisl, laoreet ut velit non, dapibus condimentum arcu. Nam laoreet laoreet purus vitae sodales. Mauris aliquam ullamcorper rutrum. In id ante et sem mollis blandit sed quis nulla.<\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_back_button": [],
+    "field_booking_link": [
+        {
+            "uri": "https:\/\/fsu.libcal.com\/r\/accessible\/availability?lid=3927&zone=0&gid=6583&capacity=2&space=0",
+            "title": "Use this space",
+            "options": []
+        }
+    ],
+    "field_content_image": [],
+    "field_image_and_details": [
+        {
+            "value": "<div class=\"s3-p-0 s3-txt-m-l s3\">\r\n\t<div class=\"row\">\r\n\t\t<div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n\t\t\t<img src=\"\/sites\/default\/files\/2022-07\/3rdFloor.png\" class=\"img-responsive\" alt=\"\">\r\n\t\t<\/div>\r\n\t\t<div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n\t\t\t<p><strong>Location: <\/strong>Strozier Library<\/p>\r\n\r\n<p><strong>Capacity: <\/strong>Spaces allows for 2 - 4 people<\/p>\r\n\r\n<p><strong>Reservation Policies: <\/strong>4 Hour max<\/p>\r\n<p><strong>Available to: <\/strong>FSU Undergraduate, Graduate, and Faculty<\/p>\r\n<button type=\"button\" class=\"btn btn-md s3-gd\" style=><a href=\"https:\/\/fsu.libcal.com\/r\/accessible\/availability?lid=3927&zone=0&gid=6583&capacity=2&space=0\" style=\"text-decoration:none\">Use this space<\/a><\/button>\r\n\t\t<\/div>\r\n\r\n\t<\/div>\r\n<\/div>\r\n\r\n\t\t\r\n\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_related_menu": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "a899b725-42cd-4fba-b054-3170281c11f8"
+        }
+    ],
+    "field_request_reservation": [],
+    "field_study_space_capacity": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "e2ab52cb-6e2d-40e4-8071-8a90a3e436a5"
+        }
+    ],
+    "field_study_space_details": [
+        {
+            "value": "<p><strong>Location: <\/strong>Strozier Library, 3rd floor<\/p>\r\n\r\n<p><strong>Capacity: <\/strong>Up to 8 people<\/p>\r\n\r\n<p><strong>Available to: <\/strong>FSU Undergradaute, Gradute, and Faculty<\/p>\r\n",
+            "format": "basic_html"
+        }
+    ],
+    "field_study_space_location": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2f7d0aff-9425-4b80-a54f-00cca361a08c"
+        }
+    ],
+    "field_study_space_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "6ab12dd1-73c6-4d9b-895c-6528732521a7"
+        }
+    ],
+    "field_thumbnail": [
+        {
+            "target_type": "media",
+            "target_uuid": "72da4de9-5955-4202-9bce-ec4c45b9448a"
+        }
+    ]
+}

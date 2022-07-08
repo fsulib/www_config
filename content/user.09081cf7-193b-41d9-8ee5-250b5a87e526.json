@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-28T20:43:34+00:00",
+            "value": "2022-07-05T16:31:37+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -78,6 +78,7 @@
             "value": true
         }
     ],
+    "field_bio": [],
     "field_building": [
         {
             "value": "Strozier Library"
@@ -133,7 +134,11 @@
             "value": " Social Sciences Librarian"
         }
     ],
-    "field_preferred_email_address": [],
+    "field_preferred_email": [
+        {
+            "value": "kkim4@fsu.edu"
+        }
+    ],
     "field_preferred_name": [
         {
             "value": "Kyung"

@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-06-21T17:15:54+00:00",
+            "value": "2022-07-07T04:35:47+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -42,7 +42,7 @@
     ],
     "title": [
         {
-            "value": "Strozier Graduate Group Rooms"
+            "value": "Graduate Group Rooms A - D"
         }
     ],
     "created": [
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-21T17:15:54+00:00",
+            "value": "2022-07-07T04:35:47+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -84,31 +84,77 @@
             "langcode": "en"
         }
     ],
-    "body": [],
-    "field_booking_widget": [],
-    "field_catalog_url": [],
-    "field_content_image": [],
+    "body": [
+        {
+            "value": "<p dir=\"ltr\">Space Policies:<\/p>\r\n\r\n<p dir=\"ltr\">Group study rooms are intended for use by groups of two or more currently enrolled FSU graduate students or FSU faculty. Two or more group members of the group MUST be present at the time of key check out<strong>. <\/strong>Rooms may be reserved up to three days in advance.&nbsp;<\/p>\r\n\r\n<p dir=\"ltr\">Conference rooms are intended for use by groups of four or more currently enrolled FSU graduate students and FSU faculty.&nbsp;<\/p>\r\n\r\n<p dir=\"ltr\">Rooms are kept locked and keys are available at the circulation desk.<\/p>\r\n\r\n<p dir=\"ltr\">Room renewal is up to the discretion of library staff. Group rooms are not intended for individual use. Rooms are not intended to serve as assigned University classrooms.<strong>&nbsp;<\/strong><\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_back_button": [
+        {
+            "value": "<button type=\"button\" class=\"btn btn-md s3-gd3c\">Back to All Spaces and Rooms<\/button>",
+            "format": "full_html"
+        }
+    ],
+    "field_booking_link": [
+        {
+            "uri": "https:\/\/fsu.libcal.com\/reserve\/scholars-commons",
+            "title": "Use this space",
+            "options": []
+        }
+    ],
+    "field_content_image": [
+        {
+            "target_type": "media",
+            "target_uuid": "782ea608-e370-4ac9-812c-81d8bf6758aa"
+        }
+    ],
+    "field_image_and_details": [
+        {
+            "value": "<div class=\"s3-p-0 s3-txt-m-l s3\">\r\n\t<div class=\"row\">\r\n\t\t<div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n\t\t\t<img src=\"\/sites\/default\/files\/2022-07\/Gradgroup500x.png\" class=\"img-responsive\" alt=\"\">\r\n\t\t<\/div>\r\n\t\t<div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n\t\t\t<p><strong>Location: <\/strong>Strozier Library<\/p>\r\n\r\n<p><strong>Capacity: <\/strong>Up to 8 people<\/p>\r\n\r\n<p><strong>Loan Period: <\/strong>2 Hour Loan<\/p>\r\n<p><strong>Available to: <\/strong>FSU Graduate and Faculty<\/p>\r\n<button type=\"button\" class=\"btn btn-md s3-gd\" style=><a href=\"https:\/\/fsu.libcal.com\/r\/accessible\/availability?lid=3927&zone=0&gid=6568&capacity=2&space=\" style=\"text-decoration:none\">Use this space<\/a><\/button>\r\n\t\t<\/div>\r\n\r\n\t<\/div>\r\n<\/div>\r\n\r\n\t\t\r\n\r\n",
+            "format": "full_html"
+        }
+    ],
     "field_related_menu": [
         {
             "target_type": "taxonomy_term",
             "target_uuid": "a899b725-42cd-4fba-b054-3170281c11f8"
         }
     ],
-    "field_study_space_capacity": [],
-    "field_study_space_location": [],
+    "field_request_reservation": [],
+    "field_study_space_capacity": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "fc3db334-4167-4ecd-af8a-d38a7ee7c063"
+        }
+    ],
+    "field_study_space_details": [
+        {
+            "value": "<p><strong>Location: <\/strong>Strozier Library<\/p>\r\n\r\n<p><strong>Capacity: <\/strong>Up to 8 people<\/p>\r\n\r\n<p><strong>Loan Period: <\/strong>2 Hour Loan<\/p>\r\n<p><strong>Available to: <\/strong>FSU Graduate and Faculty<\/p>\r\n\r\n\r\n\r\n\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_study_space_location": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2f7d0aff-9425-4b80-a54f-00cca361a08c"
+        }
+    ],
     "field_study_space_type": [
         {
             "target_type": "taxonomy_term",
-            "target_uuid": "598492bb-cd8a-415b-ae30-55efca8572c1"
-        },
-        {
-            "target_type": "taxonomy_term",
-            "target_uuid": "2952042a-12d7-428a-9b17-9db284f0a460"
-        },
-        {
-            "target_type": "taxonomy_term",
             "target_uuid": "6ab12dd1-73c6-4d9b-895c-6528732521a7"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "598492bb-cd8a-415b-ae30-55efca8572c1"
         }
     ],
-    "field_thumbnail": []
+    "field_thumbnail": [
+        {
+            "target_type": "media",
+            "target_uuid": "a88be3e5-a2e4-4623-b8dc-07fae49a4d3f"
+        }
+    ]
 }

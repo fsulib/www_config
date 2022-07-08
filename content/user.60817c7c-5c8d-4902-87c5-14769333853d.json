@@ -69,6 +69,7 @@
             "value": true
         }
     ],
+    "field_bio": [],
     "field_building": [
         {
             "value": "Strozier Library"
@@ -107,11 +108,7 @@
             "value": "Web Services Librarian"
         }
     ],
-    "field_preferred_email_address": [
-        {
-            "value": "jessicabarmon@fsu.edu"
-        }
-    ],
+    "field_preferred_email": [],
     "field_preferred_name": [
         {
             "value": "Jess"

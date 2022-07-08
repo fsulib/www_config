@@ -78,6 +78,7 @@
             "value": true
         }
     ],
+    "field_bio": [],
     "field_building": [
         {
             "value": "Technical Services"
@@ -108,7 +109,7 @@
             "value": "Electronic Resources Metadata Librarian"
         }
     ],
-    "field_preferred_email_address": [],
+    "field_preferred_email": [],
     "field_preferred_name": [],
     "field_room_number": [],
     "user_picture": []

@@ -31,7 +31,7 @@
     ],
     "name": [
         {
-            "value": "Graduate Rooms and Spaces"
+            "value": "Graduate and Faculty Use Only"
         }
     ],
     "description": [
@@ -42,7 +42,7 @@
     ],
     "weight": [
         {
-            "value": 1
+            "value": 2
         }
     ],
     "parent": [
@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-18T21:59:20+00:00",
+            "value": "2022-07-06T23:22:04+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],

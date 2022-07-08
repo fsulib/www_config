@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-06-18T21:56:07+00:00",
+            "value": "2022-07-07T04:36:00+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -42,7 +42,7 @@
     ],
     "title": [
         {
-            "value": "Bradley Reading Room"
+            "value": "Bradley Reading Room (Quiet Area)"
         }
     ],
     "created": [
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-18T21:56:07+00:00",
+            "value": "2022-07-07T04:36:00+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -85,11 +85,32 @@
         }
     ],
     "body": [],
-    "field_booking_widget": [],
-    "field_catalog_url": [],
-    "field_content_image": [],
-    "field_related_menu": [],
-    "field_study_space_capacity": [],
+    "field_back_button": [],
+    "field_booking_link": [
+        {
+            "uri": "internal:\/form\/bradley-reading-room-access",
+            "title": "Use this space",
+            "options": []
+        }
+    ],
+    "field_content_image": [
+        []
+    ],
+    "field_image_and_details": [],
+    "field_related_menu": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "a899b725-42cd-4fba-b054-3170281c11f8"
+        }
+    ],
+    "field_request_reservation": [],
+    "field_study_space_capacity": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "881d13a5-0497-4741-b25e-0c69390ceb4f"
+        }
+    ],
+    "field_study_space_details": [],
     "field_study_space_location": [
         {
             "target_type": "taxonomy_term",
@@ -99,8 +120,17 @@
     "field_study_space_type": [
         {
             "target_type": "taxonomy_term",
+            "target_uuid": "6ab12dd1-73c6-4d9b-895c-6528732521a7"
+        },
+        {
+            "target_type": "taxonomy_term",
             "target_uuid": "598492bb-cd8a-415b-ae30-55efca8572c1"
         }
     ],
-    "field_thumbnail": []
+    "field_thumbnail": [
+        {
+            "target_type": "media",
+            "target_uuid": "ec1faed6-b7e4-4acc-85cf-aa401b9597ab"
+        }
+    ]
 }

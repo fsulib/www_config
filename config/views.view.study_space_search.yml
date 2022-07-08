@@ -3,7 +3,10 @@ langcode: en
 status: true
 dependencies:
   config:
-    - field.storage.node.field_booking_widget
+    - field.storage.node.field_booking_link
+    - field.storage.node.field_request_reservation
+    - field.storage.node.field_study_space_capacity
+    - field.storage.node.field_study_space_location
     - field.storage.node.field_thumbnail
     - node.type.study_space
     - taxonomy.vocabulary.library_location
@@ -11,6 +14,7 @@ dependencies:
     - taxonomy.vocabulary.study_space_type
   module:
     - better_exposed_filters
+    - link
     - media
     - node
     - search
@@ -30,8 +34,71 @@ display:
     display_plugin: default
     position: 0
     display_options:
-      title: 'Rooms and Study Spaces'
+      title: 'Study Rooms and Spaces'
       fields:
+        field_study_space_location:
+          id: field_study_space_location
+          table: node__field_study_space_location
+          field: field_study_space_location
+          relationship: none
+          group_type: group
+          admin_label: ''
+          plugin_id: field
+          label: ''
+          exclude: false
+          alter:
+            alter_text: false
+            text: '{{ field_study_space_location }} == Library Location'
+            make_link: false
+            path: ''
+            absolute: false
+            external: false
+            replace_spaces: false
+            path_case: none
+            trim_whitespace: false
+            alt: ''
+            rel: ''
+            link_class: ''
+            prefix: ''
+            suffix: ''
+            target: ''
+            nl2br: false
+            max_length: 0
+            word_boundary: true
+            ellipsis: true
+            more_link: false
+            more_link_text: ''
+            more_link_path: ''
+            strip_tags: false
+            trim: false
+            preserve_tags: ''
+            html: false
+          element_type: ''
+          element_class: location
+          element_label_type: ''
+          element_label_class: ''
+          element_label_colon: false
+          element_wrapper_type: ''
+          element_wrapper_class: ''
+          element_default_classes: false
+          empty: ''
+          hide_empty: false
+          empty_zero: false
+          hide_alter_empty: true
+          click_sort_column: target_id
+          type: entity_reference_label
+          settings:
+            link: false
+          group_column: target_id
+          group_columns: {  }
+          group_rows: true
+          delta_limit: 0
+          delta_offset: 0
+          delta_reversed: false
+          delta_first_last: false
+          multi_type: separator
+          separator: ', '
+          field_api_classes: false
         field_thumbnail:
           id: field_thumbnail
           table: node__field_thumbnail
@@ -84,7 +151,7 @@ display:
           click_sort_column: target_id
           type: media_thumbnail
           settings:
-            image_link: ''
+            image_link: content
             image_style: ''
           group_column: target_id
           group_columns: {  }
@@ -143,10 +210,140 @@ display:
           multi_type: separator
           separator: ', '
           field_api_classes: false
-        field_booking_widget:
-          id: field_booking_widget
-          table: node__field_booking_widget
-          field: field_booking_widget
+        field_study_space_capacity:
+          id: field_study_space_capacity
+          table: node__field_study_space_capacity
+          field: field_study_space_capacity
+          relationship: none
+          group_type: group
+          admin_label: ''
+          plugin_id: field
+          label: ''
+          exclude: false
+          alter:
+            alter_text: false
+            text: ''
+            make_link: false
+            path: ''
+            absolute: false
+            external: false
+            replace_spaces: false
+            path_case: none
+            trim_whitespace: false
+            alt: ''
+            rel: ''
+            link_class: ''
+            prefix: ''
+            suffix: ''
+            target: ''
+            nl2br: false
+            max_length: 0
+            word_boundary: true
+            ellipsis: true
+            more_link: false
+            more_link_text: ''
+            more_link_path: ''
+            strip_tags: false
+            trim: false
+            preserve_tags: ''
+            html: false
+          element_type: ''
+          element_class: capacity
+          element_label_type: ''
+          element_label_class: ''
+          element_label_colon: false
+          element_wrapper_type: ''
+          element_wrapper_class: ''
+          element_default_classes: false
+          empty: ''
+          hide_empty: false
+          empty_zero: false
+          hide_alter_empty: true
+          click_sort_column: target_id
+          type: entity_reference_label
+          settings:
+            link: false
+          group_column: target_id
+          group_columns: {  }
+          group_rows: true
+          delta_limit: 0
+          delta_offset: 0
+          delta_reversed: false
+          delta_first_last: false
+          multi_type: separator
+          separator: ', '
+          field_api_classes: false
+        field_booking_link:
+          id: field_booking_link
+          table: node__field_booking_link
+          field: field_booking_link
+          relationship: none
+          group_type: group
+          admin_label: ''
+          plugin_id: field
+          label: ''
+          exclude: false
+          alter:
+            alter_text: false
+            text: ''
+            make_link: false
+            path: ''
+            absolute: false
+            external: false
+            replace_spaces: false
+            path_case: none
+            trim_whitespace: false
+            alt: ''
+            rel: ''
+            link_class: ''
+            prefix: ''
+            suffix: ''
+            target: ''
+            nl2br: false
+            max_length: 0
+            word_boundary: true
+            ellipsis: true
+            more_link: false
+            more_link_text: ''
+            more_link_path: ''
+            strip_tags: false
+            trim: false
+            preserve_tags: ''
+            html: false
+          element_type: ''
+          element_class: reserve-space
+          element_label_type: ''
+          element_label_class: ''
+          element_label_colon: false
+          element_wrapper_type: ''
+          element_wrapper_class: ''
+          element_default_classes: true
+          empty: ''
+          hide_empty: false
+          empty_zero: false
+          hide_alter_empty: true
+          click_sort_column: uri
+          type: link
+          settings:
+            trim_length: 80
+            url_only: false
+            url_plain: false
+            rel: '0'
+            target: '0'
+          group_column: ''
+          group_columns: {  }
+          group_rows: true
+          delta_limit: 0
+          delta_offset: 0
+          delta_reversed: false
+          delta_first_last: false
+          multi_type: separator
+          separator: ', '
+          field_api_classes: false
+        field_request_reservation:
+          id: field_request_reservation
+          table: node__field_request_reservation
+          field: field_request_reservation
           relationship: none
           group_type: group
           admin_label: ''
@@ -584,7 +781,7 @@ display:
               1: {  }
               2: {  }
               3: {  }
-          reduce_duplicates: false
+          reduce_duplicates: true
           vid: study_space_type
           type: select
           hierarchy: false
@@ -636,14 +833,18 @@ display:
         - user
         - 'user.node_grants:view'
       tags:
-        - 'config:field.storage.node.field_booking_widget'
+        - 'config:field.storage.node.field_booking_link'
+        - 'config:field.storage.node.field_request_reservation'
+        - 'config:field.storage.node.field_study_space_capacity'
+        - 'config:field.storage.node.field_study_space_location'
         - 'config:field.storage.node.field_thumbnail'
   page_1:
     id: page_1
-    display_title: Page
+    display_title: 'Study Rooms and Spaces'
     display_plugin: page
     position: 1
     display_options:
+      display_description: ''
       display_extenders: {  }
       path: visit/rooms
       menu:
@@ -665,5 +866,8 @@ display:
         - user
         - 'user.node_grants:view'
       tags:
-        - 'config:field.storage.node.field_booking_widget'
+        - 'config:field.storage.node.field_booking_link'
+        - 'config:field.storage.node.field_request_reservation'
+        - 'config:field.storage.node.field_study_space_capacity'
+        - 'config:field.storage.node.field_study_space_location'
         - 'config:field.storage.node.field_thumbnail'

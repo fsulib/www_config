@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-28T20:46:01+00:00",
+            "value": "2022-07-08T00:09:06+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -71,6 +71,12 @@
     "default_langcode": [
         {
             "value": true
+        }
+    ],
+    "field_bio": [
+        {
+            "value": "<p>Lindsey Wharton joined the faculty at the Florida State University Libraries in 2014. As the Extended Campus and Distance Services Librarian, she is responsible for ensuring equitable access to library services and resources for all distance learning students as well as students and faculty at FSU's remote instructional sites and international programs. This entails creating library tutorials, videos, and web content, embedding library resources into the learning management system, providing online instruction and workshops using Collaborating, consulting with faculty teaching online courses, and coordinating our virtual reference service. Lindsey received her Bachelor of Arts in Philosophy from Florida State University and her Master of Arts in Library and Information Science from the University of South Florida. Before joining FSU, she served as the Assistant Director of the Learning Resource Center at Florida Keys Community College. Lindsey is a member of the American Library Association, Florida Library Association, and the Association of College and Research Libraries. Her research interests include information literacy and library instruction, emerging technologies, virtual reference services, information ethics, and digital pedagogy.<\/p>\r\n",
+            "format": "basic_html"
         }
     ],
     "field_building": [],
@@ -112,12 +118,21 @@
             "value": "Extended Campus and Distance Services Librarian"
         }
     ],
-    "field_preferred_email_address": [
+    "field_preferred_email": [
         {
             "value": "lwharton@fsu.edu"
         }
     ],
     "field_preferred_name": [],
     "field_room_number": [],
-    "user_picture": []
+    "user_picture": [
+        {
+            "alt": "",
+            "title": "",
+            "width": 150,
+            "height": 200,
+            "target_type": "file",
+            "target_uuid": "ade9be9d-6069-44fc-b0b0-72a012379ce6"
+        }
+    ]
 }

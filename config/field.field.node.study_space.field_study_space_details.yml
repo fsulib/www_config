@@ -1,0 +1,24 @@
+uuid: 2ae2ec18-22bc-4dbc-9637-31b32e4abcb3
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_study_space_details
+    - node.type.study_space
+  module:
+    - text
+id: node.study_space.field_study_space_details
+field_name: field_study_space_details
+entity_type: node
+bundle: study_space
+label: 'Study Space Details'
+description: ''
+required: true
+translatable: false
+default_value:
+  -
+    value: "<p><strong>Location: </strong></p>\r\n\r\n<p><strong>Capacity: </strong>=</p>\r\n\r\n<p><strong>Loan Period: </strong></p>\r\n<p><strong>Available to: </strong></p>\r\n\r\n\r\n"
+    format: full_html
+default_value_callback: ''
+settings: {  }
+field_type: text_long

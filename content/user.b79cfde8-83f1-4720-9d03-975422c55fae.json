@@ -78,6 +78,7 @@
             "value": true
         }
     ],
+    "field_bio": [],
     "field_building": [
         {
             "value": "Strozier Library"
@@ -112,7 +113,7 @@
             "value": "Director of the Office of Digital Research and Scholarship"
         }
     ],
-    "field_preferred_email_address": [],
+    "field_preferred_email": [],
     "field_preferred_name": [],
     "field_room_number": [
         {

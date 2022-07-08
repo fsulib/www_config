@@ -1,0 +1,125 @@
+{
+    "uuid": [
+        {
+            "value": "4a5faae4-05f3-4ece-a2bb-ed06becd65a9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "equipment",
+            "target_type": "node_type",
+            "target_uuid": "ff91ee6e-3613-4921-a24c-f5d94a77ba62"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-07T20:30:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Dell Laptop\t"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-07T20:29:47+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-07T20:30:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "body": [],
+    "field_catalog_link": [
+        {
+            "uri": "route:<nolink>",
+            "title": "Use this item",
+            "options": []
+        }
+    ],
+    "field_equipment_lending_period": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "f87122ea-70a2-455d-b0ac-4b573f9d9af3"
+        }
+    ],
+    "field_equipment_search": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "59cd96e7-4834-4536-8978-8494236d9882"
+        }
+    ],
+    "field_image_and_details": [
+        {
+            "value": "<div class=\"s3-p-10 s3-txt-m-l s3\">\r\n    <div class=\"row\">\r\n        <div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n            <img src=\"\/sites\/default\/files\/2022-07\/room-thumbnail220x156.png\" class=\"img-responsive\" alt=\"\">\r\n        <\/div>\r\n        <div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n            <p><strong>Location: <\/strong>Strozier Library<\/p>\r\n\r\n<p><strong>Lending Period: <\/strong>Up to 8 people<\/p>\r\n\r\n\r\n\r\n<button type=\"button\" class=\"btn btn-md s3-gd\"><a href=\"https:\/\/fsu.libcal.com\/r\/accessible\/availability?lid=3928&zone=0&gid=6590\">Use this item<\/a><\/button>\r\n        <\/div>\r\n\r\n    <\/div>\r\n<\/div>\r\n\r\n        \r\n\r\n\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_related_menu": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "a899b725-42cd-4fba-b054-3170281c11f8"
+        }
+    ],
+    "field_thumbnail": [
+        {
+            "target_type": "media",
+            "target_uuid": "37d6df4c-7796-4133-9c65-a42f442f3da1"
+        }
+    ]
+}

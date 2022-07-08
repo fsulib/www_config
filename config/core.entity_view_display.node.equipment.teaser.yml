@@ -1,16 +1,16 @@
-uuid: 1e179612-1c09-4454-a74b-955dc3aa5941
+uuid: 44c02159-02c7-4405-9ffb-426f25bfb1f5
 langcode: en
 status: true
 dependencies:
   config:
     - core.entity_view_mode.node.teaser
     - field.field.node.equipment.body
-    - field.field.node.equipment.field_catalog_url
-    - field.field.node.equipment.field_check_availability
-    - field.field.node.equipment.field_equipment_category
-    - field.field.node.equipment.field_equipment_highlights
-    - field.field.node.equipment.field_equipment_image
-    - field.field.node.equipment.field_equipment_thumbnail
+    - field.field.node.equipment.field_catalog_link
+    - field.field.node.equipment.field_equipment_lending_period
+    - field.field.node.equipment.field_equipment_search
+    - field.field.node.equipment.field_image_and_details
+    - field.field.node.equipment.field_related_menu
+    - field.field.node.equipment.field_thumbnail
     - node.type.equipment
   module:
     - text
@@ -34,9 +34,9 @@ content:
     weight: 100
     region: content
 hidden:
-  field_catalog_url: true
-  field_check_availability: true
-  field_equipment_category: true
-  field_equipment_highlights: true
-  field_equipment_image: true
-  field_equipment_thumbnail: true
+  field_catalog_link: true
+  field_equipment_lending_period: true
+  field_equipment_search: true
+  field_image_and_details: true
+  field_related_menu: true
+  field_thumbnail: true
