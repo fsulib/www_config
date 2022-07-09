@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "7619fb74-fe17-4cc7-8d46-b22c45d49094"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/materials_puchase_suggestion\/submissions"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/form\/materials-puchase-suggestion\/submissions"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

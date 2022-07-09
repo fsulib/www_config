@@ -4,6 +4,7 @@ status: true
 dependencies:
   config:
     - core.entity_view_mode.user.compact
+    - field.field.user.user.field__request_a_consultation_
     - field.field.user.user.field_bio
     - field.field.user.user.field_building
     - field.field.user.user.field_first_name
@@ -44,6 +45,7 @@ content:
     weight: 0
     region: content
 hidden:
+  field__request_a_consultation_: true
   field_bio: true
   field_building: true
   field_first_name: true

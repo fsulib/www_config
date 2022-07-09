@@ -3,6 +3,7 @@ langcode: en
 status: true
 dependencies:
   config:
+    - field.field.user.user.field__request_a_consultation_
     - field.field.user.user.field_bio
     - field.field.user.user.field_building
     - field.field.user.user.field_first_name
@@ -20,6 +21,7 @@ dependencies:
     - image.style.thumbnail
   module:
     - image
+    - link
     - text
     - user
 _core:
@@ -29,12 +31,24 @@ targetEntityType: user
 bundle: user
 mode: default
 content:
+  field__request_a_consultation_:
+    type: link
+    label: above
+    settings:
+      trim_length: 80
+      url_only: false
+      url_plain: false
+      rel: ''
+      target: ''
+    third_party_settings: {  }
+    weight: 13
+    region: content
   field_bio:
     type: text_default
     label: above
     settings: {  }
     third_party_settings: {  }
-    weight: 15
+    weight: 16
     region: content
   field_building:
     type: string
@@ -74,7 +88,7 @@ content:
     settings:
       link: true
     third_party_settings: {  }
-    weight: 11
+    weight: 14
     region: content
   field_library_department:
     type: entity_reference_label
@@ -90,7 +104,7 @@ content:
     settings:
       link_to_entity: false
     third_party_settings: {  }
-    weight: 13
+    weight: 12
     region: content
   field_phone_number:
     type: string
@@ -114,7 +128,7 @@ content:
     settings:
       link_to_entity: false
     third_party_settings: {  }
-    weight: 14
+    weight: 15
     region: content
   field_preferred_name:
     type: string
@@ -122,7 +136,7 @@ content:
     settings:
       link_to_entity: false
     third_party_settings: {  }
-    weight: 12
+    weight: 11
     region: content
   field_room_number:
     type: string

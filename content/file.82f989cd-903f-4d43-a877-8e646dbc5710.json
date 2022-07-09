@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "82f989cd-903f-4d43-a877-8e646dbc5710"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "filename": [
+        {
+            "value": "wyckoff.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/pictures\/2022-07\/wyckoff.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 78830
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-08T18:56:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-08T18:56:29+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

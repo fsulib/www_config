@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "10e454e0-f4aa-4b9e-8711-56f75101ef77"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "filename": [
+        {
+            "value": "vsmith.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/pictures\/2022-07\/vsmith.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 63841
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-08T19:57:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-08T19:57:47+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

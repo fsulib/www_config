@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "0bd1fc20-6b07-40a6-9bbd-6be1efbafe5e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/materials_puchase_suggestion"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/form\/materials-puchase-suggestion"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

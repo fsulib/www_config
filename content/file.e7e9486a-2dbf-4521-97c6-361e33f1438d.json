@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "e7e9486a-2dbf-4521-97c6-361e33f1438d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "filename": [
+        {
+            "value": "stanleyprofphotofull2.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/pictures\/2022-07\/stanleyprofphotofull2.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 76796
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-08T19:58:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-08T19:58:35+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

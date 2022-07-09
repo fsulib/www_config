@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-28T20:50:11+00:00",
+            "value": "2022-07-08T19:58:35+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -78,7 +78,13 @@
             "value": true
         }
     ],
-    "field_bio": [],
+    "field__request_a_consultation_": [],
+    "field_bio": [
+        {
+            "value": "<p>Sarah Stanley is the Digital Humanities Librarian, and a liaison to the English Department and Digital Humanities Master\u2019s Program. She received a Master\u2019s in English from Northeastern University, where she studied early modern women\u2019s writing and digital humanities. In the past she has worked on projects such as the Women Writers Project and Early Caribbean Digital Archive. At Florida State University, she assists faculty and students with projects that use digital methods, such as text analysis, humanities data visualization, and digital publication. Sarah\u2019s research interests include studying sustainable digital humanities project infrastructure, creating structured data about people, and representing text in digital spaces. She is currently pursuing a Master\u2019s of Science in Information at FSU\u2019s iSchool.<\/p>\r\n\r\n<hr>\r\n",
+            "format": "full_html"
+        }
+    ],
     "field_building": [
         {
             "value": "Strozier Library"
@@ -125,5 +131,14 @@
             "value": "013"
         }
     ],
-    "user_picture": []
+    "user_picture": [
+        {
+            "alt": "",
+            "title": "",
+            "width": 150,
+            "height": 200,
+            "target_type": "file",
+            "target_uuid": "e7e9486a-2dbf-4521-97c6-361e33f1438d"
+        }
+    ]
 }

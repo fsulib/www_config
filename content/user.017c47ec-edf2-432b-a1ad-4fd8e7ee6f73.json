@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-28T20:46:30+00:00",
+            "value": "2022-07-08T19:32:39+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -61,6 +61,11 @@
             "target_id": "library_employee",
             "target_type": "user_role",
             "target_uuid": "0e6f68b5-df8e-4ff0-b2b0-5d2b750774ac"
+        },
+        {
+            "target_id": "subject_librarian",
+            "target_type": "user_role",
+            "target_uuid": "2bf752af-830d-42d1-b048-2adc9b5489f3"
         },
         {
             "target_id": "employee",
@@ -73,7 +78,13 @@
             "value": true
         }
     ],
-    "field_bio": [],
+    "field__request_a_consultation_": [],
+    "field_bio": [
+        {
+            "value": "Liz Dunne is the Instruction & Reference Librarian and the liaison to the Human Development & Family Science department. In her role as Instruction & Reference Librarian, she coordinates the ENC 2135 Instruction Program, the Libraries' Learning District Tutoring Services, and the Research Help Desk, and she co-coordinates the Libraries\u2019 Virtual Reference Program. As the subject specialist for Human Development & Family Science, she is responsible for instruction requests, research consults, and collection management for the department. Liz holds a BA in Literature and MS in Information from Florida State University. She is currently working on a Masters in Instructional Systems and Learning Technologies. Her research interests include critical pedagogy, universal design for instruction, systematic instructional design, and digital pedagogy.\r\n\r\n<hr>",
+            "format": "full_html"
+        }
+    ],
     "field_building": [
         {
             "value": "Strozier Library"
@@ -113,12 +124,29 @@
             "value": "Instruction and Reference Librarian"
         }
     ],
-    "field_preferred_email": [],
-    "field_preferred_name": [],
+    "field_preferred_email": [
+        {
+            "value": "edunne@fsu.edu"
+        }
+    ],
+    "field_preferred_name": [
+        {
+            "value": "Liz"
+        }
+    ],
     "field_room_number": [
         {
             "value": "112D"
         }
     ],
-    "user_picture": []
+    "user_picture": [
+        {
+            "alt": "",
+            "title": "",
+            "width": 150,
+            "height": 200,
+            "target_type": "file",
+            "target_uuid": "08210b9a-8850-4309-bf18-6d6e7527fd8e"
+        }
+    ]
 }

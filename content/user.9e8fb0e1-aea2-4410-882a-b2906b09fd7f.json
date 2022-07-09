@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-03T22:07:11+00:00",
+            "value": "2022-07-08T19:27:29+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -83,7 +83,13 @@
             "value": true
         }
     ],
-    "field_bio": [],
+    "field__request_a_consultation_": [],
+    "field_bio": [
+        {
+            "value": "<p>Leila Gibradze received her MLIS from Rutgers University and MA in Western European Languages from Tbilisi State University, Georgia. Leila has extensive professional experience as a reference librarian and a cataloger both in public and academic library settings. She has taught graduate and continuing education courses in reference services and cataloging.<\/p>\r\n\r\n\r\n<hr>",
+            "format": "full_html"
+        }
+    ],
     "field_building": [
         {
             "value": "Innovation Hub"
@@ -125,5 +131,14 @@
             "value": "2023"
         }
     ],
-    "user_picture": []
+    "user_picture": [
+        {
+            "alt": "",
+            "title": "",
+            "width": 150,
+            "height": 200,
+            "target_type": "file",
+            "target_uuid": "2fdaa153-00ef-46d4-b497-4c522066cbf8"
+        }
+    ]
 }

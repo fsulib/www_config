@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-07-05T16:31:37+00:00",
+            "value": "2022-07-08T19:40:08+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -68,6 +68,11 @@
             "target_uuid": "2bf752af-830d-42d1-b048-2adc9b5489f3"
         },
         {
+            "target_id": "faculty",
+            "target_type": "user_role",
+            "target_uuid": "c54abc61-2c04-4496-a5c5-39afca0c13ae"
+        },
+        {
             "target_id": "employee",
             "target_type": "user_role",
             "target_uuid": "92eff045-2f26-4ca9-a3b3-7bde2011e1ab"
@@ -78,7 +83,13 @@
             "value": true
         }
     ],
-    "field_bio": [],
+    "field__request_a_consultation_": [],
+    "field_bio": [
+        {
+            "value": "<p>Kyung Kim earned a PhD in Library &amp; Information Science at Rutgers University. Prior to joining the FSU Libraries, Kyung worked as a medical librarian, then taught at iSchool, FSU over nine years. She is currently working on her MBA. She is leading Doctoral Support Special Interest Group at FSU Libraries. Kyung has expertise in User Studies, research life cycle, and advanced techniques for literature search. Her research interests include innovative information services for faculty and graduate students, scholarly communication, curriculum development, embedded librarianship for distance learners, and future of academic libraries. She is a member of the American Library Association (ALA) and the Association of College &amp; Research Libraries (ACRL).<\/p>\r\n\r\n<hr>",
+            "format": "full_html"
+        }
+    ],
     "field_building": [
         {
             "value": "Strozier Library"
@@ -149,5 +160,14 @@
             "value": "027K"
         }
     ],
-    "user_picture": []
+    "user_picture": [
+        {
+            "alt": "",
+            "title": "",
+            "width": 150,
+            "height": 200,
+            "target_type": "file",
+            "target_uuid": "93f432db-368e-4ad4-9d03-e77c8013c6fd"
+        }
+    ]
 }

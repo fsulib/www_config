@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "cb3fd3f7-9765-4c35-aa75-2259eeb42c94"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "filename": [
+        {
+            "value": "j_phillips_3.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/pictures\/2022-07\/j_phillips_3.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 54134
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-08T19:43:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-08T19:43:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

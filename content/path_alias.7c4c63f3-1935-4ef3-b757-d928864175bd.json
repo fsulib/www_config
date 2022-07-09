@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "7c4c63f3-1935-4ef3-b757-d928864175bd"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/panama_city_fl_campus_library_ex\/submissions"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/form\/panama-city-fl-campus-library-ex\/submissions"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

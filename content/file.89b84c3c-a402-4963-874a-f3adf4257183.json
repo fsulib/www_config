@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "89b84c3c-a402-4963-874a-f3adf4257183"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "filename": [
+        {
+            "value": "dowling.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/pictures\/2022-07\/dowling.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 53304
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-08T19:20:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-08T19:22:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

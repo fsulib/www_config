@@ -1,0 +1,9 @@
+.menu--teaching-and-learning .nav {
+  font-size: 100%;
+  color: #2c2a29;
+  padding: 0.8em 1em;
+  background-image: none;
+  border-bottom: 1px solid #ceb888;
+}
+
+.menu .menu--teaching-and-learning .nav .active-trail .is-active >li>a:focus {background-color:#f9f8e9

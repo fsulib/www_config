@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-28T20:44:10+00:00",
+            "value": "2022-07-08T19:29:53+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -61,6 +61,11 @@
             "target_id": "library_employee",
             "target_type": "user_role",
             "target_uuid": "0e6f68b5-df8e-4ff0-b2b0-5d2b750774ac"
+        },
+        {
+            "target_id": "subject_librarian",
+            "target_type": "user_role",
+            "target_uuid": "2bf752af-830d-42d1-b048-2adc9b5489f3"
         },
         {
             "target_id": "faculty",
@@ -78,7 +83,13 @@
             "value": true
         }
     ],
-    "field_bio": [],
+    "field__request_a_consultation_": [],
+    "field_bio": [
+        {
+            "value": "<p>Laura Gayle Green holds degrees from Ashland College (B. music, piano), the University of Virginia (M.A., musicology), and Indiana University (M.L.S. with an emphasis in music librarianship). She became Head of the Warren D. Allen Music Library at Florida State University in July 2012. Previous positions include Director, Music\/Media Library at the University of Missouri\u2014Kansas City (UMKC, 1993-2012) with an appointment as Adjunct Associate Professor in the Conservatory of Music and Dance, and Visiting Assistant Librarian, Music Cataloger at Indiana University (1990-1993). Ms. Green has been published in Cataloging and Classification Quarterly and Music Reference Services Quarterly, and has invited articles in Women and Music in America Since 1900 (Oryx Press 2002). She has been a speaker and panelist at Music Library Association (MLA), Music Library Association Midwest Chapter, American Musicological Association, Society for American Music, and Innovative Users Group meetings. Ms. Green has served as Convention Manager, Assistant Convention Manager, Treasurer\/Executive Secretary, Program Chair, and Co-Chair Local Arrangements Committee for MLA. Ms. Green serves on the advisory board for Naxos Music Library and is on the editorial board for College Music Symposium.<\/p>\r\n\r\n<hr>\r\n\r\n",
+            "format": "full_html"
+        }
+    ],
     "field_building": [
         {
             "value": "HMU"
@@ -86,7 +97,7 @@
     ],
     "field_first_name": [
         {
-            "value": "Laura Gayle"
+            "value": "Laura "
         }
     ],
     "field_fsu_department": [],
@@ -110,7 +121,7 @@
     "field_personal_pronouns": [],
     "field_phone_number": [
         {
-            "value": " (850) 644-3999"
+            "value": "Laura Gayle Green holds degrees from Ashland College (B. music, piano), the University of Virginia (M.A., musicology), and Indiana University (M.L.S. with an emphasis in music librarianship). She became Head of the Warren D. Allen Music Libr(850) 644-3999"
         }
     ],
     "field_position_title": [
@@ -125,5 +136,14 @@
             "value": "N0202"
         }
     ],
-    "user_picture": []
+    "user_picture": [
+        {
+            "alt": "",
+            "title": "",
+            "width": 150,
+            "height": 200,
+            "target_type": "file",
+            "target_uuid": "7c3ee0b2-bdf9-4c18-8c6b-a23db1db4683"
+        }
+    ]
 }

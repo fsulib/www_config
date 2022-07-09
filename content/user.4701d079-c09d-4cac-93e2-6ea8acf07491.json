@@ -1,0 +1,128 @@
+{
+    "uid": [
+        {
+            "value": 131
+        }
+    ],
+    "uuid": [
+        {
+            "value": "4701d079-c09d-4cac-93e2-6ea8acf07491"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_admin_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "name": [
+        {
+            "value": "kdowling"
+        }
+    ],
+    "mail": [
+        {
+            "value": "kdowling@fsu.edu"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "America\/New_York"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-08T19:20:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-08T19:23:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "roles": [
+        {
+            "target_id": "subject_librarian",
+            "target_type": "user_role",
+            "target_uuid": "2bf752af-830d-42d1-b048-2adc9b5489f3"
+        },
+        {
+            "target_id": "employee",
+            "target_type": "user_role",
+            "target_uuid": "92eff045-2f26-4ca9-a3b3-7bde2011e1ab"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "field__request_a_consultation_": [
+        {
+            "uri": "internal:\/help\/consultation?librarian=",
+            "title": "Request a Consultation",
+            "options": []
+        }
+    ],
+    "field_bio": [
+        {
+            "value": "<hr>",
+            "format": "full_html"
+        }
+    ],
+    "field_building": [
+        {
+            "value": "Florence Study Center"
+        }
+    ],
+    "field_first_name": [
+        {
+            "value": "Kathleen"
+        }
+    ],
+    "field_fsu_department": [],
+    "field_last_name": [
+        {
+            "value": "Dowling"
+        }
+    ],
+    "field_liaison_fsu_department": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "5bc3b8cd-3b95-40b4-94f4-9232b6dabdba"
+        }
+    ],
+    "field_library_department": [],
+    "field_personal_pronouns": [],
+    "field_phone_number": [],
+    "field_position_title": [],
+    "field_preferred_email": [],
+    "field_preferred_name": [],
+    "field_room_number": [],
+    "user_picture": [
+        {
+            "alt": "",
+            "title": "",
+            "width": 150,
+            "height": 200,
+            "target_type": "file",
+            "target_uuid": "89b84c3c-a402-4963-874a-f3adf4257183"
+        }
+    ]
+}

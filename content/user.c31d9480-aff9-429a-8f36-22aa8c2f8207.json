@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-28T20:49:43+00:00",
+            "value": "2022-07-08T19:38:45+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -61,6 +61,16 @@
             "target_id": "library_employee",
             "target_type": "user_role",
             "target_uuid": "0e6f68b5-df8e-4ff0-b2b0-5d2b750774ac"
+        },
+        {
+            "target_id": "subject_librarian",
+            "target_type": "user_role",
+            "target_uuid": "2bf752af-830d-42d1-b048-2adc9b5489f3"
+        },
+        {
+            "target_id": "faculty",
+            "target_type": "user_role",
+            "target_uuid": "c54abc61-2c04-4496-a5c5-39afca0c13ae"
         },
         {
             "target_id": "employee",
@@ -73,7 +83,13 @@
             "value": true
         }
     ],
-    "field_bio": [],
+    "field__request_a_consultation_": [],
+    "field_bio": [
+        {
+            "value": "<p>Renaine Julian is the Director of STEM Libraries at Florida State University. In this role, he leads a team of science librarians and staff that provide support for STEM scholars across the research and learning lifecycles. Renaine has a MLIS, a MS in Urban and Regional Planning and a BS in Political Science all from Florida State University. His research interests include: library leadership and administration, research data management, and open science.<\/p>\r\n\r\n<hr>",
+            "format": "full_html"
+        }
+    ],
     "field_building": [
         {
             "value": "Dirac Science Library"
@@ -121,12 +137,25 @@
             "value": "Director of STEM Libraries"
         }
     ],
-    "field_preferred_email": [],
+    "field_preferred_email": [
+        {
+            "value": "rjulian@fsu.edu"
+        }
+    ],
     "field_preferred_name": [],
     "field_room_number": [
         {
             "value": "205A "
         }
     ],
-    "user_picture": []
+    "user_picture": [
+        {
+            "alt": "",
+            "title": "",
+            "width": 150,
+            "height": 200,
+            "target_type": "file",
+            "target_uuid": "9afde3f4-ed53-45c4-9009-8bfef5d582a3"
+        }
+    ]
 }

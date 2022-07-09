@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-28T20:37:54+00:00",
+            "value": "2022-07-08T19:45:40+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -66,6 +66,11 @@
             "target_id": "library_employee",
             "target_type": "user_role",
             "target_uuid": "0e6f68b5-df8e-4ff0-b2b0-5d2b750774ac"
+        },
+        {
+            "target_id": "subject_librarian",
+            "target_type": "user_role",
+            "target_uuid": "2bf752af-830d-42d1-b048-2adc9b5489f3"
         },
         {
             "target_id": "faculty",
@@ -83,7 +88,13 @@
             "value": true
         }
     ],
-    "field_bio": [],
+    "field__request_a_consultation_": [],
+    "field_bio": [
+        {
+            "value": "<p>Dave Rodriguez is the Digital Services Librarian in the Technology and Digital Scholarship Division. He holds a BA from New College of Florida (2009, Literature), an MA from the University of Florida (2011, Film &amp; Media Studies), a Certificate from The L. Jeffrey Selznick School of Film Preservation (2012), and an MLIS from Florida State University (2018). Before coming to FSU, Dave worked in film and audio-visual preservation in museums, archives, and in the private and non-profit sectors. These positions included Chief Projectionist of the Motion Picture Department at George Eastman Museum, Manager\/Archivist of The Center for Moving Image Arts at Bard College, laboratory technician at Continental Film &amp; Digital Laboratory, and in Special Collections at the University of Miami. He has also worked as a freelance museum preparator and art handler. His current work at FSU Libraries focuses on digital media stewardship, repository management, and open-source technologies. His research interests include the curation of time-based media, copyright law, media archaeology, and experimental film\/video\/music.<\/p>\r\n<hr>\r\n",
+            "format": "full_html"
+        }
+    ],
     "field_building": [
         {
             "value": "Strozier"
@@ -119,7 +130,11 @@
             "value": "Digital Services Librarian"
         }
     ],
-    "field_preferred_email": [],
+    "field_preferred_email": [
+        {
+            "value": "dwrodriguez@fsu.edu"
+        }
+    ],
     "field_preferred_name": [
         {
             "value": "Dave"
@@ -130,5 +145,14 @@
             "value": "0023"
         }
     ],
-    "user_picture": []
+    "user_picture": [
+        {
+            "alt": "",
+            "title": "",
+            "width": 150,
+            "height": 200,
+            "target_type": "file",
+            "target_uuid": "c8370add-269e-45e9-962f-28bf260ce57b"
+        }
+    ]
 }

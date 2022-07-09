@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-28T20:40:59+00:00",
+            "value": "2022-07-08T19:32:21+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -78,7 +78,13 @@
             "value": true
         }
     ],
-    "field_bio": [],
+    "field__request_a_consultation_": [],
+    "field_bio": [
+        {
+            "value": "<p>Jonathan DaSo is the Modern Languages Librarian and serves as liaison to the department of Modern Languages and Linguistics as well as to the area studies programs on campus, including: Asian Studies, Latin American Studies, Middle Eastern Studies, and Russian &amp; East European Studies. In this role, Jonathan is responsible for research support, bibliographic and information literacy instruction, and collection development for these areas. Before his current assignment, Jonathan served as the Student Success Librarian and later as the Digital Literacy and Modern Languages Librarian. Prior to joining FSU, he was the Undergraduate and Information Services Librarian at the University of Toledo. Jonathan received his Master of Library and Information Science from FSU. He received a BA from Emory University, where he studied Spanish and Chinese language and literature. Currently, he is working towards an MA in Spanish at FSU, focusing on Hispanic cultural studies. Jonathan's current research interests include diversity and inclusion initiatives in academic libraries, accessibility and universal design in library services and resources, and the use of emerging technologies in information literacy instruction.<\/p>\r\n\r\n<hr>\r\n",
+            "format": "full_html"
+        }
+    ],
     "field_building": [
         {
             "value": "Strozier Library"
@@ -134,12 +140,25 @@
             "value": "Modern Languages Librarian"
         }
     ],
-    "field_preferred_email": [],
+    "field_preferred_email": [
+        {
+            "value": "jdaso@fsu.edu"
+        }
+    ],
     "field_preferred_name": [],
     "field_room_number": [
         {
             "value": "0027E"
         }
     ],
-    "user_picture": []
+    "user_picture": [
+        {
+            "alt": "",
+            "title": "",
+            "width": 150,
+            "height": 200,
+            "target_type": "file",
+            "target_uuid": "716ed8ed-e890-414e-9c94-783d8d475bf1"
+        }
+    ]
 }

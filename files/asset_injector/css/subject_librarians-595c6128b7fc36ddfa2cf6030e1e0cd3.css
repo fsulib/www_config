@@ -1,0 +1,29 @@
+.subject-librarians .item-list ul  {
+list-style-type: none;
+padding-left:1px;
+}
+/*.subject-librarians .views-col {
+  width:100%;
+}*/
+.subject-librarians .views-field-field-last-name {
+font-size: 35px;
+font-weight: 200
+}
+
+.subject-librarians .views-field-field-liaison-fsu-department{
+  padding-top:20px;
+  padding-bottom:20px;
+}
+.subject-librarians .views-label-field-liaison-fsu-department,
+.subject-librarians .views-field-field-position-title{
+  font-weight:bold;
+}
+
+.subject-librarians .field-content{
+  display:inline;
+}
+
+
+.subject-librarians .views-field-user-picture img {
+  float:right;
+}

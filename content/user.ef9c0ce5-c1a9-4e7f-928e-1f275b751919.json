@@ -31,7 +31,7 @@
     ],
     "mail": [
         {
-            "value": "kh22p@fsu.edu"
+            "value": "khofmahoney@eng.famu.fsu.edu"
         }
     ],
     "timezone": [
@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-03T20:35:56+00:00",
+            "value": "2022-07-08T19:37:00+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -61,6 +61,16 @@
             "target_id": "library_employee",
             "target_type": "user_role",
             "target_uuid": "0e6f68b5-df8e-4ff0-b2b0-5d2b750774ac"
+        },
+        {
+            "target_id": "subject_librarian",
+            "target_type": "user_role",
+            "target_uuid": "2bf752af-830d-42d1-b048-2adc9b5489f3"
+        },
+        {
+            "target_id": "faculty",
+            "target_type": "user_role",
+            "target_uuid": "c54abc61-2c04-4496-a5c5-39afca0c13ae"
         },
         {
             "target_id": "employee",
@@ -73,7 +83,13 @@
             "value": true
         }
     ],
-    "field_bio": [],
+    "field__request_a_consultation_": [],
+    "field_bio": [
+        {
+            "value": "<p>Kassidy Hof-Mahoney is the Open Science Librarian and the liaison librarian for the FAMU-FSU College of Engineering and the Biological Sciences department. She has a BS in Animal Biology from the University of South Florida and an MLIS from the University of North Carolina at Greensboro. She is a member of the American Library Association (ALA).<\/p>\r\n\r\n<hr>",
+            "format": "full_html"
+        }
+    ],
     "field_building": [
         {
             "value": "Dirac Science Library"
@@ -105,15 +121,28 @@
     ],
     "field_position_title": [
         {
-            "value": "STEM Research and Learning Librarian"
+            "value": "Open Science Librarian"
         }
     ],
-    "field_preferred_email": [],
+    "field_preferred_email": [
+        {
+            "value": "khofmahoney@eng.famu.fsu.edu"
+        }
+    ],
     "field_preferred_name": [],
     "field_room_number": [
         {
             "value": "202A"
         }
     ],
-    "user_picture": []
+    "user_picture": [
+        {
+            "alt": "",
+            "title": "",
+            "width": 150,
+            "height": 200,
+            "target_type": "file",
+            "target_uuid": "44b8d13c-177e-4506-9e20-a751dc2fb2a2"
+        }
+    ]
 }

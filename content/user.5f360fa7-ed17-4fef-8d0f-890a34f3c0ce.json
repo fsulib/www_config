@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-28T20:48:56+00:00",
+            "value": "2022-07-08T19:50:57+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -61,6 +61,16 @@
             "target_id": "library_employee",
             "target_type": "user_role",
             "target_uuid": "0e6f68b5-df8e-4ff0-b2b0-5d2b750774ac"
+        },
+        {
+            "target_id": "subject_librarian",
+            "target_type": "user_role",
+            "target_uuid": "2bf752af-830d-42d1-b048-2adc9b5489f3"
+        },
+        {
+            "target_id": "faculty",
+            "target_type": "user_role",
+            "target_uuid": "c54abc61-2c04-4496-a5c5-39afca0c13ae"
         },
         {
             "target_id": "employee",
@@ -73,7 +83,13 @@
             "value": true
         }
     ],
-    "field_bio": [],
+    "field__request_a_consultation_": [],
+    "field_bio": [
+        {
+            "value": "<p>Dr. Nick Ruhs is the Research Data Management Librarian at Florida State University. He leads the development of data services for STEM scholars and provides support on topics related to research data management and data information literacy. He is also the subject librarian for the Chemistry, Biological Sciences, Statistics, Computer Science, and Scientific Computing departments. Prior to joining FSU Libraries, Nick earned a Doctor of Philosophy (Ph.D.) in Chemistry from Washington University in St. Louis. Prior to that, he received a Bachelor of Science in chemistry with a minor in Mathematics from Quincy University in 2011. His current research interests include research data services, open science, and data information literacy for undergraduate and graduate students. He is a member of the American Library Association (ALA), the Association of College and Research Libraries (ACRL), Research Data Access and Preservation (RDAP), and the American Chemical Society (ACS).<\/p>\r\n\r\n<hr>\r\n",
+            "format": "full_html"
+        }
+    ],
     "field_building": [
         {
             "value": "Dirac Science Library"
@@ -129,12 +145,25 @@
             "value": "Research Data Management Librarian"
         }
     ],
-    "field_preferred_email": [],
+    "field_preferred_email": [
+        {
+            "value": "nruhs@fsu.edu"
+        }
+    ],
     "field_preferred_name": [],
     "field_room_number": [
         {
             "value": "202A"
         }
     ],
-    "user_picture": []
+    "user_picture": [
+        {
+            "alt": "",
+            "title": "",
+            "width": 150,
+            "height": 200,
+            "target_type": "file",
+            "target_uuid": "e53e95b8-19a5-4e16-aaae-84c4c34ef8d6"
+        }
+    ]
 }

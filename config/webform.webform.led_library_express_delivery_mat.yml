@@ -45,9 +45,6 @@ elements: |-
     '#help': 'What day would you like us to pick the item(s) up?'
     '#datepicker': true
     '#datepicker_button': true
-  how_many_items_:
-    '#type': textfield
-    '#title': 'How many items?'
   title_of_items:
     '#type': textfield
     '#title': 'Title of items'

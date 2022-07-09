@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-28T20:47:37+00:00",
+            "value": "2022-07-08T19:32:03+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -78,7 +78,13 @@
             "value": true
         }
     ],
-    "field_bio": [],
+    "field__request_a_consultation_": [],
+    "field_bio": [
+        {
+            "value": "<p>Matt Hunter is the Florida State University Digital Scholarship Technologist and co-liaison to the Classics department. His responsibilities include reference and instruction for the Classical Archaeology, Greek, Latin, Classical Civilizations, and Ancient History programs. Matt has earned B.A. degrees in History and Classics, an M.A. in Latin, and an M.L.I.S. from Florida State University. His current research interests include emerging technology applications in humanities scholarship, library-based digital humanities research support, and library-based scholarly publication. He is a member of the American Library Association and the Association for College and Research Libraries.<\/p>\r\n<hr>",
+            "format": "full_html"
+        }
+    ],
     "field_building": [
         {
             "value": "Strozier Library"
@@ -114,12 +120,25 @@
             "value": "Digital Scholarship Librarian"
         }
     ],
-    "field_preferred_email": [],
+    "field_preferred_email": [
+        {
+            "value": "mhunter2@fsu.edu"
+        }
+    ],
     "field_preferred_name": [],
     "field_room_number": [
         {
             "value": "022"
         }
     ],
-    "user_picture": []
+    "user_picture": [
+        {
+            "alt": "",
+            "title": "",
+            "width": 150,
+            "height": 200,
+            "target_type": "file",
+            "target_uuid": "142491fb-4361-4d58-af1c-5b6368cc8a4d"
+        }
+    ]
 }

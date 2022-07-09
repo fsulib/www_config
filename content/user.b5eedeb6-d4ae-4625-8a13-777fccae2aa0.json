@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-28T20:39:27+00:00",
+            "value": "2022-07-08T19:43:32+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -78,7 +78,13 @@
             "value": true
         }
     ],
-    "field_bio": [],
+    "field__request_a_consultation_": [],
+    "field_bio": [
+        {
+            "value": "<p>Jeff Phillips earned a B.S. and M.S. in Library and Information Studies and a M.S. and Ph.D. in Instructional Systems and Learning Technologies. As a Social Sciences Librarian, he has a strong focus in teaching students how to perform proper research and understanding the benefits of using library resources. His research interests include change management, cognitive load, and systematic instructional design.<\/p>\r\n\r\n<hr>\r\n",
+            "format": "full_html"
+        }
+    ],
     "field_building": [
         {
             "value": "Strozier Library"
@@ -142,7 +148,11 @@
             "value": "Social Sciences Librarian"
         }
     ],
-    "field_preferred_email": [],
+    "field_preferred_email": [
+        {
+            "value": "jbphillips@fsu.edu"
+        }
+    ],
     "field_preferred_name": [
         {
             "value": "Jeff"
@@ -153,5 +163,14 @@
             "value": "0027F"
         }
     ],
-    "user_picture": []
+    "user_picture": [
+        {
+            "alt": "",
+            "title": "",
+            "width": 150,
+            "height": 200,
+            "target_type": "file",
+            "target_uuid": "cb3fd3f7-9765-4c35-aa75-2259eeb42c94"
+        }
+    ]
 }

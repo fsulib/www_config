@@ -1,0 +1,159 @@
+{
+    "uid": [
+        {
+            "value": 133
+        }
+    ],
+    "uuid": [
+        {
+            "value": "140c98ea-241b-4796-82a2-0902b60ca186"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_admin_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "name": [
+        {
+            "value": "ssaxon"
+        }
+    ],
+    "mail": [
+        {
+            "value": "ssaxon@pc.fsu.edu"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "America\/New_York"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-08T19:53:28+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-08T19:54:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "roles": [
+        {
+            "target_id": "library_employee",
+            "target_type": "user_role",
+            "target_uuid": "0e6f68b5-df8e-4ff0-b2b0-5d2b750774ac"
+        },
+        {
+            "target_id": "subject_librarian",
+            "target_type": "user_role",
+            "target_uuid": "2bf752af-830d-42d1-b048-2adc9b5489f3"
+        },
+        {
+            "target_id": "faculty",
+            "target_type": "user_role",
+            "target_uuid": "c54abc61-2c04-4496-a5c5-39afca0c13ae"
+        },
+        {
+            "target_id": "employee",
+            "target_type": "user_role",
+            "target_uuid": "92eff045-2f26-4ca9-a3b3-7bde2011e1ab"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "field__request_a_consultation_": [
+        {
+            "uri": "internal:\/help\/consultation?librarian=",
+            "title": "Request a Consultation",
+            "options": []
+        }
+    ],
+    "field_bio": [
+        {
+            "value": "<p>Shaun Saxon is the library director at the FSU Panama City Campus. He holds a B.A. in English from the University of West Florida and an M.S. in Library and Information Studies from Florida State University. He has experience in public, government, and academic libraries and served with distinction in the U.S. Navy and Marine Corps as an FMF Hospital Corpsman. Other past professions contributing to his generalist capabilities include professional photographer, web usability consultant, farm hand, and textile plant mechanic. In collaboration with the Tallahassee campus subject specialists, he serves the instruction and research needs for all programs at the Panama City Campus.<\/p>\r\n\r\n<hr>",
+            "format": "full_html"
+        }
+    ],
+    "field_building": [
+        {
+            "value": "Holley Bldg | Panama City, Florida "
+        }
+    ],
+    "field_first_name": [
+        {
+            "value": "Shaun "
+        }
+    ],
+    "field_fsu_department": [],
+    "field_last_name": [
+        {
+            "value": "Saxon"
+        }
+    ],
+    "field_liaison_fsu_department": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "03b73b6e-166b-4d30-8bbd-170a6b72b9d9"
+        }
+    ],
+    "field_library_department": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "16f8b683-3038-4daf-adc2-44c2e48542ee"
+        }
+    ],
+    "field_personal_pronouns": [],
+    "field_phone_number": [
+        {
+            "value": "(850) 770-2244"
+        }
+    ],
+    "field_position_title": [
+        {
+            "value": " University Librarian, Head of the FSU PC Library "
+        }
+    ],
+    "field_preferred_email": [
+        {
+            "value": "ssaxon@pc.fsu.edu"
+        }
+    ],
+    "field_preferred_name": [],
+    "field_room_number": [
+        {
+            "value": "A110"
+        }
+    ],
+    "user_picture": [
+        {
+            "alt": "",
+            "title": "",
+            "width": 150,
+            "height": 200,
+            "target_type": "file",
+            "target_uuid": "5aa7f91d-a279-4905-b6ea-fa86a042ac38"
+        }
+    ]
+}

@@ -48,7 +48,7 @@ elements: |-
     '#title': 'Due Date of Assignment '
     '#datepicker': true
     '#datepicker_button': true
-  if_you_would_like_a_specific_librarian_please_list_here:
+  librarian:
     '#type': textfield
     '#title': 'If you would like a specific librarian, please list here'
   class:

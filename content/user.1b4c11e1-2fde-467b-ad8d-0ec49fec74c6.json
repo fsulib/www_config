@@ -1,0 +1,159 @@
+{
+    "uid": [
+        {
+            "value": 132
+        }
+    ],
+    "uuid": [
+        {
+            "value": "1b4c11e1-2fde-467b-ad8d-0ec49fec74c6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_admin_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "name": [
+        {
+            "value": "rer09h"
+        }
+    ],
+    "mail": [
+        {
+            "value": "robyn.rosasco@med.fsu.edu"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "America\/New_York"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-08T19:48:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-08T19:49:30+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "roles": [
+        {
+            "target_id": "library_employee",
+            "target_type": "user_role",
+            "target_uuid": "0e6f68b5-df8e-4ff0-b2b0-5d2b750774ac"
+        },
+        {
+            "target_id": "subject_librarian",
+            "target_type": "user_role",
+            "target_uuid": "2bf752af-830d-42d1-b048-2adc9b5489f3"
+        },
+        {
+            "target_id": "faculty",
+            "target_type": "user_role",
+            "target_uuid": "c54abc61-2c04-4496-a5c5-39afca0c13ae"
+        },
+        {
+            "target_id": "employee",
+            "target_type": "user_role",
+            "target_uuid": "92eff045-2f26-4ca9-a3b3-7bde2011e1ab"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "field__request_a_consultation_": [
+        {
+            "uri": "internal:\/help\/consultation?librarian=",
+            "title": "Request a Consultation",
+            "options": []
+        }
+    ],
+    "field_bio": [
+        {
+            "value": "<p>Robyn earned a Master of Science in Library and Information Studies from Florida State University. As the Head of Research Services at the College of Medicine\u2019s Maguire Medical Library, Robyn is responsible for reference, research, and circulation services for that branch library. She is a member of the Academy of Health Information Professionals (AHIP), the Medical Library Association (MLA), and the Florida Health Sciences Library Association (FHSLA).<\/p>\r\n\r\n<hr>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_building": [
+        {
+            "value": "Medical Library"
+        }
+    ],
+    "field_first_name": [
+        {
+            "value": "Robyn "
+        }
+    ],
+    "field_fsu_department": [],
+    "field_last_name": [
+        {
+            "value": "Rosasco"
+        }
+    ],
+    "field_liaison_fsu_department": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "6b32ebf3-c956-499f-8f36-adbb18089ea4"
+        }
+    ],
+    "field_library_department": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "ca9567f5-c1b4-4c9c-a0f7-f75cbd8fd1a0"
+        }
+    ],
+    "field_personal_pronouns": [],
+    "field_phone_number": [
+        {
+            "value": "(850) 645-0348"
+        }
+    ],
+    "field_position_title": [
+        {
+            "value": " Head of Research Services "
+        }
+    ],
+    "field_preferred_email": [
+        {
+            "value": "robyn.rosasco@med.fsu.edu"
+        }
+    ],
+    "field_preferred_name": [],
+    "field_room_number": [
+        {
+            "value": "MSR-1300"
+        }
+    ],
+    "user_picture": [
+        {
+            "alt": "",
+            "title": "",
+            "width": 150,
+            "height": 200,
+            "target_type": "file",
+            "target_uuid": "1a9213d5-c760-412e-a624-44f506b9126a"
+        }
+    ]
+}

@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-03T22:16:58+00:00",
+            "value": "2022-07-08T19:58:55+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -61,6 +61,16 @@
             "target_id": "library_employee",
             "target_type": "user_role",
             "target_uuid": "0e6f68b5-df8e-4ff0-b2b0-5d2b750774ac"
+        },
+        {
+            "target_id": "subject_librarian",
+            "target_type": "user_role",
+            "target_uuid": "2bf752af-830d-42d1-b048-2adc9b5489f3"
+        },
+        {
+            "target_id": "faculty",
+            "target_type": "user_role",
+            "target_uuid": "c54abc61-2c04-4496-a5c5-39afca0c13ae"
         },
         {
             "target_id": "employee",
@@ -73,7 +83,13 @@
             "value": true
         }
     ],
-    "field_bio": [],
+    "field__request_a_consultation_": [],
+    "field_bio": [
+        {
+            "value": "<p>Interlibrary Loan Librarian - secures access to information not available at the Florida State University Libraries. Provides library service to the FSU Distance Education Community. Assists Subject Liaisons with Collection Development.<\/p>\r\n\r\n<hr>",
+            "format": "full_html"
+        }
+    ],
     "field_building": [
         {
             "value": "Strozier Library"
@@ -115,5 +131,14 @@
             "value": "026"
         }
     ],
-    "user_picture": []
+    "user_picture": [
+        {
+            "alt": "",
+            "title": "",
+            "width": 150,
+            "height": 200,
+            "target_type": "file",
+            "target_uuid": "10e454e0-f4aa-4b9e-8711-56f75101ef77"
+        }
+    ]
 }
