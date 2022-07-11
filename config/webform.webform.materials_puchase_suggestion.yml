@@ -12,7 +12,94 @@ id: materials_puchase_suggestion
 title: 'Materials Puchase Suggestion'
 description: 'For suggesting materials to purchase'
 category: ''
-elements: null
+elements: |-
+  processed_text:
+    '#type': processed_text
+    '#text': |
+      <p>Please use this form to request materials for library purchase.</p>
+
+      <ul>
+      	<li>Purchase decisions are made by <a href="/help/subject-librarians">subject librarians.</a></li>
+      	<li>Priority is given to materials requested that support the research and curricular needs of the FSU academic community.</li>
+      	<li>Priority is given to the requests of faculty members and instructors in direct support of research or classroom instruction.</li>
+      	<li>The FSU Libraries does not purchase commercial textbooks from publishers such as Pearson, Cengage, McGraw Hill, or Oxford University Press. Publishers such as these do not sell e-textbooks to libraries.</li>
+      </ul>
+
+      <p>For more information on the FSU Libraries’ collection building activities, please refer to the <a href="/about/collection-strategies">Collections Strategies webpage.</a></p>
+    '#format': basic_html
+  last_name:
+    '#type': textfield
+    '#title': 'Last Name'
+  first_name:
+    '#type': textfield
+    '#title': 'First Name'
+  email_address:
+    '#type': textfield
+    '#title': 'Email Address'
+  fsu_department:
+    '#type': webform_term_select
+    '#title': 'FSU Department'
+    '#vocabulary': fsu_departments
+    '#breadcrumb_delimiter': ''
+  fsu_status:
+    '#type': select
+    '#title': 'FSU Status'
+    '#options':
+      Faculty: Faculty
+      'Teaching Assistant': 'Teaching Assistant'
+      'Graduate Assistant': 'Graduate Assistant'
+      'Undergraduate Student': 'Undergraduate Student'
+      Other: Other
+  suggested_item:
+    '#type': webform_custom_composite
+    '#title': 'Suggested Item'
+    '#element':
+      type:
+        '#type': select
+        '#options':
+          book: Book
+          book_chapter: 'Book Chapter'
+          ebook: ebook
+          dvd: DVD
+          streaming_video: 'Streaming Video'
+          journal: Journal
+          database: Database
+        '#required': true
+        '#title': 'Item Type'
+      title:
+        '#type': textfield
+        '#required': true
+        '#title': Title
+      author:
+        '#type': textfield
+        '#title': Author
+      issn_isbn:
+        '#type': textfield
+        '#title': ISSN/ISBN
+      year:
+        '#type': textfield
+        '#title': Year
+      publisher:
+        '#type': textfield
+        '#title': Publisher
+      rush:
+        '#type': radios
+        '#options': yes_no
+        '#title': 'Do you wish to rush this request?'
+        '#yes': 'Yes'
+        '#no': 'No'
+      required:
+        '#type': radios
+        '#options': yes_no
+        '#title': 'Is this required reading or viewing for a course?'
+        '#yes': 'Yes'
+        '#no': 'No'
+      notes:
+        '#type': textarea
+        '#title': Notes
+      fund_code:
+        '#type': textfield
+        '#title': 'Fund Code'
 css: ''
 javascript: ''
 settings:

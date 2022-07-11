@@ -10,7 +10,7 @@ template: false
 archive: false
 id: led_library_express_delivery_reg
 title: 'Library Express Delivery Registration'
-description: ''
+description: 'A form for LEDs registration'
 category: ''
 elements: |-
   markup:

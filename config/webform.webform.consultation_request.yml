@@ -276,13 +276,13 @@ handlers:
     settings:
       states:
         - completed
-      to_mail: _default
+      to_mail: '[webform_submission:values:your_email_address:raw]'
       to_options: {  }
       bcc_mail: ''
       bcc_options: {  }
       cc_mail: ''
       cc_options: {  }
-      from_mail: _default
+      from_mail: do-not-reply@lib.fsu.edu
       from_options: {  }
       from_name: _default
       reply_to: ''
@@ -313,13 +313,13 @@ handlers:
     settings:
       states:
         - completed
-      to_mail: webdev@fsu.edu
+      to_mail: 'lwharton@fsu.edu, twyckoff@fsu.edu, rjulian@fsu.edu, dschoonover@fsu.edu'
       to_options: {  }
       bcc_mail: ''
       bcc_options: {  }
       cc_mail: ''
       cc_options: {  }
-      from_mail: '[site:mail]'
+      from_mail: do-not-reply@lib.fsu.edu
       from_options: {  }
       from_name: _default
       reply_to: ''

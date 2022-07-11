@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-07-07T14:20:23+00:00",
+            "value": "2022-07-11T17:03:54+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-07-07T14:20:23+00:00",
+            "value": "2022-07-11T17:03:54+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -136,7 +136,16 @@
             "target_uuid": "e5afa1bd-01ba-4121-ac19-f48c343551f4"
         }
     ],
-    "field_study_space_type": [],
+    "field_study_space_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "c2ec4447-b7ff-4a5a-9b52-28785e9321cd"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "6ab12dd1-73c6-4d9b-895c-6528732521a7"
+        }
+    ],
     "field_thumbnail": [
         {
             "target_type": "media",

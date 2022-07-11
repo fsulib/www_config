@@ -58,10 +58,11 @@ elements: |-
     '#type': email
     '#title': 'Your Email address'
     '#required': true
-  department:
-    '#type': textfield
-    '#title': Department
-    '#required': true
+  fsu_department:
+    '#type': webform_term_select
+    '#title': 'FSU Department'
+    '#vocabulary': fsu_departments
+    '#breadcrumb_delimiter': ''
   course_title_number:
     '#type': textfield
     '#title': 'Course Title & Number'

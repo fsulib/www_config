@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "f447fc7b-6fca-4098-ac82-03b1d7595bf6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "filename": [
+        {
+            "value": "Test file.docx"
+        }
+    ],
+    "uri": [
+        {
+            "value": "private:\/\/webform\/ask_us_a_tutoring_question\/25\/Test file.docx"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 11739
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-11T18:46:48+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-11T18:47:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

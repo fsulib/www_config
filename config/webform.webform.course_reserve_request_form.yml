@@ -10,7 +10,7 @@ template: false
 archive: false
 id: course_reserve_request_form
 title: 'Course Reserve Request Form'
-description: ''
+description: 'A form for requesting materials be placed on course reserves.'
 category: ''
 elements: |-
   markup:

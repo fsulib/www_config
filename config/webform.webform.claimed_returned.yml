@@ -10,7 +10,7 @@ template: false
 archive: false
 id: claimed_returned
 title: 'Claim Returned'
-description: ''
+description: 'This form is for reporting claimed returned of materials.'
 category: ''
 elements: |-
   description:
@@ -337,7 +337,7 @@ handlers:
       bcc_options: {  }
       cc_mail: ''
       cc_options: {  }
-      from_mail: _default
+      from_mail: lib-recalls@fsu.edu
       from_options: {  }
       from_name: _default
       reply_to: ''

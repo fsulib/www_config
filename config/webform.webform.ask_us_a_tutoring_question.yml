@@ -10,7 +10,7 @@ template: false
 archive: false
 id: ask_us_a_tutoring_question
 title: 'Ask us a Tutoring Question'
-description: ''
+description: 'This form is for tutoring related questions going to lib-tutoring@fsu.edu'
 category: ''
 elements: |-
   text:
@@ -273,21 +273,21 @@ handlers:
     settings:
       states:
         - completed
-      to_mail: _default
+      to_mail: '[webform_submission:values:email_address:raw]'
       to_options: {  }
       bcc_mail: ''
       bcc_options: {  }
       cc_mail: ''
       cc_options: {  }
-      from_mail: _default
+      from_mail: lib-tutoring@fsu.edu
       from_options: {  }
       from_name: _default
       reply_to: ''
       return_path: ''
       sender_mail: ''
       sender_name: ''
-      subject: _default
-      body: _default
+      subject: 'FSU Libraries has recieved your tutoring question'
+      body: 'Thank you for submitting your tutoring question. Responses should generally take less than 24 hours, Monday through Friday.'
       excluded_elements: {  }
       ignore_access: false
       exclude_empty: true

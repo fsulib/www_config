@@ -10,7 +10,7 @@ template: false
 archive: false
 id: led_library_express_delivery_mat
 title: 'Library Express Delivery Materials Pickup Request'
-description: ''
+description: 'A form for LEDs pick up requests.'
 category: ''
 elements: |-
   last_name:
