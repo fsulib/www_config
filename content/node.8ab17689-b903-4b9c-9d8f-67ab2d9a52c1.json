@@ -84,14 +84,14 @@
             "langcode": "en"
         }
     ],
-    "field_init_leads": [
-        {
-            "value": "Louis Brooks\r\nJeff Hipsher\r\nApril Lovett\r\nJonathan DaSo\r\nLindsey Wharton"
-        }
-    ],
     "field_initiative_description": [
         {
             "value": "This initiative would provide ten Wifi hotspots from Mobile Citizen to make available for checkout to students through the ASD Tech Desk for a period of three days. During the pilot timeframe, we will evaluate the need for hotspots based upon demand (and other data), and also conduct a benchmarking analysis of supply\/demand and policies\/procedures with comparable institutions. Based on the results of this pilot project, the sponsors will recommend if it is feasible to add this as a permanent library service and reach out to partners across the institution to expand the program."
+        }
+    ],
+    "field_init_leads": [
+        {
+            "value": "Louis Brooks\r\nJeff Hipsher\r\nApril Lovett\r\nJonathan DaSo\r\nLindsey Wharton"
         }
     ],
     "field_related_links": [],

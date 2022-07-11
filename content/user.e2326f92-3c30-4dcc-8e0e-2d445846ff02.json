@@ -78,7 +78,6 @@
             "value": true
         }
     ],
-    "field__request_a_consultation_": [],
     "field_bio": [
         {
             "value": "<p>Adam Beauchamp is a Humanities Librarian at Florida State University Libraries serving as liaison to the departments of History, Philosophy, and Religion. His responsibilities include research support, information literacy instruction, and collection development in these disciplines. Prior to joining FSU, Adam was Research &amp; Instruction Librarian for Social Sciences, and later Assessment &amp; User Experience Librarian, at Tulane University. Adam completed his Master of Library and Information Science degree at Louisiana State University. He completed his Bachelor of Arts degree in History at Niagara University and earned a Master of Arts degree in History from Tulane University, where he studied Latin American history. Adam\u2019s current research interests include critical pedagogy, ethical assessment and research in libraries, and the historical relationship of archives and libraries to colonialism.<\/p>\r\n\r\n<hr>\r\n",
@@ -143,6 +142,7 @@
             "value": "027G"
         }
     ],
+    "field__request_a_consultation_": [],
     "user_picture": [
         {
             "alt": "",

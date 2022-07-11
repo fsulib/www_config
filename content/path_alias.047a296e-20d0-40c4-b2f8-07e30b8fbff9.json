@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "047a296e-20d0-40c4-b2f8-07e30b8fbff9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/36a070eb-4f2f-4c62-8f1f-08a4a5af9739"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/special-collections\/heritage-and-university-archives\/covid-19-project"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

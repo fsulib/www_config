@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "50ed4615-e5b5-4cbe-af2d-45893aebf68f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/8d66b3cb-e14f-433f-9d16-8b812f53b7a1"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/special-collections\/claude-pepper\/teacher-resources"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -99,9 +99,7 @@
             "options": []
         }
     ],
-    "field_content_image": [
-        []
-    ],
+    "field_content_image": [],
     "field_image_and_details": [
         {
             "value": "<div class=\"s3-p-0 s3-txt-m-l s3\">\r\n    <div class=\"row\">\r\n        <div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n            <img src=\"\/sites\/default\/files\/2022-07\/Scholars Commons Instruction Room.png\" class=\"img-responsive\" alt=\"\">\r\n        <\/div>\r\n        <div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n            <p><strong>Location: <\/strong>Strozier Library<\/p>\r\n\r\n<p><strong>Capacity: <\/strong>Up to 8 people<\/p>\r\n\r\n<p><strong>Reservation Policies: <\/strong>Email Brew Schoonover for reservation requests.<\/p>\r\n<p><strong>Available to: <\/strong>FSU Graduate and Faculty<\/p>\r\n<button type=\"button\" class=\"btn btn-md s3-gd\" style=><a href=\"mailto:dschoonover@fsu.edu\">Use this space<\/a><\/button>\r\n        <\/div>\r\n\r\n    <\/div>\r\n<\/div>\r\n\r\n        ",

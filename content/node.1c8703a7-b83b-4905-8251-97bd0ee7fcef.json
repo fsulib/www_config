@@ -84,14 +84,14 @@
             "langcode": "en"
         }
     ],
-    "field_init_leads": [
-        {
-            "value": "Priscilla Hunt"
-        }
-    ],
     "field_initiative_description": [
         {
             "value": "The Human Library Project consists of individuals of various backgrounds that make themselves readily available to scholars on campus, as a \u201cbook\u201d to be checked out and interviewed as a means of exploring diversity through open minded conversation. The goal of the Human Library Project is to provide a safe space for our scholars to gain perspective and understanding of individuals with unique  experiences and stories. Many university libraries across the world are hosts for the Human Library, see FAU\u2019s example."
+        }
+    ],
+    "field_init_leads": [
+        {
+            "value": "Priscilla Hunt"
         }
     ],
     "field_related_links": [],

@@ -83,7 +83,6 @@
             "value": true
         }
     ],
-    "field__request_a_consultation_": [],
     "field_bio": [
         {
             "value": "<p>Renaine Julian is the Director of STEM Libraries at Florida State University. In this role, he leads a team of science librarians and staff that provide support for STEM scholars across the research and learning lifecycles. Renaine has a MLIS, a MS in Urban and Regional Planning and a BS in Political Science all from Florida State University. His research interests include: library leadership and administration, research data management, and open science.<\/p>\r\n\r\n<hr>",
@@ -148,6 +147,7 @@
             "value": "205A "
         }
     ],
+    "field__request_a_consultation_": [],
     "user_picture": [
         {
             "alt": "",

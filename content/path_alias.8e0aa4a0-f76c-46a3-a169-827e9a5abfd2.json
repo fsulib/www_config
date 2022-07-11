@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "8e0aa4a0-f76c-46a3-a169-827e9a5abfd2"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/efec5ffb-0c74-4d4a-b69b-0cda9c5cd34c"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/about\/facts-and-figures"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

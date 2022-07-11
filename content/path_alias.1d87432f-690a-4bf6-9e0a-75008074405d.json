@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "1d87432f-690a-4bf6-9e0a-75008074405d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/aaca749b-817d-4ab4-9732-2646b61445bf"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/special-collections-and-archives\/heritage-and-university-archives"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

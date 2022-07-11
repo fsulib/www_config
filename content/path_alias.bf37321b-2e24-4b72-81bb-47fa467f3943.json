@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "bf37321b-2e24-4b72-81bb-47fa467f3943"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/772e0753-1971-4cc4-8931-18aa4facfe64"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/visit\/equipment\/keyboard"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

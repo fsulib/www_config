@@ -84,14 +84,14 @@
             "langcode": "en"
         }
     ],
-    "field_init_leads": [
-        {
-            "value": "Sarah Stanley\r\nMatt Hunter"
-        }
-    ],
     "field_initiative_description": [
         {
             "value": "This new initiative will provide web hosting for digital projects through an educational technology company called Reclaim Hosting. This service would be available to any FSU faculty members, graduate students, or undergraduate Honors students who wants a web domain to host content related to their research, meeting both research and pedagogical needs for which there is currently no solution on campus."
+        }
+    ],
+    "field_init_leads": [
+        {
+            "value": "Sarah Stanley\r\nMatt Hunter"
         }
     ],
     "field_related_links": [],

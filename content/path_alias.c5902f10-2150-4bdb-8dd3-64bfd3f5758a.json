@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "c5902f10-2150-4bdb-8dd3-64bfd3f5758a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/0359a99d-26ef-4bb8-a616-f27927aca129"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/special-collections\/visit\/tours"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

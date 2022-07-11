@@ -84,14 +84,14 @@
             "langcode": "en"
         }
     ],
-    "field_init_leads": [
-        {
-            "value": "Liz Dunne\r\nLisa Play"
-        }
-    ],
     "field_initiative_description": [
         {
             "value": "Led by the Teaching, Learning & Engagement Instruction & Reference Unit, the Reference & Instruction Librarian and Library Instruction Specialist will use Articulate 360, a suite of e-learning authoring applications, to create online learning objects, such as web-based lessons and modules that can integrate with Canvas. This work will meet the information literacy-related instruction needs of FSU learners in an accessible and mobile-friendly format. We will also use the software to create asynchronous internal training materials. These materials will support employee onboarding processes as well as library-wide projects. Other library personnel will also be trained on how to use the software if they identify a need to create online learning materials related to their operations and areas of expertise."
+        }
+    ],
+    "field_init_leads": [
+        {
+            "value": "Liz Dunne\r\nLisa Play"
         }
     ],
     "field_related_links": [],

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "9c467306-f93e-4548-8686-d0c3083c8bbb"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/85834a79-bf09-46d2-b3d4-456b5e46e89c"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/teaching-and-learning\/course-materials\/etextbooks"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

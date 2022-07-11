@@ -84,14 +84,14 @@
             "langcode": "en"
         }
     ],
-    "field_init_leads": [
-        {
-            "value": "Krystal Thomas\r\nKatie McCormick\r\nMalcolm Shackelford\r\nDavid Rodriguez\r\nLouis Brooks"
-        }
-    ],
     "field_initiative_description": [
         {
             "value": "Create a preservation system for born digital and digitized materials to meet the needs of the FSU Libraries Digital Preservation Framework in AWS using Archivematica (AM), an open source software. Enable AM to work with DigiNole to allow for simplification of ingest processes for both access and preservation. Enable Ringling Museum to access AM as a test case for further expansion of service to other organizations."
+        }
+    ],
+    "field_init_leads": [
+        {
+            "value": "Krystal Thomas\r\nKatie McCormick\r\nMalcolm Shackelford\r\nDavid Rodriguez\r\nLouis Brooks"
         }
     ],
     "field_related_links": [],

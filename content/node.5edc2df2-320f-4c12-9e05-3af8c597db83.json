@@ -84,14 +84,14 @@
             "langcode": "en"
         }
     ],
-    "field_init_leads": [
-        {
-            "value": "Jessica Barmon\r\nSarah Miller\r\nSusannah Miller\r\nLouis Brooks\r\nMallary Rawl\r\nTheresa Haworth"
-        }
-    ],
     "field_initiative_description": [
         {
             "value": "This strategic initiative will create a group charged with organizing and implementing an on-boarding process for new Libraries faculty and staff. This includes the creation of a workflow that helps new employees understand how the Libraries work, who we are, and how we communicate. While there is a goal to create a comprehensive workflow for new employees and their supervisors, this will also create a positive experience while they adjust to their new working environments and colleagues."
+        }
+    ],
+    "field_init_leads": [
+        {
+            "value": "Jessica Barmon\r\nSarah Miller\r\nSusannah Miller\r\nLouis Brooks\r\nMallary Rawl\r\nTheresa Haworth"
         }
     ],
     "field_related_links": [],

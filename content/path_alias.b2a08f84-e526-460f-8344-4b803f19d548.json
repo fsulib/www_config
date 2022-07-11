@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "b2a08f84-e526-460f-8344-4b803f19d548"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/1faa49fd-6d5b-49a4-8348-fa23d389ba37"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/special-collections\/exhibits-and-events\/past-exhibits"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

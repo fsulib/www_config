@@ -84,14 +84,14 @@
             "langcode": "en"
         }
     ],
-    "field_init_leads": [
-        {
-            "value": "Kelly Grove"
-        }
-    ],
     "field_initiative_description": [
         {
             "value": "The development and implementation of GIS and spatial data services within the library are designed to enhance data information literacy and critical thinking skills throughout the FSU community but with a focus on STEM scholars. This will be done through educational and research services to students and faculty that enhance their data information literacy competencies. These services compliment existing GIS services in other campus units and departments by providing open source alternatives as well as integrating open science concepts into spatial data research and teaching."
+        }
+    ],
+    "field_init_leads": [
+        {
+            "value": "Kelly Grove"
         }
     ],
     "field_related_links": [],

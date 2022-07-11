@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "108c1131-8ee6-43bc-a8b2-09a253f89edc"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/a6dcfa9a-7cb5-4e0a-bda3-d2e9f8cc3ac8"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/special-collections\/heritage-and-university-archives\/exhibits"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

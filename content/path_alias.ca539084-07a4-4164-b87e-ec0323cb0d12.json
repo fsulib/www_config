@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "ca539084-07a4-4164-b87e-ec0323cb0d12"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/54f5cee9-af31-43e0-92b7-dd438af6b06e"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/special-collections\/faq"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

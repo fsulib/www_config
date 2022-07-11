@@ -83,13 +83,6 @@
             "value": true
         }
     ],
-    "field__request_a_consultation_": [
-        {
-            "uri": "internal:\/help\/consultation?librarian=",
-            "title": "Request a Consultation",
-            "options": []
-        }
-    ],
     "field_bio": [
         {
             "value": "<p>Shaun Saxon is the library director at the FSU Panama City Campus. He holds a B.A. in English from the University of West Florida and an M.S. in Library and Information Studies from Florida State University. He has experience in public, government, and academic libraries and served with distinction in the U.S. Navy and Marine Corps as an FMF Hospital Corpsman. Other past professions contributing to his generalist capabilities include professional photographer, web usability consultant, farm hand, and textile plant mechanic. In collaboration with the Tallahassee campus subject specialists, he serves the instruction and research needs for all programs at the Panama City Campus.<\/p>\r\n\r\n<hr>",
@@ -144,6 +137,13 @@
     "field_room_number": [
         {
             "value": "A110"
+        }
+    ],
+    "field__request_a_consultation_": [
+        {
+            "uri": "internal:\/help\/consultation?librarian=",
+            "title": "Request a Consultation",
+            "options": []
         }
     ],
     "user_picture": [

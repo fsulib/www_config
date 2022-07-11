@@ -84,14 +84,14 @@
             "langcode": "en"
         }
     ],
-    "field_init_leads": [
-        {
-            "value": "Nick Ruhs"
-        }
-    ],
     "field_initiative_description": [
         {
             "value": "Building a community of STEM Data Scholars at FSU will increase data literacy by allowing the Libraries to expand the reach and impact of research data services across the STEM community. This will be achieved through the creation of a STEM data fellowship program where paid student employees will teach and collaborate with STEM scholars. It will also allow the Libraries to leverage the expertise of our community in order to solve data related problems, enable interdisciplinary collaboration, and foster engagement around topics related to open data and open science."
+        }
+    ],
+    "field_init_leads": [
+        {
+            "value": "Nick Ruhs"
         }
     ],
     "field_related_links": [],
