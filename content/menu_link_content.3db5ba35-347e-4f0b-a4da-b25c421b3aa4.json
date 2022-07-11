@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "89fdc6ac-5ab1-4177-8710-629c97f5ac65"
+            "value": "3db5ba35-347e-4f0b-a4da-b25c421b3aa4"
         }
     ],
     "langcode": [
@@ -16,7 +16,7 @@
     ],
     "revision_created": [
         {
-            "value": "2022-07-07T15:23:59+00:00",
+            "value": "2022-07-10T20:03:35+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -29,18 +29,18 @@
     ],
     "title": [
         {
-            "value": "Accessibility"
+            "value": "Citation Guide"
         }
     ],
     "description": [],
     "menu_name": [
         {
-            "value": "visit-and-study"
+            "value": "teaching-and-learning"
         }
     ],
     "link": [
         {
-            "uri": "internal:\/visit\/accessibility",
+            "uri": "https:\/\/guides.lib.fsu.edu\/citations",
             "title": "",
             "options": []
         }
@@ -52,12 +52,12 @@
     ],
     "rediscover": [
         {
-            "value": true
+            "value": false
         }
     ],
     "weight": [
         {
-            "value": -50
+            "value": 0
         }
     ],
     "expanded": [
@@ -68,7 +68,7 @@
     "parent": [],
     "changed": [
         {
-            "value": "2022-07-10T20:01:53+00:00",
+            "value": "2022-07-10T20:03:35+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],

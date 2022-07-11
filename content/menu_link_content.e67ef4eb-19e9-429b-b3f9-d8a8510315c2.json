@@ -29,7 +29,7 @@
     ],
     "title": [
         {
-            "value": "Visit"
+            "value": "Visit Special Collections"
         }
     ],
     "description": [],
@@ -57,7 +57,7 @@
     ],
     "weight": [
         {
-            "value": 0
+            "value": -48
         }
     ],
     "expanded": [
@@ -68,7 +68,7 @@
     "parent": [],
     "changed": [
         {
-            "value": "2022-06-17T17:14:32+00:00",
+            "value": "2022-07-10T22:55:41+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],

@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-06-29T18:00:39+00:00",
+            "value": "2022-07-10T22:53:07+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-29T18:00:39+00:00",
+            "value": "2022-07-10T22:53:07+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -85,7 +85,7 @@
     ],
     "body": [
         {
-            "value": "<div class=\"five-by-two-column-table\" id=\"sca-home-page-gallery\">\r\n\t<div class=\"first-column\" id=\"research\"><a href=\/special-collections\/research\" class=\"no-underline\">Research<\/a><\/div>\r\n\t<div class=\"second-column\" id=\"visit\"><a href=\"\/special-collections\/visit\" class=\"no-underline\">Visit<\/a><\/div>\r\n\t<div class=\"third-column\" id=\"collections\"><a href=\"\/special-collections\/collections\" class=\"no-underline\">Collections<\/a><\/div>\r\n\t<div class=\"fourth-column\" id=\"catalogs-databases\"><a href=\"\/special-collections\/catalogs-and-databases\" class=\"no-underline\">Catalogs<br \/>\r\n\t\t&amp; Databases<\/a><\/div>\r\n\t<div class=\"fifth-column\" id=\"exhibits-events\"><a href=\"\/special-collections\/visit\/exhibits-and-events\" class=\"no-underline\">Exhibits &amp; Events<\/a><\/div>\r\n\t<div class=\"sixth-column\" id=\"heritage-protocol\"><a href=\"\/special-collections\/heritage-and-archives\" class=\"no-underline\">Heritage &amp;<br \/>\r\n\t\tUniversity<br \/>\r\n\t\tArchives<\/a><\/div>\r\n\t<div class=\"seventh-column\" id=\"pepper-library\"><a href=\"\/special-collections\/claude-pepper\" class=\"no-underline\">Claude Pepper<br \/>Library<\/a><\/div>\r\n\t<div class=\"eighth-column\" id=\"digital-library\"><a href=\"\/special-collections\/digital-library-center\" class=\"no-underline\">Digital Library<br \/>\r\n\t\tCenter<\/a><\/div>\r\n\t<div class=\"ninth-column\" id=\"about\"><a href=\"\/sca\/about\" class=\"no-underline\">About<\/a><\/div>\r\n\t<div class=\"tenth-column\" id=\"faqs\"><a href=\"\/special-collections\/faq\" class=\"no-underline\">FAQ<\/a><\/div>\r\n<\/div>\r\n",
+            "value": "<div class=\"five-by-two-column-table\" id=\"sca-home-page-gallery\">\r\n\t<div class=\"first-column\" id=\"research\"><a href=\"\/special-collections\/research\" class=\"no-underline\">Research<\/a><\/div>\r\n\t<div class=\"second-column\" id=\"visit\"><a href=\"\/special-collections\/visit\" class=\"no-underline\">Visit<\/a><\/div>\r\n\t<div class=\"third-column\" id=\"collections\"><a href=\"\/special-collections\/collections\" class=\"no-underline\">Collections<\/a><\/div>\r\n\t<div class=\"fourth-column\" id=\"catalogs-databases\"><a href=\"\/special-collections\/catalogs-and-databases\" class=\"no-underline\">Catalogs<br \/>\r\n\t\t&amp; Databases<\/a><\/div>\r\n\t<div class=\"fifth-column\" id=\"exhibits-events\"><a href=\"\/special-collections\/visit\/exhibits-and-events\" class=\"no-underline\">Exhibits &amp; Events<\/a><\/div>\r\n\t<div class=\"sixth-column\" id=\"heritage-protocol\"><a href=\"\/special-collections\/heritage-and-archives\" class=\"no-underline\">Heritage &amp;<br \/>\r\n\t\tUniversity<br \/>\r\n\t\tArchives<\/a><\/div>\r\n\t<div class=\"seventh-column\" id=\"pepper-library\"><a href=\"\/special-collections\/claude-pepper\" class=\"no-underline\">Claude Pepper<br \/>Library<\/a><\/div>\r\n\t<div class=\"eighth-column\" id=\"digital-library\"><a href=\"\/special-collections\/digital-library-center\" class=\"no-underline\">Digital Library<br \/>\r\n\t\tCenter<\/a><\/div>\r\n\t<div class=\"ninth-column\" id=\"about\"><a href=\"\/sca\/about\" class=\"no-underline\">About<\/a><\/div>\r\n\t<div class=\"tenth-column\" id=\"faqs\"><a href=\"\/special-collections\/faq\" class=\"no-underline\">FAQ<\/a><\/div>\r\n<\/div>\r\n",
             "format": "full_html",
             "summary": ""
         }

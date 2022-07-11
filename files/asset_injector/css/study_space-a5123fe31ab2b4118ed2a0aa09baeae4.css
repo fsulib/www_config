@@ -8,14 +8,14 @@ border: 1px solid #ccc;
 margin-right: 20px;
 margin-bottom: 20px;
 max-width: 250px;
-max-height:375px;
+max-height:400px;
 box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 background-color: #f3ede1;
 }
 
 /*column styling*/
 .study-spaces .views-col{
-  min-height:350px;
+  min-height:400px;
 }
 
 .equipment .views-col {

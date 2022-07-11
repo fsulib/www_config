@@ -1,0 +1,35 @@
+uuid: 2870d683-4955-4f23-8d46-2acbd5c25a89
+langcode: en
+status: true
+dependencies:
+  module:
+    - context
+    - system
+id: special_collections_main_page
+label: 'Special Collections Main Page'
+code: |-
+  .special-collections-hours{
+  float: right;
+  width: 40%;
+  }
+  .special-collections-hours .table  {
+  border: 1px solid #CCC;
+  margin-bottom:15px;
+  }
+media: all
+preprocess: true
+conditions:
+  context_all:
+    id: context_all
+    negate: null
+    values: ''
+  context:
+    id: context
+    negate: null
+    values: ''
+  request_path:
+    id: request_path
+    negate: false
+    pages: /special-collections-and-archives
+contexts: {  }
+conditions_require_all: true

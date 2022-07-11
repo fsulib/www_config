@@ -1,0 +1,65 @@
+{
+    "uuid": [
+        {
+            "value": "9ed11bb3-f52a-40f2-8ef3-f46c95d2f586"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "basic",
+            "target_type": "block_content_type",
+            "target_uuid": "bd93dd8d-71b1-4c0e-99e8-a4004533c089"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-07-10T05:19:01+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "info": [
+        {
+            "value": "Tutoring Hours and Contact"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-10T05:25:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "reusable": [
+        {
+            "value": true
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><strong>Fall 2022 Hours<\/strong><\/p>\r\n\r\n<p><strong>Strozier Library:<\/strong><br \/>\r\nSunday - Wednesday<br \/>\r\n8pm to midnight<\/p>\r\n\r\n<p><strong>Dirac Science Library:<\/strong><br \/>\r\nSunday - Wednesday<br \/>\r\n8pm to midnight<\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ]
+}

@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-06-30T15:41:26+00:00",
+            "value": "2022-07-11T00:10:50+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-30T15:41:26+00:00",
+            "value": "2022-07-11T00:10:50+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -83,11 +83,17 @@
             "langcode": "en"
         }
     ],
-    "body": [],
+    "body": [
+        {
+            "value": "<h2>FSU Libraries Statistics<\/h2>\r\n\r\n<p>FSU Libraries use data to drive its decision-making to improve access, services, and collections for the FSU community. Annually we report on collections and their circulation (digital and physical), expenditures, staffing, gate counts, reference, and instruction statistics.<\/p>\r\n<p>We report statistics by fiscal year (July 1 to June 30 the following year) to the Association of Research Libraries (ARL), Association for College &amp; Research Libraries (ACRL) and to the Integrated Postsecondary Education Data System (IPEDS) American Libraries (AL) survey.<\/p>\r\n\r\n<h3 style=\"text-align: center;\">FSU Libraries ARL Statistics<\/h3>\r\n<p><iframe allowfullscreen=\"true\" frameborder=\"0\" height=\"500\" src=\"https:\/\/app.powerbi.com\/view?r=eyJrIjoiZDQ4MjZjNTgtNmQ4OC00NmE1LWFjN2MtNjViMmY2M2YzODczIiwidCI6ImEzNjQ1MGViLWRiMDYtNDJhNy04ZDFiLTAyNjcxOWY3MDFlMyIsImMiOjF9&amp;pageName=ReportSection\" width=\"900\"><\/iframe><\/p>\r\n<h3>FSU Data &amp; Reports<\/h3>\r\n<p>FSU Libraries gathers data and reports for both internal and external stakeholders and to provide data to improve resources, services, and spaces for students and faculty.<\/p>\r\n<ul>\r\n<li><h4><a href=\"\">Access<\/a><\/h5><\/li>\r\n<li><h4><a href=\"\">ARL Statistics<\/a><\/h5><\/li>\r\n<li><h4><a href=\"\">Collections<\/a><\/h5><\/li>\r\n<li><h4><a href=\"\">Summary Statistics<\/a><\/h5><\/li>\r\n<\/ul>\r\n<p>&nbsp;<\/p>\r\n<h6>Adapted from UW libraries under CC-BY NC 4.0.<\/h6>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
     "field_related_menu": [
         {
             "target_type": "taxonomy_term",
-            "target_uuid": "23033508-54fe-4544-90aa-22a0b003dad1"
+            "target_uuid": "538f48be-ec3d-4f3a-a2bb-1b33abf56b50"
         }
     ]
 }

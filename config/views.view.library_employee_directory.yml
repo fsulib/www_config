@@ -1039,7 +1039,7 @@ display:
           exclude: false
           alter:
             alter_text: true
-            text: "<a href=\"/user/{{uid}}\">{{ field_preferred_name is not empty ? field_preferred_name : field_first_name }} {{ field_last_name }} </a>\r\n\r\n"
+            text: "{{ field_preferred_name is not empty ? field_preferred_name : field_first_name }} {{ field_last_name }}\r\n\r\n"
             make_link: false
             path: ''
             absolute: false
@@ -1937,7 +1937,7 @@ display:
           type: number_integer
           settings:
             thousand_separator: ''
-            prefix_suffix: true
+            prefix_suffix: false
           group_column: value
           group_columns: {  }
           group_rows: true
@@ -2086,7 +2086,7 @@ display:
           exclude: false
           alter:
             alter_text: true
-            text: '<a href="/user/{{uid}}">{{ field_preferred_name is not empty ? field_preferred_name : field_first_name }} {{ field_last_name }} </a>'
+            text: '{{ field_preferred_name is not empty ? field_preferred_name : field_first_name }} {{ field_last_name }} </a>'
             make_link: false
             path: '<nolink>'
             absolute: false
@@ -2124,7 +2124,7 @@ display:
           empty_zero: false
           hide_alter_empty: true
           click_sort_column: value
-          type: user_name
+          type: string
           settings:
             link_to_entity: false
           group_column: value
@@ -2956,6 +2956,7 @@ display:
         options: {  }
       defaults:
         css_class: false
+        show_admin_links: false
         style: false
         row: false
         fields: false
@@ -2965,6 +2966,7 @@ display:
         header: false
       css_class: subject-librarians
       display_description: ''
+      show_admin_links: false
       header:
         area:
           id: area

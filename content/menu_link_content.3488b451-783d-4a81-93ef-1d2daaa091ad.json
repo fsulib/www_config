@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "89fdc6ac-5ab1-4177-8710-629c97f5ac65"
+            "value": "3488b451-783d-4a81-93ef-1d2daaa091ad"
         }
     ],
     "langcode": [
@@ -16,7 +16,7 @@
     ],
     "revision_created": [
         {
-            "value": "2022-07-07T15:23:59+00:00",
+            "value": "2022-07-10T22:53:30+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -29,18 +29,18 @@
     ],
     "title": [
         {
-            "value": "Accessibility"
+            "value": "Claude Pepper Library"
         }
     ],
     "description": [],
     "menu_name": [
         {
-            "value": "visit-and-study"
+            "value": "special-collections"
         }
     ],
     "link": [
         {
-            "uri": "internal:\/visit\/accessibility",
+            "uri": "internal:\/special-collections\/claude-pepper",
             "title": "",
             "options": []
         }
@@ -57,7 +57,7 @@
     ],
     "weight": [
         {
-            "value": -50
+            "value": -47
         }
     ],
     "expanded": [
@@ -68,7 +68,7 @@
     "parent": [],
     "changed": [
         {
-            "value": "2022-07-10T20:01:53+00:00",
+            "value": "2022-07-10T22:55:41+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],

@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-06-20T14:51:56+00:00",
+            "value": "2022-07-10T23:55:19+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-20T14:51:56+00:00",
+            "value": "2022-07-10T23:55:19+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -85,10 +85,15 @@
     ],
     "body": [
         {
-            "value": "<p><img alt=\"\" src=\"\/sites\/default\/files\/2022-06\/researchpageimage_webedit.jpg\" style=\"width: 850px; height: 463px;\" \/><\/p>\r\n<p>Our collections are available to FSU faculty, students, staff, scholars, and the general public for use in the Special Collections Research Center Reading Room in Strozier Library and in the Pepper Library Reading Room at the Claude Pepper Library.<\/p>\r\n<hr \/>\r\n<div class=\"three-column-table\">\r\n\t<div class=\"left-column\" style=\"text-align:center;\">\r\n\t\t<p><a href=\"\/form\/sca-research-consultation\" target=\"_self\"><img alt=\"Consultation Icon\" src=\"\/sites\/default\/files\/sites\/default\/files\/upload\/sca\/ResearchPage\/Consult_romzicon_Consultation_NP_garnet.jpg\" style=\"width: 150px; height: 130px;\" \/><\/a><\/p>\r\n\t\t<h3><a href=\"\/form\/sca-research-consultation\" style=\"text-decoration:none;\" target=\"_self\">Schedule a Research Consultation <\/a><\/h3>\r\n\t\t<p>&nbsp;<\/p>\r\n\t\t<p><a href=\"\/special-collections\/citations-and-copyright><img alt=\"policies icon\" src=\"\/sites\/default\/files\/sites\/default\/files\/upload\/sca\/ResearchPage\/CC_MRFA_Publish_NP_garnet.jpg\" style=\"width: 150px; height: 118px;\" \/><\/a><\/p>\r\n\t\t<h3><a href=\"\/special-collections\/citations-and-copyright\" style=\"text-decoration:none;\">Citations &amp; Copyright Information<\/a><\/h3>\r\n\t<\/div>\r\n\t<div class=\"middle-column\">\r\n\t\t<center>\r\n\t\t\t<p><a href=\"\/special-collections\/visit\/reading-room-policies\" target=\"_self\"><img alt=\"policies icon\" src=\"\/sites\/default\/files\/sites\/default\/files\/upload\/sca\/ResearchPage\/Policies_andriwidodo_Rules_NP_garnet.jpg\" style=\"width: 150px; height: 128px;\" \/><\/a><\/p>\r\n\t\t\t<h3><a href=\"\/special-collections\/visit\/reading-room-policies\" style=\"text-decoration:none;\" target=\"_self\">Reading Room Policies<\/a><\/h3>\r\n\t\t\t<p>&nbsp;<\/p>\r\n\t\t\t<p><a href=\"https:\/\/fsu-flvc.primo.exlibrisgroup.com\/discovery\/search?vid=01FALSC_FSU:Home\" target=\"_self\"><img alt=\"Globe icon\" src=\"\/sites\/default\/files\/sites\/default\/files\/upload\/sca\/ResearchPage\/Search2_noun_894546_cc_garnet.jpg\" style=\"width: 150px; height: 117px;\" \/><\/a><\/p>\r\n\t\t\t<h3><a href=\"https:\/\/fsu-flvc.primo.exlibrisgroup.com\/discovery\/search?vid=01FALSC_FSU:Home\" style=\"text-decoration:none;\" target=\"_self\">Search our Collections<\/a><\/h3>\r\n\t\t<\/center>\r\n\t<\/div>\r\n\t<div class=\"right-column\">\r\n\t\t<center>\r\n\t\t\t<p><a href=\"\/special-collections\/visit\" target=\"_self\"><img alt=\"Visit Icon\" src=\"\/sites\/default\/files\/sites\/default\/files\/upload\/sca\/ResearchPage\/Visit_ArtemKovyazin_Museum_NP_garnet.jpg\" style=\"width: 150px; height: 126px;\" \/><\/a><\/p>\r\n\t\t\t<h3 style=\"text-align: center;\"><a href=\"\/special-collections\/visit\" style=\"text-decoration:none;\" target=\"_self\">Visit<\/a><\/h3>\r\n\t\t\t<p>&nbsp;<\/p>\r\n\t\t\t<p><a href=\"mailto:lib-specialcollections@fsu.edu\"><img alt=\"\" src=\"\/sites\/default\/files\/sites\/default\/files\/upload\/sca\/ResearchPage\/Contact_noun_982974_cc_garnet.jpg\" style=\"width: 150px; height: 102px;\" \/><\/a><\/p>\r\n\t\t\t<h3 style=\"text-align: center;\"><a href=\"mailto:lib-specialcollections@fsu.edu\" style=\"text-decoration:none;\" target=\"_self\">Contact Us<\/a><\/h3>\r\n\t\t<\/center>\r\n\t<\/div>\r\n<\/div>\r\n<p>&nbsp;<\/p>\r\n",
+            "value": "<img alt=\"\" src=\"\/sites\/default\/files\/2022-07\/researchpageimage.png\" style=\"width:100%;\"\/>\r\n<p>Our collections are available to FSU faculty, students, staff, scholars, and the general public for use in the Special Collections Research Center Reading Room in Strozier Library and in the Pepper Library Reading Room at the Claude Pepper Library.<\/p>\r\n<hr \/>\r\n\r\n<div class=\"s3-m-4\">\r\n<div class=\"row\">\r\n<div class=\"col-sm-4\" style=\"padding: 10px;\">\r\n<div style=\"min-height: 200px;\" class=\"s3-p-10 s3-gd3c feature-fixed feature-fixed-1 text-center blue-boxes\" >\r\n\r\n<h3><a href=\"\/form\/sca-research-consultation\">Schedule a Research Consultation<\/a><\/h3>\r\n\t\t\t\r\n<\/div>\r\n<img alt=\"\" class=\"img-responsive\" src=\"\/_\/s3\/img\/point\/point-gd1c.png\" \/><\/div>\r\n\r\n<div class=\"col-sm-4\" style=\"padding: 10px;\">\r\n<div style=\"min-height: 200px;\"  class=\"s3-p-10 s3-gd3c feature-fixed feature-fixed-1 text-center blue-boxes\">\r\n<h3><a href=\"\/special-collections\/citations-and-copyright\">Citations &amp; Copyright Information<\/a><\/h3>\r\n\t\t\t\r\n<\/div>\r\n<img alt=\"\" class=\"img-responsive\" src=\"\/_\/s3\/img\/point\/point-gd1c.png\" \/><\/div>\r\n\r\n<div class=\"col-sm-4\" style=\"padding: 10px;\">\r\n<div style=\"min-height: 200px;\" class=\"s3-p-10 s3-gd3c feature-fixed feature-fixed-1 text-center blue-boxes\">\r\n<h3><a href=\"\"\/special-collections\/visit\/reading-room-policies\">Reading Room Policies<\/a><\/h3>\r\n\t\t\t\r\n<img alt=\"\" class=\"img-responsive\" src=\"\/_\/s3.3\/img\/point\/point-gd1c.png\" \/><\/div>\r\n<\/div>\r\n<\/div>\r\n<div class=\"s3-m-4\">\r\n<div class=\"row\">\r\n<div class=\"col-sm-4\" style=\"padding: 10px;\">\r\n<div style=\"min-height: 200px;\" class=\"s3-p-10 s3-gd3c feature-fixed feature-fixed-1 text-center blue-boxes\" >\r\n\r\n<h3><a href=\"https:\/\/fsu-flvc.primo.exlibrisgroup.com\/discovery\/search?vid=01FALSC_FSU:Home\">Search our Collections<\/a><\/h3>\r\n\t\t\t\r\n<\/div>\r\n<img alt=\"\" class=\"img-responsive\" src=\"\/_\/s3\/img\/point\/point-gd1c.png\" \/><\/div>\r\n\r\n<div class=\"col-sm-4\" style=\"padding: 10px;\">\r\n<div style=\"min-height: 200px;\"  class=\"s3-p-10 s3-gd3c feature-fixed feature-fixed-1 text-center blue-boxes\">\r\n<h3><a href=\"\/special-collections\/visit\">Visit<\/a><\/h3>\r\n\t\t\t\r\n<\/div>\r\n<img alt=\"\" class=\"img-responsive\" src=\"\/_\/s3\/img\/point\/point-gd1c.png\" \/><\/div>\r\n\r\n<div class=\"col-sm-4\" style=\"padding: 10px;\">\r\n<div style=\"min-height: 200px;\" class=\"s3-p-10 s3-gd3c feature-fixed feature-fixed-1 text-center blue-boxes\">\r\n<h3><a href=\"mailto:lib-specialcollections@fsu.edu\">Contact Us<\/a><\/h3>\r\n\t\t\t\r\n<img alt=\"\" class=\"img-responsive\" src=\"\/_\/s3.3\/img\/point\/point-gd1c.png\" \/><\/div>\r\n<\/div>\r\n<\/div>\r\n",
             "format": "full_html",
             "summary": ""
         }
     ],
-    "field_related_menu": []
+    "field_related_menu": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "ac5f0c8b-0836-467b-9c4e-ad3038ca463e"
+        }
+    ]
 }

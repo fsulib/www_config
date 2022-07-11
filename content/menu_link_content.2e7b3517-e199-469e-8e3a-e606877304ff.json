@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "89fdc6ac-5ab1-4177-8710-629c97f5ac65"
+            "value": "2e7b3517-e199-469e-8e3a-e606877304ff"
         }
     ],
     "langcode": [
@@ -16,7 +16,7 @@
     ],
     "revision_created": [
         {
-            "value": "2022-07-07T15:23:59+00:00",
+            "value": "2022-07-10T20:04:32+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -24,23 +24,23 @@
     "revision_log_message": [],
     "enabled": [
         {
-            "value": true
+            "value": false
         }
     ],
     "title": [
         {
-            "value": "Accessibility"
+            "value": "Videos and Tutorials"
         }
     ],
     "description": [],
     "menu_name": [
         {
-            "value": "visit-and-study"
+            "value": "teaching-and-learning"
         }
     ],
     "link": [
         {
-            "uri": "internal:\/visit\/accessibility",
+            "uri": "route:<nolink>",
             "title": "",
             "options": []
         }
@@ -52,12 +52,12 @@
     ],
     "rediscover": [
         {
-            "value": true
+            "value": false
         }
     ],
     "weight": [
         {
-            "value": -50
+            "value": 0
         }
     ],
     "expanded": [
@@ -68,7 +68,7 @@
     "parent": [],
     "changed": [
         {
-            "value": "2022-07-10T20:01:53+00:00",
+            "value": "2022-07-10T20:04:58+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],

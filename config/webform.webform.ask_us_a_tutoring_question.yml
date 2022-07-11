@@ -28,6 +28,15 @@ elements: |-
     '#type': textfield
     '#title': 'Email Address'
     '#required': true
+  subject:
+    '#type': select
+    '#title': Subject
+    '#options':
+      'QuestionChemistry ': 'QuestionChemistry '
+      'Math Question': 'Math Question'
+      'Physics Question': 'Physics Question'
+      'Other Subject Question': 'Other Subject Question'
+      'General Tutoring Question': 'General Tutoring Question'
   question:
     '#type': textarea
     '#title': Question

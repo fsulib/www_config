@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "89fdc6ac-5ab1-4177-8710-629c97f5ac65"
+            "value": "fbd552ae-09b1-4de2-b222-cbf315666f88"
         }
     ],
     "langcode": [
@@ -16,7 +16,7 @@
     ],
     "revision_created": [
         {
-            "value": "2022-07-07T15:23:59+00:00",
+            "value": "2022-07-10T22:50:50+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -29,18 +29,18 @@
     ],
     "title": [
         {
-            "value": "Accessibility"
+            "value": "Collections"
         }
     ],
     "description": [],
     "menu_name": [
         {
-            "value": "visit-and-study"
+            "value": "special-collections"
         }
     ],
     "link": [
         {
-            "uri": "internal:\/visit\/accessibility",
+            "uri": "internal:\/special-collections\/collections",
             "title": "",
             "options": []
         }
@@ -68,7 +68,7 @@
     "parent": [],
     "changed": [
         {
-            "value": "2022-07-10T20:01:53+00:00",
+            "value": "2022-07-10T22:55:41+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],

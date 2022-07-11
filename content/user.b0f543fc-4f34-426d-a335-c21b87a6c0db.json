@@ -1,12 +1,12 @@
 {
     "uid": [
         {
-            "value": 57
+            "value": 138
         }
     ],
     "uuid": [
         {
-            "value": "d0293b5b-e2b2-4cf0-a2ae-f3228a838709"
+            "value": "b0f543fc-4f34-426d-a335-c21b87a6c0db"
         }
     ],
     "langcode": [
@@ -26,12 +26,12 @@
     ],
     "name": [
         {
-            "value": "srm09h"
+            "value": "tpower"
         }
     ],
     "mail": [
         {
-            "value": "shelly.schmucker@fsu.edu"
+            "value": "tpower@fsu.edu"
         }
     ],
     "timezone": [
@@ -46,13 +46,13 @@
     ],
     "created": [
         {
-            "value": "2022-06-03T21:10:33+00:00",
+            "value": "2022-07-10T01:45:37+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "changed": [
         {
-            "value": "2022-07-10T02:36:48+00:00",
+            "value": "2022-07-10T01:45:37+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -61,6 +61,11 @@
             "target_id": "library_employee",
             "target_type": "user_role",
             "target_uuid": "0e6f68b5-df8e-4ff0-b2b0-5d2b750774ac"
+        },
+        {
+            "target_id": "tech_services",
+            "target_type": "user_role",
+            "target_uuid": "4858ca82-0a96-4488-b067-6f9dac599928"
         },
         {
             "target_id": "employee",
@@ -73,51 +78,48 @@
             "value": true
         }
     ],
-    "field__request_a_consultation_": [],
+    "field__request_a_consultation_": [
+        {
+            "uri": "internal:\/help\/consultation?librarian=",
+            "title": "Request a Consultation",
+            "options": []
+        }
+    ],
     "field_bio": [],
     "field_building": [
         {
-            "value": "Technical Services"
+            "value": "Madison"
         }
     ],
     "field_first_name": [
         {
-            "value": "Shelly"
+            "value": "Ted"
         }
     ],
     "field_fsu_department": [],
     "field_last_name": [
         {
-            "value": "Schmucker"
+            "value": "Power"
         }
     ],
     "field_liaison_fsu_department": [],
-    "field_library_department": [
-        {
-            "target_type": "taxonomy_term",
-            "target_uuid": "3e0fc63e-8ce9-4b17-b182-42ccdd7b2532"
-        }
-    ],
+    "field_library_department": [],
     "field_personal_pronouns": [],
     "field_phone_number": [
         {
-            "value": "(850) 645-7914"
+            "value": "(850) 645-7461"
         }
     ],
     "field_position_title": [
         {
-            "value": "Acquisitions and Resource Sharing Librarian"
+            "value": "Library Associate"
         }
     ],
-    "field_preferred_email": [
-        {
-            "value": "shelly.schmucker@fsu.edu"
-        }
-    ],
+    "field_preferred_email": [],
     "field_preferred_name": [],
     "field_room_number": [
         {
-            "value": "120"
+            "value": "120 "
         }
     ],
     "user_picture": []

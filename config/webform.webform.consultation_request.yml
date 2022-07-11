@@ -15,7 +15,7 @@ category: ''
 elements: |-
   markup:
     '#type': webform_markup
-    '#markup': '<p>We would appreciate 48 hours notice for scheduling your appointment. If you need assistance before 48 hours, please stop by the reference desk or use Ask-Us-Now live chat. You may also contact the &lt;NEED NEW LINK FOR SUBJECT SPECIALISTS&gt;</p>'
+    '#markup': '<p>We would appreciate 48 hours notice for scheduling your appointment. If you need assistance before 48 hours, please stop by the reference desk or use Ask-Us-Now live chat. You may also contact a <a href="/help/subject-librarians">Subject Librarian.</a></p>'
   last_name:
     '#type': textfield
     '#title': 'Last Name'
@@ -264,5 +264,79 @@ access:
     roles: {  }
     users: {  }
     permissions: {  }
-handlers: {  }
+handlers:
+  value_of_email_address_:
+    id: email
+    handler_id: value_of_email_address_
+    label: 'Value of "Email Address"'
+    notes: ''
+    status: true
+    conditions: {  }
+    weight: 0
+    settings:
+      states:
+        - completed
+      to_mail: _default
+      to_options: {  }
+      bcc_mail: ''
+      bcc_options: {  }
+      cc_mail: ''
+      cc_options: {  }
+      from_mail: _default
+      from_options: {  }
+      from_name: _default
+      reply_to: ''
+      return_path: ''
+      sender_mail: ''
+      sender_name: ''
+      subject: _default
+      body: _default
+      excluded_elements: {  }
+      ignore_access: false
+      exclude_empty: true
+      exclude_empty_checkbox: false
+      exclude_attachments: false
+      html: true
+      attachments: false
+      twig: false
+      theme_name: ''
+      parameters: {  }
+      debug: false
+  email:
+    id: email
+    handler_id: email
+    label: Email
+    notes: ''
+    status: true
+    conditions: {  }
+    weight: 0
+    settings:
+      states:
+        - completed
+      to_mail: webdev@fsu.edu
+      to_options: {  }
+      bcc_mail: ''
+      bcc_options: {  }
+      cc_mail: ''
+      cc_options: {  }
+      from_mail: '[site:mail]'
+      from_options: {  }
+      from_name: _default
+      reply_to: ''
+      return_path: ''
+      sender_mail: ''
+      sender_name: ''
+      subject: _default
+      body: _default
+      excluded_elements: {  }
+      ignore_access: false
+      exclude_empty: true
+      exclude_empty_checkbox: false
+      exclude_attachments: false
+      html: true
+      attachments: false
+      twig: false
+      theme_name: ''
+      parameters: {  }
+      debug: false
 variants: {  }

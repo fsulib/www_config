@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-03T19:34:37+00:00",
+            "value": "2022-07-10T01:13:49+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -91,7 +91,11 @@
     "field_library_department": [],
     "field_personal_pronouns": [],
     "field_phone_number": [],
-    "field_position_title": [],
+    "field_position_title": [
+        {
+            "value": " Academic Health Data Services"
+        }
+    ],
     "field_preferred_email": [],
     "field_preferred_name": [],
     "field_room_number": [],

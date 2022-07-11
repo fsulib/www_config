@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "9566de05-3bd9-4119-9850-d9dd8849dc30"
+            "value": "f4211d23-4c5a-4d25-9b1c-068cde5d0751"
         }
     ],
     "langcode": [
@@ -18,7 +18,7 @@
     ],
     "revision_created": [
         {
-            "value": "2022-06-16T13:55:58+00:00",
+            "value": "2022-07-10T23:41:44+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -42,28 +42,28 @@
     ],
     "name": [
         {
-            "value": "researchpageimage_webedit.jpg"
+            "value": "researchpageimage.png"
         }
     ],
     "thumbnail": [
         {
-            "alt": "Person sitting at a table in special collections using a laptop for research",
+            "alt": "research space",
             "title": null,
             "width": 850,
-            "height": 463,
+            "height": 375,
             "target_type": "file",
-            "target_uuid": "666579e7-1e9b-4b27-88cc-e55b7ce3ae4a"
+            "target_uuid": "da8f43c1-fc40-4b54-aa4a-33004c1e5a09"
         }
     ],
     "created": [
         {
-            "value": "2022-06-16T13:55:30+00:00",
+            "value": "2022-07-10T23:41:25+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "changed": [
         {
-            "value": "2022-06-16T13:55:58+00:00",
+            "value": "2022-07-10T23:41:44+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -86,12 +86,12 @@
     ],
     "field_media_image": [
         {
-            "alt": "Person sitting at a table in special collections using a laptop for research",
+            "alt": "research space",
             "title": "",
             "width": 850,
-            "height": 463,
+            "height": 375,
             "target_type": "file",
-            "target_uuid": "666579e7-1e9b-4b27-88cc-e55b7ce3ae4a"
+            "target_uuid": "da8f43c1-fc40-4b54-aa4a-33004c1e5a09"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "89fdc6ac-5ab1-4177-8710-629c97f5ac65"
+            "value": "1c95633d-9eb9-4081-812a-c3a85ce59c97"
         }
     ],
     "langcode": [
@@ -16,7 +16,7 @@
     ],
     "revision_created": [
         {
-            "value": "2022-07-07T15:23:59+00:00",
+            "value": "2022-07-10T22:56:17+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -29,18 +29,18 @@
     ],
     "title": [
         {
-            "value": "Accessibility"
+            "value": "Hertiage and University Archives"
         }
     ],
     "description": [],
     "menu_name": [
         {
-            "value": "visit-and-study"
+            "value": "special-collections"
         }
     ],
     "link": [
         {
-            "uri": "internal:\/visit\/accessibility",
+            "uri": "internal:\/special-collections\/heritage-and-archives",
             "title": "",
             "options": []
         }
@@ -57,7 +57,7 @@
     ],
     "weight": [
         {
-            "value": -50
+            "value": -45
         }
     ],
     "expanded": [
@@ -68,7 +68,7 @@
     "parent": [],
     "changed": [
         {
-            "value": "2022-07-10T20:01:53+00:00",
+            "value": "2022-07-10T22:56:30+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
