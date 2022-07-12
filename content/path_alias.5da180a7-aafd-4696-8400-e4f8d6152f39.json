@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "5da180a7-aafd-4696-8400-e4f8d6152f39"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/taxonomy\/term\/142"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/about\/organization\/strategic-initiatives\/critical-thinking"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

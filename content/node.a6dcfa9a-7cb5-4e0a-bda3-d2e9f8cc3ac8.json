@@ -79,7 +79,8 @@
     ],
     "path": [
         {
-            "alias": "\/special-collections\/heritage-and-university-archives\/exhibits",
+            "alias": null,
+            "pid": null,
             "langcode": "en"
         }
     ],

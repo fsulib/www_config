@@ -79,7 +79,8 @@
     ],
     "path": [
         {
-            "alias": "\/special-collections\/heritage-and-university-archives\/university-records",
+            "alias": null,
+            "pid": null,
             "langcode": "en"
         }
     ],

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "904f34bb-5022-4c8c-b8fd-280608bee468"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/5b7c53dc-abd0-4d5e-a1e6-655dde48d40f"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/special-collections-and-archives\/claude-pepper"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
