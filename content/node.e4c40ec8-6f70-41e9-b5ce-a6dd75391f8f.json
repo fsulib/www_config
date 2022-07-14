@@ -1,0 +1,131 @@
+{
+    "uuid": [
+        {
+            "value": "e4c40ec8-6f70-41e9-b5ce-a6dd75391f8f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "etextbook",
+            "target_type": "node_type",
+            "target_uuid": "2ad18814-da6d-414f-b2ae-0a61cf1d7ac9"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-13T19:14:25+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Assessment in Speech-Language Pathology"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-13T19:14:25+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-13T19:14:25+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "feeds_item": [
+        {
+            "imported": "2022-07-13T19:14:25+00:00",
+            "guid": "",
+            "hash": "ce82dea890df74bc495bf011d0542c43",
+            "target_type": "feeds_feed",
+            "target_uuid": "45825bcf-0ba8-4758-b9fd-5f86f91cb5ad"
+        }
+    ],
+    "field_etext_course_number": [
+        {
+            "value": "5528L"
+        }
+    ],
+    "field_etext_course_prefix": [
+        {
+            "value": "SPA"
+        }
+    ],
+    "field_etext_course_section": [
+        {
+            "value": "2"
+        }
+    ],
+    "field_etext_instructor_last_name": [
+        {
+            "value": "Zinser"
+        }
+    ],
+    "field_etext_isbn": [
+        {
+            "value": "9781401827519"
+        }
+    ],
+    "field_etext_license": [
+        {
+            "value": "Unlimited User"
+        }
+    ],
+    "field_etext_permalink": [
+        {
+            "value": "https:\/\/fsu-flvc.primo.exlibrisgroup.com\/permalink\/01FALSC_FSU\/pag4dr\/alma990375519400306576"
+        }
+    ]
+}

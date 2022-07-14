@@ -32,6 +32,7 @@ elements: |-
   instructor_email:
     '#type': email
     '#title': 'Instructor Email'
+    '#required': true
   other_contact_information_:
     '#type': textfield
     '#title': 'Other Contact Information '
@@ -44,6 +45,13 @@ elements: |-
     '#selection_settings':
       target_bundles:
         fsu_departments: fsu_departments
+  other_department:
+    '#type': textfield
+    '#title': 'Other Department'
+    '#states':
+      visible:
+        ':input[name="fsu_department"]':
+          value: '21'
   if_not_from_florida_state_the_name_of_your_institution:
     '#type': textfield
     '#title': 'If not from Florida State, the name of your institution'
@@ -113,6 +121,9 @@ elements: |-
   notes_questions_or_comments_:
     '#type': textarea
     '#title': 'Notes, Questions or Comments '
+  captcha:
+    '#type': captcha
+    '#captcha_type': recaptcha/reCAPTCHA
 css: ''
 javascript: ''
 settings:
@@ -122,7 +133,7 @@ settings:
   ajax_effect: ''
   ajax_speed: null
   page: true
-  page_submit_path: /form/sca-class-visit
+  page_submit_path: /special-collections-and-archives/class-visit-request-form
   page_confirm_path: ''
   page_theme_name: ''
   form_title: both
@@ -294,5 +305,79 @@ access:
     roles: {  }
     users: {  }
     permissions: {  }
-handlers: {  }
+handlers:
+  email:
+    id: email
+    handler_id: email
+    label: Email
+    notes: ''
+    status: true
+    conditions: {  }
+    weight: 0
+    settings:
+      states:
+        - completed
+      to_mail: '[webform_submission:values:instructor_email:raw]'
+      to_options: {  }
+      bcc_mail: ''
+      bcc_options: {  }
+      cc_mail: ''
+      cc_options: {  }
+      from_mail: do-not-reply@lib.fsu.edu
+      from_options: {  }
+      from_name: _default
+      reply_to: lib-specialcollections@fsu.edu
+      return_path: ''
+      sender_mail: ''
+      sender_name: ''
+      subject: _default
+      body: "Hello, You have submitted a Class Visit Request for FSU Special Collections on <a href=\"javascript:void(0);\" title=\"Insert this token into your form\">[webform_submission:created]</a><br />\r\n<br />\r\nYou included the following information:<br />\r\n[webform_submission:values]<br />\r\n<br />\r\nWe will be contacting you soon.<br />\r\nThank you, the Special Collections Department.<br />\r\n&nbsp;"
+      excluded_elements: {  }
+      ignore_access: false
+      exclude_empty: true
+      exclude_empty_checkbox: false
+      exclude_attachments: false
+      html: true
+      attachments: false
+      twig: false
+      theme_name: ''
+      parameters: {  }
+      debug: false
+  email_1:
+    id: email
+    handler_id: email_1
+    label: Email
+    notes: ''
+    status: true
+    conditions: {  }
+    weight: 0
+    settings:
+      states:
+        - completed
+      to_mail: lib-specialcollections@fsu.edu
+      to_options: {  }
+      bcc_mail: ''
+      bcc_options: {  }
+      cc_mail: ''
+      cc_options: {  }
+      from_mail: _default
+      from_options: {  }
+      from_name: _default
+      reply_to: ''
+      return_path: ''
+      sender_mail: ''
+      sender_name: ''
+      subject: _default
+      body: _default
+      excluded_elements: {  }
+      ignore_access: false
+      exclude_empty: true
+      exclude_empty_checkbox: false
+      exclude_attachments: false
+      html: true
+      attachments: false
+      twig: false
+      theme_name: ''
+      parameters: {  }
+      debug: false
 variants: {  }

@@ -7,20 +7,31 @@ dependencies:
     - system
 id: study_space
 label: 'Study Space, Equipment, and Subject Librarian Views'
-code: |+
+code: |
   /*card styling*/
 
-  .study-spaces .views-col, 
-  .equipment .views-col{
+  .study-spaces .col-sm-4, 
+  .equipment .col-sm-4{
   padding:13px;
-  float: left;
   border: 1px solid #ccc;
-  margin-right: 20px;
-  margin-bottom: 20px;
-  max-width: 250px;
-  max-height:400px;
-  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  /*box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;*/
   background-color: #f3ede1;
+  text-align: center;
+  }
+
+  .study-spaces .col-sm-4 {
+  max-height:400px;
+  min-height:400px;
+  }
+
+  .equipment .col-sm-4{
+  max-height:300px;
+  min-height:300px;
+  }
+
+  .study-spaces .col-sm-4 img,
+  .equipment .col-sm-4 img {
+    margin: auto;
   }
 
   /*column styling*/
@@ -38,6 +49,12 @@ code: |+
   padding-right:0;
   margin:10px;
   }
+
+
+  .study-spaces .views-field-field-notes{
+    font-weight:bold;
+  }
+
 
   /* Styling for search filters*/
   .study-spaces, 
@@ -77,6 +94,10 @@ code: |+
   background-color: #782f40;
   font-weight: bold;
   color: #ffffff;
+  margin-bottom:10px;
+  /*margin-right:31.5px;
+  margin-left:31.5px;*/
+   font-size: 20px;
   }
 
   /*Capacity
@@ -104,6 +125,7 @@ code: |+
   	font:Arial, Helvetica, sans-serif; 
   	font-weight:bold; 
   	/*border-bottom:1px solid #772E3F */
+  	background-image: none;
   }
 
   /*Button link on card- hover and focus changes*/
@@ -147,7 +169,39 @@ code: |+
     margin:5px;
     }
 
+  /* narrow viewport styles */
+  @media only screen and (min-width: 375px) and (max-width: 767px)  {
+   
 
+  /*.study-spaces .location{
+   font-size: 16px;
+  }
+  */
+  }
+  /* normal viewport styles */
+  @media only screen and (min-width: 768px) and (max-width: 1199px)  {
+
+  .study-spaces .location{
+   font-size: 16px;
+  }
+   
+   .study-spaces .col-sm-4{
+  max-height:400px;
+  min-height:400px;
+  }
+    
+     .study-spaces .views-field-field-study-space-type,
+     .study-spaces .views-field-field-booking-link {
+       margin:0 -10px 0 -10px;
+     }
+  }
+
+  /* wide viewport styles */
+  @media only screen and (min-width: 1200px)  {
+
+
+
+  }
 media: all
 preprocess: true
 conditions:

@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "b36b733b-c58c-4723-8b48-c3e59296bd52"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "filename": [
+        {
+            "value": "noun-address-book-100x.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2022-07\/noun-address-book-100x.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 7068
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-14T03:50:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-14T03:50:45+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

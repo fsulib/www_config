@@ -100,6 +100,9 @@ elements: |-
       fund_code:
         '#type': textfield
         '#title': 'Fund Code'
+  captcha:
+    '#type': captcha
+    '#captcha_type': recaptcha/reCAPTCHA
 css: ''
 javascript: ''
 settings:

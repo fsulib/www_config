@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "aef54a1c-2d5e-47b1-8d84-4263fe1ce2af"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/5ad2a9ae-9d88-4cd5-90ed-350b8347aa96"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/research-and-publish\/research\/data-services"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

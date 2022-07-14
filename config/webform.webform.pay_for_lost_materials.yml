@@ -10,7 +10,7 @@ template: false
 archive: false
 id: pay_for_lost_materials
 title: 'Pay for Lost Materials'
-description: ''
+description: 'A form to pay for lost library materials.'
 category: ''
 elements: |-
   processed_text:
@@ -93,6 +93,8 @@ elements: |-
     '#type': textarea
     '#title': 'Additional Information'
     '#description': '<div class="description">Please provide any additional information regarding your lost item.</div>'
+  captcha:
+    '#type': captcha
 css: ''
 javascript: ''
 settings:
@@ -102,7 +104,7 @@ settings:
   ajax_effect: ''
   ajax_speed: null
   page: true
-  page_submit_path: ''
+  page_submit_path: /find-and-borrow/pay-for-materials-form
   page_confirm_path: ''
   page_theme_name: ''
   form_title: both
@@ -292,7 +294,7 @@ handlers:
       bcc_options: {  }
       cc_mail: ''
       cc_options: {  }
-      from_mail: _default
+      from_mail: do-not-reply@lib.fsu.edu
       from_options: {  }
       from_name: _default
       reply_to: ''

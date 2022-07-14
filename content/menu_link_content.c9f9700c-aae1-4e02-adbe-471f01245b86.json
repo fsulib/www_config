@@ -1,0 +1,85 @@
+{
+    "uuid": [
+        {
+            "value": "c9f9700c-aae1-4e02-adbe-471f01245b86"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "value": "menu_link_content"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-07-14T19:06:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "enabled": [
+        {
+            "value": true
+        }
+    ],
+    "title": [
+        {
+            "value": "My Library Account"
+        }
+    ],
+    "description": [],
+    "menu_name": [
+        {
+            "value": "find-and-borrow"
+        }
+    ],
+    "link": [
+        {
+            "uri": "https:\/\/fsu-flvc.primo.exlibrisgroup.com\/discovery\/account?vid=01FALSC_FSU:Home&section=overview&lang=en",
+            "title": "",
+            "options": []
+        }
+    ],
+    "external": [
+        {
+            "value": false
+        }
+    ],
+    "rediscover": [
+        {
+            "value": false
+        }
+    ],
+    "weight": [
+        {
+            "value": 0
+        }
+    ],
+    "expanded": [
+        {
+            "value": false
+        }
+    ],
+    "parent": [],
+    "changed": [
+        {
+            "value": "2022-07-14T19:06:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ]
+}

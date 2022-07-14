@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "ba31c366-da42-4395-b084-d8172f960cb9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/course_reserve_request_form\/confirmation"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/teaching-and-learning\/course-materials\/course-reserves-request-form\/confirmation"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "uuid": [
+        {
+            "value": "10d6c362-0bbf-4fc2-931e-bba633a3dcc7"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "shortcut_set": [
+        {
+            "target_id": "default",
+            "target_type": "shortcut_set",
+            "target_uuid": "f5cd442d-4272-4e51-9777-ad2fd1ff4527"
+        }
+    ],
+    "title": [
+        {
+            "value": "Menus"
+        }
+    ],
+    "weight": [],
+    "link": [
+        {
+            "uri": "internal:\/admin\/structure\/menu",
+            "title": null,
+            "options": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ]
+}

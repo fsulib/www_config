@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "2bd8d27c-4a3a-4072-b573-827e389a50ea"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5e5e0515-2906-4b1e-a752-a103730c504b"
+        }
+    ],
+    "filename": [
+        {
+            "value": "minutes_-_2017_advancement_board_fall_meeting.pdf"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2022-07\/minutes_-_2017_advancement_board_fall_meeting.pdf"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "application\/pdf"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 265020
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-14T20:31:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-14T20:31:34+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "dee3530f-7106-481e-87d5-40fae141080e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/special_collections_archives_rep\/confirmation"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/special-collections-and-archives\/reproduction-form\/confirmation"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

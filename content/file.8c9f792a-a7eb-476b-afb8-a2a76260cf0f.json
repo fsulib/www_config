@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "8c9f792a-a7eb-476b-afb8-a2a76260cf0f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "filename": [
+        {
+            "value": "ti_38-thumbnail.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2022-07\/ti_38-thumbnail.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 30060
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-13T21:45:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-13T21:45:25+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

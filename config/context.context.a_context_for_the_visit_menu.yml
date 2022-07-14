@@ -18,10 +18,16 @@ conditions:
     id: term
     tid:
       -
-        target_id: '144'
+        target_id: '33'
     negate: 0
     uuid: dc08d89e-8eb9-46cd-97bc-c63cbbfe3827
     context_mapping: {  }
+  request_path:
+    id: request_path
+    negate: false
+    uuid: d7bd5d34-c851-467d-83e7-6c82ddab239b
+    context_mapping: {  }
+    pages: "/visit/rooms\r\n/visit/equipment-search"
 reactions:
   blocks:
     id: blocks

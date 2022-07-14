@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "81734b27-cdb6-49fa-a380-f311012e0ac5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/8ce73f50-7a32-4993-9fad-ab619a151fe8"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/visit\/library-locations"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

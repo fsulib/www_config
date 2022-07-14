@@ -18,14 +18,14 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-07-07T03:59:57+00:00",
+            "value": "2022-07-13T20:16:54+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "revision_uid": [
         {
             "target_type": "user",
-            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
         }
     ],
     "revision_log": [],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-07-07T03:59:57+00:00",
+            "value": "2022-07-13T20:16:54+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -72,11 +72,7 @@
             "value": true
         }
     ],
-    "revision_translation_affected": [
-        {
-            "value": true
-        }
-    ],
+    "revision_translation_affected": [],
     "path": [
         {
             "alias": null,
@@ -86,8 +82,8 @@
     ],
     "body": [
         {
-            "value": "<p>The Scholars Commons Instruction Room is primarily intended for the use of library-facilitated instruction and events. Exceptions may be considered for non-library sponsored programs that relate to the academic mission of the university. The room may not be used in lieu of regular class sessions. The instruction room must be reserved by a faculty member who will take full responsibility for the care and cleaning of the room and returning furniture to its original location. Food and beverages are permitted as per the libraries\u2019 policy (https:\/\/www.lib.fsu.edu\/policy\/food-and-drink-policy). Permission must be obtained for catered events. Faculty members can reserve the room by contacting Brew Schoonover at dschoonover@fsu.edu.<\/p>\r\n",
-            "format": "basic_html",
+            "value": "<p>The Scholars Commons Instruction Room is primarily intended for the use of library-facilitated instruction and events. Exceptions may be considered for non-library sponsored programs that relate to the academic mission of the university.<\/p><p> The room may not be used in lieu of regular class sessions. The instruction room must be reserved by a faculty member who will take full responsibility for the care and cleaning of the room and returning furniture to its original location. <\/p><p>Food and beverages are permitted as per the libraries\u2019 policy (https:\/\/www.lib.fsu.edu\/policy\/food-and-drink-policy). Permission must be obtained for catered events. Faculty members can reserve the room by contacting <a href=\"mailto:dschoonover@fsu.edu\">Brew Schoonover<\/a>.<\/p>\r\n",
+            "format": "full_html",
             "summary": ""
         }
     ],
@@ -102,10 +98,11 @@
     "field_content_image": [],
     "field_image_and_details": [
         {
-            "value": "<div class=\"s3-p-0 s3-txt-m-l s3\">\r\n    <div class=\"row\">\r\n        <div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n            <img src=\"\/sites\/default\/files\/2022-07\/Scholars Commons Instruction Room.png\" class=\"img-responsive\" alt=\"\">\r\n        <\/div>\r\n        <div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n            <p><strong>Location: <\/strong>Strozier Library<\/p>\r\n\r\n<p><strong>Capacity: <\/strong>Up to 8 people<\/p>\r\n\r\n<p><strong>Reservation Policies: <\/strong>Email Brew Schoonover for reservation requests.<\/p>\r\n<p><strong>Available to: <\/strong>FSU Graduate and Faculty<\/p>\r\n<button type=\"button\" class=\"btn btn-md s3-gd\" style=><a href=\"mailto:dschoonover@fsu.edu\">Use this space<\/a><\/button>\r\n        <\/div>\r\n\r\n    <\/div>\r\n<\/div>\r\n\r\n        ",
+            "value": "<div class=\"s3-p-0 s3-txt-m-l s3\">\r\n    <div class=\"row\">\r\n        <div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n            <img src=\"\/sites\/default\/files\/2022-07\/Scholars Commons Instruction Room.png\" class=\"img-responsive\" alt=\"\">\r\n        <\/div>\r\n        <div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n            <p><strong>Location: <\/strong>Strozier Library<\/p>\r\n\r\n<p><strong>Capacity: <\/strong>Up to 8 people<\/p>\r\n\r\n<p><strong>Reservation Policies: <\/strong>Please email <a href=\"mailto:dschoonover@fsu.edu\">Brew Schoonover<\/a> for reservation requests.<\/p>\r\n<p><strong>Available to: <\/strong>FSU Graduate and Faculty<\/p>\r\n\r\n        <\/div>\r\n\r\n    <\/div>\r\n<\/div>\r\n\r\n        ",
             "format": "full_html"
         }
     ],
+    "field_notes": [],
     "field_related_menu": [
         {
             "target_type": "taxonomy_term",

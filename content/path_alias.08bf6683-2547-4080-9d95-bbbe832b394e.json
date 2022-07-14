@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "08bf6683-2547-4080-9d95-bbbe832b394e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/bradley_reading_room_access"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/visit\/rooms\/bradley-room-access-form"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

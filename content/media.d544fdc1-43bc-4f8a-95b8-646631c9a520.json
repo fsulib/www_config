@@ -1,0 +1,97 @@
+{
+    "uuid": [
+        {
+            "value": "d544fdc1-43bc-4f8a-95b8-646631c9a520"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "b17d1dd2-b562-4656-b080-3f9bec3625f6"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-07-14T17:39:49+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [
+        {
+            "target_type": "user",
+            "target_uuid": "38f2fa2a-afce-4b8f-95b4-659d83200a95"
+        }
+    ],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "38f2fa2a-afce-4b8f-95b4-659d83200a95"
+        }
+    ],
+    "name": [
+        {
+            "value": "ask_us-popup.png"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "Image for the AAL popup",
+            "title": null,
+            "width": 50,
+            "height": 80,
+            "target_type": "file",
+            "target_uuid": "48e4282f-6e72-4da0-919b-02069a1a4b13"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-14T17:38:09+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-14T17:39:49+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "Image for the AAL popup",
+            "title": "",
+            "width": 50,
+            "height": 80,
+            "target_type": "file",
+            "target_uuid": "48e4282f-6e72-4da0-919b-02069a1a4b13"
+        }
+    ]
+}

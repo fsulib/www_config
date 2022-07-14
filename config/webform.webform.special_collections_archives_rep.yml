@@ -22,17 +22,24 @@ elements: |-
 
       <p>All files digitized will be deleted from our server three months after delivery. Please make sure to back up your files.</p>
       <p>If you have any questions about this form, please refer to our <a href="/special-collections/copies">copies page</a>, call (850) 644-3271 or email <a href="mailto:lib-specialcollections@fsu.edu">lib-specialcollections@fsu.edu</a></p>
-  your_name:
+  last_name:
     '#type': textfield
-    '#title': 'Your Name'
+    '#title': 'Last Name'
+    '#default_value': '[current-user:field_last_name]'
+    '#required': true
+  first_name:
+    '#type': textfield
+    '#title': 'First Name'
+    '#default_value': '[current-user:field_first_name]'
     '#required': true
   your_email_address:
     '#type': email
-    '#title': 'Your Email address'
+    '#title': 'Email address'
     '#required': true
+    '#default_value': '[current-user:mail]'
   your_mailing_address:
     '#type': webform_address
-    '#title': 'Your mailing address'
+    '#title': 'Mailing address'
   purpose_of_production:
     '#type': checkboxes
     '#title': 'Purpose of Production'
@@ -104,7 +111,7 @@ settings:
   ajax_effect: ''
   ajax_speed: null
   page: true
-  page_submit_path: /form/sca-reproduction
+  page_submit_path: /special-collections-and-archives/reproduction-form
   page_confirm_path: ''
   page_theme_name: ''
   form_title: both
@@ -294,15 +301,15 @@ handlers:
       bcc_options: {  }
       cc_mail: ''
       cc_options: {  }
-      from_mail: _default
+      from_mail: do-not-reply@lib.fsu.edu
       from_options: {  }
       from_name: _default
-      reply_to: ''
+      reply_to: lib-dlc-requests@fsu.edu
       return_path: ''
       sender_mail: ''
       sender_name: ''
       subject: _default
-      body: _default
+      body: "Thank you for submitting your reproduction request on <a href=\"javascript:void(0);\" title=\"Insert this token into your form\">[webform_submission:created]</a>.<br />\r\n<br />\r\nYou have requested the following:<br />\r\n[webform_submission:values]<br />\r\n<br />\r\n<br />\r\n&nbsp;"
       excluded_elements: {  }
       ignore_access: false
       exclude_empty: true
@@ -319,7 +326,7 @@ handlers:
     handler_id: lib_dlc_requests_fsu_edu
     label: lib-dlc-requests@fsu.edu
     notes: ''
-    status: false
+    status: true
     conditions: {  }
     weight: 0
     settings:

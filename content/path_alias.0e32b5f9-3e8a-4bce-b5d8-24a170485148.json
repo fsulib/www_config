@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "0e32b5f9-3e8a-4bce-b5d8-24a170485148"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/diginole_contact_us\/confirmation"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/form\/diginole-contact-us\/confirmation"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

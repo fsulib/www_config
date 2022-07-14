@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "7cf8d457-0614-4581-9bf2-230c9d5cdb1e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/etextbook_access\/confirmation"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/teaching-and-learning\/course-materials\/etextbook-access\/confirmation"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

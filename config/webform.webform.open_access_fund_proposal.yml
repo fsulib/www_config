@@ -32,21 +32,27 @@ elements: |-
   article_title_if_applicable_:
     '#type': textfield
     '#title': 'Article Title (if applicable) '
-  your_name:
+  last_name:
     '#type': textfield
-    '#title': 'Your Name'
+    '#title': 'Last Name'
+    '#default_value': '[current-user:field_last_name]'
     '#required': true
-  your_email_address:
-    '#type': email
-    '#title': 'Your Email address'
+  first_name:
+    '#type': textfield
+    '#title': 'First Name'
+    '#default_value': '[current-user:field_first_name]'
     '#required': true
   your_phone_number:
     '#type': tel
-    '#title': 'Your Phone number'
+    '#title': 'Your '
     '#required': true
+  email_address:
+    '#type': textfield
+    '#title': 'Email address'
+    '#default_value': '[current-user:mail]'
   your_fsu_status:
     '#type': select
-    '#title': 'Your FSU status'
+    '#title': 'FSU Status'
     '#options':
       Faculty: Faculty
       Staff: Staff
@@ -54,35 +60,26 @@ elements: |-
       Graduate: Graduate
       Undergraduate: Undergraduate
     '#required': true
-  college_or_unit:
-    '#type': select
-    '#title': 'College or Unit'
-    '#options':
-      'Applied Studies': 'Applied Studies'
-      'Arts and Science': 'Arts and Science'
-      Business: Business
-      'Communications and Information': 'Communications and Information'
-      'Criminology and Criminal Justice': 'Criminology and Criminal Justice'
-      Education: Education
-      Engineering: Engineering
-      'Fine Arts': 'Fine Arts'
-      'Human Sciences': 'Human Sciences'
-      Law: Law
-      Medicine: Medicine
-      'Motion Picture Arts': 'Motion Picture Arts'
-      Music: Music
-      Nursing: Nursing
-      'Social Sciences and Public Policy': 'Social Sciences and Public Policy'
-      'Social Work': 'Social Work'
-      Other: Other
+  department:
+    '#type': webform_entity_select
+    '#title': 'FSU Department'
+    '#target_type': taxonomy_term
+    '#selection_handler': 'default:taxonomy_term'
+    '#selection_settings':
+      target_bundles:
+        fsu_departments: fsu_departments
+    '#required': true
+  other_department:
+    '#type': textfield
+    '#title': 'Other Department'
+    '#states':
+      visible:
+        ':input[name="department"]':
+          value: '21'
     '#required': true
   markup_01:
     '#type': webform_markup
     '#markup': 'If you selected <em>Other</em>, please specify the name of your college, department, or unit in the <strong>Notes</strong> field.'
-  department:
-    '#type': textfield
-    '#title': Department
-    '#description_display': after
   co_authors:
     '#type': textfield
     '#title': Co-authors
@@ -116,7 +113,10 @@ elements: |-
     '#required': true
   other:
     '#type': textarea
-    '#title': Other
+    '#title': Notes
+  captcha:
+    '#type': captcha
+    '#captcha_type': recaptcha/reCAPTCHA
 css: ''
 javascript: ''
 settings:
@@ -126,7 +126,7 @@ settings:
   ajax_effect: ''
   ajax_speed: null
   page: true
-  page_submit_path: ''
+  page_submit_path: /teaching-and-learning/open-access-fund-form
   page_confirm_path: ''
   page_theme_name: ''
   form_title: both
@@ -317,6 +317,43 @@ handlers:
       cc_mail: ''
       cc_options: {  }
       from_mail: _default
+      from_options: {  }
+      from_name: _default
+      reply_to: ''
+      return_path: ''
+      sender_mail: ''
+      sender_name: ''
+      subject: _default
+      body: _default
+      excluded_elements: {  }
+      ignore_access: false
+      exclude_empty: true
+      exclude_empty_checkbox: false
+      exclude_attachments: false
+      html: true
+      attachments: false
+      twig: false
+      theme_name: ''
+      parameters: {  }
+      debug: false
+  email_1:
+    id: email
+    handler_id: email_1
+    label: Email
+    notes: ''
+    status: true
+    conditions: {  }
+    weight: 0
+    settings:
+      states:
+        - completed
+      to_mail: '[webform_submission:values:email_address:raw]'
+      to_options: {  }
+      bcc_mail: ''
+      bcc_options: {  }
+      cc_mail: ''
+      cc_options: {  }
+      from_mail: do-not-reply@lib.fsu.edu
       from_options: {  }
       from_name: _default
       reply_to: ''

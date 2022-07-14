@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "2e5994a2-db04-4024-bf60-52697f122755"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/ea0ecf55-63e5-49aa-b407-5b53df31a541"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/library-employee-resources"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

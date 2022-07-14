@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-07-12T00:46:40+00:00",
+            "value": "2022-07-14T00:12:26+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -73,6 +73,7 @@
             "value": true
         }
     ],
+    "field__request_a_consultation_": [],
     "field_bio": [],
     "field_building": [
         {
@@ -94,6 +95,10 @@
     "field_library_department": [
         {
             "target_type": "taxonomy_term",
+            "target_uuid": "4fdfb4b2-b7c0-4c83-a32c-208392bd8c0e"
+        },
+        {
+            "target_type": "taxonomy_term",
             "target_uuid": "e9d0825f-bd91-4232-9179-e51e2d1960d8"
         }
     ],
@@ -107,6 +112,5 @@
     "field_preferred_email": [],
     "field_preferred_name": [],
     "field_room_number": [],
-    "field__request_a_consultation_": [],
     "user_picture": []
 }

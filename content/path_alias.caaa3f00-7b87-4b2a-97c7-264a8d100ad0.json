@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "caaa3f00-7b87-4b2a-97c7-264a8d100ad0"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/special_collections_reading_room"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/special-collections-and-archives\/reading-room-access-form"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

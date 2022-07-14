@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "be2c5467-b8a2-4639-a6aa-a08374016540"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "filename": [
+        {
+            "value": "dell_thumbnail.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2022-07\/dell_thumbnail.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 36934
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-13T21:49:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-13T21:49:52+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

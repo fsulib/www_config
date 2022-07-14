@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "5d9363b3-aa4a-46c1-a540-b0052ab44254"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/giving_materials_to_the_librarie"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/about\/giving-materials-form"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

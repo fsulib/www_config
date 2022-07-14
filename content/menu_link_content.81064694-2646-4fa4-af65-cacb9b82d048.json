@@ -29,7 +29,7 @@
     ],
     "title": [
         {
-            "value": "Placeholder"
+            "value": "Safety & Security"
         }
     ],
     "description": [],
@@ -40,7 +40,7 @@
     ],
     "link": [
         {
-            "uri": "internal:\/",
+            "uri": "internal:\/help\/security",
             "title": "",
             "options": []
         }
@@ -57,7 +57,7 @@
     ],
     "weight": [
         {
-            "value": 0
+            "value": -43
         }
     ],
     "expanded": [
@@ -68,7 +68,7 @@
     "parent": [],
     "changed": [
         {
-            "value": "2022-04-26T18:51:19+00:00",
+            "value": "2022-07-13T00:16:08+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],

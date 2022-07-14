@@ -1,6 +1,6 @@
 uuid: f3430c3e-4e69-45ce-9f8a-520b02360e5e
 langcode: en
-status: true
+status: false
 dependencies:
   config:
     - system.menu.visit-and-study

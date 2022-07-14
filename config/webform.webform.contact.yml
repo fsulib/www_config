@@ -43,6 +43,9 @@ elements: |-
     '#type': textarea
     '#required': true
     '#test': 'Please ignore this email.'
+  captcha:
+    '#type': captcha
+    '#captcha_type': recaptcha/reCAPTCHA
   actions:
     '#type': webform_actions
     '#title': 'Submit button(s)'
@@ -56,7 +59,7 @@ settings:
   ajax_effect: ''
   ajax_speed: null
   page: true
-  page_submit_path: ''
+  page_submit_path: /about/contact-us/form
   page_confirm_path: ''
   page_theme_name: ''
   form_title: source_entity_webform

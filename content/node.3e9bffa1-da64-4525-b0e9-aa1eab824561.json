@@ -18,14 +18,14 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-07-11T16:42:15+00:00",
+            "value": "2022-07-14T16:47:25+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "revision_uid": [
         {
             "target_type": "user",
-            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
         }
     ],
     "revision_log": [],
@@ -42,7 +42,7 @@
     ],
     "title": [
         {
-            "value": "Individual Study Cubicles 2041 - 2060"
+            "value": "Individual Study Rooms 2041 - 2060"
         }
     ],
     "created": [
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-07-11T16:42:15+00:00",
+            "value": "2022-07-14T16:47:25+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -86,7 +86,7 @@
     ],
     "body": [
         {
-            "value": "<p><strong>No booking necessary. Keys ready for check out at the circulation desk<\/strong><br \/>\r\n4 Hour Loan. Rooms 2041 - 2060.<br \/>\r\nLocated on Second Floor<\/p>\r\n",
+            "value": "<p>These spaces on the second floor are for individuals only, for 4 hours.<\/p>\r\n\r\n<p>Keys are available at the Scholar Support Desk for first come, first serve. No booking is required.<\/p>\r\n\r\n<p>The room may be renewed if there are other keys available and no one on the waitlist.<\/p>\r\n",
             "format": "basic_html",
             "summary": ""
         }
@@ -94,8 +94,8 @@
     "field_back_button": [],
     "field_booking_link": [
         {
-            "uri": "https:\/\/fsu-flvc.primo.exlibrisgroup.com\/permalink\/01FALSC_FSU\/pag4dr\/alma990239450440306576",
-            "title": "Use this space",
+            "uri": "route:<nolink>",
+            "title": "First Come, First Served",
             "options": []
         }
     ],
@@ -107,8 +107,13 @@
     ],
     "field_image_and_details": [
         {
-            "value": "<div class=\"s3-p-10 s3-txt-m-l s3\">\r\n\t<div class=\"row\">\r\n\t\t<div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n\t\t\t<img src=\"\" class=\"img-responsive\" alt=\"\">\r\n\t\t<\/div>\r\n\t\t<div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n\t\t\t<p><strong>Location: <\/strong>Strozier Library<\/p>\r\n\r\n<p><strong>Capacity: <\/strong>Seats 1 person<\/p>\r\n\r\n<p><strong>Loan Period: <\/strong><\/p>\r\n<p><strong>Available to: <\/strong>FSU Undergraduate, Graduate, and Faculty<\/p>\r\n<button type=\"button\" class=\"btn btn-md s3-gd\"><a href=\"https:\/\/fsu-flvc.primo.exlibrisgroup.com\/permalink\/01FALSC_FSU\/pag4dr\/alma990239450440306576\">Use this space<\/a><\/button>\r\n\t\t<\/div>\r\n\r\n\t<\/div>\r\n<\/div>\r\n\r\n\t\t\r\n\r\n",
+            "value": "<div class=\"s3-p-10 s3-txt-m-l s3\">\r\n\t<div class=\"row\">\r\n\t\t<div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n\t\t\t<img src=\"\/sites\/default\/files\/2022-07\/4-hour-loan-carrel_0.png\" class=\"img-responsive\" alt=\"\">\r\n\t\t<\/div>\r\n\t\t<div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n\t\t\t<p><strong>Location: <\/strong>Strozier Library<\/p>\r\n\r\n<p><strong>Capacity: <\/strong>Seats 1 person<\/p>\r\n\r\n<p><strong>Loan Period: <\/strong>4 hour loan<\/p>\r\n<p><strong>Available to: <\/strong>FSU Undergraduate, Graduate, and Faculty<\/p>\r\n<button type=\"button\" class=\"btn btn-md s3-gd\"><a href=\"\">See desk for availability<\/a><\/button>\r\n\t\t<\/div>\r\n\r\n\t<\/div>\r\n<\/div>\r\n\r\n\t\t\r\n\r\n",
             "format": "full_html"
+        }
+    ],
+    "field_notes": [
+        {
+            "value": "Located on Quiet Floor"
         }
     ],
     "field_related_menu": [
@@ -135,16 +140,12 @@
         {
             "target_type": "taxonomy_term",
             "target_uuid": "c2ec4447-b7ff-4a5a-9b52-28785e9321cd"
-        },
-        {
-            "target_type": "taxonomy_term",
-            "target_uuid": "6ab12dd1-73c6-4d9b-895c-6528732521a7"
         }
     ],
     "field_thumbnail": [
         {
             "target_type": "media",
-            "target_uuid": "37d6df4c-7796-4133-9c65-a42f442f3da1"
+            "target_uuid": "8f7869c5-cc61-4548-922b-def9be1883fd"
         }
     ]
 }

@@ -3,6 +3,6 @@ langcode: en
 status: true
 dependencies: {  }
 id: about-2
-label: 'About 2'
+label: 'About 2: Meta Library'
 description: 'About menu: Meta-Library links'
 locked: false

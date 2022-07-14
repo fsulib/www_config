@@ -6,7 +6,7 @@ dependencies:
     - context
 id: jess_staff_directory
 label: 'Jess- Staff Directory'
-code: |-
+code: |+
   .library-employee-directory .views-row{
     padding:20px;
   }
@@ -38,6 +38,20 @@ code: |-
   font-weight: 200;
   font-size: 24px;
   }
+
+  /* narrow viewport styles */
+  @media only screen and (min-width: 300px) and (max-width: 528px)  {
+   
+    .library-employee-directory .views-col {
+      float:none;
+    }
+    
+    .library-employee-directory .views-view-grid .views-row {
+      width:200%;
+    }
+      
+  }
+
 media: all
 preprocess: true
 conditions:

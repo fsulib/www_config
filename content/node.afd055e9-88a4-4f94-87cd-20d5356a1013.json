@@ -1,0 +1,131 @@
+{
+    "uuid": [
+        {
+            "value": "afd055e9-88a4-4f94-87cd-20d5356a1013"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "etextbook",
+            "target_type": "node_type",
+            "target_uuid": "2ad18814-da6d-414f-b2ae-0a61cf1d7ac9"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-13T19:14:38+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Sila"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-13T19:14:38+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-13T19:14:38+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "feeds_item": [
+        {
+            "imported": "2022-07-13T19:14:38+00:00",
+            "guid": "",
+            "hash": "70e42391f5471037af3a1e1d3d1d5e7f",
+            "target_type": "feeds_feed",
+            "target_uuid": "45825bcf-0ba8-4758-b9fd-5f86f91cb5ad"
+        }
+    ],
+    "field_etext_course_number": [
+        {
+            "value": "2020"
+        }
+    ],
+    "field_etext_course_prefix": [
+        {
+            "value": "THE"
+        }
+    ],
+    "field_etext_course_section": [
+        {
+            "value": "3"
+        }
+    ],
+    "field_etext_instructor_last_name": [
+        {
+            "value": "Thomas"
+        }
+    ],
+    "field_etext_isbn": [
+        {
+            "value": "9780889229563"
+        }
+    ],
+    "field_etext_license": [
+        {
+            "value": "Multiple Users"
+        }
+    ],
+    "field_etext_permalink": [
+        {
+            "value": "https:\/\/fsu-flvc.primo.exlibrisgroup.com\/permalink\/01FALSC_FSU\/pag4dr\/alma990379043340306576"
+        }
+    ]
+}

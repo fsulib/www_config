@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-07-12T00:33:06+00:00",
+            "value": "2022-07-12T18:08:37+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -83,6 +83,7 @@
             "value": true
         }
     ],
+    "field__request_a_consultation_": [],
     "field_bio": [
         {
             "value": "<p>Kyung Kim earned a PhD in Library &amp; Information Science at Rutgers University. Prior to joining the FSU Libraries, Kyung worked as a medical librarian, then taught at iSchool, FSU over nine years. She is currently working on her MBA. She is leading Doctoral Support Special Interest Group at FSU Libraries. Kyung has expertise in User Studies, research life cycle, and advanced techniques for literature search. Her research interests include innovative information services for faculty and graduate students, scholarly communication, curriculum development, embedded librarianship for distance learners, and future of academic libraries. She is a member of the American Library Association (ALA) and the Association of College &amp; Research Libraries (ACRL).<\/p>\r\n\r\n<hr>",
@@ -159,7 +160,6 @@
             "value": "027K"
         }
     ],
-    "field__request_a_consultation_": [],
     "user_picture": [
         {
             "alt": "",

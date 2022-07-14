@@ -8,6 +8,7 @@ dependencies:
     - field.field.node.study_space.field_booking_link
     - field.field.node.study_space.field_content_image
     - field.field.node.study_space.field_image_and_details
+    - field.field.node.study_space.field_notes
     - field.field.node.study_space.field_related_menu
     - field.field.node.study_space.field_request_reservation
     - field.field.node.study_space.field_study_space_capacity
@@ -37,6 +38,14 @@ content:
     settings: {  }
     third_party_settings: {  }
     weight: 0
+    region: content
+  field_notes:
+    type: string
+    label: hidden
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 2
     region: content
 hidden:
   field_back_button: true

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "4430179f-79e7-43b5-90b8-01a33559a062"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/streaming_media_course_reserves_\/drafts"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/teaching-and-learning\/course-materials\/streaming-media-reserves-form\/drafts"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

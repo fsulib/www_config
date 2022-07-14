@@ -13,10 +13,9 @@ title: 'Feedback or Report Problems'
 description: 'Generic form for general website or resources'
 category: ''
 elements: |-
-  your_name:
+  last_name:
     '#type': textfield
     '#title': 'Last Name'
-    '#default_value': '[current-user:field_last_name]'
     '#required': true
   first_name:
     '#type': textfield
@@ -41,6 +40,9 @@ elements: |-
     '#title': 'Screenshot (if applicable)'
     '#max_filesize': '2'
     '#sanitize': true
+  captcha:
+    '#type': captcha
+    '#captcha_type': recaptcha/reCAPTCHA
 css: ''
 javascript: ''
 settings:
@@ -50,7 +52,7 @@ settings:
   ajax_effect: ''
   ajax_speed: null
   page: true
-  page_submit_path: ''
+  page_submit_path: /help/report-a-problem-form
   page_confirm_path: ''
   page_theme_name: ''
   form_title: both

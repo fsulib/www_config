@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "0b27f5e8-7499-4e13-ab4b-b0de4917d8f0"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/course_reserve_request_form\/drafts"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/teaching-and-learning\/course-materials\/course-reserves-request-form\/drafts"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "uuid": [
+        {
+            "value": "62d73567-fc53-4c2b-b259-08a72a213e63"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "a12db886-d412-46b5-9932-855c32fb27dd"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-14T18:24:43+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "title": [
+        {
+            "value": "All Forms"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-14T17:30:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-14T18:24:43+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/library-employee-resources\/all-forms",
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><a href=\"\/teaching-and-learning\/tutoring\/question\"><strong>Ask a Tutoring Question<\/strong><\/a> : This form is for tutoring related questions going to lib-tutoring@fsu.edu<\/p>\r\n\r\n<p><a href=\"\/visit\/rooms\/bradley-room-access-form\"><strong>Bradley Reading Room<\/strong><\/a> : Faculty and graduate student request for access to the reading room in Scholars Commons<\/p>\r\n\r\n<p><a href=\"\/find-and-borrow\/book-search-form\"><strong>Book Search<\/strong><\/a> : Ask us to search for a book you can't find<\/p>\r\n\r\n<p><strong><a href=\"\/find-and-borrow\/claim-returned-form\">Claim Returned<\/a><\/strong> : Returned an item but still see it listed on your account?<\/p>\r\n\r\n<p><strong><a href=\"\/help\/consultation-request-form\">Consultation Request<\/a> <\/strong>: Scheduled One-on-one help with a librarian subject specialist.<\/p>\r\n\r\n<p><strong><a href=\"\/teaching-and-learning\/course-materials\/course-reserves-request-form\">Course Reserve Item Request<\/a> <\/strong>: Faculty and TA's may request items be placed on reserve for a course<\/p>\r\n\r\n<p><strong><a href=\"\/visit\/rooms\/faculty-indivdual-space-form\">Faculty Extended Time Individual Study Room Request<\/a> <\/strong>: Form for requesting a study room for a semester<\/p>\r\n\r\n<p><strong><a href=\"\/about\/giving-materials-form\">Giving materials to the libraries<\/a> <\/strong>: When you give items to the libraries, like books, DVD's, etc. this form is a request for a tax document.<\/p>\r\n\r\n<p><strong><a href=\"form\/graduate-student-individual-extended-time-study-rooms\">Graduate Student Extended Time Individual Study Room Request<\/a><\/strong> : Form for requesting a study room for two weeks<\/p>\r\n\r\n<p><strong><a href=\"\/teaching-and-learning\/instruction-request-form\">Instruction Request<\/a> <\/strong>: A form for instructors wishing to arrange instruction for courses<\/p>\r\n\r\n<p><strong><a href=\"\/find-and-borrow\/extended-borrowing\/ill-account-assistance-form\">Interlibrary Loan Account Assistance<\/a><\/strong> : Are you having trouble logging into to your ILL account?<\/p>\r\n\r\n<p><strong>Library Express Delivery service <\/strong>(LEDs) is for Faculty and Teaching Assistants to ask for materials to be delivered to their departments.<\/p>\r\n\r\n<ul>\r\n\t<li><a href=\"\/find-and-borrow\/leds-pickup-request-form\">LED Library Express Delivery Materials Pickup Request<\/a><\/li>\r\n\t<li><a href=\"\/find-and-borrow\/leds-registration-form\">LED Library Express Delivery Registration<\/a><\/li>\r\n\t<li><a href=\"\/find-and-borrow\/leds-panama-request-form\">Panama City, FL Campus Library Express Delivery Service Request<\/a><\/li>\r\n\t<li><a href=\"\/form\/westminster-oaks-delivery\">Westminster Oaks Delivery<\/a><\/li>\r\n<\/ul>\r\n\r\n<p><strong><a href=\"node\/add\/materials-purchase-suggestion\">Materials Purchase Suggestions<\/a><\/strong> : Faculty may suggest items to purchase using this form -- requires log-in<\/p>\r\n\r\n<p><strong><a href=\"\/about\/request-library-data-form\">Need data about the library?<\/a> <\/strong>: The Libraries Assessment Department can help you find the data you need for your research about the Florida State University Libraries.<\/p>\r\n\r\n<p><strong><a href=\"\/form\/off-campus-access-solutions\">Off-Campus Access Solutions<\/a> <\/strong>: Can't connect from off-campus? Start here.<\/p>\r\n\r\n<p><strong><a href=\"\/teaching-and-learning\/open-access-fund-form\">Open Access Fund Proposal<\/a><\/strong> : Funding consideration for Open Access Publishing.<\/p>\r\n\r\n<p><strong><a href=\"\/find-and-borrow\/pay-for-materials-form\">Pay for Lost Materials<\/a><\/strong> : Use this form to report that you lost an item.<\/p>\r\n\r\n<p><strong><a href=\"\/help\/report-a-problem-form\">Website Problem or Suggestion<\/a><\/strong><span> : Notice a mistake, or something wrong? We would really like to know<\/span><\/p>\r\n\r\n<h3>Special Collection Forms<\/h3>\r\n\r\n<p><strong><a href=\"\/special-collections-and-archives\/reading-room-access-form\">Special Collections &amp; Archives Reading Room Access Form<\/a><\/strong> : Registration form to use the Special Collections and Archives Reading Room.<\/p>\r\n\r\n<p><strong><a href=\"\/special-collections-and-archives\/class-visit-request-form\">Special Collections &amp; Archives Class Visit Request Form<\/a><\/strong> : If you want to bring your class or community group to Special Collections &amp; Archives for an instructional visit, use this form to schedule it<\/p>\r\n\r\n<p><strong><a href=\"\/special-collections-and-archives\/reproduction-form\">Special Collections &amp; Archives Reproduction Request Form<\/a><\/strong> : If you need a digital image of materials in Special Collections &amp; Archives, use this form to request it<\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_related_menu": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbaf2b15-1147-4c88-ab3b-2d9ba0fafab1"
+        }
+    ]
+}

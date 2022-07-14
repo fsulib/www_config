@@ -1,0 +1,156 @@
+{
+    "uuid": [
+        {
+            "value": "afa10c35-0a2f-49a1-9557-3fbbe525956f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "study_space",
+            "target_type": "node_type",
+            "target_uuid": "18faed0f-4ddc-4840-865a-a6603710c2cd"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-14T16:48:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "title": [
+        {
+            "value": "2-Week Individual Rooms 2001-07 & 2013-35"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-13T20:02:38+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-14T16:48:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>These spaces are individual rooms for graduate students only that can be checked out for a 2-week time period. <\/p><p>These keys are available first come, first serve at the Scholar Support Desk on the 1st floor. These keys may be renewed at the desk by the staff, if there is at least one key still available.<\/p><p> If there are no keys available, you must return the key and wait 24 hours before checking it out again, if no one else checks it out. <\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_back_button": [
+        {
+            "value": "<button type=\"button\" class=\"btn btn-md s3-gt\">Learn More<\/button>",
+            "format": "full_html"
+        }
+    ],
+    "field_booking_link": [
+        {
+            "uri": "route:<nolink>",
+            "title": "First Come, First Served",
+            "options": []
+        }
+    ],
+    "field_content_image": [],
+    "field_image_and_details": [
+        {
+            "value": "<div class=\"s3-p-10 s3-txt-m-l s3\">\r\n\t<div class=\"row\">\r\n\t\t<div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n\t\t\t<img src=\"\/sites\/default\/files\/2022-07\/4-hour-loan-carrel.png\" class=\"img-responsive\" alt=\"\">\r\n\t\t<\/div>\r\n\t\t<div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n\t\t\t<p><strong>Location: <\/strong>Strozier Library<\/p>\r\n\r\n<p><strong>Capacity: <\/strong>1 person<\/p>\r\n\r\n<p><strong>Loan Period: <\/strong>2-week Loan<\/p>\r\n<p><strong>Available to: <\/strong>FSU Graduate students<\/p>\r\n\r\n\t\t<\/div>\r\n\r\n\t<\/div>\r\n<\/div>\r\n\r\n\t\t\r\n\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_notes": [
+        {
+            "value": "Located on Quiet Floor"
+        }
+    ],
+    "field_related_menu": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "a899b725-42cd-4fba-b054-3170281c11f8"
+        }
+    ],
+    "field_request_reservation": [],
+    "field_study_space_capacity": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2443aa34-031a-47ba-bb3b-544504730cc1"
+        }
+    ],
+    "field_study_space_details": [
+        {
+            "value": "<p><strong>Location: <\/strong><\/p>\r\n\r\n<p><strong>Capacity: <\/strong>=<\/p>\r\n\r\n<p><strong>Loan Period: <\/strong><\/p>\r\n<p><strong>Available to: <\/strong><\/p>\r\n\r\n\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_study_space_location": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2f7d0aff-9425-4b80-a54f-00cca361a08c"
+        }
+    ],
+    "field_study_space_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "598492bb-cd8a-415b-ae30-55efca8572c1"
+        }
+    ],
+    "field_thumbnail": [
+        {
+            "target_type": "media",
+            "target_uuid": "8f7869c5-cc61-4548-922b-def9be1883fd"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f5dec36a-85bd-4fd2-a180-e1d93e21adb9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/special_collections_archives_rep\/submissions"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/special-collections-and-archives\/reproduction-form\/submissions"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "uuid": [
+        {
+            "value": "aa017158-5a30-45e1-bb91-4471560c63dd"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "study_space",
+            "target_type": "node_type",
+            "target_uuid": "18faed0f-4ddc-4840-865a-a6603710c2cd"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-13T18:46:10+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "title": [
+        {
+            "value": "Group Study Cubicles 201A to 301R; 301D & 301N"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-13T17:43:27+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-13T18:46:10+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><span><span><span><span><span><span>These spaces are available to FSU students, faculty, and staff to reserve for a maximum of 4 hours a day. <\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span>Rooms can be reserved up to 3 days in advance. Vacant study rooms are available for use by any group. <\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span><span><span><span><span><span>You will receive a confirmation email with your time and date; please make sure you have access to this to verify your reservation. <\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_back_button": [
+        {
+            "value": "<button type=\"button\" class=\"btn btn-md s3-gt\">Learn More<\/button>",
+            "format": "full_html"
+        }
+    ],
+    "field_booking_link": [
+        {
+            "uri": "https:\/\/fsu.libcal.com\/r\/accessible\/availability?lid=3928&zone=0&gid=6571&capacity=1&space=0",
+            "title": "Use this space",
+            "options": []
+        }
+    ],
+    "field_content_image": [],
+    "field_image_and_details": [
+        {
+            "value": "<div class=\"s3-p-10 s3-txt-m-l s3\">\r\n\t<div class=\"row\">\r\n\t\t<div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n\t\t\t<img src=\"\/sites\/default\/files\/2022-07\/mystudio_spaces_with_white_boards.jpg\" class=\"img-responsive\" alt=\"\">\r\n\t\t<\/div>\r\n\t\t<div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n\t\t\t<p><strong>Location: <\/strong>Strozier Library<\/p>\r\n\r\n<p><strong>Capacity: <\/strong>Up to 4 people<\/p>\r\n\r\n<p><strong>Loan Period: <\/strong>4 Hour Loan<\/p>\r\n<p><strong>Available to: <\/strong>FSU Undergraduate, Graduate, and Faculty<\/p>\r\n<button type=\"button\" class=\"btn btn-md s3-gd\"><a href=\"https:\/\/fsu.libcal.com\/r\/accessible\/availability?lid=3928&zone=0&gid=6571&capacity=1&space=0\">Use this space<\/a><\/button>\r\n\t\t<\/div>\r\n\r\n\t<\/div>\r\n<\/div>\r\n\r\n\t\t\r\n\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_notes": [],
+    "field_related_menu": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "a899b725-42cd-4fba-b054-3170281c11f8"
+        }
+    ],
+    "field_request_reservation": [],
+    "field_study_space_capacity": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "e2ab52cb-6e2d-40e4-8071-8a90a3e436a5"
+        }
+    ],
+    "field_study_space_details": [
+        {
+            "value": "<p><strong>Location: <\/strong><\/p>\r\n\r\n<p><strong>Capacity: <\/strong>=<\/p>\r\n\r\n<p><strong>Loan Period: <\/strong><\/p>\r\n<p><strong>Available to: <\/strong><\/p>\r\n\r\n\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_study_space_location": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "e5afa1bd-01ba-4121-ac19-f48c343551f4"
+        }
+    ],
+    "field_study_space_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "c2ec4447-b7ff-4a5a-9b52-28785e9321cd"
+        }
+    ],
+    "field_thumbnail": [
+        {
+            "target_type": "media",
+            "target_uuid": "3a38389e-4755-46ce-868d-4c661725f4a0"
+        }
+    ]
+}

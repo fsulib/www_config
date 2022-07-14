@@ -1,0 +1,97 @@
+{
+    "uuid": [
+        {
+            "value": "575ee090-85f0-46e6-b8b6-1f221e9b95f5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "b17d1dd2-b562-4656-b080-3f9bec3625f6"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-07-13T13:39:38+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "name": [
+        {
+            "value": "software-icon150x_0.png"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "monitor and screw",
+            "title": null,
+            "width": 100,
+            "height": 100,
+            "target_type": "file",
+            "target_uuid": "2d850dc9-919e-4e39-89c0-782edb95ab9b"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-13T13:39:27+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-13T13:39:38+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "monitor and screw",
+            "title": "",
+            "width": 100,
+            "height": 100,
+            "target_type": "file",
+            "target_uuid": "2d850dc9-919e-4e39-89c0-782edb95ab9b"
+        }
+    ]
+}

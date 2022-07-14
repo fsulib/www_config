@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "7b26fb26-87a9-4c8b-907b-3c6f1290a301"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "filename": [
+        {
+            "value": "instruction_lab_208_dirac.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2022-07\/instruction_lab_208_dirac.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 151247
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-13T19:39:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-13T19:39:47+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

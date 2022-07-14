@@ -1,0 +1,92 @@
+{
+    "uuid": [
+        {
+            "value": "d8d6d624-40c8-4cf3-a4cb-f9739862650a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "b17d1dd2-b562-4656-b080-3f9bec3625f6"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-07-13T21:40:18+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "name": [
+        {
+            "value": "ti_36_thumbnail.png"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "graphing calculator",
+            "title": null,
+            "width": 220,
+            "height": 156,
+            "target_type": "file",
+            "target_uuid": "1a8caa93-0070-4abc-9ff9-bb25f96d1df8"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-13T21:40:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-13T21:40:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "graphing calculator",
+            "title": "",
+            "width": 220,
+            "height": 156,
+            "target_type": "file",
+            "target_uuid": "1a8caa93-0070-4abc-9ff9-bb25f96d1df8"
+        }
+    ]
+}

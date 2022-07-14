@@ -18,7 +18,7 @@ conditions:
     id: term
     tid:
       -
-        target_id: '146'
+        target_id: '40'
     negate: 0
     uuid: dbfed4da-8336-450f-b559-4a293e32a389
     context_mapping: {  }

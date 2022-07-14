@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "acd6ce60-c0d8-4de9-abfd-3693d497ade5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/6cc85f08-e19d-4eec-9e2d-cf8bf386da25"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/visit\/printing"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

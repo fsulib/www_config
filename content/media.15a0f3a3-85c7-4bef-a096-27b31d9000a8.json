@@ -1,0 +1,92 @@
+{
+    "uuid": [
+        {
+            "value": "15a0f3a3-85c7-4bef-a096-27b31d9000a8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "b17d1dd2-b562-4656-b080-3f9bec3625f6"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-07-13T18:35:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "name": [
+        {
+            "value": "group_study_rooms_303-5 _thumbnail.jpg"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "table 3 chairs, a monitor and mounted screen",
+            "title": null,
+            "width": 220,
+            "height": 156,
+            "target_type": "file",
+            "target_uuid": "30d65354-33ac-4e21-b32b-74143fa6d3c2"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-13T18:35:29+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-13T18:35:29+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "table 3 chairs, a monitor and mounted screen",
+            "title": "",
+            "width": 220,
+            "height": 156,
+            "target_type": "file",
+            "target_uuid": "30d65354-33ac-4e21-b32b-74143fa6d3c2"
+        }
+    ]
+}

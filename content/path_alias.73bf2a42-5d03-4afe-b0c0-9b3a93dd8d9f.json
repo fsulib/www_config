@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "73bf2a42-5d03-4afe-b0c0-9b3a93dd8d9f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/giving_materials_to_the_librarie\/confirmation"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/about\/giving-materials-form\/confirmation"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

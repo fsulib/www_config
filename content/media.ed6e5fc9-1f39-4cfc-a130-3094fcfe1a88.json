@@ -1,0 +1,97 @@
+{
+    "uuid": [
+        {
+            "value": "ed6e5fc9-1f39-4cfc-a130-3094fcfe1a88"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "b17d1dd2-b562-4656-b080-3f9bec3625f6"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-07-13T19:39:47+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "name": [
+        {
+            "value": "instruction_lab_208_dirac.png"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "Dirac instruction room",
+            "title": null,
+            "width": 360,
+            "height": 220,
+            "target_type": "file",
+            "target_uuid": "7b26fb26-87a9-4c8b-907b-3c6f1290a301"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-13T19:39:34+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-13T19:39:47+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "Dirac instruction room",
+            "title": "",
+            "width": 360,
+            "height": 220,
+            "target_type": "file",
+            "target_uuid": "7b26fb26-87a9-4c8b-907b-3c6f1290a301"
+        }
+    ]
+}

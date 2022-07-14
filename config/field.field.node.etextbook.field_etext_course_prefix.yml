@@ -1,0 +1,19 @@
+uuid: a69fdbff-1444-40e0-92fb-8ec92f47b2fe
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_etext_course_prefix
+    - node.type.etextbook
+id: node.etextbook.field_etext_course_prefix
+field_name: field_etext_course_prefix
+entity_type: node
+bundle: etextbook
+label: 'Course Prefix'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

@@ -95,6 +95,7 @@
     ],
     "field_content_image": [],
     "field_image_and_details": [],
+    "field_notes": [],
     "field_related_menu": [
         {
             "target_type": "taxonomy_term",

@@ -18,10 +18,16 @@ conditions:
     id: term
     tid:
       -
-        target_id: '148'
+        target_id: '38'
     negate: 0
     uuid: add101f2-0d2e-450e-96c3-38c3fa188a69
     context_mapping: {  }
+  request_path:
+    id: request_path
+    negate: false
+    uuid: ee0078f2-874e-49e0-b099-739902794c3d
+    context_mapping: {  }
+    pages: "/help/subject-librarians\r\n/help/consultation-request-form\r\n/help/report-a-problem-form"
 reactions:
   blocks:
     id: blocks

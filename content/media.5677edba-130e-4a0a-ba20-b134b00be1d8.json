@@ -1,0 +1,97 @@
+{
+    "uuid": [
+        {
+            "value": "5677edba-130e-4a0a-ba20-b134b00be1d8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "b17d1dd2-b562-4656-b080-3f9bec3625f6"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-07-13T17:45:35+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "name": [
+        {
+            "value": "mystudio_spaces_with_white_boards.jpg"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "group study cubicle",
+            "title": null,
+            "width": 360,
+            "height": 220,
+            "target_type": "file",
+            "target_uuid": "b134504c-ed27-4a52-95d9-5a6b4ac6c91a"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-13T17:45:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-13T17:45:35+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "group study cubicle",
+            "title": "",
+            "width": 360,
+            "height": 220,
+            "target_type": "file",
+            "target_uuid": "b134504c-ed27-4a52-95d9-5a6b4ac6c91a"
+        }
+    ]
+}

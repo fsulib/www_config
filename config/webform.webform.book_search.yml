@@ -17,10 +17,21 @@ elements: |-
     '#type': textfield
     '#title': 'Your Name'
     '#required': true
+  last_name:
+    '#type': textfield
+    '#title': 'Last Name'
+    '#default_value': '[current-user:field_last_name]'
+    '#required': true
+  first_name:
+    '#type': textfield
+    '#title': 'First Name'
+    '#default_value': '[current-user:field_first_name]'
+    '#required': true
   fsu_email_address:
     '#type': email
     '#title': 'FSU Email Address'
     '#required': true
+    '#default_value': '[current-user:mail]'
   your_fsu_status:
     '#type': select
     '#title': 'Your FSU status'
@@ -76,7 +87,7 @@ settings:
   ajax_effect: ''
   ajax_speed: null
   page: true
-  page_submit_path: ''
+  page_submit_path: /find-and-borrow/book-search-form
   page_confirm_path: ''
   page_theme_name: ''
   form_title: both
@@ -303,7 +314,7 @@ handlers:
       bcc_options: {  }
       cc_mail: ''
       cc_options: {  }
-      from_mail: _default
+      from_mail: do-not-reply@lib.fsu.edu
       from_options: {  }
       from_name: _default
       reply_to: ''

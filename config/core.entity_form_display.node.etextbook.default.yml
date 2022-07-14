@@ -1,15 +1,16 @@
-uuid: a25a8fd2-2bc8-45a0-bd2d-359ad2a2ac61
+uuid: b4f127bd-9249-4ee4-beab-9d1673212a21
 langcode: en
 status: true
 dependencies:
   config:
-    - field.field.node.etextbook.field_course_number
-    - field.field.node.etextbook.field_course_prefix
-    - field.field.node.etextbook.field_course_section
-    - field.field.node.etextbook.field_instructor_last_name
-    - field.field.node.etextbook.field_isbn
-    - field.field.node.etextbook.field_license
-    - field.field.node.etextbook.field_permalink
+    - field.field.node.etextbook.feeds_item
+    - field.field.node.etextbook.field_etext_course_number
+    - field.field.node.etextbook.field_etext_course_prefix
+    - field.field.node.etextbook.field_etext_course_section
+    - field.field.node.etextbook.field_etext_instructor_last_name
+    - field.field.node.etextbook.field_etext_isbn
+    - field.field.node.etextbook.field_etext_license
+    - field.field.node.etextbook.field_etext_permalink
     - node.type.etextbook
   module:
     - path
@@ -24,23 +25,7 @@ content:
     region: content
     settings: {  }
     third_party_settings: {  }
-  field_course_number:
-    type: string_textfield
-    weight: 123
-    region: content
-    settings:
-      size: 60
-      placeholder: ''
-    third_party_settings: {  }
-  field_course_prefix:
-    type: string_textfield
-    weight: 122
-    region: content
-    settings:
-      size: 60
-      placeholder: ''
-    third_party_settings: {  }
-  field_course_section:
+  field_etext_course_number:
     type: string_textfield
     weight: 124
     region: content
@@ -48,7 +33,15 @@ content:
       size: 60
       placeholder: ''
     third_party_settings: {  }
-  field_instructor_last_name:
+  field_etext_course_prefix:
+    type: string_textfield
+    weight: 123
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  field_etext_course_section:
     type: string_textfield
     weight: 125
     region: content
@@ -56,7 +49,7 @@ content:
       size: 60
       placeholder: ''
     third_party_settings: {  }
-  field_isbn:
+  field_etext_instructor_last_name:
     type: string_textfield
     weight: 126
     region: content
@@ -64,17 +57,25 @@ content:
       size: 60
       placeholder: ''
     third_party_settings: {  }
-  field_license:
+  field_etext_isbn:
     type: string_textfield
-    weight: 128
+    weight: 127
     region: content
     settings:
       size: 60
       placeholder: ''
     third_party_settings: {  }
-  field_permalink:
+  field_etext_license:
+    type: string_textfield
+    weight: 130
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  field_etext_permalink:
     type: string_textarea
-    weight: 127
+    weight: 128
     region: content
     settings:
       rows: 5
@@ -125,4 +126,5 @@ content:
       size: 60
       placeholder: ''
     third_party_settings: {  }
-hidden: {  }
+hidden:
+  feeds_item: true

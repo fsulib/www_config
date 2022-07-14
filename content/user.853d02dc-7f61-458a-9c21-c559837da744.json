@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-07-12T00:33:00+00:00",
+            "value": "2022-07-12T18:08:08+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -83,6 +83,7 @@
             "value": true
         }
     ],
+    "field__request_a_consultation_": [],
     "field_bio": [
         {
             "value": "<p>Kirsten Kinsley is an Assessment Librarian at the Florida State University Libraries and a liaison with the College of Criminology and Criminal Justice and a co-liaison for the College of Social Work. Kirsten completed her Master of Science in Library and Information Studies in 1999 and received a Master of Science and Specialist in Education degrees in Counseling and Human Systems in 1995 from Florida State University. In 1989, she graduated with a Bachelor of Science in Psychology with Honors. Ms. Kinsley previously worked for the FSU Career Center Library and Law Research Center and has been working in libraries on campus in various capacities since 1991.<\/p>\r\n\r\n<hr>\r\n",
@@ -139,7 +140,6 @@
             "value": "313B"
         }
     ],
-    "field__request_a_consultation_": [],
     "user_picture": [
         {
             "alt": "",

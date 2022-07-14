@@ -1,0 +1,131 @@
+{
+    "uuid": [
+        {
+            "value": "1cf986bb-fa76-40d7-b1d0-f6b85bd1ef93"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "etextbook",
+            "target_type": "node_type",
+            "target_uuid": "2ad18814-da6d-414f-b2ae-0a61cf1d7ac9"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-13T19:14:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Sport Consumer Behavior: Marketing Strategies"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-13T19:14:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-13T19:14:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "feeds_item": [
+        {
+            "imported": "2022-07-13T19:14:32+00:00",
+            "guid": "",
+            "hash": "dc7ec53310f42b9e43f176cefbfb8cb9",
+            "target_type": "feeds_feed",
+            "target_uuid": "45825bcf-0ba8-4758-b9fd-5f86f91cb5ad"
+        }
+    ],
+    "field_etext_course_number": [
+        {
+            "value": "5308"
+        }
+    ],
+    "field_etext_course_prefix": [
+        {
+            "value": "SPM"
+        }
+    ],
+    "field_etext_course_section": [
+        {
+            "value": "1"
+        }
+    ],
+    "field_etext_instructor_last_name": [
+        {
+            "value": "Du"
+        }
+    ],
+    "field_etext_isbn": [
+        {
+            "value": "9781138912496"
+        }
+    ],
+    "field_etext_license": [
+        {
+            "value": "Unlimited User"
+        }
+    ],
+    "field_etext_permalink": [
+        {
+            "value": "https:\/\/fsu-flvc.primo.exlibrisgroup.com\/permalink\/01FALSC_FSU\/pag4dr\/alma99383284006206576"
+        }
+    ]
+}

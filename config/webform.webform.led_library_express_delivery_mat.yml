@@ -39,6 +39,15 @@ elements: |-
       sort:
         field: name
         direction: ASC
+    '#required': true
+  other_department:
+    '#type': textfield
+    '#title': 'Other Department'
+    '#required': true
+    '#states':
+      visible:
+        ':input[name="department"]':
+          value: '21'
   date_of_pickup:
     '#type': date
     '#title': 'Date of pickup'
@@ -56,6 +65,9 @@ elements: |-
     '#options':
       ' Place the item(s) on reserve ': ' Place the item(s) on reserve '
       ' These are not reserve items ': ' These are not reserve items '
+  captcha:
+    '#type': captcha
+    '#captcha_type': recaptcha/reCAPTCHA
 css: ''
 javascript: ''
 settings:
@@ -65,7 +77,7 @@ settings:
   ajax_effect: ''
   ajax_speed: null
   page: true
-  page_submit_path: ''
+  page_submit_path: /find-and-borrow/leds-pickup-request-form
   page_confirm_path: ''
   page_theme_name: ''
   form_title: both

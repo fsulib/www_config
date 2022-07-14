@@ -23,6 +23,8 @@ dependencies:
     - user.role.subject_librarian
   module:
     - better_exposed_filters
+    - comment
+    - file
     - image
     - link
     - taxonomy
@@ -976,7 +978,7 @@ display:
           exclude: true
           alter:
             alter_text: false
-            text: ''
+            text: '<a href="mailto:{{ field_preferred_email }}">{{ field_preferred_email }}</a>'
             make_link: false
             path: ''
             absolute: false
@@ -1014,9 +1016,9 @@ display:
           empty_zero: false
           hide_alter_empty: true
           click_sort_column: value
-          type: string
+          type: file_link
           settings:
-            link_to_entity: false
+            link_to_entity: 0
           group_column: value
           group_columns: {  }
           group_rows: true
@@ -1229,8 +1231,8 @@ display:
           alter:
             alter_text: false
             text: ''
-            make_link: false
-            path: ''
+            make_link: true
+            path: '{{ field_preferred_email }}'
             absolute: false
             external: false
             replace_spaces: false
@@ -1266,9 +1268,9 @@ display:
           empty_zero: false
           hide_alter_empty: true
           click_sort_column: value
-          type: string
+          type: comment_username
           settings:
-            link_to_entity: false
+            link_to_entity: 0
           group_column: value
           group_columns: {  }
           group_rows: true
@@ -1293,7 +1295,7 @@ display:
           exclude: false
           alter:
             alter_text: true
-            text: '<a href="/user/{{uid}}">{{ field_preferred_email is not empty ? field_preferred_email : mail }} </a>'
+            text: '{{ field_preferred_email is not empty ? field_preferred_email : mail }}'
             make_link: false
             path: ''
             absolute: false

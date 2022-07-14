@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "48e4282f-6e72-4da0-919b-02069a1a4b13"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "38f2fa2a-afce-4b8f-95b4-659d83200a95"
+        }
+    ],
+    "filename": [
+        {
+            "value": "ask_us-popup.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2022-07\/ask_us-popup.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 5476
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-14T17:39:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-14T17:39:49+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

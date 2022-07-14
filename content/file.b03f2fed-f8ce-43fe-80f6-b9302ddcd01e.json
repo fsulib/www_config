@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "b03f2fed-f8ce-43fe-80f6-b9302ddcd01e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "filename": [
+        {
+            "value": "wacom_tablet_400_x300.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2022-07\/wacom_tablet_400_x300.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 97313
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-13T21:33:09+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-13T21:33:19+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

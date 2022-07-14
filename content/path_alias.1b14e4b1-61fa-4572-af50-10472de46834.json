@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "1b14e4b1-61fa-4572-af50-10472de46834"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/826b42e0-051f-4df1-9d27-e58b2aa9f71c"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/special-collections\/catalogs-and-databases"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

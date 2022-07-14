@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-07-12T00:38:55+00:00",
+            "value": "2022-07-12T18:14:44+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -78,6 +78,7 @@
             "value": true
         }
     ],
+    "field__request_a_consultation_": [],
     "field_bio": [
         {
             "value": "<p>Jeff Phillips earned a B.S. and M.S. in Library and Information Studies and a M.S. and Ph.D. in Instructional Systems and Learning Technologies. As a Social Sciences Librarian, he has a strong focus in teaching students how to perform proper research and understanding the benefits of using library resources. His research interests include change management, cognitive load, and systematic instructional design.<\/p>\r\n\r\n<hr>\r\n",
@@ -162,7 +163,6 @@
             "value": "0027F"
         }
     ],
-    "field__request_a_consultation_": [],
     "user_picture": [
         {
             "alt": "",

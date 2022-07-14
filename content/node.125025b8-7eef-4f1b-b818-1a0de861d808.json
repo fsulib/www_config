@@ -84,14 +84,14 @@
             "langcode": "en"
         }
     ],
-    "field_initiative_description": [
-        {
-            "value": "This initiative proposes to create a platform on AWS to store and process e-resource usage data. It will consist of a data harvester, database and front-end interface to query the data. The completed product will allow subject librarians, the FSU Libraries' collections committee, and others access to up-to-date e-resource usage statistics data. This will facilitate improved collection management and purchasing decisions across the Libraries."
-        }
-    ],
     "field_init_leads": [
         {
             "value": "Elissa Reiskind\r\nJim Snowden"
+        }
+    ],
+    "field_initiative_description": [
+        {
+            "value": "This initiative proposes to create a platform on AWS to store and process e-resource usage data. It will consist of a data harvester, database and front-end interface to query the data. The completed product will allow subject librarians, the FSU Libraries' collections committee, and others access to up-to-date e-resource usage statistics data. This will facilitate improved collection management and purchasing decisions across the Libraries."
         }
     ],
     "field_related_links": [],

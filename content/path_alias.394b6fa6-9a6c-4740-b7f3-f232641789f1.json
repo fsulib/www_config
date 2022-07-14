@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "394b6fa6-9a6c-4740-b7f3-f232641789f1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/etextbook_access"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/teaching-and-learning\/course-materials\/etextbook-access"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

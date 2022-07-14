@@ -18,14 +18,14 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-07-07T04:16:13+00:00",
+            "value": "2022-07-13T19:45:03+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "revision_uid": [
         {
             "target_type": "user",
-            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
         }
     ],
     "revision_log": [],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-07-07T04:16:13+00:00",
+            "value": "2022-07-13T19:45:03+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -84,7 +84,13 @@
             "langcode": "en"
         }
     ],
-    "body": [],
+    "body": [
+        {
+            "value": "<p>The Dirac Instructional Lab is for FSU graduate students and faculty only. No undergraduates or Registered Student Organizations (RSOs). This room is for groups of more than 6 people.<\/p>\r\n\r\n\r\n<p>Reservation requests must be made no less than 48 hours in advance and will be reviewed by a staff member. You will be notified by email whether or not the room may be reserved for you. The person who books the room must be present to check out the key at the Dirac Scholar Support Desk 15 minutes before the booking starts.<\/p>\r\n\r\n<p>If you have any questions or would like to make a reservation, please email at <a>Shaundra Lee<\/a> or call (850) 644-5534.<\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
     "field_back_button": [],
     "field_booking_link": [
         {
@@ -96,10 +102,11 @@
     "field_content_image": [],
     "field_image_and_details": [
         {
-            "value": "<div class=\"s3-p-10 s3-txt-m-l s3\">\r\n\t<div class=\"row\">\r\n\t\t<div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n\t\t\t<img src=\"\" class=\"img-responsive\" alt=\"\">\r\n\t\t<\/div>\r\n\t\t<div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n\t\t\t<p><strong>Location: <\/strong>Dirac Science Library<\/p>\r\n\r\n<p><strong>Capacity: <\/strong>Seats 6 - 15<\/p>\r\n\r\n<p><strong>Loan Period: <\/strong><\/p>\r\n<p><strong>Available to: <\/strong>FSU Undergraduate, Graduate, and Faculty<\/p>\r\n<button type=\"button\" class=\"btn btn-md s3-gd\"><a href=\"https:\/\/fsu.libcal.com\/r\/accessible\/availability?lid=3928&zone=0&gid=6588&capacity=4&space=0\">Use this space<\/a><\/button>\r\n\t\t<\/div>\r\n\r\n\t<\/div>\r\n<\/div>\r\n",
+            "value": "<div class=\"s3-p-10 s3-txt-m-l s3\">\r\n\t<div class=\"row\">\r\n\t\t<div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n\t\t\t<img src=\"\/sites\/default\/files\/2022-07\/instruction_lab_208_dirac.png\" class=\"img-responsive\" alt=\"\">\r\n\t\t<\/div>\r\n\t\t<div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n\t\t\t<p><strong>Location: <\/strong>Dirac Science Library<\/p>\r\n\r\n<p><strong>Capacity: <\/strong>Seats up to 40<\/p>\r\n<p><strong>Available to: <\/strong>FSU Undergraduate, Graduate, and Faculty<\/p>\r\n<button type=\"button\" class=\"btn btn-md s3-gd\"><a href=\"https:\/\/fsu.libcal.com\/r\/accessible\/availability?lid=3928&zone=0&gid=6588&capacity=4&space=0\">Use this space<\/a><\/button>\r\n\t\t<\/div>\r\n\r\n\t<\/div>\r\n<\/div>\r\n",
             "format": "full_html"
         }
     ],
+    "field_notes": [],
     "field_related_menu": [
         {
             "target_type": "taxonomy_term",
@@ -129,7 +136,7 @@
     "field_thumbnail": [
         {
             "target_type": "media",
-            "target_uuid": "37d6df4c-7796-4133-9c65-a42f442f3da1"
+            "target_uuid": "d64fcdd9-93d0-4554-94cd-3a8aa96db8ea"
         }
     ]
 }

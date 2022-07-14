@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "90e5d02b-13ff-4682-b733-e20eab3a4a67"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/claimed_returned"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/find-and-borrow\/claim-returned-form"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

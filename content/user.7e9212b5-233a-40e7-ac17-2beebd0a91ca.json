@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-07-12T00:31:39+00:00",
+            "value": "2022-07-12T18:06:53+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -78,6 +78,7 @@
             "value": true
         }
     ],
+    "field__request_a_consultation_": [],
     "field_bio": [
         {
             "value": "<p>Mallary Rawls (she\/her) is a Humanities Librarian at Florida State University. Her responsibilities include research support, library instruction, and collection development support. Mallary earned her Master of Science in Library and Information Studies from Florida State University in 2015. Prior to working at FSU Libraries, Mallary was a Children's Librarian at the LeRoy Collins Main Library in Tallahassee. Mallary's research interest include critical information studies, critical race theory, EDI research in librarianship, open education, critical librarianship, African American literature, American history, algorithm bias in information, Black feminist studies, and critical pedagogy.<\/p>\r\n\r\n<hr>",
@@ -146,7 +147,6 @@
             "value": "027N"
         }
     ],
-    "field__request_a_consultation_": [],
     "user_picture": [
         {
             "alt": "",

@@ -1,0 +1,8 @@
+uuid: 80099088-3145-4fe3-bb69-ca24b27f3bc1
+langcode: en
+status: true
+dependencies: {  }
+name: 'Study Space Secondary Type'
+vid: study_space_secondary_type
+description: ''
+weight: 0

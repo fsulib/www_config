@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "60a9e677-cfed-45ac-a841-b408336b9f7c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/412fc87b-2ed7-4a81-9665-f2d6289f7f87"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/research-and-publish\/oer\/atg"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

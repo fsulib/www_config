@@ -18,10 +18,16 @@ conditions:
     id: term
     tid:
       -
-        target_id: '143'
+        target_id: '34'
     negate: 0
     uuid: 85f717b9-07bc-43cf-9cc7-d9c7595925e0
     context_mapping: {  }
+  request_path:
+    id: request_path
+    negate: false
+    uuid: 8dff69ba-cf3a-4950-b258-16cc13e721d9
+    context_mapping: {  }
+    pages: "/teaching-and-learning/tutoring/question\r\n/teaching-and-learning/instruction-request-form\r\n/teaching-and-learning/course-materials/etextbooks\r\n/teaching-and-learning/course-materials/streaming-media-reserves-form\r\n/teaching-and-learning/course-materials/course-reserves-request-form"
 reactions:
   blocks:
     id: blocks

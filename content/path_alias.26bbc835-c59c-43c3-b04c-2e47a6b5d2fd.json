@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "26bbc835-c59c-43c3-b04c-2e47a6b5d2fd"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/special_collections_class_visit_"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/special-collections-and-archives\/class-visit-request-form"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

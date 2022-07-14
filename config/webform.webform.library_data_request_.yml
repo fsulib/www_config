@@ -41,6 +41,9 @@ elements: |-
       'One to two weeks ': 'One to two weeks '
       'Within a month ': 'Within a month '
     '#required': true
+  captcha:
+    '#type': captcha
+    '#captcha_type': recaptcha/reCAPTCHA
 css: ''
 javascript: ''
 settings:
@@ -50,7 +53,7 @@ settings:
   ajax_effect: ''
   ajax_speed: null
   page: true
-  page_submit_path: /form/library-data-request
+  page_submit_path: /about/request-library-data-form
   page_confirm_path: ''
   page_theme_name: ''
   form_title: both

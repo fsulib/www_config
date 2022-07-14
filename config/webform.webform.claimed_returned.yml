@@ -101,6 +101,9 @@ elements: |-
     '#type': textarea
     '#title': 'Additional Information'
     '#description': '<div class="description">Please provide any additional information regarding your return of this item.</div>'
+  captcha:
+    '#type': captcha
+    '#captcha_type': recaptcha/reCAPTCHA
 css: ''
 javascript: ''
 settings:
@@ -110,7 +113,7 @@ settings:
   ajax_effect: ''
   ajax_speed: null
   page: true
-  page_submit_path: /form/claim-returned
+  page_submit_path: /find-and-borrow/claim-returned-form
   page_confirm_path: ''
   page_theme_name: ''
   form_title: both

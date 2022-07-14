@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-07-12T00:31:11+00:00",
+            "value": "2022-07-12T18:06:29+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -81,6 +81,13 @@
     "default_langcode": [
         {
             "value": true
+        }
+    ],
+    "field__request_a_consultation_": [
+        {
+            "uri": "internal:\/help\/consultation?librarian=",
+            "title": "Request a Consultation",
+            "options": []
         }
     ],
     "field_bio": [
@@ -137,13 +144,6 @@
     "field_room_number": [
         {
             "value": "A110"
-        }
-    ],
-    "field__request_a_consultation_": [
-        {
-            "uri": "internal:\/help\/consultation?librarian=",
-            "title": "Request a Consultation",
-            "options": []
         }
     ],
     "user_picture": [

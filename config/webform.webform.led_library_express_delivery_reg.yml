@@ -51,14 +51,15 @@ elements: |-
       sort:
         field: name
         direction: ASC
+    '#required': true
   other_department:
     '#type': textfield
     '#title': 'Other Department'
     '#states':
       visible:
         ':input[name="department"]':
-          value:
-            pattern: Other
+          value: '21'
+    '#required': true
   phone_number:
     '#type': tel
     '#title': 'Phone Number'
@@ -81,6 +82,9 @@ elements: |-
     '#options':
       'Yes': 'Yes'
       'No': 'No'
+  captcha:
+    '#type': captcha
+    '#captcha_type': recaptcha/reCAPTCHA
 css: ''
 javascript: ''
 settings:
@@ -90,7 +94,7 @@ settings:
   ajax_effect: ''
   ajax_speed: null
   page: true
-  page_submit_path: ''
+  page_submit_path: /find-and-borrow/leds-registration-form
   page_confirm_path: ''
   page_theme_name: ''
   form_title: both

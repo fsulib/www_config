@@ -1,0 +1,99 @@
+{
+    "uuid": [
+        {
+            "value": "ea0ecf55-63e5-49aa-b407-5b53df31a541"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "a12db886-d412-46b5-9932-855c32fb27dd"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-14T18:59:10+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "title": [
+        {
+            "value": "Library Employee Resources"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-14T16:15:55+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-14T18:59:10+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/library-employee-resources",
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><a href=\"\/library-employee-resources\/all-forms\">All Forms<\/a><\/p>\r\n\r\n<p><a href=\"\/about\/employee-directory\">Employee Directory<\/a><\/p>\r\n\r\n<p><a href=\"\/library-employee-resources\/employee-calendars\">Employee Reservation Calendars<\/a><\/p>\r\n\r\n<p><a href=\"https:\/\/wiki.lib.fsu.edu\/wiki\/Main_Page\">Internal Library Wiki (Internal Knowledge Base)<\/a><\/p>\r\n\r\n<p><a href=\"https:\/\/fsu.libanswers.com\/\">Library FAQs and Policies<\/a><\/p>\r\n\r\n<p><a href=\"https:\/\/fsu.sharepoint.com\/sites\/libraries\/SitePages\/Home.aspx\">SharePoint (Staff Intranet)<\/a><\/p>\r\n\r\n<p><a href=\"\/help\/subject-librarians\">Subject Librarians<\/a><\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_related_menu": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbaf2b15-1147-4c88-ab3b-2d9ba0fafab1"
+        }
+    ]
+}

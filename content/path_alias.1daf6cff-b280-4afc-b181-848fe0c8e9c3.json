@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "1daf6cff-b280-4afc-b181-848fe0c8e9c3"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/9e69843d-e96c-4100-b3ba-d5268e8f86c7"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/visit\/visiting"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

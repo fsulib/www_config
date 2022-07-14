@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-07-12T00:38:38+00:00",
+            "value": "2022-07-12T18:14:34+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -78,6 +78,7 @@
             "value": true
         }
     ],
+    "field__request_a_consultation_": [],
     "field_bio": [
         {
             "value": "<p>Leah Sherman serves as the library liaison for all departments within the College of Fine Arts (Art, Art Education, Art History, Dance, Interior Design, and Theatre) as well as the FSU Museum of Fine Arts, The Ringling Museum, and the FSU Master Craftsman Studio. Her responsibilities include collection development, research consultations, and instructional support across the various disciplines. Leah earned her Master of Science in Library and Information Science at Florida State and is currently pursuing her PhD in Art History at FSU as well. Leah\u2019s research interests in librarianship include increased awareness of visual literacy in instruction and the impact of outreach while her work in Art History focuses on 20th century Italian abstract painting, conceptual art, and museum history. She is an active member of ARLIS (Art Libraries Society of North America), CAA (College Art Association), ACRL (Association of College &amp; Research Libraries), and ALA (American Library Association.)<\/p>\r\n\r\n\r\n<hr>",
@@ -170,7 +171,6 @@
             "value": "027H"
         }
     ],
-    "field__request_a_consultation_": [],
     "user_picture": [
         {
             "alt": "",

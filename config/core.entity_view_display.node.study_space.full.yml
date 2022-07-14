@@ -9,6 +9,7 @@ dependencies:
     - field.field.node.study_space.field_booking_link
     - field.field.node.study_space.field_content_image
     - field.field.node.study_space.field_image_and_details
+    - field.field.node.study_space.field_notes
     - field.field.node.study_space.field_related_menu
     - field.field.node.study_space.field_request_reservation
     - field.field.node.study_space.field_study_space_capacity
@@ -45,6 +46,7 @@ hidden:
   field_back_button: true
   field_booking_link: true
   field_image_and_details: true
+  field_notes: true
   field_related_menu: true
   field_request_reservation: true
   field_study_space_capacity: true

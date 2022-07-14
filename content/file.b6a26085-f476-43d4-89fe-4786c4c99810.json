@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "b6a26085-f476-43d4-89fe-4786c4c99810"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "filename": [
+        {
+            "value": "equipment_thumbnail.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2022-07\/equipment_thumbnail.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 6361
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-13T21:55:10+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-13T21:55:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

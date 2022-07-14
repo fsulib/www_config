@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "5bc2ad15-1f98-42b3-b82f-f8c1d3a915bc"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/streaming_media_course_reserves_\/confirmation"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/teaching-and-learning\/course-materials\/streaming-media-reserves-form\/confirmation"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

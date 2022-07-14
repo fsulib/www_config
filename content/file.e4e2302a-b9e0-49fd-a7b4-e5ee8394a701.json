@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "e4e2302a-b9e0-49fd-a7b4-e5ee8394a701"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "filename": [
+        {
+            "value": "software-icon150x.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2022-07\/software-icon150x.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 16981
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-13T13:35:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-13T13:35:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

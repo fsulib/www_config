@@ -18,14 +18,14 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-07-07T04:36:00+00:00",
+            "value": "2022-07-14T16:48:34+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "revision_uid": [
         {
             "target_type": "user",
-            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
         }
     ],
     "revision_log": [],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-07-07T04:36:00+00:00",
+            "value": "2022-07-14T16:48:34+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -84,17 +84,33 @@
             "langcode": "en"
         }
     ],
-    "body": [],
+    "body": [
+        {
+            "value": "<p>The Bradley Reading Room (located on the ground floor of Strozier Library) provides an environment for independent study and research for graduate students and faculty.<\/p>\r\n\r\n<p>Please note: This room is a quiet space and no talking or collaborative group work is allowed.<\/p>\r\n\r\n<p>Please complete the <a href=\"\/visit\/rooms\/bradley-room-access-form\">Bradley Reading Room Access form<\/a> to get access to this space. Allow 24 to 48 hours for your card to be activated<\/p>\r\n",
+            "format": "restricted_html",
+            "summary": ""
+        }
+    ],
     "field_back_button": [],
     "field_booking_link": [
         {
-            "uri": "internal:\/form\/bradley-reading-room-access",
+            "uri": "internal:\/visit\/rooms\/bradley-room-access-form",
             "title": "Use this space",
             "options": []
         }
     ],
     "field_content_image": [],
-    "field_image_and_details": [],
+    "field_image_and_details": [
+        {
+            "value": "<div class=\"s3-p-10 s3-txt-m-l s3\">\r\n\t<div class=\"row\">\r\n\t\t<div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n\t\t\t<img src=\"\/sites\/default\/files\/2022-07\/bradley_reading_room.png\" class=\"img-responsive\" alt=\"\">\r\n\t\t<\/div>\r\n\t\t<div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n\t\t\t<p><strong>Location: <\/strong>Strozier Library<\/p>\r\n\r\n<p><strong>Available to: <\/strong>FSU Graduate and Faculty<\/p>\r\n<button type=\"button\" class=\"btn btn-md s3-gd\"><a href=\"\/visit\/rooms\/bradley-room-access-form\">Use this space<\/a><\/button>\r\n\t\t<\/div>\r\n\r\n\t<\/div>\r\n<\/div>\r\n\r\n\t\t\r\n\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_notes": [
+        {
+            "value": "Located on Quiet Floor"
+        }
+    ],
     "field_related_menu": [
         {
             "target_type": "taxonomy_term",
@@ -116,10 +132,6 @@
         }
     ],
     "field_study_space_type": [
-        {
-            "target_type": "taxonomy_term",
-            "target_uuid": "6ab12dd1-73c6-4d9b-895c-6528732521a7"
-        },
         {
             "target_type": "taxonomy_term",
             "target_uuid": "598492bb-cd8a-415b-ae30-55efca8572c1"

@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "b134504c-ed27-4a52-95d9-5a6b4ac6c91a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "filename": [
+        {
+            "value": "mystudio_spaces_with_white_boards.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2022-07\/mystudio_spaces_with_white_boards.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 76589
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-13T17:45:27+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-13T17:45:35+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

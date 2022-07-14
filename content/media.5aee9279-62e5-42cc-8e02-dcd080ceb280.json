@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "5aee9279-62e5-42cc-8e02-dcd080ceb280"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "document",
+            "target_type": "media_type",
+            "target_uuid": "db5f1011-17bf-43b5-b70a-bebcbb2ffd02"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-07-14T20:32:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [
+        {
+            "target_type": "user",
+            "target_uuid": "5e5e0515-2906-4b1e-a752-a103730c504b"
+        }
+    ],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5e5e0515-2906-4b1e-a752-a103730c504b"
+        }
+    ],
+    "name": [
+        {
+            "value": "minutes_-_2018_advancement_board_spring_meeting.pdf"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "",
+            "title": null,
+            "width": 180,
+            "height": 180,
+            "target_type": "file",
+            "target_uuid": "40268717-ad3c-41df-a379-7962777dafab"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-14T20:32:09+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-14T20:32:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_media_document": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "f6fc8c88-4a4c-4386-8d67-57a0997ce93f"
+        }
+    ]
+}

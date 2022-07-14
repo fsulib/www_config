@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "e0ee3029-7ab5-49bb-8524-b25c62a9e07b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/c07b9095-81b5-4f52-9e65-fc950ec86a04"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/visit\/accessibility\/using-the-libraries"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

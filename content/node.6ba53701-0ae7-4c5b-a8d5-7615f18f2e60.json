@@ -18,14 +18,14 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-07-07T03:53:05+00:00",
+            "value": "2022-07-14T16:45:32+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "revision_uid": [
         {
             "target_type": "user",
-            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
         }
     ],
     "revision_log": [],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-07-07T03:53:05+00:00",
+            "value": "2022-07-14T16:45:32+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -84,11 +84,17 @@
             "langcode": "en"
         }
     ],
-    "body": [],
+    "body": [
+        {
+            "value": "<p>Semester Loan Rooms are for faculty needing an on-campus office, working on sabbatical, or a semester-long intensive writing project. Please fill out the application here. If you have any questions, contact <a href=\"mailto:ecleveland@fsu.edu\">Eleanor Cleveland<\/a>.<\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
     "field_back_button": [],
     "field_booking_link": [
         {
-            "uri": "route:<nolink>",
+            "uri": "internal:\/visit\/rooms\/faculty-indivdual-space-form",
             "title": "Use this space",
             "options": []
         }
@@ -96,8 +102,13 @@
     "field_content_image": [],
     "field_image_and_details": [
         {
-            "value": "<div class=\"s3-p-10 s3-txt-m-l s3\">\r\n\t<div class=\"row\">\r\n\t\t<div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n\t\t\t<img src=\"\/sites\/default\/files\/2022-07\/Strozier Faculty Semester Rooms.png\" class=\"img-responsive\" alt=\"\">\r\n\t\t<\/div>\r\n\t\t<div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n\t\t\t<p><strong>Location: <\/strong>Strozier Library<\/p>\r\n\r\n<p><strong>Capacity: <\/strong>Seats 6 - 15<\/p>\r\n\r\n<p><strong>Loan Period: <\/strong><\/p>\r\n<p><strong>Available to: <\/strong>FSU Undergraduate, Graduate, and Faculty<\/p>\r\n<button type=\"button\" class=\"btn btn-md s3-gd\"><a href=\"https:\/\/fsu.libcal.com\/r\/accessible\/availability?lid=3927&zone=0&gid=6568&capacity=2&space=\">Use this space<\/a><\/button>\r\n\t\t<\/div>\r\n\r\n\t<\/div>\r\n<\/div>\r\n\r\n\t\t\r\n\r\n",
+            "value": "<div class=\"s3-p-10 s3-txt-m-l s3\">\r\n\t<div class=\"row\">\r\n\t\t<div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n\t\t\t<img src=\"\/sites\/default\/files\/2022-07\/Strozier Faculty Semester Rooms.png\" class=\"img-responsive\" alt=\"\">\r\n\t\t<\/div>\r\n\t\t<div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n\t\t\t<p><strong>Location: <\/strong>Strozier Library<\/p>\r\n\r\n<p><strong>Capacity: <\/strong>1 person<\/p>\r\n\r\n<p><strong>Loan Period: <\/strong><\/p>\r\n<p><strong>Available to: <\/strong>FSU Undergraduate, Graduate, and Faculty<\/p>\r\n<button type=\"button\" class=\"btn btn-md s3-gd\"><a href=\"\/visit\/rooms\/faculty-indivdual-space-form\">Use this space<\/a><\/button>\r\n\t\t<\/div>\r\n\r\n\t<\/div>\r\n<\/div>\r\n\r\n\t\t\r\n\r\n",
             "format": "full_html"
+        }
+    ],
+    "field_notes": [
+        {
+            "value": "Located on Quiet Floor"
         }
     ],
     "field_related_menu": [
@@ -121,10 +132,6 @@
         }
     ],
     "field_study_space_type": [
-        {
-            "target_type": "taxonomy_term",
-            "target_uuid": "6ab12dd1-73c6-4d9b-895c-6528732521a7"
-        },
         {
             "target_type": "taxonomy_term",
             "target_uuid": "10cdac34-c844-4e78-9320-7f7a67dc1b5b"

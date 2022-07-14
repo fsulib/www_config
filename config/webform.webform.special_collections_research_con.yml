@@ -10,7 +10,7 @@ template: false
 archive: false
 id: special_collections_research_con
 title: 'Special Collections: Research Consultation Request'
-description: 'Consult request for SC department'
+description: 'This process has been moved to LibCal but keeping the form here.'
 category: ''
 elements: |-
   markup:
@@ -25,12 +25,19 @@ elements: |-
       <p>Requests for Group Tours should use the Tour Request form.</p>
   your_name:
     '#type': textfield
-    '#title': 'Your Name'
+    '#title': 'Last Name'
+    '#required': true
+    '#default_value': '[current-user:field_last_name]'
+  first_name:
+    '#type': textfield
+    '#title': 'First Name'
+    '#default_value': '[current-user:field_first_name]'
     '#required': true
   your_fsu_email_address:
     '#type': email
-    '#title': 'Your FSU Email address'
+    '#title': 'Email address'
     '#required': true
+    '#default_value': '[current-user:mail]'
   special_collections_materials_of_interest_please_include_call_nu:
     '#type': textarea
     '#title': 'Special Collections Materials of Interest (please include call numbers and collection IDs if known)'

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "ca043e49-fd29-4f4d-a84f-ca55d6a92b60"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/faculty_extended_time_individual"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/visit\/rooms\/faculty-indivdual-space-form"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

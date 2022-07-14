@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "ba5b0f79-64e1-463f-9a42-389b009fd459"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/etextbook_access\/submissions"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/teaching-and-learning\/course-materials\/etextbook-access\/submissions"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

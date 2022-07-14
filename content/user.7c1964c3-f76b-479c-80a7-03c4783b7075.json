@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-07-12T00:37:10+00:00",
+            "value": "2022-07-12T18:13:12+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -83,6 +83,7 @@
             "value": true
         }
     ],
+    "field__request_a_consultation_": [],
     "field_bio": [
         {
             "value": "<p>Interlibrary Loan Librarian - secures access to information not available at the Florida State University Libraries. Provides library service to the FSU Distance Education Community. Assists Subject Liaisons with Collection Development.<\/p>\r\n\r\n<hr>",
@@ -130,7 +131,6 @@
             "value": "026"
         }
     ],
-    "field__request_a_consultation_": [],
     "user_picture": [
         {
             "alt": "",

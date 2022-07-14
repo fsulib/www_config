@@ -1,0 +1,17 @@
+uuid: 2d438820-334c-43ce-8786-e8729f0faefd
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus: {  }
+    parent: ''
+name: 'Restricted Page'
+type: restricted_page
+description: 'Pages that only administrators should edit'
+help: ''
+new_revision: false
+preview_mode: 1
+display_submitted: false

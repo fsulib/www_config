@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "cd62d9ba-c10b-402c-9f32-655f67bbef7d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "document",
+            "target_type": "media_type",
+            "target_uuid": "db5f1011-17bf-43b5-b70a-bebcbb2ffd02"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-07-14T20:29:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [
+        {
+            "target_type": "user",
+            "target_uuid": "5e5e0515-2906-4b1e-a752-a103730c504b"
+        }
+    ],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5e5e0515-2906-4b1e-a752-a103730c504b"
+        }
+    ],
+    "name": [
+        {
+            "value": "fsu-libraries-ab-fall2020-minutes.pdf"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "",
+            "title": null,
+            "width": 180,
+            "height": 180,
+            "target_type": "file",
+            "target_uuid": "40268717-ad3c-41df-a379-7962777dafab"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-14T20:29:01+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-14T20:29:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_media_document": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "dca60004-7d1e-4e79-9c28-3505f2989210"
+        }
+    ]
+}

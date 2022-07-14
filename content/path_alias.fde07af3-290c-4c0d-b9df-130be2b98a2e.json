@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "fde07af3-290c-4c0d-b9df-130be2b98a2e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/etextbook_access\/drafts"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/teaching-and-learning\/course-materials\/etextbook-access\/drafts"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

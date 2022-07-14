@@ -13,7 +13,7 @@ dependencies:
 id: featuredcollections
 theme: fsu_strata
 region: content
-weight: 0
+weight: -1
 provider: null
 plugin: 'block_content:0b0136d1-306a-4036-b3cc-880d1684c1e0'
 settings:

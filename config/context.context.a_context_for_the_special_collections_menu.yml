@@ -18,10 +18,16 @@ conditions:
     id: term
     tid:
       -
-        target_id: '132'
+        target_id: '29'
     negate: 0
     uuid: add101f2-0d2e-450e-96c3-38c3fa188a69
     context_mapping: {  }
+  request_path:
+    id: request_path
+    negate: false
+    uuid: ff494d7d-e8d0-47ac-965b-c37fb99e65bd
+    context_mapping: {  }
+    pages: "/special-collections-and-archives/reading-room-access-form\r\n/special-collections-and-archives/class-visit-request-form\r\n/special-collections-and-archives/reproduction-form"
 reactions:
   blocks:
     id: blocks

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "3307e4b8-98c7-40f5-b2ad-556ac955ccb8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/open_access_fund_proposal\/submissions"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/teaching-and-learning\/open-access-fund-form\/submissions"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

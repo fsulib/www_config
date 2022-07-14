@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "00c15438-9b96-4719-8f34-63f1aa514b4c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/219fd42e-f42d-4c4a-9106-db28117525ca"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/library-employee-resources\/employee-calendars"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -71,6 +71,14 @@ elements: |-
       target_bundles:
         fsu_departments: fsu_departments
     '#required': true
+  other_department:
+    '#type': textfield
+    '#title': 'Other Department'
+    '#states':
+      visible:
+        ':input[name="fsu_department"]':
+          value: '21'
+    '#required': true
   semester:
     '#type': select
     '#title': Semester
@@ -129,6 +137,9 @@ elements: |-
         '#type': radios
         '#options': yes_no
         '#title': 'If this is a personal copy, would you like to donate it the Permanent Reserves to keep it in the Course Reserve collections library?'
+  captcha:
+    '#type': captcha
+    '#captcha_type': recaptcha/reCAPTCHA
 css: ''
 javascript: ''
 settings:
@@ -138,7 +149,7 @@ settings:
   ajax_effect: ''
   ajax_speed: null
   page: true
-  page_submit_path: /teaching-and-learning/course-materials/course-reserves-request
+  page_submit_path: /teaching-and-learning/course-materials/course-reserves-request-form
   page_confirm_path: ''
   page_theme_name: ''
   form_title: both

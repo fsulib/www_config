@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "45050261-8f39-4b75-a7a8-83199418cf15"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "filename": [
+        {
+            "value": "Dirac individual_study_rooms.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2022-07\/Dirac individual_study_rooms.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 158437
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-13T19:16:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-13T19:16:30+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

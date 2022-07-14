@@ -43,6 +43,9 @@ elements: |-
   attachments:
     '#type': webform_document_file
     '#title': Attachments
+  captcha:
+    '#type': captcha
+    '#captcha_type': recaptcha/reCAPTCHA
 css: ''
 javascript: ''
 settings:

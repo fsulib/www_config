@@ -1,0 +1,97 @@
+{
+    "uuid": [
+        {
+            "value": "cb4284fe-87fb-45e1-9bfe-987fd266d80e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "b17d1dd2-b562-4656-b080-3f9bec3625f6"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-07-14T16:44:56+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [
+        {
+            "target_type": "user",
+            "target_uuid": "5e5e0515-2906-4b1e-a752-a103730c504b"
+        }
+    ],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5e5e0515-2906-4b1e-a752-a103730c504b"
+        }
+    ],
+    "name": [
+        {
+            "value": "advancement-distinguished.png"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "The members of the advancement board holding a book titled \"Capitalism Alone\"",
+            "title": null,
+            "width": 850,
+            "height": 384,
+            "target_type": "file",
+            "target_uuid": "cec18f4d-5293-4119-b4f8-df921d8b94a1"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-14T16:44:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-14T16:44:56+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "The members of the advancement board holding a book titled \"Capitalism Alone\"",
+            "title": "",
+            "width": 850,
+            "height": 384,
+            "target_type": "file",
+            "target_uuid": "cec18f4d-5293-4119-b4f8-df921d8b94a1"
+        }
+    ]
+}

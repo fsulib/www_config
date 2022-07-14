@@ -12,7 +12,7 @@ dependencies:
 id: ablockthatcontainsspecialcollectionshourwidgets
 theme: fsu_strata
 region: content
-weight: -1
+weight: -2
 provider: null
 plugin: 'block_content:7dfca6f7-f007-403c-827d-86e521167d9c'
 settings:

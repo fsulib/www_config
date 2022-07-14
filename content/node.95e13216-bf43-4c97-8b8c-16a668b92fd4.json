@@ -18,14 +18,14 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-07-07T20:26:23+00:00",
+            "value": "2022-07-13T21:47:11+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "revision_uid": [
         {
             "target_type": "user",
-            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
         }
     ],
     "revision_log": [],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-07-07T20:26:23+00:00",
+            "value": "2022-07-13T21:47:11+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -87,8 +87,8 @@
     "body": [],
     "field_catalog_link": [
         {
-            "uri": "route:<nolink>",
-            "title": "Use this item",
+            "uri": "https:\/\/fsu-flvc.primo.exlibrisgroup.com\/permalink\/01FALSC_FSU\/pag4dr\/alma990328348090306576",
+            "title": "Find this item",
             "options": []
         }
     ],
@@ -106,7 +106,7 @@
     ],
     "field_image_and_details": [
         {
-            "value": "<div class=\"s3-p-10 s3-txt-m-l s3\">\r\n    <div class=\"row\">\r\n        <div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n            <img src=\"\/sites\/default\/files\/2022-07\/room-thumbnail220x156.png\" class=\"img-responsive\" alt=\"\">\r\n        <\/div>\r\n        <div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n            <p><strong>Location: <\/strong>Strozier Library<\/p>\r\n\r\n<p><strong>Lending Period: <\/strong>Up to 8 people<\/p>\r\n\r\n\r\n\r\n<button type=\"button\" class=\"btn btn-md s3-gd\"><a href=\"https:\/\/fsu.libcal.com\/r\/accessible\/availability?lid=3928&zone=0&gid=6590\">Use this item<\/a><\/button>\r\n        <\/div>\r\n\r\n    <\/div>\r\n<\/div>\r\n\r\n        \r\n\r\n\r\n",
+            "value": "<div class=\"s3-p-10 s3-txt-m-l s3\">\r\n    <div class=\"row\">\r\n        <div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n            <img src=\"\/sites\/default\/files\/2022-07\/ti-83_400_x_300.png\" class=\"img-responsive\" alt=\"\">\r\n        <\/div>\r\n        <div class=\"col-m-12 col-sm-3\" style=\"width:50%;\">\r\n            <p><strong>Location: <\/strong>Strozier, Dirac,\r\n& FAMU-FSU Engineering Library<\/p>\r\n\r\n<p><strong>Lending Period: <\/strong>4 Hour Loan<\/p>\r\n\r\n\r\n\r\n<button type=\"button\" class=\"btn btn-md s3-gd\"><a href=\"https:\/\/fsu-flvc.primo.exlibrisgroup.com\/permalink\/01FALSC_FSU\/pag4dr\/alma990328348090306576\">Find this item<\/a><\/button>\r\n        <\/div>\r\n\r\n    <\/div>\r\n<\/div>\r\n\r\n        \r\n\r\n\r\n",
             "format": "full_html"
         }
     ],
@@ -119,7 +119,7 @@
     "field_thumbnail": [
         {
             "target_type": "media",
-            "target_uuid": "37d6df4c-7796-4133-9c65-a42f442f3da1"
+            "target_uuid": "d59c1a9d-fffb-41c3-8f41-07e3b0c2daac"
         }
     ]
 }

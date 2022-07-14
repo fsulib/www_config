@@ -1,0 +1,92 @@
+{
+    "uuid": [
+        {
+            "value": "cbb3a304-4629-4082-a998-18042315c789"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "b17d1dd2-b562-4656-b080-3f9bec3625f6"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-07-13T21:49:52+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "name": [
+        {
+            "value": "dell_thumbnail.png"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "open dell laptop",
+            "title": null,
+            "width": 220,
+            "height": 165,
+            "target_type": "file",
+            "target_uuid": "be2c5467-b8a2-4639-a6aa-a08374016540"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-13T21:49:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-13T21:49:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "open dell laptop",
+            "title": "",
+            "width": 220,
+            "height": 165,
+            "target_type": "file",
+            "target_uuid": "be2c5467-b8a2-4639-a6aa-a08374016540"
+        }
+    ]
+}

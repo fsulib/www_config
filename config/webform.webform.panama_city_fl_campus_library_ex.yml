@@ -17,9 +17,8 @@ elements: |-
     '#type': webform_markup
     '#markup': |-
       <p>Panama City, FL Students and Faculty</p>
-      <p>
-        
-        First time user? Please <a href="/form/led-library-express-delivery-reg">register before you request items.</a></p>
+
+      <p>First time user? Please <a href="/find-and-borrow/leds-registration-form">register before you request items.</a></p>
   your_name:
     '#type': textfield
     '#title': 'Your Name'
@@ -72,6 +71,9 @@ elements: |-
   any_additional_notes:
     '#type': textarea
     '#title': 'Any Additional Notes'
+  captcha:
+    '#type': captcha
+    '#captcha_type': recaptcha/reCAPTCHA
 css: ''
 javascript: ''
 settings:
@@ -81,7 +83,7 @@ settings:
   ajax_effect: ''
   ajax_speed: null
   page: true
-  page_submit_path: ''
+  page_submit_path: /find-and-borrow/leds-panama-request-form
   page_confirm_path: ''
   page_theme_name: ''
   form_title: both

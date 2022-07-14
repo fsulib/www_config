@@ -18,10 +18,16 @@ conditions:
     id: term
     tid:
       -
-        target_id: '145'
+        target_id: '35'
     negate: 0
     uuid: dbfed4da-8336-450f-b559-4a293e32a389
     context_mapping: {  }
+  request_path:
+    id: request_path
+    negate: false
+    uuid: bba5a788-7671-4c86-b97e-844ecd013b5c
+    context_mapping: {  }
+    pages: "/about/employee-directory\r\n/about/contact-us/form\r\n/about/giving-materials-form"
 reactions:
   blocks:
     id: blocks

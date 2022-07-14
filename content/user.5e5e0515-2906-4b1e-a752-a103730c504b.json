@@ -52,11 +52,16 @@
     ],
     "changed": [
         {
-            "value": "2022-07-12T00:34:00+00:00",
+            "value": "2022-07-12T16:46:15+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "roles": [
+        {
+            "target_id": "administrator",
+            "target_type": "user_role",
+            "target_uuid": "31ae329f-6e59-4810-84e1-e48f8ac46cb3"
+        },
         {
             "target_id": "library_employee",
             "target_type": "user_role",
@@ -73,6 +78,7 @@
             "value": true
         }
     ],
+    "field__request_a_consultation_": [],
     "field_bio": [],
     "field_building": [],
     "field_first_name": [
@@ -103,6 +109,5 @@
     "field_preferred_email": [],
     "field_preferred_name": [],
     "field_room_number": [],
-    "field__request_a_consultation_": [],
     "user_picture": []
 }

@@ -1,0 +1,23 @@
+uuid: be10f85e-cc8b-4f15-bfe5-dd75f594425f
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.feeds_item
+    - node.type.etextbook
+  module:
+    - feeds
+id: node.etextbook.feeds_item
+field_name: feeds_item
+entity_type: node
+bundle: etextbook
+label: 'Feeds item'
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:feeds_feed'
+  handler_settings: {  }
+field_type: feeds_item

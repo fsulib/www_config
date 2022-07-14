@@ -84,14 +84,14 @@
             "langcode": "en"
         }
     ],
-    "field_initiative_description": [
-        {
-            "value": "The Diverse Voices in FSU STEM project seeks to call attention to the challenges faced by diverse and underrepresented groups in STEM as they progress through their academic career. This program aims to engage the entire FSU community in conversations that highlight what it means to be a STEM scholar in terms of one\u2019s STEM identity. As part of the project, we will establish an in-person speaker series during which individual speakers will share their stories about what it means to them to be a STEM scholar. "
-        }
-    ],
     "field_init_leads": [
         {
             "value": "Kelly Grove\r\nEmily McClellan\r\n(Denise Wetzel)"
+        }
+    ],
+    "field_initiative_description": [
+        {
+            "value": "The Diverse Voices in FSU STEM project seeks to call attention to the challenges faced by diverse and underrepresented groups in STEM as they progress through their academic career. This program aims to engage the entire FSU community in conversations that highlight what it means to be a STEM scholar in terms of one\u2019s STEM identity. As part of the project, we will establish an in-person speaker series during which individual speakers will share their stories about what it means to them to be a STEM scholar. "
         }
     ],
     "field_related_links": [

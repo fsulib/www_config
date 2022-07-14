@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-07-12T00:47:01+00:00",
+            "value": "2022-07-12T18:21:19+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -83,6 +83,7 @@
             "value": true
         }
     ],
+    "field__request_a_consultation_": [],
     "field_bio": [
         {
             "value": "<p>Kassidy Hof-Mahoney is the Open Science Librarian and the liaison librarian for the FAMU-FSU College of Engineering and the Biological Sciences department. She has a BS in Animal Biology from the University of South Florida and an MLIS from the University of North Carolina at Greensboro. She is a member of the American Library Association (ALA).<\/p>\r\n\r\n<hr>",
@@ -134,7 +135,6 @@
             "value": "202A"
         }
     ],
-    "field__request_a_consultation_": [],
     "user_picture": [
         {
             "alt": "",

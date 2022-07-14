@@ -1,0 +1,131 @@
+{
+    "uuid": [
+        {
+            "value": "a654a31c-7f27-4dac-95f5-996b4bd74948"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "etextbook",
+            "target_type": "node_type",
+            "target_uuid": "2ad18814-da6d-414f-b2ae-0a61cf1d7ac9"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-13T19:12:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Approaches to Art Therapy: Theory and Technique"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-13T19:12:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-13T19:12:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "feeds_item": [
+        {
+            "imported": "2022-07-13T19:12:22+00:00",
+            "guid": "",
+            "hash": "ba4f75eb62d479779c0c941163a3e458",
+            "target_type": "feeds_feed",
+            "target_uuid": "45825bcf-0ba8-4758-b9fd-5f86f91cb5ad"
+        }
+    ],
+    "field_etext_course_number": [
+        {
+            "value": "5649"
+        }
+    ],
+    "field_etext_course_prefix": [
+        {
+            "value": "ARE"
+        }
+    ],
+    "field_etext_course_section": [
+        {
+            "value": "1"
+        }
+    ],
+    "field_etext_instructor_last_name": [
+        {
+            "value": "Gussak"
+        }
+    ],
+    "field_etext_isbn": [
+        {
+            "value": "9781138884564"
+        }
+    ],
+    "field_etext_license": [
+        {
+            "value": "Unlimited User"
+        }
+    ],
+    "field_etext_permalink": [
+        {
+            "value": "https:\/\/fsu-flvc.primo.exlibrisgroup.com\/permalink\/01FALSC_FSU\/pag4dr\/alma990375716790306576"
+        }
+    ]
+}

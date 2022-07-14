@@ -1,0 +1,47 @@
+uuid: 4d56e734-727a-4437-9d5a-072fcf4ada7e
+langcode: en
+status: true
+dependencies:
+  config:
+    - filter.format.basic_html
+    - filter.format.full_html
+    - media.type.document
+    - media.type.image
+    - node.type.page
+  module:
+    - file
+    - filter
+    - image
+    - media
+    - node
+    - path
+    - system
+    - toolbar
+id: power_user
+label: 'Power User'
+weight: 12
+is_admin: null
+permissions:
+  - 'access files overview'
+  - 'access media overview'
+  - 'access toolbar'
+  - 'administer image styles'
+  - 'administer menu'
+  - 'create document media'
+  - 'create image media'
+  - 'create page content'
+  - 'create url aliases'
+  - 'delete own document media'
+  - 'delete own image media'
+  - 'delete own page content'
+  - 'edit any document media'
+  - 'edit any image media'
+  - 'edit any page content'
+  - 'revert page revisions'
+  - 'use text format basic_html'
+  - 'use text format full_html'
+  - 'view all media revisions'
+  - 'view own unpublished content'
+  - 'view own unpublished media'
+  - 'view page revisions'
+  - 'view the administration theme'

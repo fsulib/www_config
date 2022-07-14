@@ -1,0 +1,131 @@
+{
+    "uuid": [
+        {
+            "value": "40e2afd3-6e3c-47a9-842a-6e635b57592c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "etextbook",
+            "target_type": "node_type",
+            "target_uuid": "2ad18814-da6d-414f-b2ae-0a61cf1d7ac9"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-13T19:14:27+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Raising and Educating a Deaf Child: A Comprehensive Guide to the Choices, Controversies, and Decisions Faced by Parents and Educators"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-13T19:14:27+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-13T19:14:27+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "feeds_item": [
+        {
+            "imported": "2022-07-13T19:14:27+00:00",
+            "guid": "",
+            "hash": "d96ed7c79e0d99a105de4ca6eacd6c1e",
+            "target_type": "feeds_feed",
+            "target_uuid": "45825bcf-0ba8-4758-b9fd-5f86f91cb5ad"
+        }
+    ],
+    "field_etext_course_number": [
+        {
+            "value": "5646"
+        }
+    ],
+    "field_etext_course_prefix": [
+        {
+            "value": "SPA"
+        }
+    ],
+    "field_etext_course_section": [
+        {
+            "value": "1"
+        }
+    ],
+    "field_etext_instructor_last_name": [
+        {
+            "value": "Guynes"
+        }
+    ],
+    "field_etext_isbn": [
+        {
+            "value": "9780190643522"
+        }
+    ],
+    "field_etext_license": [
+        {
+            "value": "3 Concurrent User"
+        }
+    ],
+    "field_etext_permalink": [
+        {
+            "value": "https:\/\/fsu-flvc.primo.exlibrisgroup.com\/permalink\/01FALSC_FSU\/pag4dr\/alma990376414590306576"
+        }
+    ]
+}

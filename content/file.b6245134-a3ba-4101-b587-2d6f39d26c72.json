@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "b6245134-a3ba-4101-b587-2d6f39d26c72"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "filename": [
+        {
+            "value": "noun-address-book-icon100x.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2022-07\/noun-address-book-icon100x.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 6759
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-14T03:52:38+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-14T03:52:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

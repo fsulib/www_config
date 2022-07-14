@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-07-12T00:43:23+00:00",
+            "value": "2022-07-14T00:00:04+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -78,6 +78,7 @@
             "value": true
         }
     ],
+    "field__request_a_consultation_": [],
     "field_bio": [
         {
             "value": "Liz Dunne is the Instruction & Reference Librarian and the liaison to the Human Development & Family Science department. In her role as Instruction & Reference Librarian, she coordinates the ENC 2135 Instruction Program, the Libraries' Learning District Tutoring Services, and the Research Help Desk, and she co-coordinates the Libraries\u2019 Virtual Reference Program. As the subject specialist for Human Development & Family Science, she is responsible for instruction requests, research consults, and collection management for the department. Liz holds a BA in Literature and MS in Information from Florida State University. She is currently working on a Masters in Instructional Systems and Learning Technologies. Her research interests include critical pedagogy, universal design for instruction, systematic instructional design, and digital pedagogy.\r\n\r\n<hr>",
@@ -110,6 +111,10 @@
         {
             "target_type": "taxonomy_term",
             "target_uuid": "e9d0825f-bd91-4232-9179-e51e2d1960d8"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "097a3706-bc13-4f02-8e17-5b1969091d3d"
         }
     ],
     "field_personal_pronouns": [],
@@ -138,7 +143,6 @@
             "value": "112D"
         }
     ],
-    "field__request_a_consultation_": [],
     "user_picture": [
         {
             "alt": "",

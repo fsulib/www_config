@@ -1,0 +1,142 @@
+uuid: 21ddbd29-62b3-401c-ac64-0f1c6962b6df
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.etextbook.field_etext_course_number
+    - field.field.node.etextbook.field_etext_course_prefix
+    - field.field.node.etextbook.field_etext_course_section
+    - field.field.node.etextbook.field_etext_instructor_last_name
+    - field.field.node.etextbook.field_etext_isbn
+    - field.field.node.etextbook.field_etext_license
+    - field.field.node.etextbook.field_etext_permalink
+    - node.type.etextbook
+  module:
+    - node
+label: 'eTextbook Import from Google'
+id: etextbook_import_from_google
+description: ''
+help: ''
+import_period: -1
+fetcher: http
+fetcher_configuration:
+  auto_detect_feeds: false
+  use_pubsubhubbub: false
+  always_download: false
+  fallback_hub: ''
+  request_timeout: 30
+parser: csv
+parser_configuration:
+  delimiter: ','
+  no_headers: false
+  line_limit: 100
+processor: 'entity:node'
+processor_configuration:
+  values:
+    type: etextbook
+  langcode: en
+  insert_new: 1
+  update_existing: 1
+  update_non_existent: _delete
+  skip_hash_check: false
+  authorize: true
+  expire: -1
+  owner_feed_author: false
+  owner_id: 1
+custom_sources:
+  catalog_nbr:
+    value: 'Catalog Nbr'
+    label: 'Catalog Nbr'
+    machine_name: catalog_nbr
+    type: csv
+  subject:
+    value: Subject
+    label: Subject
+    machine_name: subject
+    type: csv
+  section:
+    value: Section
+    label: Section
+    machine_name: section
+    type: csv
+  last_name:
+    value: 'Last Name'
+    label: 'Last Name'
+    machine_name: last_name
+    type: csv
+  isbn:
+    value: ISBN
+    label: ISBN
+    machine_name: isbn
+    type: csv
+  title_desc:
+    value: Title/Desc
+    label: Title/Desc
+    machine_name: title_desc
+    type: csv
+  permalink:
+    value: Permalink
+    label: Permalink
+    machine_name: permalink
+    type: csv
+  license:
+    value: License
+    label: License
+    machine_name: license
+    type: csv
+mappings:
+  -
+    target: field_etext_course_number
+    map:
+      value: catalog_nbr
+    settings:
+      language: null
+    unique: {  }
+  -
+    target: field_etext_course_prefix
+    map:
+      value: subject
+    settings:
+      language: null
+    unique: {  }
+  -
+    target: field_etext_course_section
+    map:
+      value: section
+    settings:
+      language: null
+    unique: {  }
+  -
+    target: field_etext_instructor_last_name
+    map:
+      value: last_name
+    settings:
+      language: null
+    unique: {  }
+  -
+    target: field_etext_isbn
+    map:
+      value: isbn
+    settings:
+      language: null
+    unique: {  }
+  -
+    target: title
+    map:
+      value: title_desc
+    settings:
+      language: null
+    unique: {  }
+  -
+    target: field_etext_permalink
+    map:
+      value: permalink
+    settings:
+      language: null
+  -
+    target: field_etext_license
+    map:
+      value: license
+    settings:
+      language: null
+    unique: {  }

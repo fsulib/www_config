@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "9e715095-b5f5-465c-b11d-7e40c25dfa30"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "filename": [
+        {
+            "value": "hours-icon-100px.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2022-07\/hours-icon-100px.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 6490
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-14T20:32:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-14T20:33:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "8894d5ec-447a-43f4-8a9b-f482ba4b86a8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/9024413c-9dc4-4bc3-b477-8957da50a42d"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/teaching-and-learning\/course-reserves"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -40,7 +40,7 @@
     ],
     "link": [
         {
-            "uri": "internal:\/teaching-and-learning\/course-materials\/course-reserves-request",
+            "uri": "internal:\/teaching-and-learning\/course-materials\/course-reserves-request-form",
             "title": "",
             "options": []
         }
@@ -72,7 +72,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-22T15:41:08+00:00",
+            "value": "2022-07-14T17:57:30+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],

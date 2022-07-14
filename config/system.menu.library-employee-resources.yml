@@ -1,0 +1,8 @@
+uuid: 53520fb0-b07d-46aa-b660-cd58d3c2cff6
+langcode: en
+status: true
+dependencies: {  }
+id: library-employee-resources
+label: 'Library Employee Resources'
+description: ''
+locked: false

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "2bf3ca41-af9f-49c9-b077-41dd3a4ba926"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/98be34bc-b2b2-4b7a-af6a-be5e86c894db"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/help\/off-campus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

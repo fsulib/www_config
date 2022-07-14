@@ -1,16 +1,17 @@
-uuid: ac061bc3-ea8c-43db-b57f-2ea1644959cb
+uuid: 668cd52e-c0f1-4e95-90fe-b25db2fc13e5
 langcode: en
 status: true
 dependencies:
   config:
     - core.entity_view_mode.node.teaser
-    - field.field.node.etextbook.field_course_number
-    - field.field.node.etextbook.field_course_prefix
-    - field.field.node.etextbook.field_course_section
-    - field.field.node.etextbook.field_instructor_last_name
-    - field.field.node.etextbook.field_isbn
-    - field.field.node.etextbook.field_license
-    - field.field.node.etextbook.field_permalink
+    - field.field.node.etextbook.feeds_item
+    - field.field.node.etextbook.field_etext_course_number
+    - field.field.node.etextbook.field_etext_course_prefix
+    - field.field.node.etextbook.field_etext_course_section
+    - field.field.node.etextbook.field_etext_instructor_last_name
+    - field.field.node.etextbook.field_etext_isbn
+    - field.field.node.etextbook.field_etext_license
+    - field.field.node.etextbook.field_etext_permalink
     - node.type.etextbook
   module:
     - user
@@ -25,10 +26,11 @@ content:
     weight: 100
     region: content
 hidden:
-  field_course_number: true
-  field_course_prefix: true
-  field_course_section: true
-  field_instructor_last_name: true
-  field_isbn: true
-  field_license: true
-  field_permalink: true
+  feeds_item: true
+  field_etext_course_number: true
+  field_etext_course_prefix: true
+  field_etext_course_section: true
+  field_etext_instructor_last_name: true
+  field_etext_isbn: true
+  field_etext_license: true
+  field_etext_permalink: true

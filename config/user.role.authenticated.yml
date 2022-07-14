@@ -2,12 +2,7 @@ uuid: 05e24f81-922b-49d2-985e-ce4fe085e22d
 langcode: en
 status: true
 dependencies:
-  config:
-    - filter.format.basic_html
   module:
-    - comment
-    - contact
-    - filter
     - media
     - search
     - shortcut
@@ -19,12 +14,7 @@ label: 'Authenticated user'
 weight: 1
 is_admin: false
 permissions:
-  - 'access comments'
   - 'access content'
   - 'access shortcuts'
-  - 'access site-wide contact form'
-  - 'post comments'
   - 'search content'
-  - 'skip comment approval'
-  - 'use text format basic_html'
   - 'view media'

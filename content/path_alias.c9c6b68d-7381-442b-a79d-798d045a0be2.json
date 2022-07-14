@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "c9c6b68d-7381-442b-a79d-798d045a0be2"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/special_collections_reading_room\/drafts"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/special-collections-and-archives\/reading-room-access-form\/drafts"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

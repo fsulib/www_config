@@ -46,6 +46,9 @@ elements: |-
     '#type': textarea
     '#title': 'Issue Description'
     '#required': true
+  captcha:
+    '#type': captcha
+    '#captcha_type': recaptcha/reCAPTCHA
 css: ''
 javascript: ''
 settings:

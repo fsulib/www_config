@@ -1,0 +1,131 @@
+{
+    "uuid": [
+        {
+            "value": "6019111c-1ae3-43a2-8511-87afc80c6b74"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "etextbook",
+            "target_type": "node_type",
+            "target_uuid": "2ad18814-da6d-414f-b2ae-0a61cf1d7ac9"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-13T19:13:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "The Gentrification of the Mind: Witness to a Lost Imagination"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-13T19:13:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-13T19:13:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "feeds_item": [
+        {
+            "imported": "2022-07-13T19:13:21+00:00",
+            "guid": "",
+            "hash": "ec1f8e78c49451228ea0c1c88cfe3cd2",
+            "target_type": "feeds_feed",
+            "target_uuid": "45825bcf-0ba8-4758-b9fd-5f86f91cb5ad"
+        }
+    ],
+    "field_etext_course_number": [
+        {
+            "value": "3405"
+        }
+    ],
+    "field_etext_course_prefix": [
+        {
+            "value": "IDH"
+        }
+    ],
+    "field_etext_course_section": [
+        {
+            "value": "1"
+        }
+    ],
+    "field_etext_instructor_last_name": [
+        {
+            "value": "Franklin"
+        }
+    ],
+    "field_etext_isbn": [
+        {
+            "value": "9780520280069"
+        }
+    ],
+    "field_etext_license": [
+        {
+            "value": "Unlimited User"
+        }
+    ],
+    "field_etext_permalink": [
+        {
+            "value": "https:\/\/fsu-flvc.primo.exlibrisgroup.com\/permalink\/01FALSC_FSU\/pag4dr\/alma99383211197406576"
+        }
+    ]
+}

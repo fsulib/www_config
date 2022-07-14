@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-07-12T00:31:46+00:00",
+            "value": "2022-07-12T18:07:00+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -78,6 +78,7 @@
             "value": true
         }
     ],
+    "field__request_a_consultation_": [],
     "field_bio": [
         {
             "value": "<p>Dan 'Brew' Schoonover serves as the subject librarian for Anthropology and the Director of the Social Sciences, Arts & Humanities team. He joined the Florida State University Libraries in 2008. Brew received his M.A. in Religion from Southeastern University in Lakeland, FL and his Masters in Library and Information Studies at Florida State University. He is a member of the Anthropology and Social Sciences Section of the Association of College and Research Libraries.<\/p>\r\n\r\n<hr>",
@@ -138,7 +139,6 @@
             "value": "027"
         }
     ],
-    "field__request_a_consultation_": [],
     "user_picture": [
         {
             "alt": "",

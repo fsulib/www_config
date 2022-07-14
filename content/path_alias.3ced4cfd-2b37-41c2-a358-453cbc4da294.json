@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "3ced4cfd-2b37-41c2-a358-453cbc4da294"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/9cd193d6-4b2a-43be-849d-3b88ff5d33fd"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/research-and-publish\/oer"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

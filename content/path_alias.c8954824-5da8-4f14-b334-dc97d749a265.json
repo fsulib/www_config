@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "c8954824-5da8-4f14-b334-dc97d749a265"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/62d73567-fc53-4c2b-b259-08a72a213e63"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/library-employee-resources\/all-forms"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

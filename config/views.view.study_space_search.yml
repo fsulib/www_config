@@ -4,6 +4,7 @@ status: true
 dependencies:
   config:
     - field.storage.node.field_booking_link
+    - field.storage.node.field_notes
     - field.storage.node.field_request_reservation
     - field.storage.node.field_study_space_capacity
     - field.storage.node.field_study_space_location
@@ -14,6 +15,8 @@ dependencies:
     - taxonomy.vocabulary.study_space_capacity
     - taxonomy.vocabulary.study_space_type
   content:
+    - 'taxonomy_term:study_space_type:10cdac34-c844-4e78-9320-7f7a67dc1b5b'
+    - 'taxonomy_term:study_space_type:598492bb-cd8a-415b-ae30-55efca8572c1'
     - 'taxonomy_term:study_space_type:c2ec4447-b7ff-4a5a-9b52-28785e9321cd'
   module:
     - better_exposed_filters
@@ -468,6 +471,69 @@ display:
           multi_type: separator
           separator: ', '
           field_api_classes: false
+        field_notes:
+          id: field_notes
+          table: node__field_notes
+          field: field_notes
+          relationship: none
+          group_type: group
+          admin_label: ''
+          plugin_id: field
+          label: ''
+          exclude: false
+          alter:
+            alter_text: false
+            text: ''
+            make_link: false
+            path: ''
+            absolute: false
+            external: false
+            replace_spaces: false
+            path_case: none
+            trim_whitespace: false
+            alt: ''
+            rel: ''
+            link_class: ''
+            prefix: ''
+            suffix: ''
+            target: ''
+            nl2br: false
+            max_length: 0
+            word_boundary: true
+            ellipsis: true
+            more_link: false
+            more_link_text: ''
+            more_link_path: ''
+            strip_tags: false
+            trim: false
+            preserve_tags: ''
+            html: false
+          element_type: ''
+          element_class: ''
+          element_label_type: ''
+          element_label_class: ''
+          element_label_colon: false
+          element_wrapper_type: ''
+          element_wrapper_class: ''
+          element_default_classes: true
+          empty: ''
+          hide_empty: false
+          empty_zero: false
+          hide_alter_empty: true
+          click_sort_column: value
+          type: string
+          settings:
+            link_to_entity: false
+          group_column: value
+          group_columns: {  }
+          group_rows: true
+          delta_limit: 0
+          delta_offset: 0
+          delta_reversed: false
+          delta_first_last: false
+          multi_type: separator
+          separator: ', '
+          field_api_classes: false
       pager:
         type: full
         options:
@@ -804,21 +870,23 @@ display:
           plugin_id: taxonomy_index_tid
           operator: or
           value:
-            157: 157
+            61: 61
+            44: 44
+            47: 47
           group: 1
           exposed: true
           expose:
             operator_id: field_study_space_type_target_id_op
-            label: Type
+            label: 'Limit to'
             description: ''
             use_operator: false
             operator: field_study_space_type_target_id_op
             operator_limit_selection: false
             operator_list: {  }
             identifier: field_study_space_type_target_id
-            required: false
+            required: true
             remember: false
-            multiple: true
+            multiple: false
             remember_roles:
               authenticated: authenticated
               anonymous: '0'
@@ -829,9 +897,9 @@ display:
               graduate_student: '0'
               faculty: '0'
               tech_services: '0'
-              ir_manager: '0'
               employee: '0'
               undergraduate: '0'
+              power_user: '0'
             reduce: false
           is_grouped: false
           group_info:
@@ -863,12 +931,12 @@ display:
         options:
           grouping: {  }
           columns: 3
-          automatic_width: true
+          automatic_width: false
           alignment: horizontal
           row_class_custom: ''
           row_class_default: true
-          col_class_custom: ''
-          col_class_default: true
+          col_class_custom: col-sm-4
+          col_class_default: false
       row:
         type: fields
         options:
@@ -901,6 +969,7 @@ display:
         - 'user.node_grants:view'
       tags:
         - 'config:field.storage.node.field_booking_link'
+        - 'config:field.storage.node.field_notes'
         - 'config:field.storage.node.field_request_reservation'
         - 'config:field.storage.node.field_study_space_capacity'
         - 'config:field.storage.node.field_study_space_location'
@@ -935,6 +1004,7 @@ display:
         - 'user.node_grants:view'
       tags:
         - 'config:field.storage.node.field_booking_link'
+        - 'config:field.storage.node.field_notes'
         - 'config:field.storage.node.field_request_reservation'
         - 'config:field.storage.node.field_study_space_capacity'
         - 'config:field.storage.node.field_study_space_location'

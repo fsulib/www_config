@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "c8c39f2a-871c-467b-a6df-2925585a9ad5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/dc281414-0f6e-4869-81fb-d49b10c216b6"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/about\/giving\/advancement-board"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

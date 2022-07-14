@@ -18,10 +18,16 @@ conditions:
     id: term
     tid:
       -
-        target_id: '149'
+        target_id: '39'
     negate: 0
     uuid: add101f2-0d2e-450e-96c3-38c3fa188a69
     context_mapping: {  }
+  request_path:
+    id: request_path
+    negate: false
+    uuid: 9146e91a-9815-43e6-aa91-45863233a6cd
+    context_mapping: {  }
+    pages: /teaching-and-learning/open-access-fund-form
 reactions:
   blocks:
     id: blocks

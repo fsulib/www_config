@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a8e3b2c5-091f-4684-b556-845ef21735ae"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/giving_materials_to_the_librarie\/submissions"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/about\/giving-materials-form\/submissions"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

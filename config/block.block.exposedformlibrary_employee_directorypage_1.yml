@@ -9,7 +9,7 @@ dependencies:
 id: exposedformlibrary_employee_directorypage_1
 theme: fsu_strata
 region: content
-weight: -4
+weight: -5
 provider: null
 plugin: 'views_exposed_filter_block:library_employee_directory-page_1'
 settings:

@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-07-12T00:36:43+00:00",
+            "value": "2022-07-12T18:12:14+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -73,6 +73,7 @@
             "value": true
         }
     ],
+    "field__request_a_consultation_": [],
     "field_bio": [],
     "field_building": [
         {
@@ -110,6 +111,5 @@
             "value": "120"
         }
     ],
-    "field__request_a_consultation_": [],
     "user_picture": []
 }

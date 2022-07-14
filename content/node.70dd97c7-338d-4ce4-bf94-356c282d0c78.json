@@ -18,14 +18,14 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-06-27T15:46:06+00:00",
+            "value": "2022-07-14T16:00:20+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "revision_uid": [
         {
             "target_type": "user",
-            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+            "target_uuid": "5e5e0515-2906-4b1e-a752-a103730c504b"
         }
     ],
     "revision_log": [],
@@ -42,7 +42,7 @@
     ],
     "title": [
         {
-            "value": "Ask a Librarian"
+            "value": "Ask Us"
         }
     ],
     "created": [
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-27T15:46:06+00:00",
+            "value": "2022-07-14T16:00:20+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -85,7 +85,7 @@
     ],
     "body": [
         {
-            "value": "<p>Need help? Ask a Librarian provides FSU students, faculty, and staff research and reference support through live chat. Please <a href=\"\/visit\/hours\">view our hours page<\/a> for up to date hours and availability.<\/p>\r\n<script src=\"https:\/\/fsu.libanswers.com\/load_chat.php?hash=0269af4e26a39a13a75f0603214b7f30\"><\/script>\r\n\r\n<div id=\"libchat_0269af4e26a39a13a75f0603214b7f30\"><\/div>\r\n<p>If you would like more information about our service, please see the <a href=\"#\">Ask A Librarian Policy<\/a>.<\/p>\r\n",
+            "value": "<p>Need help? Ask Us provides FSU students, faculty, and staff research and reference support through live chat. Please <a href=\"\/visit\/hours\">view our hours page<\/a> for up to date hours and availability.<\/p>\r\n<script src=\"https:\/\/fsu.libanswers.com\/load_chat.php?hash=0269af4e26a39a13a75f0603214b7f30\"><\/script>\r\n\r\n<div id=\"libchat_0269af4e26a39a13a75f0603214b7f30\"><\/div>\r\n<p>If you would like more information about our service, please see the <a href=\"#\">Ask A Librarian Policy<\/a>.<\/p>\r\n",
             "format": "full_html",
             "summary": ""
         }

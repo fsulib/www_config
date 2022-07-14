@@ -1,15 +1,16 @@
-uuid: ab312f40-439c-4fec-bf12-d0bb062bc7ea
+uuid: 554fba38-f873-44ba-b8ae-ed600237c0e2
 langcode: en
 status: true
 dependencies:
   config:
-    - field.field.node.etextbook.field_course_number
-    - field.field.node.etextbook.field_course_prefix
-    - field.field.node.etextbook.field_course_section
-    - field.field.node.etextbook.field_instructor_last_name
-    - field.field.node.etextbook.field_isbn
-    - field.field.node.etextbook.field_license
-    - field.field.node.etextbook.field_permalink
+    - field.field.node.etextbook.feeds_item
+    - field.field.node.etextbook.field_etext_course_number
+    - field.field.node.etextbook.field_etext_course_prefix
+    - field.field.node.etextbook.field_etext_course_section
+    - field.field.node.etextbook.field_etext_instructor_last_name
+    - field.field.node.etextbook.field_etext_isbn
+    - field.field.node.etextbook.field_etext_license
+    - field.field.node.etextbook.field_etext_permalink
     - node.type.etextbook
   module:
     - user
@@ -18,64 +19,65 @@ targetEntityType: node
 bundle: etextbook
 mode: default
 content:
-  field_course_number:
+  field_etext_course_number:
     type: string
     label: above
     settings:
       link_to_entity: false
     third_party_settings: {  }
-    weight: 3
+    weight: 104
     region: content
-  field_course_prefix:
+  field_etext_course_prefix:
     type: string
     label: above
     settings:
       link_to_entity: false
     third_party_settings: {  }
-    weight: 2
+    weight: 103
     region: content
-  field_course_section:
+  field_etext_course_section:
     type: string
     label: above
     settings:
       link_to_entity: false
     third_party_settings: {  }
-    weight: 4
+    weight: 105
     region: content
-  field_instructor_last_name:
+  field_etext_instructor_last_name:
     type: string
     label: above
     settings:
       link_to_entity: false
     third_party_settings: {  }
-    weight: 5
+    weight: 106
     region: content
-  field_isbn:
+  field_etext_isbn:
     type: string
     label: above
     settings:
       link_to_entity: false
     third_party_settings: {  }
-    weight: 6
+    weight: 107
     region: content
-  field_license:
+  field_etext_license:
     type: string
     label: above
     settings:
       link_to_entity: false
     third_party_settings: {  }
-    weight: 8
+    weight: 110
     region: content
-  field_permalink:
+  field_etext_permalink:
     type: basic_string
     label: above
     settings: {  }
     third_party_settings: {  }
-    weight: 7
+    weight: 108
     region: content
   links:
     settings: {  }
     third_party_settings: {  }
-    weight: 1
+    weight: 100
     region: content
-hidden: {  }
+hidden:
+  feeds_item: true

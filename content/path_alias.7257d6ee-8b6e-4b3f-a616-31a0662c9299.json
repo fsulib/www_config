@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "7257d6ee-8b6e-4b3f-a616-31a0662c9299"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/open_access_fund_proposal\/drafts"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/teaching-and-learning\/open-access-fund-form\/drafts"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-07-12T00:44:15+00:00",
+            "value": "2022-07-13T23:59:28+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -73,6 +73,7 @@
             "value": true
         }
     ],
+    "field__request_a_consultation_": [],
     "field_bio": [],
     "field_building": [
         {
@@ -95,6 +96,10 @@
         {
             "target_type": "taxonomy_term",
             "target_uuid": "e9d0825f-bd91-4232-9179-e51e2d1960d8"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "097a3706-bc13-4f02-8e17-5b1969091d3d"
         }
     ],
     "field_personal_pronouns": [],
@@ -111,6 +116,5 @@
             "value": "112N"
         }
     ],
-    "field__request_a_consultation_": [],
     "user_picture": []
 }

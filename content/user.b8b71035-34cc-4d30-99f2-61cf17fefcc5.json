@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-07-12T00:37:28+00:00",
+            "value": "2022-07-12T18:13:31+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -83,6 +83,7 @@
             "value": true
         }
     ],
+    "field__request_a_consultation_": [],
     "field_bio": [
         {
             "value": "<p>Laura Gayle Green holds degrees from Ashland College (B. music, piano), the University of Virginia (M.A., musicology), and Indiana University (M.L.S. with an emphasis in music librarianship). She became Head of the Warren D. Allen Music Library at Florida State University in July 2012. Previous positions include Director, Music\/Media Library at the University of Missouri\u2014Kansas City (UMKC, 1993-2012) with an appointment as Adjunct Associate Professor in the Conservatory of Music and Dance, and Visiting Assistant Librarian, Music Cataloger at Indiana University (1990-1993). Ms. Green has been published in Cataloging and Classification Quarterly and Music Reference Services Quarterly, and has invited articles in Women and Music in America Since 1900 (Oryx Press 2002). She has been a speaker and panelist at Music Library Association (MLA), Music Library Association Midwest Chapter, American Musicological Association, Society for American Music, and Innovative Users Group meetings. Ms. Green has served as Convention Manager, Assistant Convention Manager, Treasurer\/Executive Secretary, Program Chair, and Co-Chair Local Arrangements Committee for MLA. Ms. Green serves on the advisory board for Naxos Music Library and is on the editorial board for College Music Symposium.<\/p>\r\n\r\n<hr>\r\n\r\n",
@@ -135,7 +136,6 @@
             "value": "N0202"
         }
     ],
-    "field__request_a_consultation_": [],
     "user_picture": [
         {
             "alt": "",

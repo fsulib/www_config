@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "30d65354-33ac-4e21-b32b-74143fa6d3c2"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "filename": [
+        {
+            "value": "group_study_rooms_303-5 _thumbnail.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2022-07\/group_study_rooms_303-5 _thumbnail.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 33240
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-13T18:35:29+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-13T18:35:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

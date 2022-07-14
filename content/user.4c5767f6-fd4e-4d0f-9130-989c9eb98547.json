@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-07-12T00:30:17+00:00",
+            "value": "2022-07-13T14:58:58+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -66,11 +66,23 @@
             "target_id": "employee",
             "target_type": "user_role",
             "target_uuid": "92eff045-2f26-4ca9-a3b3-7bde2011e1ab"
+        },
+        {
+            "target_id": "power_user",
+            "target_type": "user_role",
+            "target_uuid": "4d56e734-727a-4437-9d5a-072fcf4ada7e"
         }
     ],
     "default_langcode": [
         {
             "value": true
+        }
+    ],
+    "field__request_a_consultation_": [
+        {
+            "uri": "internal:\/help\/consultation?librarian=",
+            "title": "Request a Consultation",
+            "options": []
         }
     ],
     "field_bio": [],
@@ -93,7 +105,11 @@
             "target_uuid": "e9d0825f-bd91-4232-9179-e51e2d1960d8"
         }
     ],
-    "field_personal_pronouns": [],
+    "field_personal_pronouns": [
+        {
+            "value": "he\/him"
+        }
+    ],
     "field_phone_number": [],
     "field_position_title": [
         {
@@ -107,12 +123,5 @@
     ],
     "field_preferred_name": [],
     "field_room_number": [],
-    "field__request_a_consultation_": [
-        {
-            "uri": "internal:\/help\/consultation?librarian=",
-            "title": "Request a Consultation",
-            "options": []
-        }
-    ],
     "user_picture": []
 }

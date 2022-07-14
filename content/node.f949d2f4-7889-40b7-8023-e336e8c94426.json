@@ -1,0 +1,131 @@
+{
+    "uuid": [
+        {
+            "value": "f949d2f4-7889-40b7-8023-e336e8c94426"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "etextbook",
+            "target_type": "node_type",
+            "target_uuid": "2ad18814-da6d-414f-b2ae-0a61cf1d7ac9"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-13T19:13:10+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "The Sustainability Myth: Environmental Gentrification and the Politics of Justic"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-13T19:13:10+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-13T19:13:10+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "feeds_item": [
+        {
+            "imported": "2022-07-13T19:13:10+00:00",
+            "guid": "",
+            "hash": "754b83979967bb6e7f85b0f37579f2c6",
+            "target_type": "feeds_feed",
+            "target_uuid": "45825bcf-0ba8-4758-b9fd-5f86f91cb5ad"
+        }
+    ],
+    "field_etext_course_number": [
+        {
+            "value": "5058"
+        }
+    ],
+    "field_etext_course_prefix": [
+        {
+            "value": "GEO"
+        }
+    ],
+    "field_etext_course_section": [
+        {
+            "value": "1"
+        }
+    ],
+    "field_etext_instructor_last_name": [
+        {
+            "value": "McCreary"
+        }
+    ],
+    "field_etext_isbn": [
+        {
+            "value": "9781479855278"
+        }
+    ],
+    "field_etext_license": [
+        {
+            "value": "Unlimited User"
+        }
+    ],
+    "field_etext_permalink": [
+        {
+            "value": "https:\/\/fsu-flvc.primo.exlibrisgroup.com\/permalink\/01FALSC_FSU\/pag4dr\/alma990380096880306576"
+        }
+    ]
+}

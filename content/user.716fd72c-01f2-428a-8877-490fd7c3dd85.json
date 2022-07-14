@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-07-12T00:32:38+00:00",
+            "value": "2022-07-12T18:07:49+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -76,6 +76,13 @@
     "default_langcode": [
         {
             "value": true
+        }
+    ],
+    "field__request_a_consultation_": [
+        {
+            "uri": "internal:\/help\/consultation?librarian=Wycoff",
+            "title": "Request a consultation",
+            "options": []
         }
     ],
     "field_bio": [
@@ -168,13 +175,6 @@
     "field_room_number": [
         {
             "value": "027K"
-        }
-    ],
-    "field__request_a_consultation_": [
-        {
-            "uri": "internal:\/help\/consultation?librarian=Wycoff",
-            "title": "Request a consultation",
-            "options": []
         }
     ],
     "user_picture": [

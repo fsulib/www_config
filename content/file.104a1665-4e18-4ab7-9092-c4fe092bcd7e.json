@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "104a1665-4e18-4ab7-9092-c4fe092bcd7e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "filename": [
+        {
+            "value": "accessibility-icon-100px.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2022-07\/accessibility-icon-100px.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 11104
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-14T20:33:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-14T20:33:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

@@ -84,14 +84,14 @@
             "langcode": "en"
         }
     ],
-    "field_initiative_description": [
-        {
-            "value": "FSU's institutional repository, Diginole, is shifting from being hosted under FLVC's architecture to one that is maintained, in-house, by FSU Libraries. The migration involves a complex, multi-layered process that includes: building and sustaining this technical infrastructure in a cloud-based computing environment (Amazon Web Services), deploying an updated version of the repository's software stack (Islandora) within this environment, and transferring the contents of the old repository to the new one in a way that maintains their integrity and discoverability. Updates to the overall look and feel of the repository are also being implemented in addition to new features and functionalities that were not available through the old system."
-        }
-    ],
     "field_init_leads": [
         {
             "value": "Jean Phillips\r\nDavid Rodriguez"
+        }
+    ],
+    "field_initiative_description": [
+        {
+            "value": "FSU's institutional repository, Diginole, is shifting from being hosted under FLVC's architecture to one that is maintained, in-house, by FSU Libraries. The migration involves a complex, multi-layered process that includes: building and sustaining this technical infrastructure in a cloud-based computing environment (Amazon Web Services), deploying an updated version of the repository's software stack (Islandora) within this environment, and transferring the contents of the old repository to the new one in a way that maintains their integrity and discoverability. Updates to the overall look and feel of the repository are also being implemented in addition to new features and functionalities that were not available through the old system."
         }
     ],
     "field_related_links": [],

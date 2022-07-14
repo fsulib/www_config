@@ -1,0 +1,65 @@
+{
+    "uuid": [
+        {
+            "value": "dbf8c4d5-9a0f-40bb-8509-746a67c795a4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "basic",
+            "target_type": "block_content_type",
+            "target_uuid": "bd93dd8d-71b1-4c0e-99e8-a4004533c089"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-07-13T19:26:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "info": [
+        {
+            "value": "eTextbooks for Students Search Content at Top"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-13T19:36:45+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "reusable": [
+        {
+            "value": true
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "body": [
+        {
+            "value": "<h1>eTextbook Search<\/h1><div style=\"float:right; width: 350px; border-style:solid;border-width: 1px;background-color:#f3ede1;padding: 15px;margin-left:20px;\"><strong>Instructors<\/strong><p>Need more information about eTextbooks for Your Course? Learn more about how to adopt and access at <a href=\"\/teaching-and-learning\/course-materials\/etextbook-information\">eTextbook Information<\/a>.<\/p> <\/div>\r\n<div ><p>In order to support student success and equitable access to information, FSU Libraries identifies titles currently available as eBooks and assigned as textbooks and course materials. Simply search by book title, instructor&rsquo;s last name, or course code to see if your text is among those purchased by the Libraries. If you encounter any problems, please fill out our <a href=\"\/teaching-and-learning\/course-materials\/etextbook-access\">eTextbook Access Form<a\/><\/p><\/div>",
+            "format": "full_html",
+            "summary": ""
+        }
+    ]
+}

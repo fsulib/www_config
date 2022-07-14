@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f93528dc-11bc-41d1-ae4e-dc1019bc92e4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/bradley_reading_room_access\/submissions"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/visit\/rooms\/bradley-room-access-form\/submissions"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

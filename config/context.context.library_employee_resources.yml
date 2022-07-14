@@ -1,0 +1,50 @@
+uuid: 82a02e1a-24d2-4074-9c0f-9ec1a5bebcb9
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.library-employee-resources
+  module:
+    - system
+    - term_condition
+label: 'Library Employee Resources'
+name: library_employee_resources
+group: menu
+description: ''
+requireAllConditions: false
+disabled: false
+conditions:
+  term:
+    id: term
+    tid:
+      -
+        target_id: '156'
+    negate: 0
+    uuid: 72b11164-2094-43f9-a7a9-1e84413d10d0
+    context_mapping: {  }
+reactions:
+  blocks:
+    id: blocks
+    uuid: c80e635d-a800-4b8c-ae58-b4c9013e3cce
+    blocks:
+      e9bfbcfd-979f-421f-9589-1523b352a241:
+        uuid: e9bfbcfd-979f-421f-9589-1523b352a241
+        id: 'system_menu_block:library-employee-resources'
+        label: 'Library Employee Resources'
+        provider: system
+        label_display: '0'
+        region: sidebar_first
+        weight: '0'
+        custom_id: system_menu_block_library_employee_resources
+        theme: fsu_strata
+        css_class: ''
+        unique: 0
+        context_id: library_employee_resources
+        context_mapping: {  }
+        level: '1'
+        depth: '0'
+        expand_all_items: 0
+        third_party_settings: {  }
+    include_default_blocks: 1
+    saved: false
+weight: 0

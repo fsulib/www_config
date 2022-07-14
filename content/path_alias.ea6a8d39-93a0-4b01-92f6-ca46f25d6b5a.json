@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "ea6a8d39-93a0-4b01-92f6-ca46f25d6b5a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/special_collections_class_visit_\/drafts"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/special-collections-and-archives\/class-visit-request-form\/drafts"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

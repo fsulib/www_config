@@ -13,7 +13,7 @@ dependencies:
 id: libraryevents
 theme: fsu_strata
 region: content
-weight: -2
+weight: -3
 provider: null
 plugin: 'block_content:178e3a03-8d99-4e7a-a38b-aa138d6daac3'
 settings:

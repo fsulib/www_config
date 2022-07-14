@@ -1,0 +1,97 @@
+{
+    "uuid": [
+        {
+            "value": "781d1272-450a-402d-8f45-5cec2316c863"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "b17d1dd2-b562-4656-b080-3f9bec3625f6"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-07-13T21:37:58+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "name": [
+        {
+            "value": "ti_36_400_x_300.png"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "Top of graphing calculator",
+            "title": null,
+            "width": 400,
+            "height": 300,
+            "target_type": "file",
+            "target_uuid": "ff9f4826-5264-4c22-a3c6-6e7c9efd1431"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-13T21:37:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-13T21:37:58+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "Top of graphing calculator",
+            "title": "",
+            "width": 400,
+            "height": 300,
+            "target_type": "file",
+            "target_uuid": "ff9f4826-5264-4c22-a3c6-6e7c9efd1431"
+        }
+    ]
+}
