@@ -51,6 +51,7 @@
         "drupal/tome": "^1.6",
         "drupal/upgrade_status": "^3.14",
         "drupal/webform": "^6.0",
+        "drupal/webform_views": "^5.0@beta",
         "drush/drush": "^10.3",
         "fsulib/fsu_strata": "dev-master",
         "fsulib/fsu_twig_filter": "dev-master",
