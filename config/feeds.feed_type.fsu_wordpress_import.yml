@@ -1,0 +1,76 @@
+uuid: 74a722bf-0945-498a-bb9b-9a36261341a4
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.imported_blog_post.field_blog_post_body
+    - field.field.node.imported_blog_post.field_blog_post_published_date
+    - field.field.node.imported_blog_post.field_blog_post_url
+    - field.field.node.imported_blog_post.field_blog_type
+    - node.type.imported_blog_post
+  module:
+    - node
+label: 'FSU Wordpress Import'
+id: fsu_wordpress_import
+description: ''
+help: ''
+import_period: -1
+fetcher: http
+fetcher_configuration:
+  auto_detect_feeds: false
+  use_pubsubhubbub: false
+  always_download: true
+  fallback_hub: ''
+  request_timeout: 30
+parser: syndication
+parser_configuration: {  }
+processor: 'entity:node'
+processor_configuration:
+  values:
+    type: imported_blog_post
+  langcode: en
+  insert_new: 1
+  update_existing: 1
+  update_non_existent: _keep
+  skip_hash_check: false
+  authorize: true
+  expire: -1
+  owner_feed_author: false
+  owner_id: 1
+custom_sources: {  }
+mappings:
+  -
+    target: title
+    map:
+      value: title
+    settings:
+      language: null
+    unique: {  }
+  -
+    target: field_blog_post_body
+    map:
+      value: content
+      summary: description
+    settings:
+      language: null
+      format: plain_text
+  -
+    target: field_blog_post_published_date
+    map:
+      value: timestamp
+    settings:
+      language: null
+      timezone: UTC
+  -
+    target: field_blog_post_url
+    map:
+      value: url
+    settings:
+      language: null
+  -
+    target: field_blog_type
+    map:
+      value: feed_description
+    settings:
+      language: null
+    unique: {  }

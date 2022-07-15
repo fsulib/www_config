@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "56f72227-a78d-4705-a1d2-912bc9dabc8c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "1615984b-d525-4cab-ab18-c52e3da0aa02"
+        }
+    ],
+    "filename": [
+        {
+            "value": "ericacooper_200x150_0.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/inline-images\/ericacooper_200x150_0.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 64415
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-15T16:51:55+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-15T16:51:55+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

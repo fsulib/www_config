@@ -1,0 +1,71 @@
+{
+    "uuid": [
+        {
+            "value": "85e2fb96-4ff2-4fd6-abe4-2e02c5346692"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "special_collections_wordpress_im",
+            "target_type": "feeds_feed_type",
+            "target_uuid": "5d8fdf67-a3ed-4260-8a50-8d30a38073f7"
+        }
+    ],
+    "title": [
+        {
+            "value": "Special Collections Wordpress Import"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5e5e0515-2906-4b1e-a752-a103730c504b"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-15T15:10:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-15T15:17:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "imported": [
+        {
+            "value": "2022-07-15T15:17:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "next": [
+        {
+            "value": "1969-12-31T23:59:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "queued": [
+        {
+            "value": "1970-01-01T00:00:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "source": [
+        {
+            "value": "https:\/\/fsuspecialcollections.wordpress.com\/feed\/"
+        }
+    ],
+    "config": [],
+    "item_count": [
+        {
+            "value": 10
+        }
+    ]
+}

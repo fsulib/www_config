@@ -1,0 +1,19 @@
+uuid: 945f4b57-95f2-4dae-94cf-a51589f15a31
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_blog_type
+    - node.type.imported_blog_post
+id: node.imported_blog_post.field_blog_type
+field_name: field_blog_type
+entity_type: node
+bundle: imported_blog_post
+label: 'Blog Type'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

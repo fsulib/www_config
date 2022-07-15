@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-21T12:37:59+00:00",
+            "value": "2022-07-14T20:57:27+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -68,8 +68,7 @@
     ],
     "path": [
         {
-            "alias": null,
-            "pid": null,
+            "alias": "\/about\/organization\/strategic-initiatives\/enhance-research-scholarship",
             "langcode": "en"
         }
     ]

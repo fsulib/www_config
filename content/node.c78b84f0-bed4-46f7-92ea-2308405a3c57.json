@@ -1,0 +1,119 @@
+{
+    "uuid": [
+        {
+            "value": "c78b84f0-bed4-46f7-92ea-2308405a3c57"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "imported_blog_post",
+            "target_type": "node_type",
+            "target_uuid": "c8aa7899-5c9d-44e2-ade0-8e06e93e8022"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-15T15:18:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Diverse Voices in STEM: Year Recap"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-15T15:18:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-15T15:18:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "feeds_item": [
+        {
+            "imported": "2022-07-15T15:18:07+00:00",
+            "guid": "",
+            "hash": "d4354e5d73c35ba6a04feef21e900027",
+            "target_type": "feeds_feed",
+            "target_uuid": "792a1dd0-63f0-412a-9a3b-aedc3d5e66b9"
+        }
+    ],
+    "field_blog_post_body": [
+        {
+            "value": "\n<p class=\"has-text-align-center\">By Emily McClellan <\/p>\n\n\n\n<p>FSU Libraries have officially wrapped up our first year with the Diverse Voices in STEM Speaker Series. In the summer of 2021, Denise Wetzel, STEM Research &amp; Learning Librarian at FSU Libraries, as well as others around the libraries, wanted to start a speaker series aimed at showing undergraduate students the variety of journeys researchers take to get where they are today, while highlighting their current work. All of this was planned and done in hopes that those from historically underrepresented groups would see someone and hear a story of someone like themselves, and be encouraged to continue on in their STEM journey. <\/p>\n\n\n\n<p>After accepting an amazing offer, Denise departed from the Libraries, and Kelly Grove, STEM Research &amp; Learning Librarian and Emily McClellan, Student Engagement Specialist took over the project. The speaker series ran from September 2021 &#8211; April 2022, and included five speakers, <a href=\"http:\/\/diversevoices.create.fsu.edu\/\">a website<\/a>, and <a href=\"http:\/\/diversevoices.create.fsu.edu\/blog\/\">blog posts<\/a> interviewing FSU STEM alumni. We were able to connect with over 160 attendees across these five events. We want to give a special thanks to our STEM Libraries Team and our Marketing Partners who helped make these events possible.     <\/p>\n\n\n\n<p>We\u2019re so grateful to our speakers for sharing their stories and research with the community. Catch up on the Diverse Voices in STEM Speaker Series with the videos below!&nbsp;<\/p>\n\n\n\n<span id=\"more-6150\"><\/span>\n\n\n\n<p class=\"has-text-align-center\">Tuesday, September 7th, 2021: <strong>Carleen Sabusap<\/strong><\/p>\n\n\n\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n<iframe loading=\"lazy\" class=\"youtube-player\" width=\"620\" height=\"349\" src=\"https:\/\/www.youtube.com\/embed\/xy5621IkNHU?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation\"><\/iframe>\n<\/div><\/figure>\n\n\n\n<div style=\"height:20px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<p class=\"has-text-align-center\">Tuesday, October 5th, 2021: <strong>Stephen Chelko<\/strong><\/p>\n\n\n\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n<iframe loading=\"lazy\" class=\"youtube-player\" width=\"620\" height=\"349\" src=\"https:\/\/www.youtube.com\/embed\/_gEJ58X58Q0?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation\"><\/iframe>\n<\/div><\/figure>\n\n\n\n<div style=\"height:20px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<p class=\"has-text-align-center\">Tuesday, November 2nd, 2021: <strong>Jesusa Legaspi<\/strong><\/p>\n\n\n\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n<iframe loading=\"lazy\" class=\"youtube-player\" width=\"620\" height=\"349\" src=\"https:\/\/www.youtube.com\/embed\/IlWLHpwhPt4?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation\"><\/iframe>\n<\/div><\/figure>\n\n\n\n<div style=\"height:20px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<p class=\"has-text-align-center\">Tuesday, March 22nd, 2022: <strong>Antje Muntendam<\/strong><\/p>\n\n\n\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n<iframe loading=\"lazy\" class=\"youtube-player\" width=\"620\" height=\"349\" src=\"https:\/\/www.youtube.com\/embed\/yHu9saKV_fo?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation\"><\/iframe>\n<\/div><\/figure>\n\n\n\n<div style=\"height:20px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<p class=\"has-text-align-center\">Tuesday, April 5th, 2022: <strong>Monica Abou Harb<\/strong><\/p>\n\n\n\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n<iframe loading=\"lazy\" class=\"youtube-player\" width=\"620\" height=\"349\" src=\"https:\/\/www.youtube.com\/embed\/r-3g-rBt-vA?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation\"><\/iframe>\n<\/div><\/figure>\n<p>The post <a rel=\"nofollow\" href=\"https:\/\/fsulib.com\/diverse-voices-in-stem-year-recap\/\">Diverse Voices in STEM: Year Recap<\/a> appeared first on <a rel=\"nofollow\" href=\"https:\/\/fsulib.com\">FSULIB<\/a>.<\/p>\n",
+            "format": "plain_text",
+            "summary": "<p>By Emily McClellan FSU Libraries have officially wrapped up our first year with the Diverse Voices in STEM Speaker Series. In the summer of 2021, Denise Wetzel, STEM Research &#38; Learning Librarian at FSU Libraries, as well as others around the libraries, wanted to start a speaker series aimed at showing undergraduate students the variety [&#8230;]<\/p>\n<p>The post <a rel=\"nofollow\" href=\"https:\/\/fsulib.com\/diverse-voices-in-stem-year-recap\/\">Diverse Voices in STEM: Year Recap<\/a> appeared first on <a rel=\"nofollow\" href=\"https:\/\/fsulib.com\">FSULIB<\/a>.<\/p>\n"
+        }
+    ],
+    "field_blog_post_published_date": [
+        {
+            "value": "2022-05-03T13:00:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "field_blog_post_url": [
+        {
+            "value": "https:\/\/fsulib.com\/diverse-voices-in-stem-year-recap\/"
+        }
+    ],
+    "field_blog_type": [
+        {
+            "value": "Florida State University Libraries"
+        }
+    ]
+}

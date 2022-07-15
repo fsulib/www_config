@@ -1,0 +1,30 @@
+uuid: ce1b2d8d-d095-4a3a-94ca-28c93598a8e0
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.imported_blog_post.feeds_item
+    - field.field.node.imported_blog_post.field_blog_post_body
+    - field.field.node.imported_blog_post.field_blog_post_published_date
+    - field.field.node.imported_blog_post.field_blog_post_url
+    - field.field.node.imported_blog_post.field_blog_type
+    - node.type.imported_blog_post
+  module:
+    - user
+id: node.imported_blog_post.teaser
+targetEntityType: node
+bundle: imported_blog_post
+mode: teaser
+content:
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 100
+    region: content
+hidden:
+  feeds_item: true
+  field_blog_post_body: true
+  field_blog_post_published_date: true
+  field_blog_post_url: true
+  field_blog_type: true

@@ -1,0 +1,23 @@
+uuid: ab787e1e-9289-4a69-8263-3735497cfe73
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.body
+    - node.type.imported_events
+  module:
+    - text
+id: node.imported_events.body
+field_name: body
+entity_type: node
+bundle: imported_events
+label: Body
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  display_summary: true
+  required_summary: false
+field_type: text_with_summary

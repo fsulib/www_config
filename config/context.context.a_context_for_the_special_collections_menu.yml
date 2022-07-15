@@ -27,7 +27,7 @@ conditions:
     negate: false
     uuid: ff494d7d-e8d0-47ac-965b-c37fb99e65bd
     context_mapping: {  }
-    pages: "/special-collections-and-archives/reading-room-access-form\r\n/special-collections-and-archives/class-visit-request-form\r\n/special-collections-and-archives/reproduction-form"
+    pages: "/special-collections-and-archives/reading-room-access-form\r\n/special-collections-and-archives/class-visit-request-form\r\n/special-collections-and-archives/reproduction-form\r\n/special-collections/sca-research-consultation-form"
 reactions:
   blocks:
     id: blocks

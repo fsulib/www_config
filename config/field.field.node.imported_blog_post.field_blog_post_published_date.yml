@@ -1,0 +1,21 @@
+uuid: 354de58c-751a-43c5-8f2e-dd95d1fff080
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_blog_post_published_date
+    - node.type.imported_blog_post
+id: node.imported_blog_post.field_blog_post_published_date
+field_name: field_blog_post_published_date
+entity_type: node
+bundle: imported_blog_post
+label: 'Blog Post Published Date'
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 1657894483
+default_value_callback: ''
+settings: {  }
+field_type: timestamp

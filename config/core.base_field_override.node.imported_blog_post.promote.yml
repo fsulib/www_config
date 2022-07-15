@@ -1,0 +1,22 @@
+uuid: 72fd43a1-37a3-4602-9ccc-c8a8f14a749e
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.imported_blog_post
+id: node.imported_blog_post.promote
+field_name: promote
+entity_type: node
+bundle: imported_blog_post
+label: 'Promoted to front page'
+description: ''
+required: false
+translatable: true
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

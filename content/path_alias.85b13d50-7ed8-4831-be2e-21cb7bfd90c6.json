@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "85b13d50-7ed8-4831-be2e-21cb7bfd90c6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/64af726e-eff2-4d99-8463-7b6bcd8aec02"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/teaching-and-learning\/tutoring\/become-tutor"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

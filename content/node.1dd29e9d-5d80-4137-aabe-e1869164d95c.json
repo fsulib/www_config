@@ -1,0 +1,119 @@
+{
+    "uuid": [
+        {
+            "value": "1dd29e9d-5d80-4137-aabe-e1869164d95c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "imported_blog_post",
+            "target_type": "node_type",
+            "target_uuid": "c8aa7899-5c9d-44e2-ade0-8e06e93e8022"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-15T15:17:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "155c5c67-0996-42a2-818d-226633f0b1cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "155c5c67-0996-42a2-818d-226633f0b1cf"
+        }
+    ],
+    "title": [
+        {
+            "value": "Naiad Press and the Oral History of Lesbians in Tallahassee"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-15T15:17:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-15T15:17:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "feeds_item": [
+        {
+            "imported": "2022-07-15T15:17:21+00:00",
+            "guid": "",
+            "hash": "742ac0b84cbf43771995d6157a8e6909",
+            "target_type": "feeds_feed",
+            "target_uuid": "85e2fb96-4ff2-4fd6-abe4-2e02c5346692"
+        }
+    ],
+    "field_blog_post_body": [
+        {
+            "value": "Did you know that Tallahassee was once home to the largest and oldest lesbian book press in the world? Run by Barbara Grier and Donna McBride, Naiad Press published a wide range of books written by and for lesbians. Authors published through Naiad Press included Patricia Highsmith, Katherine V. Forrest, Ann Bannon, and FSU&#8217;s own<a class=\"more-link\" href=\"https:\/\/fsuspecialcollections.wordpress.com\/2022\/06\/08\/naiad-press-and-the-oral-history-of-lesbians-in-tallahassee\/\">Continue reading <span class=\"screen-reader-text\">\"Naiad Press and the Oral History of Lesbians in&#160;Tallahassee\"<\/span><\/a>",
+            "format": "plain_text",
+            "summary": "Did you know that Tallahassee was once home to the largest and oldest lesbian book press in the world? Run by Barbara Grier and Donna McBride, Naiad Press published a wide range of books written by and for lesbians. Authors published through Naiad Press included Patricia Highsmith, Katherine V. Forrest, Ann Bannon, and FSU&#8217;s own<a class=\"more-link\" href=\"https:\/\/fsuspecialcollections.wordpress.com\/2022\/06\/08\/naiad-press-and-the-oral-history-of-lesbians-in-tallahassee\/\">Continue reading <span class=\"screen-reader-text\">\"Naiad Press and the Oral History of Lesbians in&#160;Tallahassee\"<\/span><\/a>"
+        }
+    ],
+    "field_blog_post_published_date": [
+        {
+            "value": "2022-06-08T13:00:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "field_blog_post_url": [
+        {
+            "value": "https:\/\/fsuspecialcollections.wordpress.com\/2022\/06\/08\/naiad-press-and-the-oral-history-of-lesbians-in-tallahassee\/"
+        }
+    ],
+    "field_blog_type": [
+        {
+            "value": "An FSU Special Collections Blog"
+        }
+    ]
+}

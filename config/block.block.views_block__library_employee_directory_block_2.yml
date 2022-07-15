@@ -1,0 +1,49 @@
+uuid: 0a55a9f5-ef37-4c33-8a57-08d13f246406
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.library_employee_directory
+  module:
+    - context
+    - system
+    - views
+  theme:
+    - fsu_strata
+id: views_block__library_employee_directory_block_2
+theme: fsu_strata
+region: content
+weight: 0
+provider: null
+plugin: 'views_block:library_employee_directory-block_2'
+settings:
+  id: 'views_block:library_employee_directory-block_2'
+  label: ''
+  label_display: '0'
+  provider: views
+  views_label: ''
+  items_per_page: none
+visibility:
+  context:
+    id: context
+    negate: null
+    values: ''
+  context_all:
+    id: context_all
+    negate: null
+    values: ''
+  user_status:
+    id: user_status
+    negate: false
+    context_mapping:
+      user: '@user.current_user_context:current_user'
+    user_status:
+      viewing_profile: '0'
+      logged_viewing_profile: '0'
+      own_page_true: '0'
+      field_value: '0'
+    user_fields: uid
+  request_path:
+    id: request_path
+    negate: false
+    pages: /teaching-and-learning/tutoring

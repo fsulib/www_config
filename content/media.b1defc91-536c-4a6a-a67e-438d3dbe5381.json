@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "b1defc91-536c-4a6a-a67e-438d3dbe5381"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "document",
+            "target_type": "media_type",
+            "target_uuid": "db5f1011-17bf-43b5-b70a-bebcbb2ffd02"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-07-14T20:36:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [
+        {
+            "target_type": "user",
+            "target_uuid": "5e5e0515-2906-4b1e-a752-a103730c504b"
+        }
+    ],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5e5e0515-2906-4b1e-a752-a103730c504b"
+        }
+    ],
+    "name": [
+        {
+            "value": "2016_advancement_board_fall_meeting_minutes_3.pdf"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "",
+            "title": null,
+            "width": 180,
+            "height": 180,
+            "target_type": "file",
+            "target_uuid": "40268717-ad3c-41df-a379-7962777dafab"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-14T20:35:55+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-14T20:36:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_media_document": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "5aa0ba1f-988b-4252-8e9a-a88f6b0d00dc"
+        }
+    ]
+}

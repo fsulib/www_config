@@ -1,0 +1,119 @@
+{
+    "uuid": [
+        {
+            "value": "3c465c4c-cdcc-4826-8cbd-08dbafc15f24"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "imported_blog_post",
+            "target_type": "node_type",
+            "target_uuid": "c8aa7899-5c9d-44e2-ade0-8e06e93e8022"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-15T15:18:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Juneteenth Community Events & Resources"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-15T15:18:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-15T15:18:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "feeds_item": [
+        {
+            "imported": "2022-07-15T15:18:06+00:00",
+            "guid": "",
+            "hash": "59df1d064acd6c96b4c99a9fd9d25381",
+            "target_type": "feeds_feed",
+            "target_uuid": "792a1dd0-63f0-412a-9a3b-aedc3d5e66b9"
+        }
+    ],
+    "field_blog_post_body": [
+        {
+            "value": "\n<p>On June 19, 1865, Union soldiers arrived in Texas to enforce the emancipation proclamation. This day,\u00a0<strong>Juneteenth<\/strong>, celebrates the liberation of the last enslaved people in Texas. In 2021, the United States declared June 19 a federal holiday. There will be events in Tallahassee to celebrate Juneteenth, and there are many resources for you to learn more about the significance of this holiday.<\/p>\n\n\n\n<span id=\"more-6639\"><\/span>\n\n\n\n<p><strong>Events<\/strong><\/p>\n\n\n\n<p>Name:\u00a0<a href=\"https:\/\/allevents.in\/events\/juneteenth-kickoff\/200022697872819\" target=\"_blank\" rel=\"noreferrer noopener\">Juneteenth Kickoff<\/a><br>Date: Friday, June 17<br>Time: 6:00 &#8211; 9:00pm<br>Location: Railroad Square Craft House<\/p>\n\n\n\n<p>Name:\u00a0<a href=\"https:\/\/allevents.in\/tallahassee\/juneteenth-open-mic-~-music-~-poetry-~-vendor-opportunities\/10000350595329067\" target=\"_blank\" rel=\"noreferrer noopener\">Juneteenth Open Mic ~ Music ~ Poetry ~ Vendor<\/a><br>Date: Saturday, June 18<br>Time: 3:00 \u2013 5:00pm<br>Location: Virtual Events<\/p>\n\n\n\n<p>Name:\u00a0<a href=\"https:\/\/m.facebook.com\/events\/646919493257114\/\" target=\"_blank\" rel=\"noreferrer noopener\">Juneteenth Empowerment Day<\/a><br>Date: Saturday, June 18<br>Time: 4:00 \u2013 10:00pm<br>Location: 101 S. Gadsden Street<\/p>\n\n\n\n<p><strong>Resources<\/strong><\/p>\n\n\n\n<p><a href=\"https:\/\/www.youtube.com\/watch?v=dIi_53jihMM\" target=\"_blank\" rel=\"noreferrer noopener\">\u201cHistory of Juneteenth\u201d by Dr. Shennette Garrett-Scott<\/a><\/p>\n\n\n\n<p><a href=\"https:\/\/news.yale.edu\/2020\/06\/19\/celebrating-juneteenth-solomon-sir-jones-films\" target=\"_blank\" rel=\"noreferrer noopener\">Celebrating Juneteenth with the Solomon Sir Jones films<\/a><\/p>\n\n\n\n<p><a href=\"https:\/\/player.fm\/series\/today-explained\/celebrate-juneteenth\" target=\"_blank\" rel=\"noreferrer noopener\">Today Explained: Celebrate Juneteenth!<\/a><\/p>\n\n\n\n<p><a href=\"https:\/\/www.washingtonpost.com\/outlook\/five-myths\/juneteenth-holiday-five-myths\/2020\/06\/18\/4c19fff8-b0e1-11ea-8758-bfd1d045525a_story.html\" target=\"_blank\" rel=\"noreferrer noopener\">Five myths about Juneteenth &#8211; The Washington Post<\/a><\/p>\n\n\n\n<p><a href=\"https:\/\/fsulib.com\/a-reading-list-on-anti-racism-and-the-black-lives-matter-movement-at-fsu-libraries\/\" target=\"_blank\" rel=\"noreferrer noopener\">A Reading List on Anti-Racism and the Black Lives Matter Movement at FSU Libraries<\/a><\/p>\n<p>The post <a rel=\"nofollow\" href=\"https:\/\/fsulib.com\/juneteenth-community-events-resources\/\">Juneteenth Community Events &#038; Resources<\/a> appeared first on <a rel=\"nofollow\" href=\"https:\/\/fsulib.com\">FSULIB<\/a>.<\/p>\n",
+            "format": "plain_text",
+            "summary": "<p>On June 19, 1865, Union soldiers arrived in Texas to enforce the emancipation proclamation. This day,\u00a0Juneteenth, celebrates the liberation of the last enslaved people in Texas. In 2021, the United States declared June 19 a federal holiday. There will be events in Tallahassee to celebrate Juneteenth, and there are many resources for you to learn [&#8230;]<\/p>\n<p>The post <a rel=\"nofollow\" href=\"https:\/\/fsulib.com\/juneteenth-community-events-resources\/\">Juneteenth Community Events &#038; Resources<\/a> appeared first on <a rel=\"nofollow\" href=\"https:\/\/fsulib.com\">FSULIB<\/a>.<\/p>\n"
+        }
+    ],
+    "field_blog_post_published_date": [
+        {
+            "value": "2022-06-16T14:11:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "field_blog_post_url": [
+        {
+            "value": "https:\/\/fsulib.com\/juneteenth-community-events-resources\/"
+        }
+    ],
+    "field_blog_type": [
+        {
+            "value": "Florida State University Libraries"
+        }
+    ]
+}

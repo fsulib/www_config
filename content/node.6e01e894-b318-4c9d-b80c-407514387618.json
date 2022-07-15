@@ -1,0 +1,119 @@
+{
+    "uuid": [
+        {
+            "value": "6e01e894-b318-4c9d-b80c-407514387618"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "imported_blog_post",
+            "target_type": "node_type",
+            "target_uuid": "c8aa7899-5c9d-44e2-ade0-8e06e93e8022"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-15T15:18:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Celebrating Pride Month with FSU Libraries"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-15T15:18:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-15T15:18:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "feeds_item": [
+        {
+            "imported": "2022-07-15T15:18:06+00:00",
+            "guid": "",
+            "hash": "8fbb1149cfb06cb10278b5d2abe44645",
+            "target_type": "feeds_feed",
+            "target_uuid": "792a1dd0-63f0-412a-9a3b-aedc3d5e66b9"
+        }
+    ],
+    "field_blog_post_body": [
+        {
+            "value": "\n<p>This Pride Month, we\u2019d like to honor the contribution the LGBTQ+ community has made to literature and to FSU Libraries. We had the opportunity to interview Haley McGuyre, a Graduate Assistant with Special Collections, and discuss their experience working on the LGBTQ+ Oral Histories Project at FSU Libraries. The full interview can be found below.<\/p>\n\n\n\n<span id=\"more-6398\"><\/span>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity is-style-dots\"\/>\n\n\n\n<p><strong>FSU Libraries (FSU): Who&#8217;s involved with the project?<\/strong><\/p>\n\n\n\n<p><strong>Haley McGuyre (HM):<\/strong> Dr. Michael Franklin of the Honors Program is leading this project and has had students from his honors courses involved in conducting and transcribing some of the interviews. RaeAnn Quick, an undergraduate student working on an Honors Thesis, deserves a special mention for her work on this project and her involvement in the Naiad Press oral histories. Dr. Franklin and his team are doing the heavy lifting on this project, and he and Quick are also presenting on research from these oral histories this September at the 2<sup>nd<\/sup> annual Queer History South Conference. From the archives side, I have worked extensively with this collection during the digitization process. In order to fully describe the oral histories for future researchers, I have listened to all of them in their entirety. Rory Grennan, the Director of Manuscripts Collections, and Krystal Thomas, our Digital Archivist, have also been involved here. There is also an exhibit opening this June at the MOFA on Naiad Press which will have a digital component featuring the oral histories. Dr. Franklin and his team have really captured some amazing stories here and we have all been very enthusiastic to take part.&nbsp;&nbsp;<\/p>\n\n\n\n<p><strong>(FSU): What led to the project starting?<\/strong><\/p>\n\n\n\n<p><strong>(HM): <\/strong>Dr. Franklin has a rich background in conducting oral histories on the queer experience in America. At the University of Minnesota, he facilitated oral histories for the Twin Cities GLBT Oral History Project and has published a number of works on the history of trans cultural production. I will have to let him speak on his own personal motivations here, but North Florida has an incredibly rich queer history. Pensacola has been known for its LGBTQ+ Memorial Day gatherings going back to the 1960s. Tallahassee was known as a relative hotspot for lesbians through the 1970s, \u201880s, and \u201890s, and was the location for the founding of the first Gay Liberation Front chapter in the South. Jacksonville has been known for its strong Drag scene since the 1990s, and has some incredible advocacy groups for queer youth. History of the Queer South is often overlooked or assumed to be completely nonexistent, and I am so glad that we have a project to shed light on these stories. There are two branches to this project, one on the LGBTQ+ History of North Florida more generally, and the other on the history of Naiad Press. When it was still running, Naiad Press was the oldest and largest lesbian book publisher in the world and was housed right here in Tallahassee. Many of the oral histories on Naiad show that the company was a hub for community not only in the city, but also across the nation. Through catalogs and mail-in orders, Naiad made a community for queer women who would write back and forth to each other. Amy McDonald (she\/her\/he\/him), whose oral history is included in the collection, talks about working the phones and on several occasions receiving phone calls from women who knew her from her picture in the catalog. Others would call and keep him on the phone talking about books, just excited to share and speak openly with someone. We are truly sitting on top of history here, there\u2019s so much to dive into.<\/p>\n\n\n\n<p><strong>(FSU): What are the goals of the project?<\/strong><\/p>\n\n\n\n<p><strong>(HM): <\/strong>This project aims to show what a Queer South looks like \u2013 both in the past and present. Again, I will have to let Dr. Franklin speak to his personal goals, but I see this project as means of making clear that queer people are here, always have been and always will be. Queer history and queer lives are constantly in a struggle with powers that try to erase them. This project works to record that history, make clear its importance, and facilitate a connection between the North Florida queer community and their own history. There is a lot of pain and struggle in this collection, but there is also so much joy and discovery, so much hope and determination. It is so important that we share all of it and participate in its living legacy.<\/p>\n\n\n\n<p><strong>(FSU): What is the status of the project?<\/strong><br><br><strong>(HM): <\/strong>There are a few oral histories that have been completed but are not public \u2013 several individuals have asked for their oral histories to be held under an embargo for a certain amount of time before they are shared. So even if there are no more interviews conducted, there are still more stories to come from this project. My understanding, however, is that both branches of this project will be continued by Dr. Franklin. I certainly would love to continue working on this project.&nbsp;&nbsp;<\/p>\n\n\n\n<p><strong>(FSU): How do you hope the project will live on?<\/strong><\/p>\n\n\n\n<p><strong>(HM): <\/strong>I want more people to be able to see themselves in archives, and in history. I have been out as a queer person in some capacity for almost ten years now, and I have always been lucky to have a strong and close-knit community. But finding yourself in an archive is something completely different. An article published in The American Archivist journal in 2016 described the experience as \u201cto suddenly discover yourself existing\u201d and I really cannot express it better than that. It is an incredibly profound experience to see just how much history there is behind you, and to get to know some of the people who fought to help us get here today, through their records. The experience gave me a sense of community on an entirely different scale, and it made me feel like I had a better idea of how to keep moving forward. I hope this collection gives that same feeling to the people who come to it. I hope they see that they are never alone in this, and I hope they see themselves in these stories. My greatest wish is that people will see this collection and reach out to share their own oral histories with us. There are several other organizations and institutions working to preserve the queer history of North Florida, and I hope that we are all able to create a resource for researchers and a curious public alike.<\/p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity is-style-dots\"\/>\n\n\n\n<p>This month, we encourage you to reflect on the history of the LGBTQ+ community and to celebrate the wonderful contributions they have made to our society. To learn more about the LGBTQ+ Oral Histories Project, check out <a href=\"https:\/\/news.fsu.edu\/news\/arts-humanities\/2022\/06\/08\/pride-month-fsus-mofa-to-showcase-collaborative-project-on-historical-tallahassee-publishing-company\/\" target=\"_blank\" rel=\"noreferrer noopener\">this article from FSU News<\/a>. To see LGBTQ+ titles from our Pop Lit Collection, check out our <a href=\"https:\/\/fsulib.com\/pop-lit-picks-for-pride-month\/#more-6452\" target=\"_blank\" rel=\"noreferrer noopener\">June Pop Lit Picks for Pride Month<\/a>!\u00a0<\/p>\n\n\n\n<p><em>Written by Jasmine George. <\/em><\/p>\n<p>The post <a rel=\"nofollow\" href=\"https:\/\/fsulib.com\/celebrating-pride-month-with-fsu-libraries\/\">Celebrating Pride Month with FSU Libraries<\/a> appeared first on <a rel=\"nofollow\" href=\"https:\/\/fsulib.com\">FSULIB<\/a>.<\/p>\n",
+            "format": "plain_text",
+            "summary": "<p>This Pride Month, we\u2019d like to honor the contribution the LGBTQ+ community has made to literature and to FSU Libraries. We had the opportunity to interview Haley McGuyre, a Graduate Assistant with Special Collections, and discuss their experience working on the LGBT Oral Histories Project at FSU Libraries.<\/p>\n<p>The post <a rel=\"nofollow\" href=\"https:\/\/fsulib.com\/celebrating-pride-month-with-fsu-libraries\/\">Celebrating Pride Month with FSU Libraries<\/a> appeared first on <a rel=\"nofollow\" href=\"https:\/\/fsulib.com\">FSULIB<\/a>.<\/p>\n"
+        }
+    ],
+    "field_blog_post_published_date": [
+        {
+            "value": "2022-06-21T14:16:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "field_blog_post_url": [
+        {
+            "value": "https:\/\/fsulib.com\/celebrating-pride-month-with-fsu-libraries\/"
+        }
+    ],
+    "field_blog_type": [
+        {
+            "value": "Florida State University Libraries"
+        }
+    ]
+}

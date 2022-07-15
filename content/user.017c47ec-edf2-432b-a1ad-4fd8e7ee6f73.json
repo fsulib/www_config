@@ -112,10 +112,7 @@
             "target_type": "taxonomy_term",
             "target_uuid": "e9d0825f-bd91-4232-9179-e51e2d1960d8"
         },
-        {
-            "target_type": "taxonomy_term",
-            "target_uuid": "097a3706-bc13-4f02-8e17-5b1969091d3d"
-        }
+        []
     ],
     "field_personal_pronouns": [],
     "field_phone_number": [

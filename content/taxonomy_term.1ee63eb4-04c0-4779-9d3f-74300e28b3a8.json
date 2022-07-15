@@ -42,7 +42,7 @@
     ],
     "weight": [
         {
-            "value": 0
+            "value": 4
         }
     ],
     "parent": [
@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-07-05T14:16:09+00:00",
+            "value": "2022-07-14T20:58:42+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -68,7 +68,7 @@
     ],
     "path": [
         {
-            "alias": "\/about\/organization\/strategic-initiatives\/critical-thinking",
+            "alias": "\/about\/organization\/strategic-initiatives\/promote-critical-thinking",
             "langcode": "en"
         }
     ]

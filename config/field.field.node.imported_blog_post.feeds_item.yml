@@ -1,0 +1,23 @@
+uuid: b03aeef3-97d2-4d54-b1b6-13bc1d5df8e6
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.feeds_item
+    - node.type.imported_blog_post
+  module:
+    - feeds
+id: node.imported_blog_post.feeds_item
+field_name: feeds_item
+entity_type: node
+bundle: imported_blog_post
+label: 'Feeds item'
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:feeds_feed'
+  handler_settings: {  }
+field_type: feeds_item

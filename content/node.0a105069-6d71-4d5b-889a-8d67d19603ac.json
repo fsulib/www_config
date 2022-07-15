@@ -1,0 +1,119 @@
+{
+    "uuid": [
+        {
+            "value": "0a105069-6d71-4d5b-889a-8d67d19603ac"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "imported_blog_post",
+            "target_type": "node_type",
+            "target_uuid": "c8aa7899-5c9d-44e2-ade0-8e06e93e8022"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-15T15:18:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Reflections on \u201cTikkun Olam\u201d"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-15T15:18:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-15T15:18:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "feeds_item": [
+        {
+            "imported": "2022-07-15T15:18:06+00:00",
+            "guid": "",
+            "hash": "c4d47453410e9df8acdd323c73a82470",
+            "target_type": "feeds_feed",
+            "target_uuid": "792a1dd0-63f0-412a-9a3b-aedc3d5e66b9"
+        }
+    ],
+    "field_blog_post_body": [
+        {
+            "value": "\n<figure class=\"wp-block-image size-large\"><a href=\"https:\/\/i0.wp.com\/fsulib.com\/wp-content\/uploads\/2022\/05\/MicrosoftTeams-image-8.jpg?ssl=1\"><img data-attachment-id=\"6240\" data-permalink=\"https:\/\/fsulib.com\/reflections-on-tikkun-olam\/microsoftteams-image-8\/\" data-orig-file=\"https:\/\/i0.wp.com\/fsulib.com\/wp-content\/uploads\/2022\/05\/MicrosoftTeams-image-8.jpg?fit=1230%2C330&amp;ssl=1\" data-orig-size=\"1230,330\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\" data-image-title=\"MicrosoftTeams-image-8\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https:\/\/i0.wp.com\/fsulib.com\/wp-content\/uploads\/2022\/05\/MicrosoftTeams-image-8.jpg?fit=300%2C80&amp;ssl=1\" data-large-file=\"https:\/\/i0.wp.com\/fsulib.com\/wp-content\/uploads\/2022\/05\/MicrosoftTeams-image-8.jpg?fit=620%2C167&amp;ssl=1\" loading=\"lazy\" width=\"620\" height=\"167\" src=\"https:\/\/i0.wp.com\/fsulib.com\/wp-content\/uploads\/2022\/05\/MicrosoftTeams-image-8.jpg?resize=620%2C167&#038;ssl=1\" alt=\"\" class=\"wp-image-6240\" srcset=\"https:\/\/i0.wp.com\/fsulib.com\/wp-content\/uploads\/2022\/05\/MicrosoftTeams-image-8.jpg?resize=1024%2C275&amp;ssl=1 1024w, https:\/\/i0.wp.com\/fsulib.com\/wp-content\/uploads\/2022\/05\/MicrosoftTeams-image-8.jpg?resize=300%2C80&amp;ssl=1 300w, https:\/\/i0.wp.com\/fsulib.com\/wp-content\/uploads\/2022\/05\/MicrosoftTeams-image-8.jpg?resize=768%2C206&amp;ssl=1 768w, https:\/\/i0.wp.com\/fsulib.com\/wp-content\/uploads\/2022\/05\/MicrosoftTeams-image-8.jpg?resize=1200%2C322&amp;ssl=1 1200w, https:\/\/i0.wp.com\/fsulib.com\/wp-content\/uploads\/2022\/05\/MicrosoftTeams-image-8.jpg?resize=620%2C166&amp;ssl=1 620w, https:\/\/i0.wp.com\/fsulib.com\/wp-content\/uploads\/2022\/05\/MicrosoftTeams-image-8.jpg?w=1230&amp;ssl=1 1230w\" sizes=\"(max-width: 620px) 100vw, 620px\" data-recalc-dims=\"1\" \/><\/a><figcaption>Photo of American Jewish Congress Chartered Bus, New York to Washington for the March on Washington, 1963 found on <a href=\"https:\/\/ajhs.org\" rel=\"nofollow\">https:\/\/ajhs.org<\/a><\/figcaption><\/figure>\n\n\n\n<p>By Priscilla Hunt<\/p>\n\n\n\n<p>First proclaimed by President George W. Bush in 2006, May is known for its commemoration of <a href=\"https:\/\/catalog.archives.gov\/id\/134609324\" target=\"_blank\" rel=\"noreferrer noopener\">Jewish American Heritage<\/a>. Since then, presidents have issued a proclamation each year commemorating the month. Read<a href=\"https:\/\/www.whitehouse.gov\/briefing-room\/presidential-actions\/2022\/04\/29\/a-proclamation-on-jewish-american-heritage-month-2022\/\" target=\"_blank\" rel=\"noreferrer noopener\"> Joe Biden\u2019s 2022 Proclamation<\/a> here.<\/p>\n\n\n\n<p>As we commemorate this month, I often reflect on my first experiences with Jewish culture and traditions through my education at Florida State University. While pursuing a minor in Religion, I was lucky enough to take a course titled \u201cJewish Tradition\u201d which provided me an introduction to the history and culture of Judaism. <a href=\"https:\/\/religion.fsu.edu\/person\/martin-kavka\" target=\"_blank\" rel=\"noreferrer noopener\">Dr. Kavka<\/a> soon became one of my favorite professors that semester and while I loved everything I learned, \u201c<em>Tikkun Olam<\/em>\u201d is one concept that I appreciated the most and has stuck with me through the years.<\/p>\n\n\n\n<span id=\"more-6234\"><\/span>\n\n\n\n<p>The term \u201c<em>Tikkun Olam<\/em>\u201d or \u201cworld repair\u201d&nbsp;can be found in the text of the \u201c<a href=\"https:\/\/www.sacred-texts.com\/jud\/etm\/index.htm\" target=\"_blank\" rel=\"noreferrer noopener\"><em>Mishna<\/em><\/a>,\u201d a collection of third-century Rabbinic text.<em> &#8220;Tikkun Olam&#8221;<\/em> has taken on many meanings throughout the centuries. A large portion of activists and Jewish leaders make the case that the term is meant to be a driving force for social justice policy, and as a rule of thumb to protect the disadvantaged.&nbsp;<\/p>\n\n\n\n<p>For others, the term has a much broader influence; in order to bring the world into a better existence, we must first begin to repair the world on an individual level. In Jewish Mysticism and texts such as the \u201c<a href=\"https:\/\/www.sacred-texts.com\/jud\/tku\/index.htm\" target=\"_blank\" rel=\"noreferrer noopener\"><em>Kabbalah<\/em><\/a>,\u201d \u201c<em>Tikkun Olam<\/em>\u201d emphasizes that the \u201crepair of the world\u201d must first begin with us, the individual, through adherence to the \u201c<em>Mitzvot<\/em>\u201d or \u201ccommandments,\u201d by participating in \u201c<em>g&#8217;milut hasadim<\/em>\u201d or \u201cacts of love and kindness\u201d and prayer. It is through these processes that the world would be brought back to holy restoration.<\/p>\n\n\n\n<p>Despite the different interpretations of meaning, I think most would agree that we live in a world that will always benefit from repair. While we recognize Jewish American Heritage Month, I urge you all to do so in the spirit of &#8220;Tikkun Olam.&#8221; Whether your version of worldly restoration is that of justice through social action or through small acts of kindness, I encourage you to reflect on this phrase and its deeper meaning and continue to care for one another. <\/p>\n\n\n\n<p><strong>For more information on Jewish American Heritage please visit the resources below.&nbsp;&nbsp;<\/strong><\/p>\n\n\n\n<ul><li><a href=\"https:\/\/nmajh.org\/jewish-american-heritage-month\/\" target=\"_blank\" rel=\"noreferrer noopener\">National Museum of American Jewish History<\/a> <\/li><\/ul>\n\n\n\n<ul><li><a href=\"https:\/\/www.adl.org\/what-we-do\/anti-semitism\" target=\"_blank\" rel=\"noreferrer noopener\">Anti-Defamation League<\/a> <\/li><\/ul>\n\n\n\n<ul><li><a href=\"https:\/\/jfedsrq.org\/fightantisemitism\" target=\"_blank\" rel=\"noreferrer noopener\">The Jewish Federation<\/a> <\/li><\/ul>\n\n\n\n<ul><li><a href=\"https:\/\/www.ajc.org\" target=\"_blank\" rel=\"noreferrer noopener\">American Jewish Committee<\/a> <\/li><\/ul>\n\n\n\n<ul><li><a href=\"https:\/\/www.state.gov\/bureaus-offices\/under-secretary-for-civilian-security-democracy-and-human-rights\/office-of-the-special-envoy-to-monitor-and-combat-antisemitism\/\" target=\"_blank\" rel=\"noreferrer noopener\">US Dept. of State<\/a> <\/li><\/ul>\n\n\n\n<ul><li><a href=\"https:\/\/www.jewishheritagemonth.gov\/\" target=\"_blank\" rel=\"noreferrer noopener\">Official Jewish American Heritage Month website<\/a><\/li><\/ul>\n\n\n\n<ul><li><a href=\"https:\/\/www.americanjewisharchives.org\/\" target=\"_blank\" rel=\"noreferrer noopener\">American Jewish Archives<\/a><\/li><\/ul>\n\n\n\n<ul><li><a href=\"https:\/\/ajhs.org\/\" target=\"_blank\" rel=\"noreferrer noopener\">American Jewish Historical Society<\/a><\/li><\/ul>\n\n\n\n<ul><li><a href=\"https:\/\/www.maltzmuseum.org\/a-book-list-of-contemporary-jewish-books-in-honor-of-jewish-american-heritage-month\/\" target=\"_blank\" rel=\"noreferrer noopener\">Contemporary Jewish Books in honor of Jewish American Heritage Month (Maltz Museum of Jewish Heritage)<\/a><\/li><\/ul>\n\n\n\n<ul><li><a href=\"https:\/\/www.jewishbookcouncil.org\/books\/reading-lists\/jewish-american-heritage-month\" target=\"_blank\" rel=\"noreferrer noopener\">Jewish American Heritage Month reading List (Jewish Book Council)<\/a><\/li><\/ul>\n<p>The post <a rel=\"nofollow\" href=\"https:\/\/fsulib.com\/reflections-on-tikkun-olam\/\">Reflections on &#8220;Tikkun Olam&#8221;<\/a> appeared first on <a rel=\"nofollow\" href=\"https:\/\/fsulib.com\">FSULIB<\/a>.<\/p>\n",
+            "format": "plain_text",
+            "summary": "<p>FSU Libraries celebrates Jewish American Heritage Month with a reflection on the concept of \"Tikkun Olam.\"<\/p>\n<p>The post <a rel=\"nofollow\" href=\"https:\/\/fsulib.com\/reflections-on-tikkun-olam\/\">Reflections on &#8220;Tikkun Olam&#8221;<\/a> appeared first on <a rel=\"nofollow\" href=\"https:\/\/fsulib.com\">FSULIB<\/a>.<\/p>\n"
+        }
+    ],
+    "field_blog_post_published_date": [
+        {
+            "value": "2022-05-17T20:12:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "field_blog_post_url": [
+        {
+            "value": "https:\/\/fsulib.com\/reflections-on-tikkun-olam\/"
+        }
+    ],
+    "field_blog_type": [
+        {
+            "value": "Florida State University Libraries"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "9443a787-af2e-4a63-9a80-6658d8d0b32c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/taxonomy\/term\/30"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/about\/organization\/strategic-initiatives\/enhance-research-scholarship"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

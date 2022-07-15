@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-07-13T23:59:28+00:00",
+            "value": "2022-07-15T16:28:57+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -96,10 +96,6 @@
         {
             "target_type": "taxonomy_term",
             "target_uuid": "e9d0825f-bd91-4232-9179-e51e2d1960d8"
-        },
-        {
-            "target_type": "taxonomy_term",
-            "target_uuid": "097a3706-bc13-4f02-8e17-5b1969091d3d"
         }
     ],
     "field_personal_pronouns": [],
@@ -109,12 +105,25 @@
             "value": "Library Media and Tutoring Specialist"
         }
     ],
-    "field_preferred_email": [],
+    "field_preferred_email": [
+        {
+            "value": "ecooper@fsu.edu"
+        }
+    ],
     "field_preferred_name": [],
     "field_room_number": [
         {
             "value": "112N"
         }
     ],
-    "user_picture": []
+    "user_picture": [
+        {
+            "alt": "",
+            "title": "",
+            "width": 150,
+            "height": 200,
+            "target_type": "file",
+            "target_uuid": "6255f5ab-33ae-4cd5-b5f0-c3f52165fa58"
+        }
+    ]
 }

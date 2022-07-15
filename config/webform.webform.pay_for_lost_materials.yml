@@ -17,15 +17,19 @@ elements: |-
     '#type': processed_text
     '#text': |
       <p><strong>Is there an item on your account that you have lost?</strong></p>
-      <p>Use this form to report your LOST item.&nbsp; If there is an item on your account that you are certain has been returned, please submit a <a href="form/claim-returned">Claimed Returned</a> Form.</p>
+
+      <p>Use this form to report your LOST item.&nbsp; If there is an item on your account that you are certain has been returned, please submit a <a href="/find-and-borrow/claim-returned-form">Claimed Returned</a> Form.</p>
+
       <p>Notice:</p>
+
       <ul>
       	<li>This form will NOT delay the billing process.</li>
       	<li>You must fill out a separate form for each item.</li>
       	<li>A University Libraries staff member will contact you regarding your request.&nbsp; Please check your email address before you submit.</li>
       </ul>
-      <p>For questions regarding the status of your request please contact Collections Access at <a href="mailto:Lib-Recalls@fsu.edu">Lib-Recalls@fsu.edu</a>.&nbsp; For questions regarding fines please contact the Library Fines Management office at (850) 645-8822 &ndash; <a href="mailto:bspeight@fsu.edu">bspeight@fsu.edu</a>.&nbsp; The Library Fines Management office is located in Strozier Library, second floor room 205 and is open&nbsp; M-F, 8am - 4:30pm.</p>
-      <hr />
+
+      <p>For questions regarding the status of your request please contact Collections Access at <a href="mailto:Lib-Recalls@fsu.edu">Lib-Recalls@fsu.edu</a>.&nbsp; For questions regarding fines please contact the Library Fines Management office at (850) 645-8822 – <a href="mailto:bspeight@fsu.edu">bspeight@fsu.edu</a>.&nbsp; The Library Fines Management office is located in Strozier Library, second floor room 205 and is open&nbsp; M-F, 8am - 4:30pm.</p>
+
       <p>&nbsp;</p>
     '#format': basic_html
   last_name:

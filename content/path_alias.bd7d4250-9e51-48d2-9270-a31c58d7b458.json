@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "bd7d4250-9e51-48d2-9270-a31c58d7b458"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/taxonomy\/term\/32"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/about\/organization\/strategic-initiatives\/strategic-goals\/invest-people"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

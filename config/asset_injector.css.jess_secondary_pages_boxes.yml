@@ -8,6 +8,16 @@ dependencies:
 id: jess_secondary_pages_boxes
 label: 'Jess- Misc styled elements (blue boxes, lines, icons)'
 code: |-
+  /* Classes for Table of Content styled pages */
+  .no-bottom-margin {
+    margin-bottom: 0 !important;
+  }
+
+  .to-top-link {
+    margin-bottom: 1.333em;
+    display: inline-block;
+  }
+
   /* blue boxes */ 
   div.blue-boxes {
   max-height: 450px;

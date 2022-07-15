@@ -12,7 +12,7 @@ code: |
   .card-row {
     margin: 13px; 
     text-align: center; 
-    display:inline-block
+    display:inline-block;
   }
    .card-row div {
           display:inline-block;
@@ -52,7 +52,7 @@ code: |
     line-height:1.6;
   }
 
-  .sm-card {
+  /*.sm-card {
    background-color:#f3ede1;
     
     -webkit-box-shadow: 0px 1px 1px 0px rgba(0,0,0,0.3);
@@ -65,27 +65,25 @@ code: |
      background-color:#f3ede1;
     box-shadow: 1px 0px 4px 0px rgba(44, 42, 41, 0.20)
   }
+  */
 
-
-
-  /*cards with icons */
-  .cards-icons-row {
-    margin: 0px 0px 20px 0px; 
+  /*small cards with icons */
+  .sm-card-row {
     text-align: center; 
+    margin-bottom:20px;
     display:inline-block
   }
-   .cards-icons-row div {
+   .sm-card-row div {
           display:inline-block;
       }
-      .cards-icons-row > div:not(:last-child) {
-          margin: 10px 10px;
+      .sm-card-row  > div:not(:last-child) {
           text-align: left;
-      }
-  div.cards-icons {
+    }
+      
+  .sm-card-1, .sm-card-2, .sm-card-3, .sm-card-4 {
     width:250px; 
     position: relative;
-    margin-right:10px;
-    padding:0px;
+    padding-top:5px;
     background-color:#f3ede1;
     
     -webkit-box-shadow: 0px 5px 5px 0px rgba(0,0,0,0.3);
@@ -94,24 +92,37 @@ code: |
           box-shadow: 0px 5px 5px 0px rgba(0,0,0,0.3);
   }
 
-  .cards-icons {
-    position: ; 
-    margin: 
-
+  .sm-card-1 {
+    margin-right:20px;
+    margin-left:0;
   }
-  .cards-icons-content {
+
+  .sm-card-2 {
+    margin:0px 19px 0px 14px;
+  }
+
+  .sm-card-3 {
+    margin:0px 14px 0px 19px;
+  }
+
+  .sm-card-4 {
+    margin-left:20px;
+    margin-right:0px;
+  }
+
+  .sm-card-content {
     padding:0px;
     text-align:center;
   }
 
-  .card-icon-image {
+  .sm-card-image {
     position: relative; 
     margin: auto; 
     overflow: hidden; 
     border-radius: 5px 5px 0px  0px;
   }
 
-  .cards-icons-text {
+  .sm-card-text {
     padding:0 10px 0 10px;
     text-align:left;
     margin-top:-20px;
@@ -128,67 +139,87 @@ code: |
 
 
   /* mobile viewport styles */
-  @media only screen and (max-width: 480px)  {
-    
-   /*cards with icons */
-  .cards-icons-row {
-    margin: 0px 0px 0px 0px; 
-    text-align: center; 
+  @media only screen and (max-width: 604px)  {
+    .sm-card-row {
+    text-align: left; 
+    margin-bottom:20px;
     display:inline-block
   }
-   .cards-icons-row div {
+   .sm-card-row div {
           display:inline-block;
       }
-      .cards-icons-row > div:not(:last-child) {
-          margin: 0px 0px;
+      .sm-card-row  > div:not(:last-child) {
           text-align: left;
-      }
-  div.cards-icons {
-    width:; 
+    }
+      
+  .sm-card-1, .sm-card-2, .sm-card-3, .sm-card-4 {
+    width:100%; 
     position: relative;
-    margin-right:0px;
-    display:none;
-    text-align:center;
-   /* background-color:#f3ede1;
+    padding:0px;
+    margin: 0px 0px 20px 0px;
+    background-color:#f3ede1;
     
     -webkit-box-shadow: 0px 5px 5px 0px rgba(0,0,0,0.3);
           -moz-box-shadow: 0px 5px 5px 0px rgba(0,0,0,0.3);
           -o-box-shadow: 0px 5px 5px 0px rgba(0,0,0,0.3);
-          box-shadow: 0px 5px 5px 0px rgba(0,0,0,0.3);*/
+          box-shadow: 0px 5px 5px 0px rgba(0,0,0,0.3);
   }
 
-  .cards-icons {
-    position: ; 
-    margin: 
-
-  }
-  .cards-icons-content {
+  .sm-card-content {
     padding:0px;
-    text-align:center;
-  }
-
-  .cards-icons-text {
-    padding:0 0px 0 0px;
     text-align:left;
-    margin-top:0px;
   }
 
+  .sm-card-image img {
+    display:none;
+  }
 
-    
+  .sm-card-text {
+    padding:0 10px 0 10px;
+    text-align:left;
+    margin-top:-20px;
+  }
+
   }
 
   /* narrow viewport styles */
-  @media only screen and (min-width: 740px) and (max-width: 979px)  {
+  @media only screen and (min-width: 605px) and (max-width: 991px)  {
+   .sm-card-1 {
+     margin: 0px 20px 20px 0px;
+  }
+
+  .sm-card-2 {
+    margin:0px 0px 20px 0px;
+  }
+
+  .sm-card-3 {
+    margin:0px 20px 20px 0px;
+  }
+
+  .sm-card-4 {
+    margin: 0px 0px 20px 0px;
+  }
    
-   
-    
   }
 
   /* normal viewport styles */
-  @media only screen and (min-width: 980px) and (max-width: 1199px)  {
+  @media only screen and (min-width: 992px ) and (max-width: 1199px)  {
    
-    
-    
+    .sm-card-1 {
+     margin: 0px 20px 20px 0px;
+  }
+
+  .sm-card-2 {
+    margin:0px 20px 20px 0px;
+  }
+
+    .sm-card-3 {
+    margin:0px 0px 20px 0px;
+  }
+  .sm-card-4 {
+    margin: 0px 0px 0px 0px;
+  }
+   
   }
 
   /* wide viewport styles */

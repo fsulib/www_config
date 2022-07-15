@@ -1,0 +1,21 @@
+uuid: 7ec11a72-5d68-4210-9fc3-6ac94f1703c8
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.strategic_goals
+  module:
+    - text
+id: taxonomy_term.strategic_goals.default
+targetEntityType: taxonomy_term
+bundle: strategic_goals
+mode: default
+content:
+  description:
+    type: text_default
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden: {  }

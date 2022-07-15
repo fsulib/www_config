@@ -1,0 +1,18 @@
+uuid: c8aa7899-5c9d-44e2-ade0-8e06e93e8022
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus:
+      - main
+    parent: 'main:'
+name: 'Imported Blog Post'
+type: imported_blog_post
+description: ''
+help: ''
+new_revision: false
+preview_mode: 1
+display_submitted: false

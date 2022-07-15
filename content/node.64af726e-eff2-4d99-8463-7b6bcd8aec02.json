@@ -1,0 +1,99 @@
+{
+    "uuid": [
+        {
+            "value": "64af726e-eff2-4d99-8463-7b6bcd8aec02"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "a12db886-d412-46b5-9932-855c32fb27dd"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-15T02:16:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "title": [
+        {
+            "value": "Become a Tutor"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-14T23:59:03+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-15T02:16:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/teaching-and-learning\/tutoring\/become-tutor",
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<div style=\"background-color:#f3ede1;padding:20px;\">\r\n<h2><a class=\"no-underline\" id=\"become-tutor\">Become a Tutor<\/a><\/h2><a href=\"#top\">Back to top<\/a>\r\n<h4><strong>Learning District Tutors: Chemistry, Math, and Physics<\/strong><\/h4>\r\n\r\n<div>\r\n\t<h4 class=\"garnet-border-button\">Current Openings: We are currently hiring in PHYSICS for FALL 2022. Multi-subject tutors are always a plus!<\/h4>\r\n\r\n\r\n<button type=\"button\" class=\"btn btn-md s3-gt\"><a href=\"https:\/\/fsu.qualtrics.com\/jfe\/form\/SV_1zBRVDDsJP3jOPX\" target=\"_blank\">Apply Today<\/a><\/button>\r\n\r\n\t<p>Are you an undergraduate student who is a whiz in math, physics, or chemistry?<\/p>\r\n\t<p>Do you have a desire to share your knowledge with other FSU students?<\/p>\r\n\t<p>If so, you should apply to be a Learning District tutor today! The Learning District provides walk-in, late-night peer tutoring for all FSU students courtesy of University Libraries. Tutor pay is currently $14 per hour.<\/p>\r\n\t<p><strong>Qualifications:<\/strong><\/p>\r\n\t<ul>\r\n\t\t<li>A 3.0 GPA or better on all college-level coursework<\/li>\r\n\t\t<li>Ability to uphold all FSU Academic Honor policies and standards<\/li>\r\n\t\t<li>Have taken and passed (with a B or better) <strong>all<\/strong> of the classes listed below for the subject area in which you are applying to tutor:<\/li>\r\n\t<\/ul>\r\n\r\n\r\n<div class=\"s3-m-4\">\r\n\t<div class=\"row\">\r\n\t\t<div class=\"col-sm-4\">\r\n\t\t\t<div class=\"s3-p-10 s3- feature-fixed feature-fixed-1\" style=\"padding:0.5em;\">\r\n\t\t\t\t\r\n<h3><u>Chemistry<\/u><\/h3>\r\n\r\n<p>Earned grades B or higher in courses up to CHM2211 or higher<\/p>\r\n\t\r\n\t\t\t\t\r\n\t\t\t<\/div>\r\n\t\t<\/div>\r\n\t\t<div class=\"col-sm-4\">\r\n\t\t\t<div class=\"s3-p-10 s3 feature-fixed feature-fixed-1\" style=\"padding:0.5em;\">\r\n\r\n              <h3><u>Math<\/u><\/h3>\r\n\t\t<p>Earned grades B or higher in courses up to MAC2312 or higher<\/p\r\n\t\t<\/ul>\r\n\t\t\t\r\n\t\t\t<\/div>\r\n\t\t\r\n\t\t<\/div>\r\n\t\t<div class=\"col-sm-4\">\r\n\t\t\t\t\t<div class=\"s3-p-10 s3 feature-fixed feature-fixed-1\" style=\"padding:0.5em;\">\r\n\r\n              <h3><u>Physics<\/u><\/h3>\r\n\t\t<p>Earned grades B or higher in courses up to PHY2054 or higher<\/p>\r\n\t\t\t\r\n\t\t<\/div>\r\n\t<\/div>\r\n<\/div>\r\n\r\n\r\n\t<h3>Please submit:<\/h3>\r\n\t<ul>\r\n\t\t<li>Most recent unofficial transcript<\/li>\r\n\t\t<li><font>A recommendation from a professor, TA, or research faculty in the subject area in which you are applying to tutor<\/font>&nbsp;(<a href=\"https:\/\/fsu.ca1.qualtrics.com\/WRQualtricsControlPanel\/File.php?F=F_cBAVX6CL0WZyoYu\" target=\"_blank\">click to view and download the faculty recommendation form<\/a>)<\/li>\r\n\t\t<li>A resume (optional)<\/li>\r\n\t<\/ul>\r\n<\/div>\r\n<\/div>\r\n<\/div>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_related_menu": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "ce63f4af-bac4-47a8-85db-c8e4fa80a049"
+        }
+    ]
+}

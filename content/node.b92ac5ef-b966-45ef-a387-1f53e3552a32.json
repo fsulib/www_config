@@ -18,14 +18,14 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-06-21T21:31:29+00:00",
+            "value": "2022-07-15T02:39:01+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "revision_uid": [
         {
             "target_type": "user",
-            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
         }
     ],
     "revision_log": [],
@@ -42,7 +42,7 @@
     ],
     "title": [
         {
-            "value": "Software"
+            "value": "Software "
         }
     ],
     "created": [
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-21T21:31:29+00:00",
+            "value": "2022-07-15T02:39:01+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -83,7 +83,13 @@
             "langcode": "en"
         }
     ],
-    "body": [],
+    "body": [
+        {
+            "value": "<p>Software available throughout Strozier, Dirac, and FAMU-FSU Engineering Library.<\/p>\r\n\r\n\r\n<div class=\"s3-m-4\">\r\n\t<div class=\"row\">\r\n\t\t<div class=\"col-sm-4\">\r\n\t\t\t<div class=\"s3-p-10 s3-gd2c feature-fixed feature-fixed-1\">\r\n\t\t\t\t<h3>Adobe Software<\/h3>\r\n<ul>\r\n\r\n<li>Adobe Acrobat DC<\/li>\r\n<li>Adobe AfterEffects<\/li>\r\n<li>Adobe Bridge<\/li>\r\n<li>Adobe Dreamweaver<\/li>\r\n<li>Adobe Illustrator<\/li>\r\n<li>Adobe InDesign<\/li>\r\n<li>Adobe Photoshop<\/li>\r\n<li>Adobe Premiere Pro<\/li>\r\n<\/ul>\r\n\t\t\t<\/div>\r\n\t\r\n\t\t<\/div>\r\n\t\t<div class=\"col-sm-4\">\r\n\t\t\t<div class=\"s3-p-10 s3-gd2c feature-fixed feature-fixed-1\">\r\n\t\t\t\t<h3>Microsoft Office<\/h3>\r\n<ul>\r\n<li>Microsoft Access<\/li>\r\n<li>Microsoft Excel<\/li>\r\n<li>Microsoft OneDrive<\/li>\r\n<li>Microsoft Outlook<\/li>\r\n<li>Microsoft PowerPoint<\/li>\r\n<li>Microsoft Publisher<\/li>\r\n<li>Microsoft Teams<\/li>\r\n<li>Microsoft Word<\/li>\r\n<\/ul>\r\n\r\n\t\t\t<\/div>\r\n\t\t<\/div>\r\n\t\t<div class=\"col-sm-4\">\r\n\t\t\t<div class=\"s3-p-10 s3-gd2c feature-fixed feature-fixed-1\">\r\n<h3>Video and Audio Use Software<\/h3>\r\n<ul>\r\n<li>Audacity<\/li>\r\n<li>Camtasia<\/li>\r\n<li>Final Cut Pro<\/li>\r\n<li>Garage Band<\/li>\r\n<li>OBS Studios<\/li>\r\n<li>VLC Media Player<\/li>\r\n<li>Zoom<\/li>\r\n<\/ul>\r\n\t\t\t<\/div>\r\n\t\t<\/div>\r\n\t<\/div>\r\n<div class=\"row\">\r\n\t\t<div class=\"col-sm-4\">\r\n\t\t\t<div class=\"s3-p-10 s3-gd2c feature-fixed feature-fixed-1\">\r\n<h3>Data Management Software<\/h3>\r\n<ul>\r\n<li>MatLab<\/li>\r\n<li>NVivo<\/li>\r\n<li>SAS<\/li>\r\n<li>SPSS<\/li>\r\n<li>STATA<\/li>\r\n<li>Tableau<\/li>\r\n<li>R<\/li>\r\n\r\n<\/ul>\r\n\r\n\t\t\t<\/div>\r\n\t\r\n\t\t<\/div>\r\n\t\t<div class=\"col-sm-4\">\r\n\t\t\t<div class=\"s3-p-10 s3-gd2c feature-fixed feature-fixed-1\">\r\n<h3>Programming and Design<\/h3>\r\n<ul>\r\n<li>AutoCAD\u00ae<\/li>\r\n<li>Visual C++ express 2010<\/li>\r\n<li>Python<\/li>\r\n<li>QGIS<\/li>\r\n<li>RISA-3D<\/li>\r\n<li>Civil 3D\u00ae<\/li>\r\n<li>COMSOL<\/li>\r\n<li>Evernote<\/li>\r\n<li>Aspen<\/li>\r\n<li>Mendeley<\/li>\r\n<li>MINITAB<\/li>\r\n<li>Mozilla Firefox<\/li>\r\n<li>OrCAD<\/li>\r\n<\/ul>\r\n\r\n\t\t\t<\/div>\r\n\t\t<\/div>\r\n\t\t<div class=\"col-sm-4\">\r\n\t\t\t<div class=\"s3-p-10 s3-gd2c feature-fixed feature-fixed-1\">\r\n<h3>Other<\/h3>\r\n<ul>\r\n<li>JAWS<\/li>\r\n<li>Read&Write GOLD<\/li>\r\n<li>ChemDraw Professional<\/li>\r\n<li>Chrome<\/li>\r\n<li>Second Life<\/li>\r\n<li>Skype<\/li>\r\n<\/ul>\r\n\t\t\t<\/div>\r\n\t\t<\/div>\r\n\t<\/div>\r\n<\/div>\r\n\r\n\r\n\r\n\r\n\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
     "field_related_menu": [
         {
             "target_type": "taxonomy_term",

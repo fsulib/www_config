@@ -1,0 +1,71 @@
+{
+    "uuid": [
+        {
+            "value": "792a1dd0-63f0-412a-9a3b-aedc3d5e66b9"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fsu_wordpress_import",
+            "target_type": "feeds_feed_type",
+            "target_uuid": "74a722bf-0945-498a-bb9b-9a36261341a4"
+        }
+    ],
+    "title": [
+        {
+            "value": "FSU Blog Import"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5e5e0515-2906-4b1e-a752-a103730c504b"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-15T14:23:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-15T15:18:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "imported": [
+        {
+            "value": "2022-07-15T15:18:08+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "next": [
+        {
+            "value": "1969-12-31T23:59:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "queued": [
+        {
+            "value": "1970-01-01T00:00:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "source": [
+        {
+            "value": "https:\/\/fsulib.wordpress.com\/feed\/"
+        }
+    ],
+    "config": [],
+    "item_count": [
+        {
+            "value": 10
+        }
+    ]
+}

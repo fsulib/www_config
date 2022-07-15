@@ -64,7 +64,7 @@ settings:
   ajax_effect: ''
   ajax_speed: null
   page: true
-  page_submit_path: /form/sca-research-consultation
+  page_submit_path: /special-collections/sca-research-consultation-form
   page_confirm_path: ''
   page_theme_name: ''
   form_title: both

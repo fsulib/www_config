@@ -1,0 +1,38 @@
+uuid: b509fdc7-d946-449d-9220-015d37bef8b2
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.imported_events.body
+    - field.field.node.imported_events.field_event_date
+    - field.field.node.imported_events.field_event_date_end
+    - field.field.node.imported_events.field_event_location
+    - field.field.node.imported_events.field_event_url
+    - node.type.imported_events
+  module:
+    - text
+    - user
+id: node.imported_events.teaser
+targetEntityType: node
+bundle: imported_events
+mode: teaser
+content:
+  body:
+    type: text_summary_or_trimmed
+    label: hidden
+    settings:
+      trim_length: 600
+    third_party_settings: {  }
+    weight: 101
+    region: content
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 100
+    region: content
+hidden:
+  field_event_date: true
+  field_event_date_end: true
+  field_event_location: true
+  field_event_url: true

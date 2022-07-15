@@ -1,0 +1,119 @@
+{
+    "uuid": [
+        {
+            "value": "20105966-d84f-468b-a69c-522ea25d2218"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "imported_blog_post",
+            "target_type": "node_type",
+            "target_uuid": "c8aa7899-5c9d-44e2-ade0-8e06e93e8022"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-15T15:18:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+        }
+    ],
+    "title": [
+        {
+            "value": "Celebrating Caribbean-American Heritage Month"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-15T15:18:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-15T15:18:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "feeds_item": [
+        {
+            "imported": "2022-07-15T15:18:06+00:00",
+            "guid": "",
+            "hash": "2de0d9e49dc21007693c763b16a0e88e",
+            "target_type": "feeds_feed",
+            "target_uuid": "792a1dd0-63f0-412a-9a3b-aedc3d5e66b9"
+        }
+    ],
+    "field_blog_post_body": [
+        {
+            "value": "\n<figure class=\"wp-block-image size-large\"><a href=\"https:\/\/i0.wp.com\/fsulib.com\/wp-content\/uploads\/2022\/06\/carribbean_heritage_web_banner.png?ssl=1\"><img data-attachment-id=\"6664\" data-permalink=\"https:\/\/fsulib.com\/celebrating-caribbean-american-heritage-month\/carribbean_heritage_web_banner\/\" data-orig-file=\"https:\/\/i0.wp.com\/fsulib.com\/wp-content\/uploads\/2022\/06\/carribbean_heritage_web_banner.png?fit=1200%2C200&amp;ssl=1\" data-orig-size=\"1200,200\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\" data-image-title=\"carribbean_heritage_web_banner\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https:\/\/i0.wp.com\/fsulib.com\/wp-content\/uploads\/2022\/06\/carribbean_heritage_web_banner.png?fit=300%2C50&amp;ssl=1\" data-large-file=\"https:\/\/i0.wp.com\/fsulib.com\/wp-content\/uploads\/2022\/06\/carribbean_heritage_web_banner.png?fit=620%2C104&amp;ssl=1\" loading=\"lazy\" width=\"620\" height=\"104\" src=\"https:\/\/i0.wp.com\/fsulib.com\/wp-content\/uploads\/2022\/06\/carribbean_heritage_web_banner.png?resize=620%2C104&#038;ssl=1\" alt=\"title web banner for caribbean american heritage month\" class=\"wp-image-6664\" srcset=\"https:\/\/i0.wp.com\/fsulib.com\/wp-content\/uploads\/2022\/06\/carribbean_heritage_web_banner.png?resize=1024%2C171&amp;ssl=1 1024w, https:\/\/i0.wp.com\/fsulib.com\/wp-content\/uploads\/2022\/06\/carribbean_heritage_web_banner.png?resize=300%2C50&amp;ssl=1 300w, https:\/\/i0.wp.com\/fsulib.com\/wp-content\/uploads\/2022\/06\/carribbean_heritage_web_banner.png?resize=768%2C128&amp;ssl=1 768w, https:\/\/i0.wp.com\/fsulib.com\/wp-content\/uploads\/2022\/06\/carribbean_heritage_web_banner.png?resize=620%2C103&amp;ssl=1 620w, https:\/\/i0.wp.com\/fsulib.com\/wp-content\/uploads\/2022\/06\/carribbean_heritage_web_banner.png?w=1200&amp;ssl=1 1200w\" sizes=\"(max-width: 620px) 100vw, 620px\" data-recalc-dims=\"1\" \/><\/a><\/figure>\n\n\n\n<p>It is estimated that the current population of people from the Caribbean in the United States is over 4 million. Since the founding of our Nation, our strength lies in our remarkable diversity. Caribbean Americans have contributed in immeasurable ways and strengthen our country through languages, culture, principles, and values.&nbsp;In recognition of our contributions, we are recognized in the month of June with <a href=\"https:\/\/www.whitehouse.gov\/briefing-room\/presidential-actions\/2022\/05\/31\/a-proclamation-on-national-caribbean-american-heritage-month-2022\/\">National Caribbean-American Heritage Month<\/a> supported by the House of Representatives. With appropriate ceremonies, celebrations and activities, people are encouraged to celebrate and observe Caribbean American Heritage Month. Caribbean Americans have contributed to every field, including science, technology, teaching, etc. to leave a long-lasting influence in our society. Our efforts, hard work and contributions are part of our Nation\u2019s history.&nbsp;&nbsp;&nbsp;<\/p>\n\n\n\n<span id=\"more-6654\"><\/span>\n\n\n\n<p>Like the United States, our ancestors faced obstacles including colonialism and struggled for independence.&nbsp;Even though we share our Nation\u2019s hope for prosperity and peace, we still face social injustice and disparities. The House of Representatives affirms that the ethnic and racial diversity enriches and strengthens our Nation, however, 16 months of June, since 2006 have not been enough to promote sufficient rich culture and heritage of the Caribbean American or other minority group.&nbsp;&nbsp;<\/p>\n\n\n\n<p>As a Caribbean American, I applaud the initiative of our Nation to promote our culture and heritage. Nevertheless, as our country grows in diversity and inclusion, my hope is that one day our contributions (and other minority groups) are not limited to days, but shared continuously in endless educational resources like schools, libraries, museums, and other public spaces that are reachable regardless of the economic status of the community.&nbsp;Besides encouraging celebrations and observance, let\u2019s also promote inclusion and awareness throughout the year.&nbsp;<\/p>\n\n\n\n<p>A collection of books and resources has been compiled from the Libraries to celebrate National Caribbean-American Heritage Month and can be viewed <a href=\"https:\/\/www.lib.fsu.edu\/government-information\/exhibits-caribbean-american-heritage-month\" target=\"_blank\" rel=\"noreferrer noopener\">here<\/a>. <\/p>\n\n\n\n<p><em>Written by Direne Esparza, Graduate Teaching Assistant with the <a href=\"https:\/\/modlang.fsu.edu\/\">Department of Modern Languages &amp; Linguistics<\/a>. <\/em><\/p>\n\n\n\n<h2>Other Helpful Resources&nbsp;<\/h2>\n\n\n\n<p>A Proclamation on National Caribbean-American Heritage Month. <em>Whitehouse.gov<\/em>, The White House, 31 May 2022, <a href=\"https:\/\/www.whitehouse.gov\/\" target=\"_blank\" rel=\"noreferrer noopener\">https:\/\/www.whitehouse.gov\/<\/a>.&nbsp;<\/p>\n\n\n\n<p>Caribbean American Heritage Month. <em>Archives.gov, <\/em>The U.S national Archives and Records Administration, 1 June 2022, <a href=\"https:\/\/www.archives.gov\/\" target=\"_blank\" rel=\"noreferrer noopener\">https:\/\/www.archives.gov\/<\/a>.&nbsp;&nbsp;<\/p>\n\n\n\n<p>Recognizing the significance of National Caribbean American Heritage Month. <em>Congress.gov<\/em>, Library of Congress, 25 May 2021, <a href=\"http:\/\/www.congress.gov\/\" target=\"_blank\" rel=\"noreferrer noopener\">http:\/\/www.congress.gov\/<\/a>.&nbsp;<\/p>\n<p>The post <a rel=\"nofollow\" href=\"https:\/\/fsulib.com\/celebrating-caribbean-american-heritage-month\/\">Celebrating Caribbean-American Heritage Month<\/a> appeared first on <a rel=\"nofollow\" href=\"https:\/\/fsulib.com\">FSULIB<\/a>.<\/p>\n",
+            "format": "plain_text",
+            "summary": "<p>FSU Libraries recognizes the contributions of Caribbean Americans during the month of June for National Caribbean-American Heritage Month.<\/p>\n<p>The post <a rel=\"nofollow\" href=\"https:\/\/fsulib.com\/celebrating-caribbean-american-heritage-month\/\">Celebrating Caribbean-American Heritage Month<\/a> appeared first on <a rel=\"nofollow\" href=\"https:\/\/fsulib.com\">FSULIB<\/a>.<\/p>\n"
+        }
+    ],
+    "field_blog_post_published_date": [
+        {
+            "value": "2022-06-23T16:03:35+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "field_blog_post_url": [
+        {
+            "value": "https:\/\/fsulib.com\/celebrating-caribbean-american-heritage-month\/"
+        }
+    ],
+    "field_blog_type": [
+        {
+            "value": "Florida State University Libraries"
+        }
+    ]
+}
