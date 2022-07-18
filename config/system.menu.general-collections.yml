@@ -1,8 +1,0 @@
-uuid: 56234445-1e35-460d-bb19-f44fc15b7f19
-langcode: en
-status: true
-dependencies: {  }
-id: general-collections
-label: 'General Collections'
-description: 'links related to general collection information at the libraries'
-locked: false

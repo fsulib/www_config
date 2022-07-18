@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "97c1cc97-63f8-4869-83e4-25356a857c09"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8fb4e142-f369-4527-8ee2-b3f53feb2883"
+        }
+    ],
+    "filename": [
+        {
+            "value": "bryanjo.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/inline-images\/bryanjo.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 13395
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-18T01:19:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-18T02:01:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

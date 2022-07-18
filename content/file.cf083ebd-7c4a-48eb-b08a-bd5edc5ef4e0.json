@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "cf083ebd-7c4a-48eb-b08a-bd5edc5ef4e0"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8fb4e142-f369-4527-8ee2-b3f53feb2883"
+        }
+    ],
+    "filename": [
+        {
+            "value": "ccooper.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/inline-images\/ccooper.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 9445
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-18T01:31:30+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-18T02:01:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

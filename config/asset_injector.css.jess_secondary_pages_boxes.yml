@@ -19,7 +19,7 @@ code: |-
   }
 
   /* blue boxes */ 
-  div.blue-boxes {
+  .blue-boxes {
   max-height: 450px;
   min-height:300px;
   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
@@ -27,15 +27,33 @@ code: |-
   color: black
   }
 
-  div.blue-boxes .s3-p-10 {padding: 1.5em;}
+  .blue-boxes .s3-p-10 {padding: 1.5em;}
 
-  div.blue-boxes a:hover {
+  .blue-boxes a:hover {
     color:black;
   }
 
 
+  /* Long blue boxes */ 
+  .lg-blue-boxes {
+  max-height: 500px;
+  min-height:5000px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  background-color: rgb(44, 103, 132, 0.2);
+  color: black
+  }
+
+  .lg-blue-boxes .s3-p-10 {padding: 1.5em;}
+
+  .lg-blue-boxes a:hover {
+    color:black;
+  }
+
+
+
+
   /*Double lines for 3-6 items */
-  div.hr-double-line {
+  .hr-double-line {
   width:50%; 
   height:5px; 
   border-top:1px solid black; 

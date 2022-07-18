@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "d13dda3f-6265-46d1-b624-fd8ad5fd08b6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8fb4e142-f369-4527-8ee2-b3f53feb2883"
+        }
+    ],
+    "filename": [
+        {
+            "value": "whitehead.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/inline-images\/whitehead.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 119997
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-18T02:00:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-18T02:01:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

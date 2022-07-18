@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "72342012-7bb7-42f0-b2a0-eadf0358ce57"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8fb4e142-f369-4527-8ee2-b3f53feb2883"
+        }
+    ],
+    "filename": [
+        {
+            "value": "robinson.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/inline-images\/robinson.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 15983
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-18T02:00:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-18T02:01:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

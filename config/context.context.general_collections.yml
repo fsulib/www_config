@@ -1,0 +1,50 @@
+uuid: a22cd487-9cf0-443e-b085-ab63e7b4c9c2
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.collections
+  module:
+    - system
+    - term_condition
+label: 'General Collections'
+name: general_collections
+group: menu
+description: 'links related to general collection information at the libraries'
+requireAllConditions: false
+disabled: false
+conditions:
+  term:
+    id: term
+    tid:
+      -
+        target_id: '22'
+    negate: 0
+    uuid: a8f0e082-b904-4526-a215-7e086dd36962
+    context_mapping: {  }
+reactions:
+  blocks:
+    id: blocks
+    uuid: b7a2706d-8e1b-4d4f-a8fa-d82bd1466e81
+    blocks:
+      c2e161d0-d299-4306-89bb-df8c10d7d476:
+        uuid: c2e161d0-d299-4306-89bb-df8c10d7d476
+        id: 'system_menu_block:collections'
+        label: 'General Collections'
+        provider: system
+        label_display: '0'
+        region: sidebar_first
+        weight: '0'
+        custom_id: system_menu_block_collections
+        theme: fsu_strata
+        css_class: ''
+        unique: 0
+        context_id: general_collections
+        context_mapping: {  }
+        level: '1'
+        depth: '0'
+        expand_all_items: 0
+        third_party_settings: {  }
+    include_default_blocks: 1
+    saved: false
+weight: 0

@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "5b5d991b-3e5b-4744-99e2-6f0010a5cc9e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "a12db886-d412-46b5-9932-855c32fb27dd"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-18T00:42:01+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8fb4e142-f369-4527-8ee2-b3f53feb2883"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8fb4e142-f369-4527-8ee2-b3f53feb2883"
+        }
+    ],
+    "title": [
+        {
+            "value": "Ruben's Testing"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-16T21:28:43+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-18T00:42:01+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<div style=\"position:relative;text-align:center;color:white\">\r\n    <img src=\"\/sites\/default\/files\/inline-images\/Giving%20Banner.jpg\" alt=\"Every gift counts\" style=\"width:100%;\">\r\n    <div\r\n        style=\"position:absolute;top:15%;left:50%;transform:translate(-50%, -50%);background-color:#782F40;border-radius:.1em;font-size:20px;padding: 0px .5em\">\r\n        Every Gift Counts<\/div>\r\n<\/div>\r\n\r\n<div class=\"s3-m-4\">\r\n    <div class=\"row\">\r\n        <div class=\"col-sm-4\">\r\n            <div class=\"s3-p-10 s3-gd3c feature-fixed feature-fixed-1\">\r\n                <h3><a\r\n                        href=\"https:\/\/one.fsu.edu\/foundation\/donate\/give-online?fid=%2Fdv6r6svsKQ%3D&amp;fdesc=cBcKdmssl3OMxnbWAS68npbpQymEexes4TJnBzgKJu0%3D\">Library\r\n                        Development<\/a><\/h3>\r\n                <p>The University Libraries is committed to the success of all its patrons, from students, faculty, and\r\n                    staff to visiting scholars and guests. By giving to the general fund, you help provide technology,\r\n                    collections, staffing, special events, and all the activities that enhance learning and make FSU a\r\n                    leader in scholarship and student success.<\/p>\r\n            <\/div>\r\n            <img alt=\"\" class=\"img-responsive\" src=\"\/_\/s3\/img\/point\/point-gd1c.png\" \/>\r\n        <\/div>\r\n\r\n        <div class=\"col-sm-4\">\r\n            <div class=\"s3-p-10 s3-gd3c feature-fixed feature-fixed-1\">\r\n                <h3><a\r\n                        href=\"https:\/\/one.fsu.edu\/foundation\/donate\/give-online?fid=wq4wNrr7AU8%3D&amp;fdesc=cBH2h5R7XkZUzfISOyHjCZiRPWCWDuCniiJoqRfhWw0%3D\">The\r\n                        Heritage Museum<\/a><\/h3>\r\n                <p>The Heritage Museum, located in Dodd Hall, is the public face for FSU\u2019s rich\r\n                    history. Students, alumni, and community members can immerse themselves in\r\n                    FSU\u2019s story. Funding allows the Museum to open for longer hours, maintain\r\n                    and expand exhibits, and upgrade the facilities. A gift to the Heritage Museum Fund is a gift to\r\n                    preserve and celebrate FSU's history.\r\n                <\/p>\r\n            <\/div>\r\n            <img alt=\"\" class=\"img-responsive\" src=\"\/_\/s3\/img\/point\/point-gd1c.png\" \/>\r\n        <\/div>\r\n<div class=\"col-sm-4\">\r\n            <div class=\"s3-p-10 s3-gd3c feature-fixed feature-fixed-1\">\r\n                <h3><a\r\n                        href=\"https:\/\/one.fsu.edu\/foundation\/donate\/give-online?fid=NP0eFvICABs%3D&amp;fdesc=iCE70agiH%2By1Bv8hvrO0ePmQxHEwbb8BkuWkWCjhF7WvtGAMpmI0HA%3D%3D\">Special\r\n                        Collections<\/a><\/h3>\r\n                <p>FSU Special Collections is home to world-class collections like the papers of Nobel Laureate\r\n                    Paul Dirac, the John M. Shaw Childhood in Poetry Collection, and the Napoleon and French Revolution\r\n                    Collection. Giving to this fund helps up acquire, preserve, and provide access to rare and unusual books and original primary source materials.\r\n                <\/p>\r\n            <\/div>\r\n            <img alt=\"\" class=\"img-responsive\" src=\"\/_\/s3.3\/img\/point\/point-gd1c.png\" \/>\r\n        <\/div>\r\n    <\/div>\r\n<\/div>\r\n\r\n\r\n\r\n\r\n<div class=\"s3-m-4\">\r\n    <div class=\"row\">\r\n        <div class=\"col-sm-4\">\r\n            <div class=\"s3-p-10 s3-gd3c feature-fixed feature-fixed-1\">\r\n                <h3><a\r\n                        href=\"https:\/\/one.fsu.edu\/foundation\/donate\/give-online?fid=MTnScX3Ekb4%3D&amp;fdesc=yt%2B%2FIdZEs%2B7yUtPqB8OsB6m5JBZ2ZwjYcpHmCqkfLqA%3D\">Student\r\n                        Textbooks<\/a><\/h3>\r\n                <p>Not every student can afford the costs required to take a class. The FSU Libraries Textbook fund helps alleviate the costs of course materials for students with financial need.<\/p>\r\n            <\/div>\r\n            <img alt=\"\" class=\"img-responsive\" src=\"\/_\/s3\/img\/point\/point-gd1c.png\" \/>\r\n        <\/div>\r\n\r\n        <div class=\"col-sm-4\">\r\n            <div class=\"s3-p-10 s3-gd3c feature-fixed feature-fixed-1\">\r\n                <h3><a\r\n                        href=\"https:\/\/one.fsu.edu\/foundation\/donate\/give-online?fid=Tm%2BHc968JW8%3D&amp;fdesc=gCoT9r%2Fpx45ONJyl1mW5lKROOJhuS%2Bxc\">Florida\r\n                        Book Awards<\/a><\/h3>\r\n                <p>The most comprehensive state book awards program in the nation, Florida Book Awards recognize\r\n                    and celebrate the best books written about the Sunshine State.\r\n                <\/p>\r\n            <\/div>\r\n            <img alt=\"\" class=\"img-responsive\" src=\"\/_\/s3\/img\/point\/point-gd1c.png\" \/>\r\n        <\/div>\r\n\r\n        <div class=\"col-sm-4\">\r\n            <div class=\"s3-p-10 s3-gd3c feature-fixed feature-fixed-1\">\r\n                <h3><a\r\n                        href=\"https:\/\/one.fsu.edu\/foundation\/donate\/give-online?fid=wmTuzxkKwyM%3D&amp;fdesc=P31dE5cglq6MBFlD0%2F4U8XX33IMVyv7M\">Library\r\n                        Tutoring<\/a><\/h3>\r\n                <p>The Learning District in Strozier library offers tutoring for challenging classes \r\n                    in science and and math. Tutoring is offered late\r\n                    at night when student demand is greatest.\r\n                <\/p>\r\n            <\/div>\r\n            <img alt=\"\" class=\"img-responsive\" src=\"\/_\/s3.3\/img\/point\/point-gd1c.png\" \/>\r\n        <\/div>\r\n    <\/div>\r\n<\/div>",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_related_menu": []
+}

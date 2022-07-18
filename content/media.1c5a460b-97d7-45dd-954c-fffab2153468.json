@@ -1,0 +1,97 @@
+{
+    "uuid": [
+        {
+            "value": "1c5a460b-97d7-45dd-954c-fffab2153468"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "b17d1dd2-b562-4656-b080-3f9bec3625f6"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-07-16T20:26:49+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "name": [
+        {
+            "value": "stack-book-icons135px_0.png"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "stack of three books",
+            "title": null,
+            "width": 135,
+            "height": 135,
+            "target_type": "file",
+            "target_uuid": "0a6a1b34-587e-4cc4-87e8-563c97d32770"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-16T20:26:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-16T20:26:49+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "stack of three books",
+            "title": "",
+            "width": 135,
+            "height": 135,
+            "target_type": "file",
+            "target_uuid": "0a6a1b34-587e-4cc4-87e8-563c97d32770"
+        }
+    ]
+}

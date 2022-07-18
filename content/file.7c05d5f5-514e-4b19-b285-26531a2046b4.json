@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "7c05d5f5-514e-4b19-b285-26531a2046b4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "filename": [
+        {
+            "value": "my_account135px.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2022-07\/my_account135px.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 8156
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-16T19:25:33+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-16T19:25:53+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

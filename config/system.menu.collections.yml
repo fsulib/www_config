@@ -1,0 +1,8 @@
+uuid: 63ddcb9d-7a9a-402a-a27e-4c1c5f0614fe
+langcode: en
+status: true
+dependencies: {  }
+id: collections
+label: 'General Collections'
+description: 'links related to general collection information at the libraries'
+locked: false

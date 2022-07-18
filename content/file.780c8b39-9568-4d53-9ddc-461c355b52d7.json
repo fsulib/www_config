@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "780c8b39-9568-4d53-9ddc-461c355b52d7"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "filename": [
+        {
+            "value": "banner5-1500px.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2022-07\/banner5-1500px.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 1593745
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-17T20:54:57+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-17T20:55:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

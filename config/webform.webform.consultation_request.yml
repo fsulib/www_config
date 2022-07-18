@@ -51,6 +51,7 @@ elements: |-
   librarian:
     '#type': textfield
     '#title': 'If you would like a specific librarian, please list here'
+    '#default_value': '[current-page:query:librarian]'
   class:
     '#type': textfield
     '#title': Class

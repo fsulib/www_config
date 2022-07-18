@@ -80,6 +80,13 @@ code: |
     margin-right:20px;
   }
 
+  .study-spaces .bef-exposed-form .form--inline .form-item {
+    padding-left: 10px;
+  }
+  .study-spaces .bef-exposed-form .form--inline > .form-item {
+   padding-left: 10px;
+  }
+
   /*Location filter*/
   .study-spaces .views-label-field-study-space-location {
     font-weight: bold;
@@ -172,6 +179,15 @@ code: |
   /* narrow viewport styles */
   @media only screen and (min-width: 375px) and (max-width: 767px)  {
    
+  .study-spaces .bef-exposed-form .form--inline .form-item {
+    float: none;
+  }
+  .study-spaces .bef-exposed-form .form--inline > .form-item {
+    float: none; /* LRT */
+  }
+
+
+
 
   /*.study-spaces .location{
    font-size: 16px;
@@ -198,8 +214,6 @@ code: |
 
   /* wide viewport styles */
   @media only screen and (min-width: 1200px)  {
-
-
 
   }
 media: all

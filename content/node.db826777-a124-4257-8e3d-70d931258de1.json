@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "db826777-a124-4257-8e3d-70d931258de1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "a12db886-d412-46b5-9932-855c32fb27dd"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-17T03:41:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "title": [
+        {
+            "value": "Privacy Principles"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-17T03:37:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-17T03:41:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [],
+    "path": [
+        {
+            "alias": "\/about\/privacy-principles",
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<blockquote><p>The Florida State University Libraries believe in each library user&#39;s right to privacy and confidentiality with respect to information sought or received and resources consulted, borrowed, acquired, or transmitted. This commitment to privacy is rooted in our professional values and expressed through our dedication to privacy education and advocacy. Through this commitment, we strive to empower our users to assert informed control over their information in our services and more broadly in their daily lives.<\/p><\/blockquote>\r\n\r\n<div style=\"background-color:#f3ede1;padding:20px;\">\r\n\t<h3>Why do we believe this?<\/h2>\r\n\t<p>Privacy is a critical component to the exercise of intellectual freedom. Libraries are one of the few institutions left in society that champion intellectual freedom so that users can access information without consequence.<\/p>\r\n\r\n\t<p>Privacy is also an equity issue. \"All people, regardless of origin, age, background, or views, possess a right to privacy and confidentiality in their library use\" (<a href=\"http:\/\/www.ala.org\/advocacy\/intfreedom\/librarybill\">ALA Library Bill of Rights, 2019<\/a>). For populations subject to heightened surveillance and its consequences, the library provides a safe space in which to explore ideas without judgment and to participate in an intellectual community. In this respect, privacy includes bodily autonomy and the freedom to move and be in spaces without undue surveillance.<\/p>\r\n\r\n\r\n<p>Finally, protecting library users&rsquo; privacy is a legal responsibility. Federal and state laws offer some specific protections. For example, <a href=\"https:\/\/codes.findlaw.com\/fl\/title-xviii-public-lands-and-property\/fl-st-sect-257-261.html\">Florida Statute &sect; 257.261<\/a> governs library registration and circulation records and requires that these records be kept confidential. We are also mindful of the constantly changing landscape of emerging technologies and innovations that may impact library users&rsquo; right to privacy and confidentiality, and therefore embrace a broad interpretation of what constitutes such confidential records.<\/p>\r\n<\/div>\r\n<div style=\"background-color:#FFFFFF;padding:20px;\">\r\n\t<h3>Our Principles<\/h3>\r\n\t<p>The FSU Libraries set forth here a core set of principles by which our organization protects and champions patron privacy in all aspects of our library work. These principles outline the basic concepts and areas in which we support our users and address privacy-related concerns. These principles also provide a framework for the FSU Libraries&rsquo; policies and procedures that may be relevant to patron privacy.<\/p>\r\n\r\n\t<h4>As educators and advocates:<\/h4>\r\n\t<ul dir=\"ltr\">\r\n\t\t<li>We educate our library users about intellectual freedom and privacy issues in our society.<\/li>\r\n\t\t<li>We are critical users and recommenders of technology.<\/li>\r\n\t\t<li>We advocate across our institution to adopt practices that protect the privacy of our community.<\/li>\r\n\t<\/ul>\r\n\t<h4>In our library practice:<\/h4>\r\n\t\r\n\t<ul dir=\"ltr\">\r\n\t\t<li>We advocate for library users&rsquo; privacy when partnering or contracting with third parties, both internal and external to the university.<\/li>\r\n\t\t<li>We are transparent about the types of data we collect about our users and their library activities and with whom we share those data.<\/span><\/li>\r\n\t\t<li>We commit to only collect the data we need to make our services more effective.<\/span><\/li>\r\n\t\t<li>We value our library users&#39; input when designing and implementing assessment projects that require user-generated data.<\/span><\/li>\r\n\t\t<li>We protect the confidentiality of library users&rsquo; data by minimizing access to sensitive information.<\/li>\r\n\t<\/ul>\r\n<\/div>\r\n<div style=\"background-color:#f3ede1;padding:20px;\">\r\n\t<h3>Privacy in Action<\/h3>\r\n\t<a href=\"https:\/\/www.lib.fsu.edu\/fsu-libraries-card-swipe-turnstile-data-you\">FSU Libraries Card Swipe Turnstile Data &amp; You<\/a><\/div>\r\n<div style=\"background-color:#FFFFFF;padding:20px;\">\r\n\t<h3>Additional Privacy Policies &amp; Resources<\/h3>\r\n\t<h4>Internal Resources<\/h4>\r\n\t<ul dir=\"ltr\">\r\n\t\t<li><a href=\"https:\/\/policies.vpfa.fsu.edu\/policies-and-procedures\/technology\/information-privacy-policy\">FSU Finance &amp; Administration Information Privacy Policy<\/a><\/li>\r\n\t\t<li><a href=\"http:\/\/FERPA Overview\">FSU FERPA Overview<\/a><\/li>\r\n\t<\/ul>\r\n\t<h4>External Resources<\/h4>\r\n\t<ul dir=\"ltr\">\r\n\t\t<li><a href=\"http:\/\/www.ala.org\/advocacy\/privacy\/toolkit\/corevalues\">ALA Privacy and Confidentiality: Library Core Values<\/a><\/li>\r\n\t\t<li><a href=\"https:\/\/www.ifla.org\/publications\/the-glasgow-declaration-on-libraries-information-services-and-intellectual-freedom\">IFLA Statement on Privacy in the Library<\/a><\/li>\r\n\t<\/ul>\r\n<\/div>\r\n<div style=\"background-color:#f3ede1;padding:20px;\">\r\n\t<h3>Contact Us<\/h3>\r\n\t<p>Questions about our privacy principles? Contact <strong>Kirsten Kinsley<\/strong>, Assessment Librarian, at <a href=\"mailto:kkinsley@fsu.edu?subject=Privacy%20Principles%20%40%20FSU%20Libraries\">kkinsley@fsu.edu<\/a>.<\/p>\r\n<\/div>\r\n\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_related_menu": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "23033508-54fe-4544-90aa-22a0b003dad1"
+        }
+    ]
+}

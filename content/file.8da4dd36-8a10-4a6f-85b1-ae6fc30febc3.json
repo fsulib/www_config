@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "8da4dd36-8a10-4a6f-85b1-ae6fc30febc3"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "filename": [
+        {
+            "value": "off_campus_icon135px.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2022-07\/off_campus_icon135px.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 13642
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-16T20:17:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-16T20:17:55+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

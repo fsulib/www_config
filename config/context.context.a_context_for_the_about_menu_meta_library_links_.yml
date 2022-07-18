@@ -22,6 +22,12 @@ conditions:
     negate: 0
     uuid: dbfed4da-8336-450f-b559-4a293e32a389
     context_mapping: {  }
+  request_path:
+    id: request_path
+    negate: false
+    uuid: 564fe294-6d26-4a99-b82a-3b910749c1d6
+    context_mapping: {  }
+    pages: /about/organization/strategic-initiatives/current-initiatives
 reactions:
   blocks:
     id: blocks

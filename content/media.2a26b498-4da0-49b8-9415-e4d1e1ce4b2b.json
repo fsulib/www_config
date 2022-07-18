@@ -1,0 +1,97 @@
+{
+    "uuid": [
+        {
+            "value": "2a26b498-4da0-49b8-9415-e4d1e1ce4b2b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "b17d1dd2-b562-4656-b080-3f9bec3625f6"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-07-18T00:58:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "name": [
+        {
+            "value": "UN_emblem-150x.png"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "United Nations logo",
+            "title": null,
+            "width": 177,
+            "height": 150,
+            "target_type": "file",
+            "target_uuid": "8569646b-e57d-472b-bb91-63344a685b53"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-18T00:57:54+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-18T00:58:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "United Nations logo",
+            "title": "",
+            "width": 177,
+            "height": 150,
+            "target_type": "file",
+            "target_uuid": "8569646b-e57d-472b-bb91-63344a685b53"
+        }
+    ]
+}

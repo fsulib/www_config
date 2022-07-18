@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "8569646b-e57d-472b-bb91-63344a685b53"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "filename": [
+        {
+            "value": "UN_emblem-150x.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2022-07\/UN_emblem-150x.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 46196
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-18T00:58:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-18T00:58:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

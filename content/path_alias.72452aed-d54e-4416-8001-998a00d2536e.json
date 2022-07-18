@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "72452aed-d54e-4416-8001-998a00d2536e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/db826777-a124-4257-8e3d-70d931258de1"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/about\/privacy-principles"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
