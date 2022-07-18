@@ -78,7 +78,6 @@
             "value": true
         }
     ],
-    "field__request_a_consultation_": [],
     "field_bio": [
         {
             "value": "<p>Kelly Grove is a Research and Learning Librarian at Dirac Library and the liaison to the Earth, Ocean, and Atmospheric Science (EOAS) Department, Geography Department, College of Nursing. Her background includes a B.S. in Geology from the University of Idaho and a Masters in Library and Information Science from the University of Alabama. She is a member of the American Library Association (ALA) and Association of College and Research Libraries (ACRL).<\/p>\r\n\r\n<hr>",
@@ -143,6 +142,7 @@
             "value": "202A"
         }
     ],
+    "field__request_a_consultation_": [],
     "user_picture": [
         {
             "alt": "",

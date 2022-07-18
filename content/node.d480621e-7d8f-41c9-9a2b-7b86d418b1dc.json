@@ -84,14 +84,14 @@
             "langcode": "en"
         }
     ],
-    "field_init_leads": [
-        {
-            "value": "Rachel Smart"
-        }
-    ],
     "field_initiative_description": [
         {
             "value": "The main goal of this pilot project is making incoming Electronic Theses and Dissertations (ETDs) and Honors Theses more ADA accessible. This will involve collecting data and developing templates, style guides, instruction materials, and workflows in collaboration with the Graduate School and Honors in the Major program. Addressing accessibility issues in historical ETDs is out of scope for this initiative but may be worth exploring in the future."
+        }
+    ],
+    "field_init_leads": [
+        {
+            "value": "Rachel Smart"
         }
     ],
     "field_related_links": [],

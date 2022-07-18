@@ -84,14 +84,14 @@
             "langcode": "en"
         }
     ],
-    "field_init_leads": [
-        {
-            "value": "Bridgett Birmingham\r\nFavenzio Calvo\r\nErica Cooper\r\nSusannah Miller"
-        }
-    ],
     "field_initiative_description": [
         {
             "value": "FSU Human Resources will be involved by providing guidance and advice on adherence to university policies.  We may also consult with the President\u2019s Council on D&I (Recruitment and Retention Subcommittee) and the recommendation from the Anti-Racism Task Force group.  We will also contact the College of Business Center for HR regarding research on recruitment strategies.\r\n\r\nThe team will identify best practices pertaining to all phases of the recruitment process.  We will modify vacancy announcements to be more inclusive, identify a list of appropriate and helpful venues for posting ads, review and articulate a clear and effective workflow for the recruitment process, establish training requirements to application review and candidate evaluations, review and modify the interview process, and ensure appropriate resources are provided for future search committees. "
+        }
+    ],
+    "field_init_leads": [
+        {
+            "value": "Bridgett Birmingham\r\nFavenzio Calvo\r\nErica Cooper\r\nSusannah Miller"
         }
     ],
     "field_related_links": [],

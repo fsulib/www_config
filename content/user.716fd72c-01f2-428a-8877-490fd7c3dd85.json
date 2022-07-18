@@ -78,13 +78,6 @@
             "value": true
         }
     ],
-    "field__request_a_consultation_": [
-        {
-            "uri": "internal:\/help\/consultation?librarian=Wycoff",
-            "title": "Request a consultation",
-            "options": []
-        }
-    ],
     "field_bio": [
         {
             "value": "<p>Trip Wyckoff is the Entrepreneurial-In-Residence for the University Libraries to the new Jim Moran College of Entrepreneurship. He also is a subject librarian to the College of Business, Department of Economics, and the Department of Sport Management.. In addition to consulting with students and faculty, he has developed the \"Business Research Certificate \u2013 BR101\" course covering all aspects of business research, presented around the university for faculty, graduate students, undergraduate students, and the public. Trip has worked for a wide range of libraries, including stints in public (Houston Public Library), law (Baker &amp; Botts), corporate (Hoover's), and nonprofit (American Productivity &amp; Quality Center) libraries. In addition to his work with FSU, he has also owned his own company, Specialissues.com, which compiled industry information for researchers and librarians. He received his B.A. in history with a minor in Anthropology\/Archaeology from Florida State University in 1987 and his Master of Science in Library and Information Studies from Florida State in 1988. Trip is a member of the Special Library Association and the American Library Association. His professional interests include business research literacy, competitive intelligence, and student entrepreneurship.<\/p>\r\n\r\n\r\n<hr>",
@@ -175,6 +168,13 @@
     "field_room_number": [
         {
             "value": "027K"
+        }
+    ],
+    "field__request_a_consultation_": [
+        {
+            "uri": "internal:\/help\/consultation?librarian=Wycoff",
+            "title": "Request a consultation",
+            "options": []
         }
     ],
     "user_picture": [

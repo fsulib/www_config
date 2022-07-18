@@ -83,13 +83,6 @@
             "value": true
         }
     ],
-    "field__request_a_consultation_": [
-        {
-            "uri": "internal:\/help\/consultation?librarian=",
-            "title": "Request a Consultation",
-            "options": []
-        }
-    ],
     "field_bio": [
         {
             "value": "<p>Robyn earned a Master of Science in Library and Information Studies from Florida State University. As the Head of Research Services at the College of Medicine\u2019s Maguire Medical Library, Robyn is responsible for reference, research, and circulation services for that branch library. She is a member of the Academy of Health Information Professionals (AHIP), the Medical Library Association (MLA), and the Florida Health Sciences Library Association (FHSLA).<\/p>\r\n\r\n<hr>\r\n",
@@ -144,6 +137,13 @@
     "field_room_number": [
         {
             "value": "MSR-1300"
+        }
+    ],
+    "field__request_a_consultation_": [
+        {
+            "uri": "internal:\/help\/consultation?librarian=",
+            "title": "Request a Consultation",
+            "options": []
         }
     ],
     "user_picture": [

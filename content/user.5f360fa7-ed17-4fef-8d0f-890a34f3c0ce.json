@@ -83,7 +83,6 @@
             "value": true
         }
     ],
-    "field__request_a_consultation_": [],
     "field_bio": [
         {
             "value": "<p>Dr. Nick Ruhs is the Research Data Management Librarian at Florida State University. He leads the development of data services for STEM scholars and provides support on topics related to research data management and data information literacy. He is also the subject librarian for the Chemistry, Biological Sciences, Statistics, Computer Science, and Scientific Computing departments. Prior to joining FSU Libraries, Nick earned a Doctor of Philosophy (Ph.D.) in Chemistry from Washington University in St. Louis. Prior to that, he received a Bachelor of Science in chemistry with a minor in Mathematics from Quincy University in 2011. His current research interests include research data services, open science, and data information literacy for undergraduate and graduate students. He is a member of the American Library Association (ALA), the Association of College and Research Libraries (ACRL), Research Data Access and Preservation (RDAP), and the American Chemical Society (ACS).<\/p>\r\n\r\n<hr>\r\n",
@@ -156,6 +155,7 @@
             "value": "202A"
         }
     ],
+    "field__request_a_consultation_": [],
     "user_picture": [
         {
             "alt": "",

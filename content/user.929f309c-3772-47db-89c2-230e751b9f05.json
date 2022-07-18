@@ -73,7 +73,6 @@
             "value": true
         }
     ],
-    "field__request_a_consultation_": [],
     "field_bio": [],
     "field_building": [
         {
@@ -120,5 +119,6 @@
             "value": "024"
         }
     ],
+    "field__request_a_consultation_": [],
     "user_picture": []
 }

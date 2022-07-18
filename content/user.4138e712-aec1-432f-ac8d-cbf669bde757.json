@@ -73,13 +73,6 @@
             "value": true
         }
     ],
-    "field__request_a_consultation_": [
-        {
-            "uri": "internal:\/help\/consultation?librarian=",
-            "title": "Request a Consultation",
-            "options": []
-        }
-    ],
     "field_bio": [],
     "field_building": [
         {
@@ -120,6 +113,13 @@
     "field_room_number": [
         {
             "value": "314"
+        }
+    ],
+    "field__request_a_consultation_": [
+        {
+            "uri": "internal:\/help\/consultation?librarian=",
+            "title": "Request a Consultation",
+            "options": []
         }
     ],
     "user_picture": []

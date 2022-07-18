@@ -84,14 +84,14 @@
             "langcode": "en"
         }
     ],
-    "field_init_leads": [
-        {
-            "value": "Jean Phillips\r\nDave Rodriguez "
-        }
-    ],
     "field_initiative_description": [
         {
             "value": "FSU's institutional repository, Diginole, is shifting from being hosted under FLVC's architecture to one that is maintained, in-house, by FSU Libraries. The migration involves a complex, multi-layered process that includes: building and sustaining this technical infrastructure in a cloud-based computing environment, deploying an updated version of the repository's software stack within this environment, and transferring the contents of the old repository to the new one in a way that maintains their integrity and discoverability."
+        }
+    ],
+    "field_init_leads": [
+        {
+            "value": "Jean Phillips\r\nDave Rodriguez "
         }
     ],
     "field_related_links": [],

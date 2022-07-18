@@ -64,7 +64,6 @@
             "value": true
         }
     ],
-    "field__request_a_consultation_": [],
     "field_bio": [],
     "field_building": [],
     "field_first_name": [],
@@ -78,5 +77,6 @@
     "field_preferred_email": [],
     "field_preferred_name": [],
     "field_room_number": [],
+    "field__request_a_consultation_": [],
     "user_picture": []
 }

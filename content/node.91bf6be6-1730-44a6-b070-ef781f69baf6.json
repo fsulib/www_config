@@ -84,14 +84,14 @@
             "langcode": "en"
         }
     ],
-    "field_init_leads": [
-        {
-            "value": "Lindsey Wharton"
-        }
-    ],
     "field_initiative_description": [
         {
             "value": "This initiative would build upon the Course Adopted eResources Program through development of an eTextbook portal to serve as the center of communication, promotion, and course-adopted library-licensed eResource access for instructors and students. Additionally, this initiative would bolster advocacy for the program as part of the broader Libraries\u2019 collection strategy through coordination with stakeholders to assess and expand the program as well as acquisition of unlimited eBook titles assigned as course materials."
+        }
+    ],
+    "field_init_leads": [
+        {
+            "value": "Lindsey Wharton"
         }
     ],
     "field_related_links": [],

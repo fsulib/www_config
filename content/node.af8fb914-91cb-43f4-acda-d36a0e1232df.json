@@ -84,14 +84,14 @@
             "langcode": "en"
         }
     ],
-    "field_init_leads": [
-        {
-            "value": "Devin Soper\r\n(Laura Miller)"
-        }
-    ],
     "field_initiative_description": [
         {
             "value": "Florida State Open Publishing (FSOP) places FSU Libraries\u2019 support for open access publishing and digital project development under one initiative. FSOP provides publishing services for journals, monographs, open educational resources, and digital scholarship projects. We consult on a variety of scholarly publishing topics and digital research tools and methodologies. We aim to provide open access publishing expertise, services, and platforms to enhance the scholarly output of Florida State University students, faculty, and staff. FSOP services include:\r\n\r\n    Journal and monograph hosting\r\n    Copyright and licensing guidance\r\n    Indexing and discovery support\r\n    Usage metrics and altmetrics\r\n    Light layout and typesetting\r\n    DOI, ISSN, ISBN registration\r\n    Digital preservation\r\n    Digital scholarship consultation\r\n\r\n"
+        }
+    ],
+    "field_init_leads": [
+        {
+            "value": "Devin Soper\r\n(Laura Miller)"
         }
     ],
     "field_related_links": [
