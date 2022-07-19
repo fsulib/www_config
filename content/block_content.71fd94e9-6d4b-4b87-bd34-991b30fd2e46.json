@@ -36,7 +36,7 @@
     ],
     "changed": [
         {
-            "value": "2022-07-10T23:31:09+00:00",
+            "value": "2022-07-18T15:16:26+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -57,7 +57,7 @@
     ],
     "body": [
         {
-            "value": "<div class=\"special-collections-hours\">\r\n<h2>Today's Hours<\/h2>\r\n<div id=\"api_hours_today_iid20_lid5368\"><\/div><script src=\"https:\/\/api3.libcal.com\/api_hours_today.php?iid=20&lid=5368&format=js&context=object\"> <\/script>\r\n<div id=\"api_hours_today_iid20_lid5407\"><\/div><script src=\"https:\/\/api3.libcal.com\/api_hours_today.php?iid=20&lid=5407&format=js&context=object\"> <\/script>\r\n<div id=\"api_hours_today_iid20_lid1625\"><\/div><script src=\"https:\/\/api3.libcal.com\/api_hours_today.php?iid=20&lid=1625&format=js&context=object\"> <\/script>\r\n<div id=\"api_hours_today_iid20_lid5408\"><\/div><script src=\"https:\/\/api3.libcal.com\/api_hours_today.php?iid=20&lid=5408&format=js&context=object\"> <\/script>\r\n<div id=\"api_hours_today_iid20_lid5369\"><\/div><script src=\"https:\/\/api3.libcal.com\/api_hours_today.php?iid=20&lid=5369&format=js&context=object\"> <\/script>\r\n<p style=\"float: right;\"><a href=\"\/visit\/hours\">See All Hours<\/a><\/p>\r\n<p>&nbsp;<\/p>\r\n<h2 class=\"block-title\" style=\"margin-top: 30px;\">Contact Us<\/h2>\r\n<p style=\"float: right; text-align: right;margin-top: 10px;\"><strong>Phone:<\/strong> (850) 644-3271<br \/><strong>Email:<\/strong> <a href=\"mailto:lib-specialcollections@fsu.edu\">lib-specialcollections@fsu.edu<\/a><\/p>\r\n<\/div>\r\n",
+            "value": "<div class=\"col-sm-6 special-collections-hours\">\r\n<h2>Today's Hours<\/h2>\r\n<div id=\"api_hours_today_iid20_lid5368\"><\/div><script src=\"https:\/\/api3.libcal.com\/api_hours_today.php?iid=20&lid=5368&format=js&context=object\"> <\/script>\r\n<div id=\"api_hours_today_iid20_lid5407\"><\/div><script src=\"https:\/\/api3.libcal.com\/api_hours_today.php?iid=20&lid=5407&format=js&context=object\"> <\/script>\r\n<div id=\"api_hours_today_iid20_lid1625\"><\/div><script src=\"https:\/\/api3.libcal.com\/api_hours_today.php?iid=20&lid=1625&format=js&context=object\"> <\/script>\r\n<div id=\"api_hours_today_iid20_lid5408\"><\/div><script src=\"https:\/\/api3.libcal.com\/api_hours_today.php?iid=20&lid=5408&format=js&context=object\"> <\/script>\r\n<div id=\"api_hours_today_iid20_lid5369\"><\/div><script src=\"https:\/\/api3.libcal.com\/api_hours_today.php?iid=20&lid=5369&format=js&context=object\"> <\/script>\r\n<p style=\"float: right;\"><a href=\"\/visit\/hours\">See All Hours<\/a><\/p>\r\n<p>&nbsp;<\/p>\r\n<h2 class=\"block-title\" style=\"margin-top: 30px;\">Contact Us<\/h2>\r\n<p style=\"float: right; text-align: right;margin-top: 10px;\"><strong>Phone:<\/strong> (850) 644-3271<br \/><strong>Email:<\/strong> <a href=\"mailto:lib-specialcollections@fsu.edu\">lib-specialcollections@fsu.edu<\/a><\/p>\r\n<\/div>\r\n",
             "format": "full_html",
             "summary": ""
         }

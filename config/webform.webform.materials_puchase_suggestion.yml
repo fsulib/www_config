@@ -30,15 +30,23 @@ elements: |-
   last_name:
     '#type': textfield
     '#title': 'Last Name'
+    '#default_value': '[current-user:field_last_name]'
+    '#required': true
   first_name:
     '#type': textfield
     '#title': 'First Name'
+    '#required': true
+    '#default_value': '[current-user:field_first_name]'
   email_address:
     '#type': textfield
     '#title': 'Email Address'
+    '#required': true
+    '#default_value': '[current-user:mail]'
   fsu_department:
     '#type': webform_term_select
     '#title': 'FSU Department'
+    '#required': true
+    '#default_value': '[current-user:field_fsu_department:entity:tid]'
     '#vocabulary': fsu_departments
     '#breadcrumb_delimiter': ''
   fsu_status:
@@ -50,56 +58,71 @@ elements: |-
       'Graduate Assistant': 'Graduate Assistant'
       'Undergraduate Student': 'Undergraduate Student'
       Other: Other
-  suggested_item:
-    '#type': webform_custom_composite
-    '#title': 'Suggested Item'
-    '#element':
-      type:
-        '#type': select
-        '#options':
-          book: Book
-          book_chapter: 'Book Chapter'
-          ebook: ebook
-          dvd: DVD
-          streaming_video: 'Streaming Video'
-          journal: Journal
-          database: Database
-        '#required': true
-        '#title': 'Item Type'
-      title:
-        '#type': textfield
-        '#required': true
-        '#title': Title
-      author:
-        '#type': textfield
-        '#title': Author
-      issn_isbn:
-        '#type': textfield
-        '#title': ISSN/ISBN
-      year:
-        '#type': textfield
-        '#title': Year
-      publisher:
-        '#type': textfield
-        '#title': Publisher
-      rush:
-        '#type': radios
-        '#options': yes_no
-        '#title': 'Do you wish to rush this request?'
-        '#yes': 'Yes'
-        '#no': 'No'
-      required:
-        '#type': radios
-        '#options': yes_no
-        '#title': 'Is this required reading or viewing for a course?'
-        '#yes': 'Yes'
-        '#no': 'No'
-      notes:
-        '#type': textarea
-        '#title': Notes
-      fund_code:
-        '#type': textfield
-        '#title': 'Fund Code'
+    '#required': true
+  item_type:
+    '#type': select
+    '#title': 'Item Type'
+    '#options':
+      book: Book
+      book_chapter: 'Book Chapter'
+      ebook: ebook
+      dvd: DVD
+      streaming_video: 'Streaming Video'
+      journal: Journal
+      database: Database
+    '#required': true
+  item_title:
+    '#type': textfield
+    '#title': Title
+    '#required': true
+  item_author:
+    '#type': textfield
+    '#title': Author
+  item_issn_isbn:
+    '#type': textfield
+    '#title': ISSN/ISBN
+  item_year:
+    '#type': textfield
+    '#title': Year
+  item_publisher:
+    '#type': textfield
+    '#title': Publisher
+  item_rush:
+    '#type': radios
+    '#title': 'Do you wish to rush this request?'
+    '#options': yes_no
+    '#options_display': side_by_side
+    '#required': true
+  item_required:
+    '#type': radios
+    '#title': 'Is this required reading or viewing for a course?'
+    '#options': yes_no
+    '#options_display': side_by_side
+    '#required': true
+  item_new_faculty_development_grant:
+    '#type': radios
+    '#title': 'Is this item purchase using a New Faculty Development Grant?'
+    '#options': yes_no
+    '#options_display': side_by_side
+    '#required': true
+  item_notes:
+    '#type': textarea
+    '#title': Notes
+  item_fund_code:
+    '#type': textfield
+    '#title': 'Fund Code'
+  item_status:
+    '#type': select
+    '#title': 'Item Status'
+    '#options':
+      new: New
+      approved: Approved
+      rejected: Rejected
+      hold: Hold
+      processed: Processed
+      reserved: Reserved
+      process-ext: Process-Ext
+    '#default_value': new
   captcha:
     '#type': captcha
     '#captcha_type': recaptcha/reCAPTCHA

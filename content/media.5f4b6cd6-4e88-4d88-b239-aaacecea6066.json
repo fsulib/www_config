@@ -1,0 +1,97 @@
+{
+    "uuid": [
+        {
+            "value": "5f4b6cd6-4e88-4d88-b239-aaacecea6066"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "b17d1dd2-b562-4656-b080-3f9bec3625f6"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-07-18T13:44:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [
+        {
+            "target_type": "user",
+            "target_uuid": "4c5767f6-fd4e-4d0f-9130-989c9eb98547"
+        }
+    ],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "4c5767f6-fd4e-4d0f-9130-989c9eb98547"
+        }
+    ],
+    "name": [
+        {
+            "value": "la_headshot_kd.png"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "headshot - kate dowling",
+            "title": null,
+            "width": 400,
+            "height": 400,
+            "target_type": "file",
+            "target_uuid": "08b0718c-87b9-4d9b-ba9c-8a0bc188f625"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-18T13:44:13+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-18T13:44:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "headshot - kate dowling",
+            "title": "",
+            "width": 400,
+            "height": 400,
+            "target_type": "file",
+            "target_uuid": "08b0718c-87b9-4d9b-ba9c-8a0bc188f625"
+        }
+    ]
+}

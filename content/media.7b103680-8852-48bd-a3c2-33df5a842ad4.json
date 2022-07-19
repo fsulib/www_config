@@ -1,0 +1,97 @@
+{
+    "uuid": [
+        {
+            "value": "7b103680-8852-48bd-a3c2-33df5a842ad4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "b17d1dd2-b562-4656-b080-3f9bec3625f6"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-07-18T16:55:14+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [
+        {
+            "target_type": "user",
+            "target_uuid": "4c5767f6-fd4e-4d0f-9130-989c9eb98547"
+        }
+    ],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "4c5767f6-fd4e-4d0f-9130-989c9eb98547"
+        }
+    ],
+    "name": [
+        {
+            "value": "etextbook_logo.png"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "eTextbooks",
+            "title": null,
+            "width": 289,
+            "height": 69,
+            "target_type": "file",
+            "target_uuid": "a03e9722-f965-4d72-9fde-d8f3949c1776"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-18T16:54:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-18T16:55:14+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "eTextbooks",
+            "title": "",
+            "width": 289,
+            "height": 69,
+            "target_type": "file",
+            "target_uuid": "a03e9722-f965-4d72-9fde-d8f3949c1776"
+        }
+    ]
+}

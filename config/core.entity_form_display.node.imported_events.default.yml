@@ -4,6 +4,7 @@ status: true
 dependencies:
   config:
     - field.field.node.imported_events.body
+    - field.field.node.imported_events.feeds_item
     - field.field.node.imported_events.field_event_date
     - field.field.node.imported_events.field_event_date_end
     - field.field.node.imported_events.field_event_location
@@ -107,4 +108,5 @@ content:
       size: 60
       placeholder: ''
     third_party_settings: {  }
-hidden: {  }
+hidden:
+  feeds_item: true

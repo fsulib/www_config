@@ -27,7 +27,7 @@
     ],
     "mail": [
         {
-            "value": "fcalvo@fsu.edu"
+            "value": "FCalvo@fsu.edu"
         }
     ],
     "timezone": [
@@ -48,7 +48,7 @@
     ],
     "changed": [
         {
-            "value": "2022-07-12T15:37:17+00:00",
+            "value": "2022-07-18T22:15:07+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -62,6 +62,16 @@
             "target_id": "library_employee",
             "target_type": "user_role",
             "target_uuid": "0e6f68b5-df8e-4ff0-b2b0-5d2b750774ac"
+        },
+        {
+            "target_id": "faculty",
+            "target_type": "user_role",
+            "target_uuid": "c54abc61-2c04-4496-a5c5-39afca0c13ae"
+        },
+        {
+            "target_id": "employee",
+            "target_type": "user_role",
+            "target_uuid": "92eff045-2f26-4ca9-a3b3-7bde2011e1ab"
         }
     ],
     "default_langcode": [

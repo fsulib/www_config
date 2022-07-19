@@ -1,0 +1,123 @@
+{
+    "uuid": [
+        {
+            "value": "5ebb835d-230d-4b0b-a64b-9f4a0744744e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "imported_events",
+            "target_type": "node_type",
+            "target_uuid": "8b6ed908-62ab-442b-b265-8b7f7c167d1e"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-18T14:18:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "155c5c67-0996-42a2-818d-226633f0b1cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "155c5c67-0996-42a2-818d-226633f0b1cf"
+        }
+    ],
+    "title": [
+        {
+            "value": "Learning District Late-Night Tutoring - Summer 2022"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-18T14:18:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-18T14:18:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "Looking for help in chemistry, math, or physics? Our service is FREE and doesn't require an appointment. Plus, we're available both online and in-person!\n\nJust log into Zoom or drop in to Strozier (the first floor across from Starbucks) and one of our tutors will be happy to assist you. \n\nMore information on the subjects and specific courses we can cover are available on these pages:\n\nChemistryMathPhysics",
+            "format": "plain_text",
+            "summary": "Looking for help in chemistry, math, or physics? Our service is FREE and doesn't require an appointment. Plus, we're available both online and in-person!\n\nJust log into Zoom or drop in to Strozier (the first floor across from Starbucks) and one of our tutors will be happy to assist you. \n\nMore information on the subjects and specific courses we can cover are available on these pages:\n\nChemistryMathPhysics"
+        }
+    ],
+    "feeds_item": [
+        {
+            "imported": "2022-07-18T14:18:21+00:00",
+            "guid": null,
+            "hash": "edb018a2ed616f995d34ecc9c1a25357",
+            "target_type": "feeds_feed",
+            "target_uuid": "d473d270-8d5e-41f9-acf9-1a73e0c704df"
+        }
+    ],
+    "field_event_date": [
+        {
+            "value": "2022-07-06T20:00:00-04:00"
+        }
+    ],
+    "field_event_date_end": [
+        {
+            "value": "2022-07-06T23:00:00-04:00"
+        }
+    ],
+    "field_event_location": [
+        {
+            "value": "Strozier Library, First Floor across from Starbucks"
+        }
+    ],
+    "field_event_url": [
+        {
+            "value": "https:\/\/calendar.fsu.edu\/event\/summer-2022-learning-district"
+        }
+    ]
+}

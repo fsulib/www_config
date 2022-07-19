@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "c0b660f0-e056-4eec-aa66-9266bcc199f2"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "4c5767f6-fd4e-4d0f-9130-989c9eb98547"
+        }
+    ],
+    "filename": [
+        {
+            "value": "Headshot - Anthony.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2022-07\/Headshot - Anthony.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 157078
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-18T13:28:41+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-18T13:28:50+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

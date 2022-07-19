@@ -1,0 +1,97 @@
+{
+    "uuid": [
+        {
+            "value": "04228272-dbb8-4ece-862f-a544ac091a68"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "b17d1dd2-b562-4656-b080-3f9bec3625f6"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-07-18T15:40:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [
+        {
+            "target_type": "user",
+            "target_uuid": "4c5767f6-fd4e-4d0f-9130-989c9eb98547"
+        }
+    ],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "4c5767f6-fd4e-4d0f-9130-989c9eb98547"
+        }
+    ],
+    "name": [
+        {
+            "value": "gs_banner2_0.png"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "background image - students studying",
+            "title": null,
+            "width": 1280,
+            "height": 427,
+            "target_type": "file",
+            "target_uuid": "ffe4f70b-52f8-4ef5-a60c-b7f3c92dc0ca"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-18T15:40:28+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-18T15:40:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "background image - students studying",
+            "title": "",
+            "width": 1280,
+            "height": 427,
+            "target_type": "file",
+            "target_uuid": "ffe4f70b-52f8-4ef5-a60c-b7f3c92dc0ca"
+        }
+    ]
+}

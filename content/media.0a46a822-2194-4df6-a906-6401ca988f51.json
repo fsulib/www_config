@@ -1,0 +1,97 @@
+{
+    "uuid": [
+        {
+            "value": "0a46a822-2194-4df6-a906-6401ca988f51"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "b17d1dd2-b562-4656-b080-3f9bec3625f6"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-07-18T14:02:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [
+        {
+            "target_type": "user",
+            "target_uuid": "4c5767f6-fd4e-4d0f-9130-989c9eb98547"
+        }
+    ],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "4c5767f6-fd4e-4d0f-9130-989c9eb98547"
+        }
+    ],
+    "name": [
+        {
+            "value": "la_campusimg_london.png"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "fsu london exterior",
+            "title": null,
+            "width": 1280,
+            "height": 1024,
+            "target_type": "file",
+            "target_uuid": "4470262a-c67c-412e-a23f-314722cec2ef"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-18T14:02:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-18T14:02:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "fsu london exterior",
+            "title": "",
+            "width": 1280,
+            "height": 1024,
+            "target_type": "file",
+            "target_uuid": "4470262a-c67c-412e-a23f-314722cec2ef"
+        }
+    ]
+}

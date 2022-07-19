@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "420cbfe9-b44b-4321-bc1a-2a1e850e7df2"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/0e7b0266-829c-41a5-b3c7-fc5491583ac1"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/getting-started\/new-faculty"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

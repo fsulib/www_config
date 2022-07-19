@@ -1,0 +1,119 @@
+{
+    "uuid": [
+        {
+            "value": "ab28f124-3b9f-40e2-b196-61ce22cc7320"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "imported_events",
+            "target_type": "node_type",
+            "target_uuid": "8b6ed908-62ab-442b-b265-8b7f7c167d1e"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-18T14:18:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "155c5c67-0996-42a2-818d-226633f0b1cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "155c5c67-0996-42a2-818d-226633f0b1cf"
+        }
+    ],
+    "title": [
+        {
+            "value": "Summer Bucket Lists w\/ FSU Libraries"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-18T14:18:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-18T14:18:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "Get to know FSU Libraries &amp; the Tallahassee Area as you cross off items from our \"500 Days of Strozier\" and \"Dog Day @ Dirac\" Summer Bucket Lists! The lists will be available near the entrances of both libraries - feel free to grab one for yourself and a friend! \n\nStart Date: Sunday, May 8 \n\nEnd Date: Friday, July 29",
+            "format": "plain_text",
+            "summary": "Get to know FSU Libraries &amp; the Tallahassee Area as you cross off items from our \"500 Days of Strozier\" and \"Dog Day @ Dirac\" Summer Bucket Lists! The lists will be available near the entrances of both libraries - feel free to grab one for yourself and a friend! \n\nStart Date: Sunday, May 8 \n\nEnd Date: Friday, July 29"
+        }
+    ],
+    "feeds_item": [
+        {
+            "imported": "2022-07-18T14:18:21+00:00",
+            "guid": null,
+            "hash": "7f00300cadaf7935cbce5f630d25a446",
+            "target_type": "feeds_feed",
+            "target_uuid": "d473d270-8d5e-41f9-acf9-1a73e0c704df"
+        }
+    ],
+    "field_event_date": [
+        {
+            "value": "2022-07-10T20:00:00-04:00"
+        }
+    ],
+    "field_event_date_end": [],
+    "field_event_location": [
+        {
+            "value": "Strozier Library, Inside the Main Entrance"
+        }
+    ],
+    "field_event_url": [
+        {
+            "value": "https:\/\/calendar.fsu.edu\/event\/summer_bucket_lists_w_fsu_libraries"
+        }
+    ]
+}

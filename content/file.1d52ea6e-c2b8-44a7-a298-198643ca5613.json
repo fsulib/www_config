@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "1d52ea6e-c2b8-44a7-a298-198643ca5613"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "4c5767f6-fd4e-4d0f-9130-989c9eb98547"
+        }
+    ],
+    "filename": [
+        {
+            "value": "etextbook_icon2_sm.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2022-07\/etextbook_icon2_sm.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 3627
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-18T18:26:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-18T18:26:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+uuid: 46dd9054-44cb-45a7-9fde-425ba5a9ee4a
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.feeds_item
+    - node.type.imported_events
+  module:
+    - feeds
+id: node.imported_events.feeds_item
+field_name: feeds_item
+entity_type: node
+bundle: imported_events
+label: 'Feeds item'
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:feeds_feed'
+  handler_settings: {  }
+field_type: feeds_item

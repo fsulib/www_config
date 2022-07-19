@@ -1,0 +1,93 @@
+{
+    "uuid": [
+        {
+            "value": "0398db2b-8b47-44a2-aaf9-ee7fa7d385e7"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "b17d1dd2-b562-4656-b080-3f9bec3625f6"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-07-18T16:28:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [
+        {
+            "target_type": "user",
+            "target_uuid": "4c5767f6-fd4e-4d0f-9130-989c9eb98547"
+        }
+    ],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "4c5767f6-fd4e-4d0f-9130-989c9eb98547"
+        }
+    ],
+    "name": [
+        {
+            "value": "cr_icon1.png"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "Course Reserves Logo",
+            "title": null,
+            "width": 1200,
+            "height": 755,
+            "target_type": "file",
+            "target_uuid": "ead06ff8-41e5-419e-a015-fbdb2c9eae7c"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-18T16:20:53+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-18T16:28:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "Course Reserves Logo",
+            "title": "",
+            "width": 1200,
+            "height": 755,
+            "target_type": "file",
+            "target_uuid": "ead06ff8-41e5-419e-a015-fbdb2c9eae7c"
+        }
+    ]
+}

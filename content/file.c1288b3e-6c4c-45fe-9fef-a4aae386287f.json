@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "c1288b3e-6c4c-45fe-9fef-a4aae386287f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "4c5767f6-fd4e-4d0f-9130-989c9eb98547"
+        }
+    ],
+    "filename": [
+        {
+            "value": "gs_banner2.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2022-07\/gs_banner2.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 1018390
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-18T13:16:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-18T13:16:50+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

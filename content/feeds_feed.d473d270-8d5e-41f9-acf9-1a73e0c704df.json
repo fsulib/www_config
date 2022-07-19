@@ -1,0 +1,71 @@
+{
+    "uuid": [
+        {
+            "value": "d473d270-8d5e-41f9-acf9-1a73e0c704df"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "event_ical_import",
+            "target_type": "feeds_feed_type",
+            "target_uuid": "79982785-7563-40a9-858c-d2e5f0a8ce35"
+        }
+    ],
+    "title": [
+        {
+            "value": "Event ICal Import"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5e5e0515-2906-4b1e-a752-a103730c504b"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-18T14:17:56+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-18T14:18:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "imported": [
+        {
+            "value": "2022-07-18T14:18:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "next": [
+        {
+            "value": "1969-12-31T23:59:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "queued": [
+        {
+            "value": "1970-01-01T00:00:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "source": [
+        {
+            "value": "http:\/\/calendar.fsu.edu\/calendar.ics?event_types%5B%5D=89132"
+        }
+    ],
+    "config": [],
+    "item_count": [
+        {
+            "value": 25
+        }
+    ]
+}

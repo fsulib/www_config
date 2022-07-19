@@ -1,0 +1,90 @@
+uuid: 79982785-7563-40a9-858c-d2e5f0a8ce35
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.imported_events.body
+    - field.field.node.imported_events.field_event_date
+    - field.field.node.imported_events.field_event_date_end
+    - field.field.node.imported_events.field_event_location
+    - field.field.node.imported_events.field_event_url
+    - node.type.imported_events
+  module:
+    - feeds_ical
+    - node
+label: 'Event ICal Import'
+id: event_ical_import
+description: ''
+help: ''
+import_period: -1
+fetcher: http
+fetcher_configuration:
+  auto_detect_feeds: false
+  use_pubsubhubbub: false
+  always_download: false
+  fallback_hub: ''
+  request_timeout: 30
+parser: feeds_ical
+parser_configuration: {  }
+processor: 'entity:node'
+processor_configuration:
+  values:
+    type: imported_events
+  langcode: en
+  insert_new: 1
+  update_existing: 1
+  update_non_existent: _keep
+  skip_hash_check: false
+  authorize: true
+  expire: -1
+  owner_feed_author: false
+  owner_id: 0
+custom_sources:
+  url:
+    value: URL
+    label: URL
+    machine_name: url
+    type: feeds_ical
+mappings:
+  -
+    target: field_event_date
+    map:
+      value: dtstart
+    settings:
+      language: null
+      timezone: UTC
+  -
+    target: field_event_date_end
+    map:
+      value: dtend
+    settings:
+      language: null
+      timezone: UTC
+  -
+    target: title
+    map:
+      value: summary
+    settings:
+      language: null
+    unique: {  }
+  -
+    target: body
+    map:
+      value: description
+      summary: description
+    settings:
+      language: null
+      format: plain_text
+  -
+    target: field_event_location
+    map:
+      value: location
+    settings:
+      language: null
+    unique: {  }
+  -
+    target: field_event_url
+    map:
+      value: url
+    settings:
+      language: null

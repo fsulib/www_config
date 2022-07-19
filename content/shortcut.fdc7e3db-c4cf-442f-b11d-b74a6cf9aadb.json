@@ -1,0 +1,37 @@
+{
+    "uuid": [
+        {
+            "value": "fdc7e3db-c4cf-442f-b11d-b74a6cf9aadb"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "shortcut_set": [
+        {
+            "target_id": "default",
+            "target_type": "shortcut_set",
+            "target_uuid": "f5cd442d-4272-4e51-9777-ad2fd1ff4527"
+        }
+    ],
+    "title": [
+        {
+            "value": "Configuration"
+        }
+    ],
+    "weight": [],
+    "link": [
+        {
+            "uri": "internal:\/admin\/config",
+            "title": null,
+            "options": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ]
+}

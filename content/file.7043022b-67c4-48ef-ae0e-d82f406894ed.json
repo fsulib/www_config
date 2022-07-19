@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "7043022b-67c4-48ef-ae0e-d82f406894ed"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "8fb4e142-f369-4527-8ee2-b3f53feb2883"
+        }
+    ],
+    "filename": [
+        {
+            "value": "a-strozier_0.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/inline-images\/a-strozier_0.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 103549
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-18T14:21:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-18T14:39:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

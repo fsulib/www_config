@@ -36,8 +36,7 @@ code: |-
 
   /* Long blue boxes */ 
   .lg-blue-boxes {
-  max-height: 500px;
-  min-height:5000px;
+  min-height: 460px;
   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
   background-color: rgb(44, 103, 132, 0.2);
   color: black
@@ -48,8 +47,6 @@ code: |-
   .lg-blue-boxes a:hover {
     color:black;
   }
-
-
 
 
   /*Double lines for 3-6 items */
@@ -71,27 +68,62 @@ code: |-
     float:left;
   }
 
-  /* narrow viewport styles */
-  @media only screen and (min-width: 375px) and (max-width: 766px)  {
-   .sm-card-2 .about-icons {
-    min-height:150px;
-    max-height:150px;
+  /* mobile viewport styles */
+  @media only screen and (max-width: 767px)  {
+    
+  /* blue boxes */ 
+  .blue-boxes {
+  max-height: 450px;
+  min-height:300px;
+
+  }
+
+  .blue-boxes .s3-p-10 {
+    padding: 1.5em;
+    
+  }
+
+  /* Long blue boxes */ 
+  .lg-blue-boxes {
+  min-height: 200px;
+  margin-bottom:20px
+
+  }
+
+  .lg-blue-boxes-img {
+   display:none;
+  }
+
+  .lg-blue-boxes .btn {
+   display:none;
   }
   }
 
-  /* normal viewport styles */
-  @media only screen and (min-width: 769px) and (max-width: 1199px)  {
-    .sm-card-2 .about-icons {
-    min-height:200px;
-    max-height:200px;
+  /* narrow viewport styles */
+  @media only screen and (min-width: 768px) and (max-width:991px)  {
+
+  .lg-blue-boxes-img {
+   display:none;
   }
-   
-   .secondary-page-about-icons .about-icons .h2{
-    float:none;
+
+  .lg-blue-boxes {
+  min-height: 400px;
+  padding:1em;
   }
-      
+
     
   }
+
+  /* narrow viewport styles */
+  @media only screen and (min-width: 992px) and (max-width:1199px)  {
+
+
+  .lg-blue-boxes {
+  min-height: 410px;
+  padding:1em;
+  }
+  }
+    
 
   /* wide viewport styles */
   @media only screen and (min-width: 1200px)  {

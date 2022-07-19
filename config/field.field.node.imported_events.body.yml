@@ -11,7 +11,7 @@ id: node.imported_events.body
 field_name: body
 entity_type: node
 bundle: imported_events
-label: Body
+label: 'Event Body'
 description: ''
 required: false
 translatable: true

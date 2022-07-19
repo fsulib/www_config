@@ -1,0 +1,123 @@
+{
+    "uuid": [
+        {
+            "value": "59bcb5eb-69e8-4f68-86fa-cafd660983f8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "imported_events",
+            "target_type": "node_type",
+            "target_uuid": "8b6ed908-62ab-442b-b265-8b7f7c167d1e"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-18T14:18:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "155c5c67-0996-42a2-818d-226633f0b1cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "155c5c67-0996-42a2-818d-226633f0b1cf"
+        }
+    ],
+    "title": [
+        {
+            "value": "Open Scholars Project"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-18T14:18:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-18T14:18:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "The Open Scholars Project is an informal forum to learn about and discuss developments in open access. This community of practice allows FSU researchers and scholars to share experiences with open publishing, open source code and open data across subject areas. It brings faculty, postdocs and graduate students from across disciplines together to implement open praxis in their research projects. The group will meet monthly each semester.\n\nTopic: Open Monographs (Scholarly Books)\n\nZoom registration: https:\/\/fla.st\/LY0LRYON\n\nFind OSP on Social Media:\n\nDiscord\n\nFacebook Group",
+            "format": "plain_text",
+            "summary": "The Open Scholars Project is an informal forum to learn about and discuss developments in open access. This community of practice allows FSU researchers and scholars to share experiences with open publishing, open source code and open data across subject areas. It brings faculty, postdocs and graduate students from across disciplines together to implement open praxis in their research projects. The group will meet monthly each semester.\n\nTopic: Open Monographs (Scholarly Books)\n\nZoom registration: https:\/\/fla.st\/LY0LRYON\n\nFind OSP on Social Media:\n\nDiscord\n\nFacebook Group"
+        }
+    ],
+    "feeds_item": [
+        {
+            "imported": "2022-07-18T14:18:21+00:00",
+            "guid": null,
+            "hash": "dfa78ea4c06cacd20027e67397f40892",
+            "target_type": "feeds_feed",
+            "target_uuid": "d473d270-8d5e-41f9-acf9-1a73e0c704df"
+        }
+    ],
+    "field_event_date": [
+        {
+            "value": "2022-09-16T12:00:00-04:00"
+        }
+    ],
+    "field_event_date_end": [
+        {
+            "value": "2022-09-16T13:00:00-04:00"
+        }
+    ],
+    "field_event_location": [
+        {
+            "value": "Dirac Science Library, Conference Room 216"
+        }
+    ],
+    "field_event_url": [
+        {
+            "value": "https:\/\/calendar.fsu.edu\/event\/open_scholars_project_6417"
+        }
+    ]
+}

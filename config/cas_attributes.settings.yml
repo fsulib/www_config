@@ -4,9 +4,40 @@ sitewide_token_support: true
 field:
   sync_frequency: 2
   overwrite: true
-  mappings: {  }
+  mappings:
+    mail: '[cas:attribute:email]'
+    field_first_name: '[cas:attribute:fsuedufirstname]'
+    field_last_name: '[cas:attribute:fsuedulastname]'
 role:
   sync_frequency: 2
   deny_login_no_match: false
   deny_registration_no_match: false
-  mappings: {  }
+  mappings:
+    -
+      rid: graduate_student
+      method: exact_any
+      attribute: fsueduaffiliation
+      value: GRAD
+      negate: false
+      remove_without_match: true
+    -
+      rid: faculty
+      method: exact_any
+      attribute: fsueduaffiliation
+      value: FACULTY
+      negate: false
+      remove_without_match: true
+    -
+      rid: employee
+      method: exact_any
+      attribute: fsueduaffiliation
+      value: EMPLOYEE
+      negate: false
+      remove_without_match: true
+    -
+      rid: undergraduate
+      method: exact_any
+      attribute: fsueduaffiliation
+      value: UGRD
+      negate: false
+      remove_without_match: true
