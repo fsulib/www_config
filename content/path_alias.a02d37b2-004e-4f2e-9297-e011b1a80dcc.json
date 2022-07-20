@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a02d37b2-004e-4f2e-9297-e011b1a80dcc"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/webform\/alternative_textbook_grant_appli\/submissions"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/form\/alternative-textbook-grant-appli\/submissions"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

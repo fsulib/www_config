@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-07-18T19:15:13+00:00",
+            "value": "2022-07-19T23:49:38+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -28,7 +28,11 @@
             "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
         }
     ],
-    "revision_log": [],
+    "revision_log": [
+        {
+            "value": "Copy of the revision from <em class=\"placeholder\">Mon, 07\/18\/2022 - 15:15<\/em>."
+        }
+    ],
     "status": [
         {
             "value": true
@@ -53,7 +57,7 @@
     ],
     "changed": [
         {
-            "value": "2022-07-18T19:15:13+00:00",
+            "value": "2022-07-19T23:49:38+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],

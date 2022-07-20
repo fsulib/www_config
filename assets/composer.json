@@ -28,6 +28,11 @@
             "name": "fsulib/jquery-ui-touch-punch",
             "type": "vcs",
             "url": "git@github.com:fsulib/jquery-ui-touch-punch.git"
+        },
+        {
+            "name": "fsulib/www_webform_handlers",
+            "type": "vcs",
+            "url": "git@github.com:fsulib/www_webform_handlers.git"
         }
     ],
     "require": {
@@ -57,6 +62,7 @@
         "fsulib/fsu_strata": "dev-master",
         "fsulib/fsu_twig_filter": "dev-master",
         "fsulib/jquery-ui-touch-punch": "dev-master",
+	"fsulib/www_webform_handlers": "dev-main",
         "vlucas/phpdotenv": "^5.1",
         "webflo/drupal-finder": "^1.2"
     },

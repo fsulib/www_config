@@ -18,14 +18,14 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-07-18T18:13:09+00:00",
+            "value": "2022-07-19T14:53:49+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "revision_uid": [
         {
             "target_type": "user",
-            "target_uuid": "38f2fa2a-afce-4b8f-95b4-659d83200a95"
+            "target_uuid": "8fb4e142-f369-4527-8ee2-b3f53feb2883"
         }
     ],
     "revision_log": [],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-07-18T18:13:09+00:00",
+            "value": "2022-07-19T14:53:49+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -85,8 +85,8 @@
     ],
     "body": [
         {
-            "value": "<p>The FSU Libraries provide training and consulting support in the following research data related areas:<\/p>\r\n\r\n<h3>Data Visualization and Analysis<\/h3>\r\n\r\n<p>Creating visual data outputs, including charts and graphs, that make impactful statements and tell powerful stories. Performing statistical and data analysis techniques. Support programs including: Excel, MATLAB, SPSS, and SAS.<\/p>\r\n\r\n<h3>Research Data Management<\/h3>\r\n\r\n<p>Creating and implementing data management plans, applying best practices for managing data, and finding data management services at any stage of the research process. More information may be found at our <a href=\"https:\/\/guides.lib.fsu.edu\/datamanagement\">Data Management Research Guide<\/a>.<\/p>\r\n\r\n<h3>GIS and Spatial Data<\/h3>\r\n\r\n<p>Using GIS tools to create maps and perform spatial data analysis. Support programs including: QGIS, GoogleEarth, and ArcGIS. Finding and evaluating spatial data for research application.<\/p>\r\n\r\n<hr \/>\r\n\r\n<p>For more information regarding any of these services, please contact our data librarians at: <a href=\"mailto:STEM-Lib@fsu.edu\">STEM-Lib@fsu.edu<\/a>.<\/p>\r\n",
-            "format": "full_html",
+            "value": "<p>The FSU Libraries provide training and consulting support in the following research data related areas:<\/p>\r\n\r\n<h2>Data Visualization and Analysis<\/h2>\r\n\r\n<p>Creating visual data outputs, including charts and graphs, that make impactful statements and tell powerful stories. Performing statistical and data analysis techniques. Support programs including: Excel, MATLAB, SPSS, and SAS.<\/p>\r\n\r\n<h2>Research Data Management<\/h2>\r\n\r\n<p>Creating and implementing data management plans, applying best practices for managing data, and finding data management services at any stage of the research process. More information may be found at our <a href=\"https:\/\/guides.lib.fsu.edu\/datamanagement\">Data Management Research Guide<\/a>.<\/p>\r\n\r\n<h2>GIS and Spatial Data<\/h2>\r\n\r\n<p>Using GIS tools to create maps and perform spatial data analysis. Support programs including: QGIS, GoogleEarth, and ArcGIS. Finding and evaluating spatial data for research application.<\/p>\r\n\r\n<p>For more information regarding any of these services, please <a href=\"mailto:STEM-Lib@fsu.edu\">email our data librarians<\/a> (stem-lib@fsu.edu).<\/p>\r\n",
+            "format": "basic_html",
             "summary": ""
         }
     ],

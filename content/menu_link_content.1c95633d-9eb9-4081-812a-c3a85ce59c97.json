@@ -29,7 +29,7 @@
     ],
     "title": [
         {
-            "value": "Hertiage and University Archives"
+            "value": "Heritage and University Archives"
         }
     ],
     "description": [],
@@ -40,7 +40,7 @@
     ],
     "link": [
         {
-            "uri": "internal:\/special-collections\/heritage-and-archives",
+            "uri": "internal:\/special-collections-and-archives\/heritage-and-university-archives",
             "title": "",
             "options": []
         }
@@ -68,7 +68,7 @@
     "parent": [],
     "changed": [
         {
-            "value": "2022-07-10T22:56:30+00:00",
+            "value": "2022-07-19T20:41:03+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],

@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "05f94e8d-70a0-4742-b267-a2d17d49a067"
+            "value": "0d105b2c-3750-4ff6-98a6-8a27245282ec"
         }
     ],
     "langcode": [
@@ -18,7 +18,7 @@
     ],
     "revision_created": [
         {
-            "value": "2022-07-17T21:46:13+00:00",
+            "value": "2022-07-19T20:19:01+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -42,28 +42,28 @@
     ],
     "name": [
         {
-            "value": "FDLPLogo-150px.png"
+            "value": "fdlp-logo.png"
         }
     ],
     "thumbnail": [
         {
-            "alt": "Federal depository library program logo",
+            "alt": "federal repository logo",
             "title": null,
-            "width": 150,
-            "height": 150,
+            "width": 100,
+            "height": 100,
             "target_type": "file",
-            "target_uuid": "21035edd-d382-41dc-937e-c05fa69866ba"
+            "target_uuid": "3a1ce881-a788-4c28-97d7-2def2cca9ba3"
         }
     ],
     "created": [
         {
-            "value": "2022-07-17T21:46:03+00:00",
+            "value": "2022-07-19T20:18:41+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "changed": [
         {
-            "value": "2022-07-17T21:46:13+00:00",
+            "value": "2022-07-19T20:19:01+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -86,12 +86,12 @@
     ],
     "field_media_image": [
         {
-            "alt": "Federal depository library program logo",
+            "alt": "federal repository logo",
             "title": "",
-            "width": 150,
-            "height": 150,
+            "width": 100,
+            "height": 100,
             "target_type": "file",
-            "target_uuid": "21035edd-d382-41dc-937e-c05fa69866ba"
+            "target_uuid": "3a1ce881-a788-4c28-97d7-2def2cca9ba3"
         }
     ]
 }

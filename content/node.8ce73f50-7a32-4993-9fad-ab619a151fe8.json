@@ -18,14 +18,14 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-07-07T15:55:17+00:00",
+            "value": "2022-07-19T18:35:25+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "revision_uid": [
         {
             "target_type": "user",
-            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+            "target_uuid": "38f2fa2a-afce-4b8f-95b4-659d83200a95"
         }
     ],
     "revision_log": [],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-07-07T15:55:17+00:00",
+            "value": "2022-07-19T18:35:25+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -85,7 +85,7 @@
     ],
     "body": [
         {
-            "value": "<p>The Libraries\u2019 collections include over 5.4 million volumes, with a website offering access to more than 446 databases, over 319,000 electronic journals, and over 2.8 million e-books.<\/p>\r\n\r\n<p>The library is a member of the following organizations:<\/p>\r\n\r\n<ul>\r\n\t<li><a href=\"http:\/\/www.arl.org\/\">Association of Research Libraries<\/a>&nbsp;(ARL)<\/li>\r\n\t<li><a href=\"http:\/\/www.crl.edu\/\">Center for Research Libraries<\/a>&nbsp;(CRL)<\/li>\r\n\t<li><a href=\"http:\/\/www.aserl.org\/\">Association of Southeastern Research Libraries<\/a>&nbsp;(ASERL)<\/li>\r\n<\/ul>\r\n\r\n<p>The Florida State University Libraries include eight libraries on the Tallahassee Campus:<\/p>\r\n\r\n<ul>\r\n\t<li>Robert Manning Strozier Library<\/li>\r\n\t<li>Dirac Science Library<\/li>\r\n\t<li>Claude Pepper Library<\/li>\r\n\t<li><a href=\"http:\/\/www.music.fsu.edu\/Quicklinks\/Music-Library\">College of Music Allen Music Library<\/a><\/li>\r\n\t<li><a href=\"https:\/\/law.fsu.edu\/research-center\">College of Law Research Center<\/a><\/li>\r\n\t<li><a href=\"http:\/\/www.med.fsu.edu\/library\/\">College of Medicine Maguire Medical Library<\/a><\/li>\r\n\t<li><a href=\"https:\/\/www.eng.famu.fsu.edu\/library\">FAMU\/FSU Engineering Library<\/a><\/li>\r\n<\/ul>\r\n\r\n<p>Other FSU Libraries, Museums, and Research Centers include:<\/p>\r\n\r\n<ul>\r\n\t<li><a href=\"https:\/\/pc.fsu.edu\/students\/library-and-learning-center\/library-hours\">FSU Panama City, Florida Library and Learning Center<\/a><\/li>\r\n\t<li>FSU Panama, Republic of Panama<\/li>\r\n\t<li><a href=\"http:\/\/www.ringling.org\/\">John and Mable Ringling Museum of Art Library<\/a><\/li>\r\n\t<li><a href=\"http:\/\/www.florence.fsu.edu\/florence-center\/library\/\">FSU Florence Study Center<\/a><\/li>\r\n\t<li><a href=\"http:\/\/international.fsu.edu\/london\/campus.html\">FSU London Study Center<\/a><\/li>\r\n<\/ul>\r\n\r\n<p>The library is a member of the following organizations:<\/p>\r\n\r\n<ul>\r\n\t<li><a href=\"http:\/\/www.arl.org\/\">Association of Research Libraries<\/a>&nbsp;(ARL)<\/li>\r\n\t<li><a href=\"http:\/\/www.crl.edu\/\">Center for Research Libraries<\/a>&nbsp;(CRL)<\/li>\r\n\t<li><a href=\"http:\/\/www.aserl.org\/\">Association of Southeastern Research Libraries<\/a>&nbsp;(ASERL)<\/li>\r\n<\/ul>\r\n",
+            "value": "<p>The Libraries\u2019 collections include over 5.4 million volumes, with a website offering access to more than 446 databases, over 319,000 electronic journals, and over 2.8 million e-books.<\/p>\r\n\r\n<p>The library is a member of the following organizations:<\/p>\r\n\r\n<ul>\r\n\t<li><a href=\"http:\/\/www.arl.org\/\">Association of Research Libraries<\/a>&nbsp;(ARL)<\/li>\r\n\t<li><a href=\"http:\/\/www.crl.edu\/\">Center for Research Libraries<\/a>&nbsp;(CRL)<\/li>\r\n\t<li><a href=\"http:\/\/www.aserl.org\/\">Association of Southeastern Research Libraries<\/a>&nbsp;(ASERL)<\/li>\r\n<\/ul>\r\n\r\n<p>The Florida State University Libraries include eight libraries on the Tallahassee Campus:<\/p>\r\n\r\n<ul>\r\n\t<li>Robert Manning Strozier Library<\/li>\r\n\t<li>Dirac Science Library<\/li>\r\n\t<li>Claude Pepper Library<\/li>\r\n\t<li><a href=\"http:\/\/www.music.fsu.edu\/Quicklinks\/Music-Library\">College of Music Allen Music Library<\/a><\/li>\r\n\t<li><a href=\"https:\/\/law.fsu.edu\/research-center\">College of Law Research Center<\/a><\/li>\r\n\t<li><a href=\"http:\/\/www.med.fsu.edu\/library\/\">College of Medicine Maguire Medical Library<\/a><\/li>\r\n\t<li><a href=\"https:\/\/www.eng.famu.fsu.edu\/library\">FAMU\/FSU Engineering Library<\/a><\/li>\r\n<\/ul>\r\n\r\n<p>Other FSU Libraries, Museums, and Research Centers include:<\/p>\r\n\r\n<ul>\r\n\t<li><a href=\"https:\/\/pc.fsu.edu\/students\/cook-library-and-learning-center\">FSU Panama City, Florida Library and Learning Center<\/a><\/li>\r\n\t<li>FSU Panama, Republic of Panama<\/li>\r\n\t<li><a href=\"http:\/\/www.ringling.org\/\">John and Mable Ringling Museum of Art Library<\/a><\/li>\r\n\t<li><a href=\"http:\/\/www.florence.fsu.edu\/florence-center\/library\/\">FSU Florence Study Center<\/a><\/li>\r\n\t<li><a href=\"http:\/\/international.fsu.edu\/london\/campus.html\">FSU London Study Center<\/a><\/li>\r\n<\/ul>\r\n\r\n<p>The library is a member of the following organizations:<\/p>\r\n\r\n<ul>\r\n\t<li><a href=\"http:\/\/www.arl.org\/\">Association of Research Libraries<\/a>&nbsp;(ARL)<\/li>\r\n\t<li><a href=\"http:\/\/www.crl.edu\/\">Center for Research Libraries<\/a>&nbsp;(CRL)<\/li>\r\n\t<li><a href=\"http:\/\/www.aserl.org\/\">Association of Southeastern Research Libraries<\/a>&nbsp;(ASERL)<\/li>\r\n<\/ul>\r\n",
             "format": "basic_html",
             "summary": ""
         }

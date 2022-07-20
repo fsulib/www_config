@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "6aec48a8-3f0b-4b79-a998-7da8db4ef549"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/4bc92e8a-a012-49b8-bdbd-3617c361a153"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/research-and-publish\/publishing\/open-access-funding"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

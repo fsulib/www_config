@@ -1,0 +1,99 @@
+{
+    "uuid": [
+        {
+            "value": "581f3454-621b-4524-b525-3360307b08a6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "a12db886-d412-46b5-9932-855c32fb27dd"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-19T20:36:56+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "38f2fa2a-afce-4b8f-95b4-659d83200a95"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "38f2fa2a-afce-4b8f-95b4-659d83200a95"
+        }
+    ],
+    "title": [
+        {
+            "value": "About Special Collections and Archives"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-19T20:35:45+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-19T20:36:56+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/special-collections-and-archives\/about",
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The Special Collections &amp; Archives Division of the Florida State University Libraries advances research by acquiring, preserving, and providing access to rare and unusual books and original primary source materials. The division includes the Special Collections &amp; Archives Research Center, Heritage &amp; University Archives, The Claude Pepper Library, and the Digital Library Center.<\/p>\r\n\r\n<p>Through exhibitions and programs, the division supports active learning and engagement. Collections of unique manuscripts, historic maps, rare books, photographs, and university archives offer abundant opportunities for discovery and scholarship. Strengths of the collections include Napoleon and the French Revolution, poetry, political papers, Florida history, Southern business history, and the history of Florida State University.<\/p>\r\n\r\n<p>We invite the university community, scholars, and the public to explore the rich collections found here.<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_related_menu": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "ac5f0c8b-0836-467b-9c4e-ad3038ca463e"
+        }
+    ]
+}

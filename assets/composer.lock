@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "54a5856a8f336192eedf3b6ddff1c23c",
+    "content-hash": "91ada2fcb17decad35e548980219f33b",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -3910,6 +3910,43 @@
             "time": "2022-05-10T21:39:45+00:00"
         },
         {
+            "name": "fsulib/www_webform_handlers",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/fsulib/www_webform_handlers.git",
+                "reference": "39c719c948206aca213d624cb00220ebf8765d75"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/fsulib/www_webform_handlers/zipball/39c719c948206aca213d624cb00220ebf8765d75",
+                "reference": "39c719c948206aca213d624cb00220ebf8765d75",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "drupal-custom-module",
+            "license": [
+                "GPL-2.0+"
+            ],
+            "authors": [
+                {
+                    "name": "Brian Arsenault",
+                    "email": "barsenault@fsu.edu",
+                    "role": "Maintainer"
+                }
+            ],
+            "description": "A module that provides webform handlers for the FSU Libraries website (www).",
+            "homepage": "https://github.com/fsulib/www_webform_handlers",
+            "keywords": [
+                "Drupal"
+            ],
+            "support": {
+                "source": "https://github.com/fsulib/www_webform_handlers/tree/main",
+                "issues": "https://github.com/fsulib/www_webform_handlers/issues"
+            },
+            "time": "2022-07-19T17:14:53+00:00"
+        },
+        {
             "name": "google/recaptcha",
             "version": "1.2.4",
             "source": {
@@ -4740,22 +4777,23 @@
         },
         {
             "name": "laminas/laminas-servicemanager",
-            "version": "3.14.0",
+            "version": "3.15.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laminas/laminas-servicemanager.git",
-                "reference": "918de970b2c3d42acebff3d431d76db52b6a32a2"
+                "reference": "65910ef6a8066b0369fab77fbec9e030be59c866"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laminas/laminas-servicemanager/zipball/918de970b2c3d42acebff3d431d76db52b6a32a2",
-                "reference": "918de970b2c3d42acebff3d431d76db52b6a32a2",
+                "url": "https://api.github.com/repos/laminas/laminas-servicemanager/zipball/65910ef6a8066b0369fab77fbec9e030be59c866",
+                "reference": "65910ef6a8066b0369fab77fbec9e030be59c866",
                 "shasum": ""
             },
             "require": {
+                "composer-plugin-api": "^2.0",
                 "laminas/laminas-stdlib": "^3.2.1",
                 "php": "~7.4.0 || ~8.0.0 || ~8.1.0",
-                "psr/container": "^1.0"
+                "psr/container": "^1.1 || ^2.0.2"
             },
             "conflict": {
                 "ext-psr": "*",
@@ -4764,16 +4802,14 @@
                 "zendframework/zend-servicemanager": "*"
             },
             "provide": {
-                "psr/container-implementation": "^1.0"
+                "psr/container-implementation": "^1.1 || ^2.0"
             },
             "replace": {
                 "container-interop/container-interop": "^1.2.0"
             },
             "require-dev": {
-                "composer/package-versions-deprecated": "^1.0",
                 "laminas/laminas-coding-standard": "~2.3.0",
                 "laminas/laminas-container-config-test": "^0.6",
-                "laminas/laminas-dependency-plugin": "^2.1.2",
                 "mikey179/vfsstream": "^1.6.10@alpha",
                 "ocramius/proxy-manager": "^2.11",
                 "phpbench/phpbench": "^1.1",
@@ -4827,7 +4863,7 @@
                     "type": "community_bridge"
                 }
             ],
-            "time": "2022-07-07T16:13:26+00:00"
+            "time": "2022-07-18T21:18:56+00:00"
         },
         {
             "name": "laminas/laminas-stdlib",
@@ -5147,16 +5183,16 @@
         },
         {
             "name": "mglaman/phpstan-drupal",
-            "version": "1.1.24",
+            "version": "1.1.25",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mglaman/phpstan-drupal.git",
-                "reference": "64ff8525e4cd12869ab0b2c3c96d6a79d49d4f74"
+                "reference": "480245d5d0bd1858e01c43d738718dab85be0ad2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mglaman/phpstan-drupal/zipball/64ff8525e4cd12869ab0b2c3c96d6a79d49d4f74",
-                "reference": "64ff8525e4cd12869ab0b2c3c96d6a79d49d4f74",
+                "url": "https://api.github.com/repos/mglaman/phpstan-drupal/zipball/480245d5d0bd1858e01c43d738718dab85be0ad2",
+                "reference": "480245d5d0bd1858e01c43d738718dab85be0ad2",
                 "shasum": ""
             },
             "require": {
@@ -5231,7 +5267,7 @@
             "description": "Drupal extension and rules for PHPStan",
             "support": {
                 "issues": "https://github.com/mglaman/phpstan-drupal/issues",
-                "source": "https://github.com/mglaman/phpstan-drupal/tree/1.1.24"
+                "source": "https://github.com/mglaman/phpstan-drupal/tree/1.1.25"
             },
             "funding": [
                 {
@@ -5247,7 +5283,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-07-14T20:54:21+00:00"
+            "time": "2022-07-18T17:17:55+00:00"
         },
         {
             "name": "nikic/php-parser",
@@ -13025,7 +13061,8 @@
         "drupal/webform_views": 10,
         "fsulib/fsu_strata": 20,
         "fsulib/fsu_twig_filter": 20,
-        "fsulib/jquery-ui-touch-punch": 20
+        "fsulib/jquery-ui-touch-punch": 20,
+        "fsulib/www_webform_handlers": 20
     },
     "prefer-stable": true,
     "prefer-lowest": false,

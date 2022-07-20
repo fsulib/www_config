@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "3a1ce881-a788-4c28-97d7-2def2cca9ba3"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "filename": [
+        {
+            "value": "fdlp-logo.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2022-07\/fdlp-logo.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 11619
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-19T20:18:49+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-19T20:19:01+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

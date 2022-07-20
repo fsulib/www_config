@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "f9988c7b-513c-4f29-8676-19c22b558ba8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "filename": [
+        {
+            "value": "Scholar-support-desk-bg_1.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2022-07\/Scholar-support-desk-bg_1.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 232586
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-19T15:20:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-19T15:20:09+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

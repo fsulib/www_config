@@ -18,14 +18,14 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-06-24T18:24:27+00:00",
+            "value": "2022-07-20T00:06:00+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "revision_uid": [
         {
             "target_type": "user",
-            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+            "target_uuid": "8fb4e142-f369-4527-8ee2-b3f53feb2883"
         }
     ],
     "revision_log": [],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-24T18:24:27+00:00",
+            "value": "2022-07-20T00:06:00+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -85,7 +85,7 @@
     ],
     "body": [
         {
-            "value": "<h2>Printing from your personal computer<\/h2>\r\n<a href=\"https:\/\/obs.fsu.edu\/student-printing#Drivers\">Please see the drivers and instructions available from the Office of Business Services<\/a>\r\n<h2>Where can I print?<\/h2>\r\n<p>Strozier printers are provided on the ground, main, second and third floors (color printers available on the main floor). Dirac printers are available on the 2nd and 3rd floors (color printers available on 2nd floor). Printers are connected to computer kiosks of the respective floors. Printing requires the use of an FSU card with a positive balance.<\/p>\r\n\r\n<h2>How do I print?<\/h2>\r\n\r\n<iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/6uslebKYMxI\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>\r\n\r\n<p>Print documents selecting either <strong>FSU myPrint B&amp;W<\/strong> or <strong>FSU myPrint Color<\/strong><br \/>\r\n<ol>\r\n\t<li>Enter your FSUID<\/li>\r\n\t<li>Go to any Print Release Station<\/li>\r\n\t<li>Enter your FSUID at the release station Prompt<\/li>\r\n\t<li>Swipe your FSUCard in the card reader next to station<\/li>\r\n\t<li>Select documents(s) to print from the list displayed<\/li>\r\n\t<li>Bottom of the screen displays FSUCash balance &amp; cost of printing (10&cent; for b&amp;w, 25&cent; for color)<\/li>\r\n\t<li>Select print<\/li>\r\n\t<li>Take your printed documents from printer<\/li>\r\n\t<li>Jobs in your queue will be purged from the system after 2 hours<\/li>\r\n<\/ol>\r\n\r\n<h2>Scanning Documents and Book Pages<\/h2>\r\n<p>Several scanners are located on the main floor of Strozier Library and the 2nd floor of Dirac.<\/p>\r\n<h2>Pricing<\/strong><\/h2>\r\n<a href=\"https:\/\/obs.fsu.edu\/student-printing#Print101\">View current pricing set by the Office of Business Services<\/a>\r\n<h2>Reporting Problems<\/h2>\r\n<p>The printers and card readers are neither owned nor operated by FSU Libraries. If the card reader malfunctions, printer fails to print, or takes your credits without printing, please reach out to the Office of Business Services: 850-644-7777 or the <a href=\"https:\/\/obs.fsu.edu\/service-requests\/fsu-myprint-service-request\" target=\"_blank\">Office of Business Services Service Request Form<\/a><\/p>\r\n",
+            "value": "<h2>Printing from your personal computer<\/h2>\r\n<p>The Office of Business Services provides <a href=\"https:\/\/obs.fsu.edu\/student-printing#Drivers\">instructions on how to print from a personal computer<\/a>.<\/p>\r\n<h2>Where can I print?<\/h2>\r\n<p>Strozier printers are provided on the ground, main, second and third floors (color printers available on the main floor). Dirac printers are available on the 2nd and 3rd floors (color printers available on 2nd floor). Printers are connected to computer kiosks of the respective floors. Printing requires the use of an FSU card with a positive balance.<\/p>\r\n\r\n<h2>How do I print?<\/h2>\r\n\r\n<iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/6uslebKYMxI\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>\r\n\r\n<p>Print documents selecting either <strong>FSU myPrint B&amp;W<\/strong> or <strong>FSU myPrint Color<\/strong><br \/>\r\n<ol>\r\n\t<li>Enter your FSUID<\/li>\r\n\t<li>Go to any Print Release Station<\/li>\r\n\t<li>Enter your FSUID at the release station Prompt<\/li>\r\n\t<li>Swipe your FSUCard in the card reader next to station<\/li>\r\n\t<li>Select documents(s) to print from the list displayed<\/li>\r\n\t<li>Bottom of the screen displays FSUCash balance &amp; cost of printing (10&cent; for b&amp;w, 25&cent; for color)<\/li>\r\n\t<li>Select print<\/li>\r\n\t<li>Take your printed documents from printer<\/li>\r\n\t<li>Jobs in your queue will be purged from the system after 2 hours<\/li>\r\n<\/ol>\r\n\r\n<h2>Scanning Documents and Book Pages<\/h2>\r\n<p>Several scanners are located on the main floor of Strozier Library and the 2nd floor of Dirac.<\/p>\r\n<h2>Pricing<\/strong><\/h2>\r\n<p>The Office of Business Services determines the <a href=\"https:\/\/obs.fsu.edu\/student-printing#Print101\">current pricing for printing <\/a>.<\/p>\r\n<h2>Reporting Problems<\/h2>\r\n<p>The printers and card readers are neither owned nor operated by FSU Libraries. If the card reader malfunctions, printer fails to print, or takes your credits without printing, please reach out to the Office of Business Services: 850-644-7777 or the <a href=\"https:\/\/obs.fsu.edu\/service-requests\/fsu-myprint-service-request\" target=\"_blank\">Office of Business Services Service Request Form<\/a><\/p>\r\n",
             "format": "full_html",
             "summary": ""
         }

@@ -27,7 +27,7 @@ conditions:
     negate: false
     uuid: 8dff69ba-cf3a-4950-b258-16cc13e721d9
     context_mapping: {  }
-    pages: "/teaching-and-learning/tutoring/question\r\n/teaching-and-learning/instruction-request-form\r\n/teaching-and-learning/course-materials/etextbooks\r\n/teaching-and-learning/course-materials/streaming-media-reserves-form\r\n/teaching-and-learning/course-materials/course-reserves-request-form"
+    pages: "/teaching-and-learning/tutoring/question\r\n/teaching-and-learning/instruction-request-form\r\n/teaching-and-learning/course-materials/etextbooks\r\n/teaching-and-learning/course-materials/streaming-media-reserves-form\r\n/teaching-and-learning/course-materials/course-reserves-request-form\r\n/teaching-and-learning/course-materials/etextbook-access"
 reactions:
   blocks:
     id: blocks

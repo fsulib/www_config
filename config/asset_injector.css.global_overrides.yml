@@ -1,0 +1,25 @@
+uuid: a60e50d8-32ef-4102-9faa-1876a73a2613
+langcode: en
+status: true
+dependencies:
+  module:
+    - context
+id: global_overrides
+label: 'Global Overrides'
+code: |-
+  .dropdown-menu > li > a {
+    white-space: normal;
+  }
+media: all
+preprocess: true
+conditions:
+  context:
+    id: context
+    negate: null
+    values: ''
+  context_all:
+    id: context_all
+    negate: null
+    values: ''
+contexts: {  }
+conditions_require_all: true

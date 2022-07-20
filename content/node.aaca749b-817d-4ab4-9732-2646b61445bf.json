@@ -18,14 +18,14 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-06-24T23:30:17+00:00",
+            "value": "2022-07-20T03:00:04+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "revision_uid": [
         {
             "target_type": "user",
-            "target_uuid": "8ed4b37a-7472-4445-8ce3-7e53973371da"
+            "target_uuid": "38f2fa2a-afce-4b8f-95b4-659d83200a95"
         }
     ],
     "revision_log": [],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-24T23:30:17+00:00",
+            "value": "2022-07-20T03:00:04+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -85,8 +85,8 @@
     ],
     "body": [
         {
-            "value": "<p>Text placeholder<\/p>\r\n",
-            "format": "basic_html",
+            "value": "<div id=\"hua-home-page-gallery\">\r\n\t<div class=\"three-column-table\">\r\n\t\t<div class=\"left-column\" id=\"hua-about\">\r\n\t\t\t<center><a href=\"\/about-university-history-records-collections\">About University<br \/>\r\n\t\t\t\tHistory &amp; Records<br \/>\r\n\t\t\t\tCollections<\/a><\/center>\r\n\t\t<\/div>\r\n\t\t<div class=\"middle-column\" id=\"hua-donating\">\r\n\t\t\t<center><a href=\"\/sca\/donate\">Donating to the<br \/>\r\n\t\t\t\tArchive<\/a><\/center>\r\n\t\t<\/div>\r\n\t\t<div class=\"right-column\" id=\"hua-records-transfers\">\r\n\t\t\t<center><a href=\"\/sca\/heritage-and-university-archives\/university-records\">Records Transfers<\/a><\/center>\r\n\t\t<\/div>\r\n\t<\/div>\r\n\t<div class=\"three-column-table\">\r\n\t\t<div class=\"left-column\" id=\"hua-research-guides\">\r\n\t\t\t<center><a href=\"https:\/\/guides.lib.fsu.edu\/HeritageUniversityArchives\" target=\"_blank\">Research Guides<\/a><\/center>\r\n\t\t<\/div>\r\n\t\t<div class=\"middle-column\" id=\"hua-search-collections\">\r\n\t\t\t<center><a href=\"\/sca\/catalogs-databases\">Search<br \/>\r\n\t\t\t\tCollections<\/a><\/center>\r\n\t\t<\/div>\r\n\t\t<div class=\"right-column\" id=\"hua-diginole\">\r\n\t\t\t<center><a href=\"https:\/\/www.diginole.lib.fsu.edu\/islandora\/object\/fsu:hpmain\" target=\"_blank\">DigiNole<\/a><\/center>\r\n\t\t<\/div>\r\n\t<\/div>\r\n\t<div class=\"three-column-table\">\r\n\t\t<div class=\"left-column\" id=\"hua-norwood\">\r\n\t\t\t<center><a href=\"\/sca\/heritage-and-university-archives\/norwood-reading-room\">Norwood Reading<br \/>\r\n\t\t\t\tRoom<\/a><\/center>\r\n\t\t<\/div>\r\n\t\t<div class=\"middle-column\" id=\"hua-heritage-museum\">\r\n\t\t\t<center><a href=\"\/sca\/heritage-and-university-archives\/heritage-museum\">The Heritage<br \/>\r\n\t\t\t\tMuseum<\/a><\/center>\r\n\t\t<\/div>\r\n\t\t<div class=\"right-column\" id=\"hua-exhibits\">\r\n\t\t\t<center><a href=\"\/sca\/heritage-and-university-archives\/exhibits\">Exhibits<\/a><\/center>\r\n\t\t<\/div>\r\n\t<\/div>\r\n<\/div>\r\n\r\n<div class=\"s3-p-0 text-center s3-mt-8\">\r\n\t<div class=\"col-sm-6\">\r\n\t\t<h4 style=\"text-align:left;\"><a href=\"https:\/\/www.facebook.com\/HeritageArchives\/\" target=\"_blank\">Facebook<\/a><\/h4>\r\n\t\t<h4 style=\"text-align:left;\"><a href=\"https:\/\/fsuspecialcollections.wordpress.com\/tag\/heritage-university-archives\/\" target=\"_blank\">FSU Special Collections &amp; Archives Blog<\/a><\/h4>\r\n\t\t<h4 style=\"text-align:left;\"><a href=\"https:\/\/www.lib.fsu.edu\/covid-19-fsu-community-experience-project\" target=\"_blank\">COVID-19 FSU Community Experience Project<\/a><\/h4>\r\n\t<\/div>\r\n\t<div class=\"col-sm-6\" id=\"heritage-hours-section\">\r\n<div id=\"api_hours_today_iid20_lid5408\"><\/div><script src=\"https:\/\/api3.libcal.com\/api_hours_today.php?iid=20&lid=5408&format=js&context=object\"> <\/script>\r\n<div id=\"api_hours_today_iid20_lid5369\"><\/div><script src=\"https:\/\/api3.libcal.com\/api_hours_today.php?iid=20&lid=5369&format=js&context=object\"> <\/script>\r\n\t\t\t<p style=\"float:right;\"><a href=\"https:\/\/www.lib.fsu.edu\/library-hours\" target=\"_blank\">See All Hours<\/a><\/p>\r\n\t\t<p>&nbsp;<\/p>\r\n\t\t<h3>Contact Us<\/h3>\r\n\t\t<p>For more information about the program, reference requests, donations, records transfers, or the Heritage Museum:<\/span><br \/>\r\n\t\t\t<a href=\"mailto:\">lib-specialcollections@fsu.edu<\/a><\/p>\r\n\t\t<p>&nbsp;<\/p>\r\n\t\t<p>&nbsp;<\/p>\r\n\t<\/div>\r\n<\/div>\r\n",
+            "format": "full_html",
             "summary": ""
         }
     ],
