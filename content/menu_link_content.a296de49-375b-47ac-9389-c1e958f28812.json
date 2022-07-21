@@ -1,0 +1,89 @@
+{
+    "uuid": [
+        {
+            "value": "a296de49-375b-47ac-9389-c1e958f28812"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "value": "menu_link_content"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-07-20T16:37:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "enabled": [
+        {
+            "value": true
+        }
+    ],
+    "title": [
+        {
+            "value": "Illuminations: An FSU Special Collections Blog "
+        }
+    ],
+    "description": [],
+    "menu_name": [
+        {
+            "value": "special-collections"
+        }
+    ],
+    "link": [
+        {
+            "uri": "https:\/\/fsuspecialcollections.wordpress.com\/",
+            "title": "",
+            "options": []
+        }
+    ],
+    "external": [
+        {
+            "value": false
+        }
+    ],
+    "rediscover": [
+        {
+            "value": false
+        }
+    ],
+    "weight": [
+        {
+            "value": 5
+        }
+    ],
+    "expanded": [
+        {
+            "value": false
+        }
+    ],
+    "parent": [
+        {
+            "value": "menu_link_content:1ae780f5-bb3d-4018-a8fc-d15fbc5e6bcf"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-20T16:37:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ]
+}

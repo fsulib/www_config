@@ -1,0 +1,89 @@
+{
+    "uuid": [
+        {
+            "value": "305ab83b-372c-4f91-858d-05c48ec893f0"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "value": "menu_link_content"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-07-20T16:36:28+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "enabled": [
+        {
+            "value": true
+        }
+    ],
+    "title": [
+        {
+            "value": "Donating"
+        }
+    ],
+    "description": [],
+    "menu_name": [
+        {
+            "value": "special-collections"
+        }
+    ],
+    "link": [
+        {
+            "uri": "internal:\/special-collections\/donate",
+            "title": "",
+            "options": []
+        }
+    ],
+    "external": [
+        {
+            "value": false
+        }
+    ],
+    "rediscover": [
+        {
+            "value": true
+        }
+    ],
+    "weight": [
+        {
+            "value": 0
+        }
+    ],
+    "expanded": [
+        {
+            "value": false
+        }
+    ],
+    "parent": [
+        {
+            "value": "menu_link_content:1ae780f5-bb3d-4018-a8fc-d15fbc5e6bcf"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-20T16:36:28+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ]
+}

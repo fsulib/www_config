@@ -1,7 +1,9 @@
 uuid: bf86a25c-b0db-4188-98d6-098d39efdc69
 langcode: en
 status: open
-dependencies: {  }
+dependencies:
+  module:
+    - www_webform_handlers
 weight: 0
 open: null
 close: null
@@ -123,6 +125,15 @@ elements: |-
       reserved: Reserved
       process-ext: Process-Ext
     '#default_value': new
+    '#access_create_roles':
+      - administrator
+      - subject_librarian
+    '#access_update_roles':
+      - administrator
+      - subject_librarian
+    '#access_view_roles':
+      - administrator
+      - subject_librarian
   captcha:
     '#type': captcha
     '#captcha_type': recaptcha/reCAPTCHA
@@ -182,7 +193,13 @@ settings:
   submission_excluded_elements: {  }
   submission_exclude_empty: false
   submission_exclude_empty_checkbox: false
-  submission_views: {  }
+  submission_views:
+    manage-materials-suggestions:
+      title: 'Manage Materials Purchase Suggestions'
+      view: 'materials_purchase_suggestions:embed_manage'
+      webform_routes:
+        - entity.webform.results_submissions
+      node_routes: {  }
   submission_views_replace: {  }
   submission_user_columns: {  }
   submission_user_duplicate: false
@@ -263,16 +280,19 @@ settings:
 access:
   create:
     roles:
-      - anonymous
       - authenticated
     users: {  }
     permissions: {  }
   view_any:
-    roles: {  }
+    roles:
+      - administrator
+      - subject_librarian
     users: {  }
     permissions: {  }
   update_any:
-    roles: {  }
+    roles:
+      - administrator
+      - subject_librarian
     users: {  }
     permissions: {  }
   delete_any:
@@ -284,7 +304,8 @@ access:
     users: {  }
     permissions: {  }
   view_own:
-    roles: {  }
+    roles:
+      - authenticated
     users: {  }
     permissions: {  }
   update_own:
@@ -307,5 +328,42 @@ access:
     roles: {  }
     users: {  }
     permissions: {  }
-handlers: {  }
+handlers:
+  email_liaisons:
+    id: email_liaisons
+    handler_id: email_liaisons
+    label: 'Email Liaisons'
+    notes: ''
+    status: true
+    conditions: {  }
+    weight: 0
+    settings:
+      states:
+        - completed
+      to_mail: _default
+      to_options: {  }
+      cc_mail: ''
+      cc_options: {  }
+      bcc_mail: ''
+      bcc_options: {  }
+      from_mail: _default
+      from_options: {  }
+      from_name: _default
+      subject: _default
+      body: _default
+      excluded_elements: {  }
+      ignore_access: 0
+      exclude_empty: true
+      exclude_empty_checkbox: 0
+      exclude_attachments: false
+      html: true
+      attachments: false
+      twig: false
+      debug: false
+      reply_to: ''
+      return_path: ''
+      sender_mail: ''
+      sender_name: ''
+      theme_name: ''
+      parameters: {  }
 variants: {  }

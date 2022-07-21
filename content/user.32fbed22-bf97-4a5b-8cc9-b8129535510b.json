@@ -31,7 +31,7 @@
     ],
     "mail": [
         {
-            "value": "barsenault@admin.fsu.edu"
+            "value": "barsenault@fsu.edu"
         }
     ],
     "timezone": [
@@ -52,7 +52,7 @@
     ],
     "changed": [
         {
-            "value": "2022-07-12T16:53:24+00:00",
+            "value": "2022-07-20T16:54:48+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -71,6 +71,11 @@
             "target_id": "employee",
             "target_type": "user_role",
             "target_uuid": "92eff045-2f26-4ca9-a3b3-7bde2011e1ab"
+        },
+        {
+            "target_id": "faculty",
+            "target_type": "user_role",
+            "target_uuid": "c54abc61-2c04-4496-a5c5-39afca0c13ae"
         }
     ],
     "default_langcode": [

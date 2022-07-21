@@ -1,0 +1,89 @@
+{
+    "uuid": [
+        {
+            "value": "3bf4e2b4-d9ff-4a48-8413-c6dc3aa7fa45"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "value": "menu_link_content"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-07-20T16:42:36+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "enabled": [
+        {
+            "value": true
+        }
+    ],
+    "title": [
+        {
+            "value": "Claude Pepper Collections"
+        }
+    ],
+    "description": [],
+    "menu_name": [
+        {
+            "value": "special-collections"
+        }
+    ],
+    "link": [
+        {
+            "uri": "internal:\/special-collections\/claude-pepper\/collections",
+            "title": "",
+            "options": []
+        }
+    ],
+    "external": [
+        {
+            "value": false
+        }
+    ],
+    "rediscover": [
+        {
+            "value": true
+        }
+    ],
+    "weight": [
+        {
+            "value": 10
+        }
+    ],
+    "expanded": [
+        {
+            "value": false
+        }
+    ],
+    "parent": [
+        {
+            "value": "menu_link_content:3488b451-783d-4a81-93ef-1d2daaa091ad"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-20T16:42:36+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ]
+}

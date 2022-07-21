@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "985945a7-e751-4679-ae95-a5030c03c382"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "a12db886-d412-46b5-9932-855c32fb27dd"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-20T19:09:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "title": [
+        {
+            "value": "Events Calendar"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-20T18:43:10+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-20T19:09:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [],
+    "path": [
+        {
+            "alias": "\/events",
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https:\/\/calendar.fsu.edu\/strozier_library\/calendar\">View All Events<\/a><\/strong>\r\n\r\n<div id=\"localist-widget-91112043\" class=\"localist-widget\"><\/div><script defer type=\"text\/javascript\"\r\n\r\nsrc=\"https:\/\/calendar.fsu.edu\/widget\/view?schools=fsu&types=89300&days=120&num=20&container=localist-widget-91112043&template=list-modern\"><\/script>\r\n\r\n<!-- feel free to cut out Localist logo -->\r\n\r\n<div id=\"lclst_widget_footer\"><a style=\"margin-left:auto;margin-right:auto;display:block;width:81px;margin-top:10px;\" title=\"Widget powered by Localist Event Calendar Software\" href=\"https:\/\/www.localist.com?utm_source=widget&utm_campaign=widget_footer&utm_medium=branded%20link\"><img src=\"\/\/d3e1o4bcbhmj8g.cloudfront.net\/assets\/platforms\/default\/about\/widget_footer.png\" alt=\"Localist Online Calendar Software\" style=\"vertical-align: middle;\" width=\"81\" height=\"23\"><\/a><\/div>",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_related_menu": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "538f48be-ec3d-4f3a-a2bb-1b33abf56b50"
+        }
+    ]
+}

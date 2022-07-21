@@ -27,7 +27,7 @@ conditions:
     negate: false
     uuid: bba5a788-7671-4c86-b97e-844ecd013b5c
     context_mapping: {  }
-    pages: "/about/employee-directory\r\n/about/contact-us/form\r\n/about/giving-materials-form"
+    pages: "/about/employee-directory\r\n/about/contact-us/form\r\n/about/giving-materials-form\r\n/news"
 reactions:
   blocks:
     id: blocks

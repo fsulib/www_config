@@ -27,7 +27,7 @@ conditions:
     negate: false
     uuid: 9146e91a-9815-43e6-aa91-45863233a6cd
     context_mapping: {  }
-    pages: /teaching-and-learning/open-access-fund-form
+    pages: "/teaching-and-learning/publishing/open-access-fund-form\r\n/research-and-publish/open-educational-resources/alternative-textbook-grant-form"
 reactions:
   blocks:
     id: blocks

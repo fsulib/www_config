@@ -1,0 +1,89 @@
+{
+    "uuid": [
+        {
+            "value": "571308db-9434-4382-894f-3e0db96314d4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "value": "menu_link_content"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-07-20T16:30:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "enabled": [
+        {
+            "value": true
+        }
+    ],
+    "title": [
+        {
+            "value": "Class Visits"
+        }
+    ],
+    "description": [],
+    "menu_name": [
+        {
+            "value": "special-collections"
+        }
+    ],
+    "link": [
+        {
+            "uri": "internal:\/special-collections\/visit\/class-visits",
+            "title": "",
+            "options": []
+        }
+    ],
+    "external": [
+        {
+            "value": false
+        }
+    ],
+    "rediscover": [
+        {
+            "value": true
+        }
+    ],
+    "weight": [
+        {
+            "value": 15
+        }
+    ],
+    "expanded": [
+        {
+            "value": false
+        }
+    ],
+    "parent": [
+        {
+            "value": "menu_link_content:e67ef4eb-19e9-429b-b3f9-d8a8510315c2"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-20T16:30:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ]
+}

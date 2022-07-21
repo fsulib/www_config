@@ -1,0 +1,89 @@
+{
+    "uuid": [
+        {
+            "value": "c05d0c38-4c72-499e-960c-8c63540cfa14"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "value": "menu_link_content"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-07-20T13:47:35+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "enabled": [
+        {
+            "value": true
+        }
+    ],
+    "title": [
+        {
+            "value": "Collection Highlights"
+        }
+    ],
+    "description": [],
+    "menu_name": [
+        {
+            "value": "special-collections"
+        }
+    ],
+    "link": [
+        {
+            "uri": "internal:\/special-collections\/collections\/collection-highlights",
+            "title": "",
+            "options": []
+        }
+    ],
+    "external": [
+        {
+            "value": false
+        }
+    ],
+    "rediscover": [
+        {
+            "value": true
+        }
+    ],
+    "weight": [
+        {
+            "value": -50
+        }
+    ],
+    "expanded": [
+        {
+            "value": false
+        }
+    ],
+    "parent": [
+        {
+            "value": "menu_link_content:fbd552ae-09b1-4de2-b222-cbf315666f88"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-20T13:49:50+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ]
+}

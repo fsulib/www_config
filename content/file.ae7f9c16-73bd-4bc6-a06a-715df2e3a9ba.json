@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "ae7f9c16-73bd-4bc6-a06a-715df2e3a9ba"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60817c7c-5c8d-4902-87c5-14769333853d"
+        }
+    ],
+    "filename": [
+        {
+            "value": "test.docx"
+        }
+    ],
+    "uri": [
+        {
+            "value": "private:\/\/webform\/alternative_textbook_grant_appli\/6\/test.docx"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 11713
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-20T19:08:50+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-20T19:08:52+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

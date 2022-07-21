@@ -12,7 +12,136 @@ id: alternative_textbook_grant_appli
 title: 'Alternative Textbook Grant Application Form'
 description: ''
 category: ''
-elements: null
+elements: |-
+  processed_text:
+    '#type': processed_text
+    '#text': '<p>Please submit your application using this online form. Applications will be reviewed on a rolling basis after application deadlines have passed. You can find application deadlines by visiting <a href="/research-and-publish/open-education-resources/alternative-textbook-grants">Alternative Textbook Grants</a>. If you have questions about the application form or the Alternative Textbook grant program, or would like assistance with identifying existing open textbooks and educational resources, please contact us. To view an example of a completed application form as a guide, see <a href="sites/default/files/webform/alt-textbook-grant-application-exemplar.pdf">here</a>.</p>'
+    '#format': full_html
+  last_name:
+    '#type': textfield
+    '#title': 'Last Name'
+    '#required': true
+    '#default_value': '[current-user:field_last_name]'
+  first_name:
+    '#type': textfield
+    '#title': 'First Name'
+    '#required': true
+    '#default_value': '[current-user:field_first_name]'
+  email_address:
+    '#type': textfield
+    '#title': 'Email Address'
+    '#required': true
+    '#default_value': '[current-user:mail]'
+  title_rank:
+    '#type': textfield
+    '#title': Title/Rank
+    '#required': true
+  fsu_department:
+    '#type': webform_entity_select
+    '#title': 'FSU Department'
+    '#target_type': taxonomy_term
+    '#selection_handler': 'default:taxonomy_term'
+    '#selection_settings':
+      target_bundles:
+        fsu_departments: fsu_departments
+    '#required': true
+  other_department:
+    '#type': textfield
+    '#title': 'Other Department'
+    '#states':
+      visible:
+        ':input[name="fsu_department"]':
+          value: '21'
+    '#required': true
+  course_number:
+    '#type': textfield
+    '#title': 'Course Number'
+    '#required': true
+  course_title:
+    '#type': textfield
+    '#title': 'Course Title'
+    '#required': true
+  number_of_sections:
+    '#type': textfield
+    '#title': 'Number of Sections'
+    '#required': true
+  is_this_a_new_course_:
+    '#type': select
+    '#title': 'Is this a new course?'
+    '#options': yes_no
+    '#required': true
+  course_offered:
+    '#type': webform_custom_composite
+    '#title': 'When will this course be offered?'
+    '#element':
+      semester:
+        '#type': select
+        '#options':
+          spring: Spring
+          summer: Summer
+          fall: Fall
+        '#title': Semester
+      year:
+        '#type': select
+        '#options':
+          2022: 2022
+          2023: 2023
+          2024: 2024
+          2025: 2025
+          2026: 2026
+        '#title': Year
+    '#required': true
+  maximum_enrollment:
+    '#type': textfield
+    '#title': 'Maximum enrollment'
+    '#description': '<div class="description">Maximum student enrollment across your sections of the course by the end of current academic year.</div>'
+    '#required': true
+  expected_enrollment:
+    '#type': textfield
+    '#title': 'Expected enrollment'
+    '#description': 'Maximum student enrollment across your sections of the course by the end of current academic year.'
+    '#required': true
+  title_isbn_and_cost_of_current_textbook_used:
+    '#type': textarea
+    '#title': 'Title, ISBN and cost of current textbook used'
+    '#description': '<div class="description">If this is a new course, provide the title of the textbook you would have used, if you were not going to use an open text.</div>'
+    '#required': true
+  list_materials_you_are_considering_as_alternatives_to_your_exist:
+    '#type': textfield
+    '#title': 'List materials you are considering as alternatives to your existing textbook'
+    '#description': 'Please include OER, editing OER, and library resources. If you have not yet selected alternatives, please let us know and we can provide you with resources to help with the selection process.'
+    '#required': true
+  how_will_students_access_the_alternative_content_:
+    '#type': textarea
+    '#title': 'How will students access the alternative content?'
+    '#required': true
+  how_will_you_assess_impact_on_student_learning_and_textbook_affo:
+    '#type': textarea
+    '#title': 'How will you assess impact on student learning and textbook affordability?'
+    '#description': '<div class="description">Please include estimate of total $ saved per student.</div>'
+    '#required': true
+  letter_of_support:
+    '#type': webform_document_file
+    '#title': 'Letter of support'
+    '#file_placeholder': 'Letter of support must be from your department chair and/or college or school dean. The letter need only indicate support for your application and confirm that replacing your current textbook would not contravene any existing departmental or college policies.'
+    '#required': true
+  would_you_be_interested_in_participating_in_a_course_refinement_:
+    '#type': select
+    '#title': 'Would you be interested in participating in a course refinement consultation for this course? '
+    '#description': '<div class="description">Consultations provided by instructional design experts at the Center for the Advancement of Teaching.</div>'
+    '#options': yes_no
+  what_are_your_greatest_concerns_about_adopting_an_alternative_te:
+    '#type': textarea
+    '#title': 'What are your greatest concerns about adopting an alternative textbook solution (for yourself and/or your students)? '
+  _how_do_you_anticipate_using_university_library_resources_for_yo:
+    '#type': textarea
+    '#title': ' How do you anticipate using University Library resources for your project? '
+  how_did_you_hear_about_this_initiative_:
+    '#type': textarea
+    '#title': 'How did you hear about this initiative? '
+  captcha:
+    '#type': captcha
+    '#captcha_type': recaptcha/reCAPTCHA
 css: ''
 javascript: ''
 settings:
@@ -22,7 +151,7 @@ settings:
   ajax_effect: ''
   ajax_speed: null
   page: true
-  page_submit_path: ''
+  page_submit_path: /research-and-publish/open-educational-resources/alternative-textbook-grant-form
   page_confirm_path: ''
   page_theme_name: ''
   form_title: both
@@ -115,10 +244,10 @@ settings:
   draft_loaded_message: ''
   draft_pending_single_message: ''
   draft_pending_multiple_message: ''
-  confirmation_type: page
+  confirmation_type: inline
   confirmation_url: ''
   confirmation_title: ''
-  confirmation_message: ''
+  confirmation_message: '<p>Thank you for your Alternative Textbook Grant application. Your application has been received and will be reviewed by FSU Libraries&rsquo; Alternative Textbook team following the application deadline on February 16th, 2018. You will receive a decision regarding your application no later than Friday, March 2nd. If you have any questions or concerns about the application process, please contact Devin Soper, Scholarly Communication Librarian, at <strong><a href="mailto:dsoper@fsu.edu">dsoper@fsu.edu</a></strong> or 850-645-2600.</p>'
   confirmation_attributes: {  }
   confirmation_back: true
   confirmation_back_label: ''
@@ -194,5 +323,42 @@ access:
     roles: {  }
     users: {  }
     permissions: {  }
-handlers: {  }
+handlers:
+  email:
+    id: email
+    handler_id: email
+    label: Email
+    notes: ''
+    status: true
+    conditions: {  }
+    weight: 0
+    settings:
+      states:
+        - completed
+      to_mail: 'dsoper@fsu.edu, bjbrown@fsu.edu, lwharton@fsu.edu, cthomas5@fsu.edu'
+      to_options: {  }
+      bcc_mail: ''
+      bcc_options: {  }
+      cc_mail: ''
+      cc_options: {  }
+      from_mail: _default
+      from_options: {  }
+      from_name: ''
+      reply_to: ''
+      return_path: ''
+      sender_mail: ''
+      sender_name: ''
+      subject: _default
+      body: _default
+      excluded_elements: {  }
+      ignore_access: false
+      exclude_empty: true
+      exclude_empty_checkbox: false
+      exclude_attachments: false
+      html: true
+      attachments: false
+      twig: false
+      theme_name: ''
+      parameters: {  }
+      debug: false
 variants: {  }

@@ -7,7 +7,7 @@ dependencies:
     - system
 id: special_collections_main_page
 label: 'Special Collections Main Page'
-code: |
+code: |-
   .special-collections-hours{
   float: right;
   }
@@ -150,6 +150,101 @@ code: |
   div#hua-home-page-gallery div#hua-contact:hover {
     background-image: url("https://www.lib.fsu.edu/sites/default/files/upload/hua/c-contact.png");
     background-repeat: no-repeat;
+  }
+
+  /* Three-column styles for the HUA page */
+
+  /* mobile styles */
+  @media only screen and (max-width: 739px) {
+    div#hua-home-page-gallery {
+    float: left;
+  }
+    
+    div.three-column-table div.left-column {
+      margin: 0 0 1% 0;
+      font-size: 110%;
+      width: 100%;
+    }
+    
+    div.three-column-table div.middle-column {
+      margin: 0 0 1% 0;
+      font-size: 110%;
+      width: 100%;
+    }
+    
+    div.three-column-table div.right-column {
+      margin: 0 0 1% 0;
+      font-size: 110%;
+      width: 100%;
+    }
+  }
+
+  /* narrow styles */
+  @media only screen and (min-width: 740px) and (max-width: 979px) {
+    div.three-column-table div.left-column {
+      margin: 0 1% 1% 0;
+      font-size: 110%;
+    }
+    
+    div.three-column-table div.middle-column {
+      margin: 0 1% 1% 0;
+      font-size: 110%;
+    }
+    
+    div.three-column-table div.right-column {
+      margin: 0 1% 1% 0;
+      font-size: 110%;
+    }
+  }  
+
+  /* normal styles */
+  @media only screen and (min-width: 980px) and (max-width: 1199px) {
+    div.three-column-table {
+      width: 100%;
+      display: block;
+      overflow: auto;
+      margin-bottom: 30px;
+    }
+    
+    div.three-column-table div.left-column {
+      margin: 0 1% 1% 0;
+      font-size: 110%;
+    }
+    
+    div.three-column-table div.middle-column {
+      margin: 0 1% 1% 0;
+      font-size: 110%;
+    }
+    
+    div.three-column-table div.right-column {
+      margin: 0 0% 1% 0;
+      font-size: 110%;
+    }
+  }
+
+  /* wide styles */
+  @media only screen and (min-width: 1200px) {
+    div.three-column-table {
+      width: 100%;
+      display: block;
+      overflow: auto;
+      margin-bottom: 30px;
+    }
+    
+    div.three-column-table div.left-column {
+      margin: 0 13% 1% 0;
+      font-size: 120%;
+    }
+    
+    div.three-column-table div.middle-column {
+      margin: 0 13% 1% 0;
+      font-size: 120%;
+    }
+    
+    div.three-column-table div.right-column {
+      margin: 0 0% 1% 0;
+      font-size: 120%;
+    }
   }
 media: all
 preprocess: true

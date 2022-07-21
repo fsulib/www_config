@@ -13,15 +13,11 @@ title: 'Book Search'
 description: 'Form to have staff find a book'
 category: ''
 elements: |-
-  your_name:
-    '#type': textfield
-    '#title': 'Your Name'
-    '#required': true
   last_name:
     '#type': textfield
     '#title': 'Last Name'
-    '#default_value': '[current-user:field_last_name]'
     '#required': true
+    '#default_value': '[current-user:field_last_name]'
   first_name:
     '#type': textfield
     '#title': 'First Name'
@@ -180,10 +176,10 @@ settings:
   draft_loaded_message: ''
   draft_pending_single_message: ''
   draft_pending_multiple_message: ''
-  confirmation_type: page
+  confirmation_type: inline
   confirmation_url: ''
   confirmation_title: ''
-  confirmation_message: ''
+  confirmation_message: "<p>Thank you for filling out the Book Search Request Form.</p>\r\n\r\n<p>If you have any questions please email <a href=\"mailto:lib-recalls@fsu.edu&\">lib-recalls@fsu.edu</a><p>"
   confirmation_attributes: {  }
   confirmation_back: true
   confirmation_back_label: ''

@@ -206,10 +206,10 @@ settings:
   draft_loaded_message: ''
   draft_pending_single_message: ''
   draft_pending_multiple_message: ''
-  confirmation_type: page
+  confirmation_type: inline
   confirmation_url: ''
   confirmation_title: ''
-  confirmation_message: ''
+  confirmation_message: "Thank you for completing the [webform:title] form.<br />\r\n<br />\r\nFor questions please call fines management at 850-645-8822 or you can email us at <a href=\"http://lib-recalls@fsu.edu\">lib-recalls@fsu.edu</a>."
   confirmation_attributes: {  }
   confirmation_back: true
   confirmation_back_label: ''
