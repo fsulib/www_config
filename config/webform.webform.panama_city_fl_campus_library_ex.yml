@@ -83,7 +83,7 @@ settings:
   ajax_effect: ''
   ajax_speed: null
   page: true
-  page_submit_path: /find-and-borrow/leds-panama-request-form
+  page_submit_path: /find-and-borrow/library-express-delivery/panama-request-form
   page_confirm_path: ''
   page_theme_name: ''
   form_title: both
@@ -310,7 +310,7 @@ handlers:
       bcc_options: {  }
       cc_mail: ''
       cc_options: {  }
-      from_mail: _default
+      from_mail: do-not-reply@lib.fsu.edu
       from_options: {  }
       from_name: _default
       reply_to: ''

@@ -55,6 +55,7 @@ elements: |-
   preferred_date_and_time:
     '#type': datetime
     '#title': 'Preferred Date and Time'
+    '#required': true
     '#date_days':
       - '1'
       - '2'
@@ -62,11 +63,13 @@ elements: |-
       - '4'
       - '5'
     '#date_date_format': ''
+    '#date_year_range': '2022:2050'
+    '#date_time_element': text
     '#date_time_format': ''
-    '#required': true
   please_select_a_secondary_date_if_we_are_unable_to_accommodate_t:
     '#type': datetime
     '#title': 'Please select a secondary date if we are unable to accommodate the request for your preferred date and time'
+    '#required': true
     '#date_days':
       - '1'
       - '2'
@@ -74,8 +77,9 @@ elements: |-
       - '4'
       - '5'
     '#date_date_format': ''
+    '#date_year_range': '2022:2050'
+    '#date_time_element': text
     '#date_time_format': ''
-    '#required': true
   upload_course_syllabus_or_assignment_description:
     '#type': webform_document_file
     '#title': 'Upload Course Syllabus or Assignment Description'

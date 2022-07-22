@@ -236,13 +236,13 @@ handlers:
     settings:
       states:
         - completed
-      to_mail: _default
+      to_mail: lib-borrowing@fsu.edu
       to_options: {  }
       bcc_mail: ''
       bcc_options: {  }
       cc_mail: ''
       cc_options: {  }
-      from_mail: lib-borrowing@fsu.edu
+      from_mail: _default
       from_options: {  }
       from_name: _default
       reply_to: ''
@@ -273,13 +273,13 @@ handlers:
     settings:
       states:
         - completed
-      to_mail: _default
+      to_mail: jsnowden@fsu.edu
       to_options: {  }
       bcc_mail: ''
       bcc_options: {  }
       cc_mail: ''
       cc_options: {  }
-      from_mail: jsnowden@fsu.edu
+      from_mail: _default
       from_options: {  }
       from_name: _default
       reply_to: ''

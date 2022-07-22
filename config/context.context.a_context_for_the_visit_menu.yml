@@ -27,7 +27,7 @@ conditions:
     negate: false
     uuid: d7bd5d34-c851-467d-83e7-6c82ddab239b
     context_mapping: {  }
-    pages: "/visit/rooms\r\n/visit/equipment-search\r\n/visit/rooms/bradley-room-access-form"
+    pages: "/visit/rooms\r\n/visit/equipment-search\r\n/visit/rooms/bradley-room-access-form\r\n/visit/rooms/faculty-indivdual-space-form"
 reactions:
   blocks:
     id: blocks

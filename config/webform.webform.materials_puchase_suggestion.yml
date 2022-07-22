@@ -11,7 +11,7 @@ uid: 1
 template: false
 archive: false
 id: materials_puchase_suggestion
-title: 'Materials Puchase Suggestion'
+title: 'Materials Purchase Suggestion'
 description: 'For suggesting materials to purchase'
 category: ''
 elements: |-
@@ -146,7 +146,7 @@ settings:
   ajax_effect: ''
   ajax_speed: null
   page: true
-  page_submit_path: ''
+  page_submit_path: /find-and-borrow/materials/materials-purchase-request-form
   page_confirm_path: ''
   page_theme_name: ''
   form_title: both

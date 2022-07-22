@@ -1,122 +1,85 @@
-uuid: b2fbf920-12b9-49ec-bd98-46458d9f3b54
+uuid: e4208aa9-e60d-48e9-9587-780c74389468
 langcode: en
 status: open
 dependencies: {  }
 weight: 0
 open: null
 close: null
-uid: 1
+uid: 4
 template: false
 archive: false
-id: open_access_fund_proposal
-title: 'Open Access Fund Proposal'
-description: ''
+id: westminster_oaks_delivery
+title: 'Westminster Oaks Delivery'
+description: 'A form for LEDs delivery to Wesminster Oaks'
 category: ''
 elements: |-
   markup:
     '#type': webform_markup
-    '#markup': |-
-      <div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
-      <div class="field-items">
-      <div class="field-item even">
-      <p>Please submit your application for funding using this online form. Before submitting, please also review the eligibility requirements listed on the <a href="/research-and-publish/publishing/open-access-funding">Open Access Publishing Fund</a> webpage.</p>
-
-      <p>Upon submission, FSU Libraries staff will review your application and contact you with a decision within three business days. If you have any questions about this proposal form or the OA Publishing Fund, more generally, please contact Camille Thomas, Scholarly Communication Librarian, at <strong><a href="mailto:cthomas5@fsu.edu">cthomas5@fsu.edu</a></strong> or (850) 645-2163.</p>
-      </div>
-      </div>
-      </div>
-  journal_or_book_title:
-    '#type': textfield
-    '#title': 'Journal or Book Title'
-    '#required': true
-  article_title_if_applicable_:
-    '#type': textfield
-    '#title': 'Article Title (if applicable) '
+    '#markup': 'Westminster Oaks residents are welcomed to use this form to request FSU University Libraries materials to be delivered to the main office at Westminster Oaks. Items may be returned at the Westminster Oaks main office or ar any university library. Deliveries are made Monday afternoons. For questions please contact Library Express Delivery Service at <a href="mailto:Lib-Delivery@fsu.edu">Lib-Delivery@fsu.edu</a>'
   last_name:
     '#type': textfield
     '#title': 'Last Name'
-    '#default_value': '[current-user:field_last_name]'
     '#required': true
+    '#default_value': '[current-user:field_last_name]'
   first_name:
     '#type': textfield
     '#title': 'First Name'
-    '#default_value': '[current-user:field_first_name]'
     '#required': true
-  your_phone_number:
-    '#type': tel
-    '#title': 'Phone Number'
+    '#default_value': '[current-user:field_first_name]'
+  library_card_number:
+    '#type': textfield
+    '#title': 'Library Card Number'
+    '#default_value': '206'
     '#required': true
   email_address:
     '#type': textfield
-    '#title': 'Email address'
+    '#title': 'Email Address'
+    '#required': true
     '#default_value': '[current-user:mail]'
-  your_fsu_status:
+  phone_number:
+    '#type': textfield
+    '#title': 'Phone Number'
+  fsu_libraries_policy_acceptance_i_authorize_the_fsu_libraries_to:
+    '#type': radios
+    '#title': 'FSU Libraries Policy Acceptance: '
+    '#options':
+      'I authorize the FSU Libraries to check out books and other materials I request through this service to my FSU Library account. I am responsible for returning the materials in the appropriate time.': 'I authorize the FSU Libraries to check out books and other materials I request through this service to my FSU Library account. I am responsible for returning the materials in the appropriate time.'
+    '#required': true
+  book_article_or_media_:
     '#type': select
-    '#title': 'FSU Status'
+    '#title': 'Book, article, or media?'
     '#options':
-      Faculty: Faculty
-      Staff: Staff
-      Post-Doc: Post-Doc
-      Graduate: Graduate
-      Undergraduate: Undergraduate
-    '#required': true
-  department:
-    '#type': webform_entity_select
-    '#title': 'FSU Department'
-    '#target_type': taxonomy_term
-    '#selection_handler': 'default:taxonomy_term'
-    '#selection_settings':
-      target_bundles:
-        fsu_departments: fsu_departments
-    '#required': true
-  other_department:
+      Book: Book
+      Media: 'Media (Audio, Video, CD, etc)'
+      Article: Article
+  title:
     '#type': textfield
-    '#title': 'Other Department'
-    '#states':
-      visible:
-        ':input[name="department"]':
-          value: '21'
-    '#required': true
-  markup_01:
-    '#type': webform_markup
-    '#markup': 'If you selected <em>Other</em>, please specify the name of your college, department, or unit in the <strong>Notes</strong> field.'
-  co_authors:
+    '#title': Title
+  author:
     '#type': textfield
-    '#title': Co-authors
-  publisher:
+    '#title': Author
+  journal_title:
     '#type': textfield
-    '#title': Publisher
-    '#required': true
-  publisher_fees:
+    '#title': 'Journal Title'
+  year_edition_and_or_volume:
     '#type': textfield
-    '#title': 'Publication Fees'
-    '#required': true
-  publisher_payment_deadline:
-    '#type': date
-    '#title': 'Publisher Payment Deadline'
-    '#date_date_format': ''
-  has_your_manuscript_been_accepted_for_publication_:
-    '#type': radios
-    '#title': 'Has your manuscript been accepted for publication?'
-    '#options':
-      'Yes': 'Yes'
-      'No': 'No'
-    '#required': true
-  is_your_manuscript_based_on_grant_funded_research_:
-    '#type': radios
-    '#title': 'Is your manuscript based on grant-funded research?'
-    '#description': 'If you select <em>Yes</em> please list the name of the granting agency or foundation in the <strong>Notes</strong> field, below'
-    '#description_display': before
-    '#options':
-      'Yes': 'Yes'
-      'No': 'No'
-    '#required': true
-  other:
+    '#title': 'Year, edition, and/or volume'
+  call_number:
+    '#type': textfield
+    '#title': 'Call Number'
+  notes_or_comments:
     '#type': textarea
-    '#title': Notes
+    '#title': 'Notes or comments'
   captcha:
     '#type': captcha
     '#captcha_type': recaptcha/reCAPTCHA
+  markup_01:
+    '#type': webform_markup
+    '#states':
+      visible:
+        ':input[name="fsu_libraries_policy_acceptance_i_authorize_the_fsu_libraries_to"]':
+          value: 'No'
+    '#markup': 'You must accept the FSU Library policy in order to compete this request.'
 css: ''
 javascript: ''
 settings:
@@ -126,7 +89,7 @@ settings:
   ajax_effect: ''
   ajax_speed: null
   page: true
-  page_submit_path: /teaching-and-learning/publishing/open-access-fund-form
+  page_submit_path: /find-and-borrow/library-express-delivery/wesminster-oaks-delivery-form
   page_confirm_path: ''
   page_theme_name: ''
   form_title: both
@@ -298,79 +261,5 @@ access:
     roles: {  }
     users: {  }
     permissions: {  }
-handlers:
-  email:
-    id: email
-    handler_id: email
-    label: Email
-    notes: ''
-    status: true
-    conditions: {  }
-    weight: 0
-    settings:
-      states:
-        - completed
-      to_mail: 'dsoper@fsu.edu,rsmart@fsu.edu,lm14@my.fsu.edu,cthomas5@fsu.edu'
-      to_options: {  }
-      bcc_mail: ''
-      bcc_options: {  }
-      cc_mail: ''
-      cc_options: {  }
-      from_mail: _default
-      from_options: {  }
-      from_name: _default
-      reply_to: ''
-      return_path: ''
-      sender_mail: ''
-      sender_name: ''
-      subject: _default
-      body: _default
-      excluded_elements: {  }
-      ignore_access: false
-      exclude_empty: true
-      exclude_empty_checkbox: false
-      exclude_attachments: false
-      html: true
-      attachments: false
-      twig: false
-      theme_name: ''
-      parameters: {  }
-      debug: false
-  email_1:
-    id: email
-    handler_id: email_1
-    label: Email
-    notes: ''
-    status: true
-    conditions: {  }
-    weight: 0
-    settings:
-      states:
-        - completed
-      to_mail: '[webform_submission:values:email_address:raw]'
-      to_options: {  }
-      bcc_mail: ''
-      bcc_options: {  }
-      cc_mail: ''
-      cc_options: {  }
-      from_mail: do-not-reply@lib.fsu.edu
-      from_options: {  }
-      from_name: _default
-      reply_to: ''
-      return_path: ''
-      sender_mail: ''
-      sender_name: ''
-      subject: _default
-      body: _default
-      excluded_elements: {  }
-      ignore_access: false
-      exclude_empty: true
-      exclude_empty_checkbox: false
-      exclude_attachments: false
-      html: true
-      attachments: false
-      twig: false
-      theme_name: ''
-      parameters: {  }
-      debug: false
+handlers: {  }
 variants: {  }

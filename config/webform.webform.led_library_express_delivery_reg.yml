@@ -94,7 +94,7 @@ settings:
   ajax_effect: ''
   ajax_speed: null
   page: true
-  page_submit_path: /find-and-borrow/leds-registration-form
+  page_submit_path: /find-and-borrow/library-express-delivery/registration-form
   page_confirm_path: ''
   page_theme_name: ''
   form_title: both

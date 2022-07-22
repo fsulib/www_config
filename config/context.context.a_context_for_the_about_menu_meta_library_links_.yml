@@ -27,7 +27,7 @@ conditions:
     negate: false
     uuid: 564fe294-6d26-4a99-b82a-3b910749c1d6
     context_mapping: {  }
-    pages: "/about/organization/strategic-initiatives/current-initiatives\r\n"
+    pages: "/about/organization/strategic-initiatives/current-initiatives\r\n/about/request-library-data-form\r\n"
 reactions:
   blocks:
     id: blocks

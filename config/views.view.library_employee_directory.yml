@@ -832,7 +832,7 @@ display:
     id: block_1
     display_title: 'Panama City, Panama'
     display_plugin: block
-    position: 1
+    position: 3
     display_options:
       title: 'Panama City, Panama'
       fields:
@@ -1853,7 +1853,7 @@ display:
     id: block_2
     display_title: 'Tutoring Directory Block'
     display_plugin: block
-    position: 1
+    position: 4
     display_options:
       title: 'Tutoring Directory'
       fields:
@@ -2875,7 +2875,7 @@ display:
     id: embed_1
     display_title: Embed
     display_plugin: embed
-    position: 1
+    position: 5
     display_options:
       title: 'Panama City, Panama'
       fields:
@@ -3857,20 +3857,7 @@ display:
         footer: false
       css_class: library-employee-directory
       display_description: ''
-      header:
-        area:
-          id: area
-          table: views
-          field: area
-          relationship: none
-          group_type: group
-          admin_label: ''
-          plugin_id: text
-          empty: false
-          content:
-            value: "<h2 class=\"no-bottom-margin\"><a class=\"no-underline\" id=\"contact\">Contact</a></h2><a class=\"to-top-link\" href=\"#top\">Back to top</a>\r\n"
-            format: full_html
-          tokenize: false
+      header: {  }
       footer: {  }
       exposed_block: false
       display_extenders: {  }
@@ -6027,7 +6014,7 @@ display:
           plugin_id: text
           empty: false
           content:
-            value: "<p>FSU Libraries offers a professional subject librarian to each department, school, and program who provides tailored instruction, research assistance, and collection building. Search below for YOUR subject librarian.</p>\r\n<p>Under the photo of the Subject Specialist is a link to request a consultation with that librarian. If you are not sure what librarian to choose <a href=\"/help/consultation-request-form\">use this form</a> and we'll help choose the best librarian for your needs.\r\n<p>What can your subject librarian do for you?</p>\r\n<p>\r\n<ul>\r\n<li>Serve as your first point of contact for information about library resources and services</li>\r\n<li> Select and <a href=\"/form/materials-puchase-suggestion\">purchase materials</a> to support your research and current course curricula</li>\r\n<li>Collaborate with you to design and facilitate <a href=\"/teaching-and-learning/instruction-request-form\">instruction sessions or workshops</a> to introduce learners to the major research methods and tools used in specific disciplines</li>\r\n<li>Provide <a href=\"/help/consultation-request-form\">research support</a> and help navigating the Libraries’ resources and find relevant information</li>\r\n<li>Create <a href=\"https://guides.lib.fsu.edu/?b=s\">course guides</a> or comprehensive subject guides for your students</li>\r\n<li>Provide support and <a href=\"/help/consultation-request-form\">consultation</a> in areas such as citation management, plagiarism, and copyright</li>\r\n<li>Provide support and <a href=\"/help/consultation-request-form\">consultation</a> in data discovery, analysis, and management</li>\r\n<li> Work with you to find Open Educational Resources for your instruction and for your students</li>\r\n</ul>\r\n</p>\r\n<hr>"
+            value: "<p>FSU Libraries offers a professional subject librarian to each department, school, and program who provides tailored instruction, research assistance, and collection building. Search below for YOUR subject librarian.</p>\r\n<p>Under the photo of the Subject Specialist is a link to request a consultation with that librarian. If you are not sure what librarian to choose <a href=\"/help/consultation-request-form\">use this form</a> and we'll help choose the best librarian for your needs.\r\n<p>What can your subject librarian do for you?</p>\r\n<p>\r\n<ul>\r\n<li>Serve as your first point of contact for information about library resources and services</li>\r\n<li> Select and <a href=\"/find-and-borrow/materials/materials-purchase-request-form\">purchase materials</a> to support your research and current course curricula</li>\r\n<li>Collaborate with you to design and facilitate <a href=\"/teaching-and-learning/instruction-request-form\">instruction sessions or workshops</a> to introduce learners to the major research methods and tools used in specific disciplines</li>\r\n<li>Provide <a href=\"/help/consultation-request-form\">research support</a> and help navigating the Libraries’ resources and find relevant information</li>\r\n<li>Create <a href=\"https://guides.lib.fsu.edu/?b=s\">course guides</a> or comprehensive subject guides for your students</li>\r\n<li>Provide support and <a href=\"/help/consultation-request-form\">consultation</a> in areas such as citation management, plagiarism, and copyright</li>\r\n<li>Provide support and <a href=\"/help/consultation-request-form\">consultation</a> in data discovery, analysis, and management</li>\r\n<li> Work with you to find Open Educational Resources for your instruction and for your students</li>\r\n</ul>\r\n</p>\r\n<hr>"
             format: full_html
           tokenize: false
       display_extenders: {  }

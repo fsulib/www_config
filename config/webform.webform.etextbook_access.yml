@@ -16,7 +16,7 @@ elements: |-
   processed_text:
     '#type': processed_text
     '#text': |
-      <p><em>Please use this form to submit comments, questions, or problems related to the <a href="/etextbook">eTextbook pages and search</a></em></p>
+      <p><em>Please use this form to submit comments, questions, or problems related to the <a href="/teaching-and-learning/course-materials/etextbooks">eTextbook pages and search</a></em></p>
     '#format': basic_html
   last_name:
     '#type': textfield

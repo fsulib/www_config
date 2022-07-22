@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "e4e43616-e2f2-4e44-9184-4e5884dc34f1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "155c5c67-0996-42a2-818d-226633f0b1cf"
+        }
+    ],
+    "filename": [
+        {
+            "value": "test.docx"
+        }
+    ],
+    "uri": [
+        {
+            "value": "private:\/\/webform\/instruction_request\/21\/test.docx"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 11713
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-21T19:18:35+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-21T19:19:10+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

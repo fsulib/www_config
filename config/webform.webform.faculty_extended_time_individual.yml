@@ -164,10 +164,10 @@ settings:
   draft_loaded_message: ''
   draft_pending_single_message: ''
   draft_pending_multiple_message: ''
-  confirmation_type: page
+  confirmation_type: inline
   confirmation_url: ''
   confirmation_title: ''
-  confirmation_message: ''
+  confirmation_message: 'Thank you for applying for a Faculty Extended Time Individual Study Room. Please email <a href="mailto:lib-coursereserves@fsu.edu">lib-coursereserves@fsu.edu</a> if you have any questions.'
   confirmation_attributes: {  }
   confirmation_back: true
   confirmation_back_label: ''
